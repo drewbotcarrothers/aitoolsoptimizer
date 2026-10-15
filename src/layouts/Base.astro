@@ -14,7 +14,13 @@ const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'E
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
-  <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+  <link rel="icon" href={url('/favicon.ico')} sizes="any" />
+  <link rel="icon" href={url('/favicon-32.png')} type="image/png" sizes="32x32" />
+  <link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:description" content={description} />
+  <meta property="og:image" content={new URL(url('/og-image.png'), Astro.site).href} />
+  <meta name="twitter:card" content="summary" />
   <meta name="theme-color" content="#070A13" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -23,7 +29,7 @@ const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'E
 <body>
   <header class="site-header">
     <div class="container bar">
-      <a href={url('/')} class="logo"><span class="mark">◆</span> AI Tools <span class="grad">Optimizer</span></a>
+      <a href={url('/')} class="logo"><img class="mark" src={url('/logo-mark.png')} alt="" width="32" height="32" /> AI Tools <span class="grad">Optimizer</span></a>
       <nav>{nav.map(([href, label]) => <a href={url(href)}>{label}</a>)}</nav>
     </div>
   </header>
@@ -32,7 +38,7 @@ const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'E
   <footer class="site-footer">
     <div class="container foot">
       <div>
-        <a href={url('/')} class="logo"><span class="mark">◆</span> AI Tools <span class="grad">Optimizer</span></a>
+        <a href={url('/')} class="logo"><img class="mark" src={url('/logo-mark.png')} alt="" width="32" height="32" /> AI Tools <span class="grad">Optimizer</span></a>
         <p class="muted">{SITE.tagline}<br />Made by Andrew.<br /><a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a></p>
       </div>
       <div class="links">
@@ -48,7 +54,8 @@ const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'E
   .site-header { position: sticky; top: 0; z-index: 10; backdrop-filter: blur(12px); background: rgba(7,10,19,.75); border-bottom: 1px solid var(--color-border); }
   .bar { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 1rem; }
   .logo { font-family: var(--font-display); font-weight: 800; color: var(--color-text); font-size: 1.1rem; white-space: nowrap; }
-  .mark { color: var(--color-cyan); text-shadow: var(--glow-cyan); }
+  .mark { width: 1.9em; height: 1.9em; vertical-align: middle; margin-right: .3em; filter: drop-shadow(0 0 6px rgba(0,229,255,.35)); }
+  .logo { display: inline-flex; align-items: center; gap: .25em; }
   nav { display: flex; gap: 1.25rem; flex-wrap: wrap; } nav a { color: var(--color-muted); font-size: .95rem; } nav a:hover { color: var(--color-text); }
   .demo-banner { text-align: center; font-family: var(--font-mono); font-size: .75rem; padding: .4rem; color: var(--color-amber); background: rgba(255,200,87,.08); border-bottom: 1px solid rgba(255,200,87,.2); }
   .site-footer { border-top: 1px solid var(--color-border); margin-top: 4rem; padding: 2.5rem 0 1.5rem; background: rgba(14,19,36,.6); }
