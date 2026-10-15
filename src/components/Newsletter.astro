@@ -1,0 +1,11 @@
+<section class="card newsletter">
+  <div><h2>Get the <span class="grad">AI Tools Weekly</span></h2><p class="muted">One email a week: new tools worth trying, prompts that work, and deals. No spam.</p></div>
+  <form onsubmit="event.preventDefault(); this.innerHTML='<p>✅ Thanks! (Demo form — no email was sent.)</p>';">
+    <input type="email" required placeholder="you@example.com" aria-label="Email" /><button class="btn" type="submit">Subscribe</button>
+  </form>
+</section>
+<style>
+  .newsletter { display: grid; grid-template-columns: 1.2fr 1fr; gap: 1.5rem; align-items: center; padding: 2rem; border-color: rgba(139,92,246,.5); box-shadow: var(--glow-violet); }
+  h2 { margin: 0 0 .3rem; } form { display: flex; gap: .6rem; }
+  @media (max-width: 760px) { .newsletter { grid-template-columns: 1fr; } form { flex-direction: column; } }
+</style>

@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostCard from '../../components/PostCard.astro';
+import Newsletter from '../../components/Newsletter.astro';
+import { getCollection } from 'astro:content';
+const posts = (await getCollection('blog', (p) => !p.data.draft)).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<Base title="Blog" description="Guides, comparisons and tutorials about AI and AI tools.">
+  <section class="container section">
+    <span class="pill">// blog</span><h1>Guides &amp; <span class="grad">tutorials</span></h1>
+    <p class="muted">Learn AI step by step — from your first prompt to building automated workflows.</p>
+    <div class="grid">{posts.map((p) => <PostCard post={p} />)}</div>
+  </section>
+  <section class="container"><Newsletter /></section>
+</Base>

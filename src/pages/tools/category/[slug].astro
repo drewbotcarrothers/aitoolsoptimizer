@@ -1,0 +1,21 @@
+---
+import Base from '../../../layouts/Base.astro';
+import ToolCard from '../../../components/ToolCard.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../../data/categories';
+import { url } from '../../../data/url';
+export function getStaticPaths() { return Object.keys(categories).map((slug) => ({ params: { slug } })); }
+const { slug } = Astro.params; const c = categories[slug!];
+const tools = (await getCollection('tools', (t) => t.data.category === slug)).sort((a, b) => b.data.rating - a.data.rating);
+const posts = await getCollection('blog', (p) => p.data.category === slug && !p.data.draft);
+---
+<Base title={`Best ${c.name} AI Tools`} description={`${c.name} AI tools compared: ${c.blurb}`}>
+  <section class="container section">
+    <a href={url('/tools/')}>← All categories</a>
+    <h1>{c.icon} <span class="grad">{c.name}</span> AI tools</h1>
+    <p class="muted">{c.blurb}</p>
+    {tools.length ? <div class="grid">{tools.map((t) => <ToolCard tool={t} />)}</div> : <p class="notice">No tools in this category yet — coming soon.</p>}
+    {posts.length > 0 && <><h2 style="margin-top:3rem">Related guides</h2><div class="grid">{posts.map((p) => <PostCard post={p} />)}</div></>}
+  </section>
+</Base>

@@ -1,0 +1,50 @@
+---
+import Base from '../../layouts/Base.astro';
+import ToolCard from '../../components/ToolCard.astro';
+import AdSlot from '../../components/AdSlot.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../../data/categories';
+const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCompare(b.data.name));
+---
+<Base title="AI Tools Directory" description="Browse and compare AI tools by category with ratings, pricing, pros, cons and tips.">
+  <section class="container section">
+    <span class="pill">// directory</span>
+    <h1>AI Tools <span class="grad">Directory</span></h1>
+    <p class="muted">{tools.length} hand-picked tools across {Object.keys(categories).length} categories. Filter by category or search by name.</p>
+    <div class="filters">
+      <input id="q" type="search" placeholder="Search tools…" aria-label="Search tools" />
+      <div class="chips">
+        <button class="chip active" data-cat="all">All</button>
+        {Object.entries(categories).map(([slug, c]) => <button class="chip" data-cat={slug}>{c.icon} {c.name}</button>)}
+      </div>
+    </div>
+    <div class="grid" id="tool-grid">{tools.map((t) => <ToolCard tool={t} />)}</div>
+    <p id="empty" class="muted" hidden>No tools match your search.</p>
+    <AdSlot />
+  </section>
+</Base>
+<script>
+  const q = document.getElementById('q') as HTMLInputElement;
+  const cards = [...document.querySelectorAll<HTMLElement>('.tool-card')];
+  const chips = [...document.querySelectorAll<HTMLButtonElement>('.chip')];
+  let cat = 'all';
+  const params = new URLSearchParams(location.search);
+  if (params.get('q')) q.value = params.get('q')!;
+  if (params.get('cat')) cat = params.get('cat')!;
+  function apply() {
+    const term = q.value.trim().toLowerCase(); let shown = 0;
+    cards.forEach((c) => { const ok = (cat === 'all' || c.dataset.category === cat) && (!term || c.dataset.search!.includes(term)); c.hidden = !ok; if (ok) shown++; });
+    chips.forEach((ch) => ch.classList.toggle('active', ch.dataset.cat === cat));
+    document.getElementById('empty')!.hidden = shown > 0;
+  }
+  q.addEventListener('input', apply);
+  chips.forEach((ch) => ch.addEventListener('click', () => { cat = ch.dataset.cat!; apply(); }));
+  apply();
+</script>
+<style>
+  .filters { margin: 1.5rem 0; display: grid; gap: 1rem; }
+  .chips { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .chip { background: var(--color-surface); border: 1px solid var(--color-border); color: var(--color-muted); border-radius: 999px; padding: .4rem .9rem; cursor: pointer; font: inherit; font-size: .85rem; }
+  .chip:hover { color: var(--color-text); } .chip.active { border-color: var(--color-cyan); color: var(--color-cyan); box-shadow: var(--glow-cyan); }
+  [hidden] { display: none !important; }
+</style>

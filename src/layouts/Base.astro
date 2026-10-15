@@ -1,0 +1,58 @@
+---
+import '../styles/global.css';
+import { SITE } from '../data/categories';
+import { url } from '../data/url';
+interface Props { title?: string; description?: string; }
+const { title, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
+const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
+const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'Ebooks'], ['/about/', 'About'], ['/contact/', 'Contact']];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="icon" href={url('/favicon.svg')} type="image/svg+xml" />
+  <meta name="theme-color" content="#070A13" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container bar">
+      <a href={url('/')} class="logo"><span class="mark">◆</span> AI Tools <span class="grad">Optimizer</span></a>
+      <nav>{nav.map(([href, label]) => <a href={url(href)}>{label}</a>)}</nav>
+    </div>
+  </header>
+  <div class="demo-banner">Demo build — all reviews, posts and ratings are <strong>sample content</strong> for preview purposes.</div>
+  <main><slot /></main>
+  <footer class="site-footer">
+    <div class="container foot">
+      <div>
+        <a href={url('/')} class="logo"><span class="mark">◆</span> AI Tools <span class="grad">Optimizer</span></a>
+        <p class="muted">{SITE.tagline}<br />Made by Andrew.</p>
+      </div>
+      <div class="links">
+        <a href={url('/tools/')}>Tools</a><a href={url('/blog/')}>Blog</a><a href={url('/about/')}>About</a>
+        <a href={url('/contact/')}>Contact</a><a href={url('/privacy/')}>Privacy Policy</a>
+      </div>
+    </div>
+    <div class="container muted small">Disclosure: some links are affiliate links; we may earn a commission at no extra cost to you. © {new Date().getFullYear()} AI Tools Optimizer.</div>
+  </footer>
+</body>
+</html>
+<style>
+  .site-header { position: sticky; top: 0; z-index: 10; backdrop-filter: blur(12px); background: rgba(7,10,19,.75); border-bottom: 1px solid var(--color-border); }
+  .bar { display: flex; align-items: center; justify-content: space-between; height: 64px; gap: 1rem; }
+  .logo { font-family: var(--font-display); font-weight: 800; color: var(--color-text); font-size: 1.1rem; white-space: nowrap; }
+  .mark { color: var(--color-cyan); text-shadow: var(--glow-cyan); }
+  nav { display: flex; gap: 1.25rem; flex-wrap: wrap; } nav a { color: var(--color-muted); font-size: .95rem; } nav a:hover { color: var(--color-text); }
+  .demo-banner { text-align: center; font-family: var(--font-mono); font-size: .75rem; padding: .4rem; color: var(--color-amber); background: rgba(255,200,87,.08); border-bottom: 1px solid rgba(255,200,87,.2); }
+  .site-footer { border-top: 1px solid var(--color-border); margin-top: 4rem; padding: 2.5rem 0 1.5rem; background: rgba(14,19,36,.6); }
+  .foot { display: flex; justify-content: space-between; gap: 2rem; flex-wrap: wrap; } .links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
+  .small { font-size: .8rem; margin-top: 1.5rem; }
+  @media (max-width: 760px) { nav { display: none; } }
+</style>

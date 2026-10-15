@@ -1,0 +1,58 @@
+---
+import Base from '../layouts/Base.astro';
+import ToolCard from '../components/ToolCard.astro';
+import PostCard from '../components/PostCard.astro';
+import Newsletter from '../components/Newsletter.astro';
+import AdSlot from '../components/AdSlot.astro';
+import EbookPromo from '../components/EbookPromo.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../data/categories';
+import { url } from '../data/url';
+const tools = (await getCollection('tools')).sort((a, b) => b.data.rating - a.data.rating);
+const posts = (await getCollection('blog', (p) => !p.data.draft)).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const counts = Object.fromEntries(Object.keys(categories).map((c) => [c, tools.filter((t) => t.data.category === c).length]));
+---
+<Base>
+  <section class="hero container">
+    <span class="pill">// learn ai · compare tools · work smarter</span>
+    <h1>Find the <span class="grad">right AI tool</span><br />for every job.</h1>
+    <p class="lead muted">Plain-English guides, honest reviews and a curated directory of {tools.length}+ AI tools — so you spend less time testing and more time creating.</p>
+    <form class="search" action={url('/tools/')} method="get">
+      <input name="q" placeholder="Search tools: e.g. writing, video, ChatGPT…" aria-label="Search tools" />
+      <button class="btn" type="submit">Search</button>
+    </form>
+    <div class="stats"><div><b class="grad">{tools.length}</b><span>tools reviewed</span></div><div><b class="grad">{Object.keys(categories).length}</b><span>categories</span></div><div><b class="grad">{posts.length}</b><span>guides</span></div></div>
+  </section>
+
+  <section class="section container">
+    <div class="section-head"><h2>Browse by category</h2><a href={url('/tools/')}>All tools →</a></div>
+    <div class="cats">
+      {Object.entries(categories).map(([slug, c]) => (
+        <a class="card cat" href={url(`/tools/category/${slug}/`)}><span class="ico">{c.icon}</span><b>{c.name}</b><span class="muted">{counts[slug]} tools</span></a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section container">
+    <div class="section-head"><h2>Top-rated tools</h2><a href={url('/tools/')}>Open directory →</a></div>
+    <div class="grid">{tools.slice(0, 6).map((t) => <ToolCard tool={t} />)}</div>
+    <AdSlot />
+  </section>
+
+  <section class="section container">
+    <div class="section-head"><h2>Latest guides</h2><a href={url('/blog/')}>All posts →</a></div>
+    <div class="grid">{posts.slice(0, 3).map((p) => <PostCard post={p} />)}</div>
+  </section>
+
+  <section class="section container"><EbookPromo /></section>
+  <section class="section container"><Newsletter /></section>
+</Base>
+<style>
+  .hero { padding: 5rem 1.25rem 2rem; text-align: center; }
+  .lead { max-width: 640px; margin: 0 auto 2rem; font-size: 1.15rem; }
+  .search { display: flex; gap: .6rem; max-width: 620px; margin: 0 auto; }
+  .stats { display: flex; justify-content: center; gap: 3rem; margin-top: 2.5rem; flex-wrap: wrap; }
+  .stats div { display: flex; flex-direction: column; } .stats b { font-family: var(--font-display); font-size: 2rem; } .stats span { color: var(--color-muted); font-size: .85rem; }
+  .cats { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); }
+  .cat { display: flex; flex-direction: column; gap: .2rem; } .ico { font-size: 1.6rem; } .cat .muted { font-size: .8rem; }
+</style>
