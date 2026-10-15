@@ -2,7 +2,7 @@
 name: "Claude"
 category: "chatbots-assistants"
 tagline: "Anthropic's AI assistant known for long documents and careful writing."
-description: "Claude is an AI assistant from Anthropic that handles long documents, nuanced writing, analysis and coding, with Projects for organising files and context."
+description: "Claude is an AI assistant from Anthropic that handles long documents, nuanced writing, analysis and coding, with Projects for organizing files and context."
 pricing: "freemium"
 website: "https://claude.ai"
 rating: 4.6

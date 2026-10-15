@@ -25,7 +25,7 @@ const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(to
       </div>
       <div class="cta card">
         <a class="btn" href={d.affiliateUrl || d.website} rel="nofollow sponsored noopener" target="_blank">Visit {d.name} →</a>
-        <small class="muted">Affiliate link slot · updated {d.lastUpdated.toLocaleDateString('en-CA', { timeZone: 'UTC' })}</small>
+        <small class="muted">Affiliate link slot · updated {d.lastUpdated.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</small>
       </div>
     </div>
     <div class="layout">

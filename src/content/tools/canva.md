@@ -8,7 +8,7 @@ website: "https://www.canva.com"
 rating: 4.6
 pros: ["Easy for non-designers", "Huge template library", "Lots of AI helpers"]
 cons: ["Best AI features on Pro", "Designs can look template-y"]
-tips: ["Use Magic Resize to repurpose designs", "Set up a Brand Kit for consistent colours and fonts"]
+tips: ["Use Magic Resize to repurpose designs", "Set up a Brand Kit for consistent colors and fonts"]
 useCases: ["Social posts", "Presentations", "Thumbnails"]
 alternatives: ["midjourney", "dall-e"]
 lastUpdated: "2026-10-15"

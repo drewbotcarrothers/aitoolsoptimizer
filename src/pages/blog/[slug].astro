@@ -19,7 +19,7 @@ const tools = (await getCollection('tools')).filter((t) => d.relatedTools.includ
       {d.category && <a class="pill" href={url(`/tools/category/${d.category}/`)}>{categories[d.category].name}</a>}
       {d.sample && <span class="sample-badge">SAMPLE ARTICLE</span>}
       <h1>{d.title}</h1>
-      <p class="muted">By Andrew · {d.pubDate.toLocaleDateString('en-CA', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' })}</p>
+      <p class="muted">By Andrew · {d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' })}</p>
     </header>
     {d.sample && <p class="notice prose">This is placeholder demo content written to preview the site design. Facts should be verified before publishing.</p>}
     <AdSlot />

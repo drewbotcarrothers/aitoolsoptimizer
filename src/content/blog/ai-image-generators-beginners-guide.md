@@ -16,7 +16,7 @@ You describe an image in words, and the model creates it. The quality of your de
 
 `subject + setting + style + lighting + camera/composition`
 
-Example: *a fox reading a book in a cozy library, watercolour style, warm lamp light, wide shot*.
+Example: *a fox reading a book in a cozy library, watercolor style, warm lamp light, wide shot*.
 
 ## Which tool should you start with?
 
