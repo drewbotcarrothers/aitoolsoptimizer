@@ -22,7 +22,7 @@ QUERY = {'make':'Make.com','motion':'Motion app','clay':'Clay.com','speak':'Spea
  'dall-e':'DALL-E','devin-desktop':'Windsurf AI','gemini-notebook':'NotebookLM','google-flow':'Google Flow',
  'hubspot':'HubSpot','tidio':'Tidio','luma-ai':'Luma AI','leonardo-ai':'Leonardo AI','magnific':'Magnific AI',
  'mistral-vibe':'Mistral AI','tl-dv':'tldv','adcreative-ai':'AdCreative','claude':'Claude AI','speechify':'Speechify',
- 'grok':'Grok AI','suno':'Suno AI','udio':'Udio AI','descript':'Descript','opusclip':'Opus Clip'}
+ 'grok':'Grok AI','grok-bot':'Grok Bot','openai-dots':'ChatGPT dots','openclaw':'OpenClaw','hermes-agent':'Hermes Agent','suno':'Suno AI','udio':'Udio AI','descript':'Descript','opusclip':'Opus Clip'}
 for s in tools: tools[s] = QUERY.get(s, tools[s])
 py = TrendReq(hl='en-US', tz=0)
 

@@ -320,7 +320,7 @@
     },
     "lindy": {
       "status": "done",
-      "words": 984,
+      "words": 1080,
       "sources": 2,
       "lastChecked": "2026-10-16"
     },
@@ -356,13 +356,13 @@
     },
     "make": {
       "status": "done",
-      "words": 1190,
+      "words": 1286,
       "sources": 4,
       "lastChecked": "2026-10-16"
     },
     "manus": {
       "status": "done",
-      "words": 1005,
+      "words": 1096,
       "sources": 2,
       "lastChecked": "2026-10-16"
     },
@@ -404,7 +404,7 @@
     },
     "n8n": {
       "status": "done",
-      "words": 1143,
+      "words": 1239,
       "sources": 2,
       "lastChecked": "2026-10-16"
     },
@@ -494,7 +494,7 @@
     },
     "relevance-ai": {
       "status": "done",
-      "words": 1076,
+      "words": 1167,
       "sources": 2,
       "lastChecked": "2026-10-16"
     },
@@ -590,7 +590,7 @@
     },
     "zapier": {
       "status": "done",
-      "words": 1011,
+      "words": 1107,
       "sources": 2,
       "lastChecked": "2026-10-16"
     },
@@ -599,12 +599,36 @@
       "words": 1084,
       "sources": 2,
       "lastChecked": "2026-10-16"
+    },
+    "grok-bot": {
+      "status": "done",
+      "words": 1553,
+      "sources": 4,
+      "lastChecked": "2026-10-16"
+    },
+    "hermes-agent": {
+      "status": "done",
+      "words": 1286,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "openai-dots": {
+      "status": "done",
+      "words": 1446,
+      "sources": 6,
+      "lastChecked": "2026-10-16"
+    },
+    "openclaw": {
+      "status": "done",
+      "words": 1210,
+      "sources": 4,
+      "lastChecked": "2026-10-16"
     }
   },
   "summary": {
-    "done": 100,
-    "total": 100,
-    "averageWords": 1157,
-    "updated": "2026-10-16T10:57:54.833Z"
+    "done": 104,
+    "total": 104,
+    "averageWords": 1171,
+    "updated": "2026-10-16T13:56:46.593Z"
   }
 }

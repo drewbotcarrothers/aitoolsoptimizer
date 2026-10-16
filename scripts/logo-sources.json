@@ -398,5 +398,21 @@
  "beautiful-ai": {
   "src": "https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/691b4ae4a724e6c686bfb035_BAI%20symbol%3Dfull%20color%20black.png",
   "w": 256
+ },
+ "grok-bot": {
+  "src": "https://x.ai/icon.png?icon.2jebtfdg6783w.png?dpl=270e6ec7856a61e2e1689c74197e8f37497ebd48",
+  "w": 512
+ },
+ "openclaw": {
+  "src": "https://openclaw.ai/favicon.svg",
+  "w": 500
+ },
+ "openai-dots": {
+  "src": "https://chatgpt.com/cdn/assets/favicon-l4nq08hd.svg",
+  "w": 750
+ },
+ "hermes-agent": {
+  "src": "https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/icon-master.svg",
+  "w": 4267
  }
 }
