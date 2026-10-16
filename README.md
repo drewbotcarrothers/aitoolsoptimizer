@@ -2,7 +2,7 @@
 
 Website for **AI Tools Optimizer** (aitoolsoptimizer.com) — teaching people about AI and helping them pick the right AI tools. Monetised through display ads, affiliate links and ebooks. Built by Andrew.
 
-> **Demo status:** all blog posts, tool reviews, ratings and the ebook are **sample content** (marked SAMPLE on the site) and must be reviewed before launch.
+> **Content status:** the 5 blog posts in `src/content/blog/` are unverified sample drafts (`draft: true`) and are not built. Replace them with real articles and set `draft: false`. The Blog nav link appears automatically once a post is published.
 
 ## Stack
 
@@ -21,9 +21,11 @@ Website for **AI Tools Optimizer** (aitoolsoptimizer.com) — teaching people ab
 | `/tools/category/<slug>/` | Per-category pages (12 categories, see `src/data/categories.ts`) |
 | `/tools/<slug>/` | Tool review: rating, pros/cons, use cases, tips & tricks, alternatives, affiliate CTA, related posts |
 | `/blog/`, `/blog/<slug>/` | Blog index and articles (link to the tools they mention) |
-| `/ebooks/`, `/about/`, `/contact/`, `/privacy/` | Ebooks, about, contact (demo form), privacy policy placeholder |
+| `/about/`, `/contact/` | About, contact (email address + mailto form) |
+| `/privacy/`, `/cookies/`, `/terms/`, `/disclaimer/` | Privacy Policy, Cookie Policy, Terms of Use, Disclaimer & affiliate disclosure |
+| `/sitemap.xml`, `/robots.txt` | Generated at build (`src/pages/*.ts`); robots allows Mediapartners-Google |
 
-Ad placeholders live in `src/components/AdSlot.astro`; the affiliate link for a tool is its `affiliateUrl` (falls back to `website`).
+Ads: Google AdSense auto ads via the script in `src/layouts/Base.astro` (production only); no manual ad units. The affiliate link for a tool is its `affiliateUrl` (falls back to `website`).
 
 ## Brand colours
 

@@ -5,7 +5,6 @@ const { post } = Astro.props; const d = post.data;
 <a class="card post-card" href={url(`/blog/${post.id}/`)}>
   <div class="thumb"><span>{d.title.split(' ').slice(0, 2).join(' ')}</span></div>
   <span class="muted date">{d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</span>
-  {d.sample && <span class="sample-badge">SAMPLE</span>}
   <h3>{d.title}</h3><p class="muted">{d.description}</p>
 </a>
 <style>

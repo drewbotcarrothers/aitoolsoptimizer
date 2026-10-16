@@ -1,7 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
 import ToolCard from '../../components/ToolCard.astro';
-import AdSlot from '../../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories';
 const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCompare(b.data.name));
@@ -20,7 +19,6 @@ const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCo
     </div>
     <div class="grid" id="tool-grid">{tools.map((t) => <ToolCard tool={t} />)}</div>
     <p id="empty" class="muted" hidden>No tools match your search.</p>
-    <AdSlot />
   </section>
 </Base>
 <script>

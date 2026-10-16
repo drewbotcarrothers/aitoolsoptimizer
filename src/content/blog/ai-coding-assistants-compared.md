@@ -6,6 +6,7 @@ category: "coding"
 relatedTools: ["github-copilot", "cursor"]
 tags: []
 sample: true
+draft: true
 ---
 
 ## Autocomplete vs agent

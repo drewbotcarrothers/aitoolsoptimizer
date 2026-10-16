@@ -1,16 +1,31 @@
 ---
 import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { categories } from '../data/categories';
+import { url } from '../data/url';
+const tools = await getCollection('tools');
 ---
-<Base title="About" description="About AI Tools Optimizer and Andrew.">
+<Base title="About" description="About AI Tools Optimizer: who runs the site, how the AI tools directory and model comparison are researched, and how the site is funded.">
   <section class="container section prose">
     <span class="pill">// about</span><h1>About <span class="grad">AI Tools Optimizer</span></h1>
-    <p>AI Tools Optimizer helps everyday people, creators and small businesses understand AI and choose the tools that actually save them time and money.</p>
-    <p>I'm Andrew. I test AI tools hands-on, write plain-English guides, and keep a curated directory so you don't have to sift through hundreds of options yourself.</p>
-    <h2>How we review tools</h2>
-    <ul class="check"><li>We use each tool on real tasks before rating it.</li><li>Ratings consider output quality, ease of use, pricing and support.</li><li>Affiliate partnerships never change a rating.</li><li>Reviews are re-checked regularly and dated.</li></ul>
+    <p>AI Tools Optimizer is an independent website that helps everyday people, creators and small businesses understand AI and choose AI tools that fit their work and budget.</p>
+    <h2>Who runs the site</h2>
+    <p>The site is created and run by Andrew. It is a small independent project, not affiliated with or endorsed by any of the AI companies listed here.</p>
+    <h2>What you'll find here</h2>
+    <ul class="check">
+      <li><a href={url('/tools/')}>AI tools directory</a>: {tools.length} tools across {Object.keys(categories).length} categories, with pricing in US dollars, free plan details, key features, use cases and alternatives.</li>
+      <li><a href={url('/models/')}>Frontier AI model comparison</a>: release dates, context windows, open-weight status and API prices.</li>
+    </ul>
+    <h2>How the information is researched</h2>
+    <ul class="check">
+      <li>Pricing, plans and features are checked against each company's official website and announcements. Where a page lists its sources, they are linked at the bottom.</li>
+      <li>Each tool page shows the date its details were last checked. AI products change quickly, so always confirm current pricing on the official site before you buy.</li>
+      <li>We don't publish star ratings or scores unless they come from our own testing.</li>
+      <li>Affiliate relationships never decide whether a tool is listed or how it is described.</li>
+    </ul>
     <h2>How the site is funded</h2>
-    <p>The site is free to read. It's supported by display ads, affiliate links (clearly disclosed) and our own ebooks.</p>
-    <h2>Contact</h2>
-    <p>Questions or partnership ideas? Email <a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a>.</p>
+    <p>The site is free to read. It may be supported by display advertising (Google AdSense) and affiliate links. See the <a href={url('/disclaimer/')}>Disclaimer</a> for details.</p>
+    <h2>Corrections and contact</h2>
+    <p>Spotted an outdated price or a mistake? Email <a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a> and it will be reviewed and corrected.</p>
   </section>
 </Base>

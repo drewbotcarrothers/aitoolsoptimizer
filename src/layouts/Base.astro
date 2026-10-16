@@ -2,10 +2,13 @@
 import '../styles/global.css';
 import { SITE } from '../data/categories';
 import { url } from '../data/url';
-interface Props { title?: string; description?: string; }
-const { title, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
+import { getCollection } from 'astro:content';
+interface Props { title?: string; description?: string; noindex?: boolean; }
+const { title, noindex = false, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
-const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/blog/', 'Blog'], ['/ebooks/', 'Ebooks'], ['/about/', 'About'], ['/contact/', 'Contact']];
+const hasPosts = (await getCollection('blog', (p) => !p.data.draft)).length > 0;
+const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ...(hasPosts ? [['/blog/', 'Blog']] : []), ['/about/', 'About'], ['/contact/', 'Contact']];
+const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404\/$/, '/404.html'), Astro.site).href;
 ---
 <!doctype html>
 <html lang="en">
@@ -14,6 +17,7 @@ const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/blog/', 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
+  {noindex ? <meta name="robots" content="noindex" /> : <><link rel="canonical" href={canonical} /><meta property="og:url" content={canonical} /></>}
   <link rel="icon" href={url('/favicon.ico')} sizes="any" />
   <link rel="icon" href={url('/favicon-32.png')} type="image/png" sizes="32x32" />
   <link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
@@ -49,7 +53,6 @@ const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/blog/', 
       </details>
     </div>
   </header>
-  <div class="demo-banner">Preview build — blog posts marked SAMPLE are <strong>sample content</strong>; tool data comes from our verified research list.</div>
   <main><slot /></main>
   <footer class="site-footer">
     <div class="container foot">
@@ -58,11 +61,11 @@ const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/blog/', 
         <p class="muted">{SITE.tagline}<br />Made by Andrew.<br /><a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a></p>
       </div>
       <div class="links">
-        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a><a href={url('/blog/')}>Blog</a><a href={url('/about/')}>About</a>
-        <a href={url('/contact/')}>Contact</a><a href={url('/privacy/')}>Privacy Policy</a>
+        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a>{hasPosts && <a href={url('/blog/')}>Blog</a>}<a href={url('/about/')}>About</a>
+        <a href={url('/contact/')}>Contact</a><a href={url('/privacy/')}>Privacy Policy</a><a href={url('/cookies/')}>Cookie Policy</a><a href={url('/terms/')}>Terms of Use</a><a href={url('/disclaimer/')}>Disclaimer</a>
       </div>
     </div>
-    <div class="container muted small">Disclosure: some links are affiliate links; we may earn a commission at no extra cost to you. © {new Date().getFullYear()} AI Tools Optimizer.</div>
+    <div class="container muted small">Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href={url('/disclaimer/')}>Disclaimer</a>. © {new Date().getFullYear()} AI Tools Optimizer.</div>
   </footer>
 </body>
 </html>
@@ -73,7 +76,6 @@ const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/blog/', 
   .mark { width: 1.9em; height: 1.9em; vertical-align: middle; margin-right: .3em; filter: drop-shadow(0 0 6px rgba(0,229,255,.35)); }
   .logo { display: inline-flex; align-items: center; gap: .25em; }
   nav { display: flex; gap: 1.25rem; flex-wrap: wrap; } nav a { color: var(--color-muted); font-size: .95rem; } nav a:hover { color: var(--color-text); }
-  .demo-banner { text-align: center; font-family: var(--font-mono); font-size: .75rem; padding: .4rem; color: var(--color-amber); background: rgba(255,200,87,.08); border-bottom: 1px solid rgba(255,200,87,.2); }
   .site-footer { border-top: 1px solid var(--color-border); margin-top: 4rem; padding: 2.5rem 0 1.5rem; background: rgba(14,19,36,.6); }
   .foot { display: flex; justify-content: space-between; gap: 2rem; flex-wrap: wrap; } .links { display: flex; gap: 1.25rem; flex-wrap: wrap; }
   .small { font-size: .8rem; margin-top: 1.5rem; }

@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../data/url';
+const ext = { rel: 'noopener', target: '_blank' };
+---
+<Base title="Cookie Policy" description="What cookies AI Tools Optimizer and partners such as Google Analytics and Google AdSense use, why they are used, and how to control or opt out of them.">
+  <section class="container section prose">
+    <span class="pill">// legal</span><h1>Cookie <span class="grad">Policy</span></h1>
+    <p><strong>Effective date:</strong> October 16, 2026</p>
+    <p>This page explains how AI Tools Optimizer (aitoolsoptimizer.com) and our partners use cookies and similar technologies. It should be read together with our <a href={url('/privacy/')}>Privacy Policy</a>.</p>
+    <h2>What are cookies?</h2>
+    <p>Cookies are small text files that a website stores in your browser. Similar technologies include local storage, pixels (web beacons) and device identifiers. "First-party" cookies are set by this site; "third-party" cookies are set by other companies, such as Google.</p>
+    <h2>Cookies used on this site</h2>
+    <div class="table-wrap"><table>
+      <thead><tr><th>Provider</th><th>Purpose</th><th>Examples</th><th>Type</th></tr></thead>
+      <tbody>
+        <tr><td>Google Analytics 4 (Google LLC)</td><td>Analytics: counts visits and measures how pages are used, in aggregate</td><td><code>_ga</code>, <code>_ga_&lt;ID&gt;</code></td><td>First-party, up to 2 years</td></tr>
+        <tr><td>Google AdSense and Google's advertising partners</td><td>Advertising: serves ads, limits how often you see an ad, measures performance, fraud prevention and (if allowed) personalized ads based on your visits to this and other sites</td><td><code>__gads</code>, <code>__gpi</code>, <code>IDE</code>, <code>NID</code> and others</td><td>First- and third-party, varies</td></tr>
+        <tr><td>Third-party ad vendors and networks working with Google</td><td>Ad serving and measurement</td><td>Set by each vendor</td><td>Third-party, varies</td></tr>
+        <tr><td>Affiliate partners</td><td>Records that you were referred by us when you click an affiliate link</td><td>Set on the merchant's site</td><td>Third-party, varies</td></tr>
+      </tbody>
+    </table></div>
+    <p>The exact cookie names and lifetimes are controlled by the providers and may change. See <a href="https://policies.google.com/technologies/cookies" {...ext}>how Google uses cookies</a> and <a href="https://policies.google.com/technologies/ads" {...ext}>how Google uses cookies in advertising</a>.</p>
+    <h2>Consent</h2>
+    <p>If you visit from the European Economic Area, the UK or Switzerland, a consent message asks for your choice before personalized advertising and non-essential cookies are used.</p>
+    <h2>How to control cookies</h2>
+    <ul>
+      <li>Opt out of personalized Google ads: <a href="https://adssettings.google.com/" {...ext}>Google Ads Settings</a>.</li>
+      <li>Opt out of some third-party vendors' personalized-advertising cookies: <a href="https://www.aboutads.info/choices/" {...ext}>www.aboutads.info/choices</a> (US) or <a href="https://www.youronlinechoices.com/" {...ext}>www.youronlinechoices.com</a> (EU/UK).</li>
+      <li>Opt out of Google Analytics: <a href="https://tools.google.com/dlpage/gaoptout" {...ext}>Google Analytics opt-out browser add-on</a>.</li>
+      <li>Block or delete cookies in your browser settings. Blocking all cookies may affect how some sites work.</li>
+    </ul>
+    <h2>Contact</h2>
+    <p>Questions? Email <a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a>.</p>
+  </section>
+</Base>
+<style>.table-wrap { overflow-x: auto; } table { border-collapse: collapse; width: 100%; font-size: .92rem; } th, td { border: 1px solid var(--color-border); padding: .5rem .6rem; text-align: left; vertical-align: top; }</style>

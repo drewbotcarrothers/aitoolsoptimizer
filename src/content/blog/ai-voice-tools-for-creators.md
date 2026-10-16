@@ -6,6 +6,7 @@ category: "audio-voice-music"
 relatedTools: ["elevenlabs", "descript"]
 tags: []
 sample: true
+draft: true
 ---
 
 ## Voiceovers without a microphone

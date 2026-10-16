@@ -1,6 +1,5 @@
 ---
 import Base from '../layouts/Base.astro';
-import AdSlot from '../components/AdSlot.astro';
 import { getCollection } from 'astro:content';
 import data from '../data/models.json';
 import { url } from '../data/url';
@@ -84,7 +83,6 @@ const jsonLd = [
     <p id="mempty" class="muted" hidden>No models match your filters.</p>
     <p class="muted small">A dash (—) means the figure was not confirmed on an official source when we checked. Prices are standard list rates for short prompts; batch, caching, long-context and regional rates differ. Click a column header to sort.</p>
 
-    <AdSlot />
 
     <div class="prose">
       <h2>How to choose an AI model</h2>

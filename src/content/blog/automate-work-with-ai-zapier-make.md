@@ -6,6 +6,7 @@ category: "automation-agents"
 relatedTools: ["zapier", "make", "chatgpt"]
 tags: []
 sample: true
+draft: true
 ---
 
 ## Start with one annoying task
