@@ -1,0 +1,163 @@
+---
+import Base from '../layouts/Base.astro';
+import AdSlot from '../components/AdSlot.astro';
+import { getCollection } from 'astro:content';
+import data from '../data/models.json';
+import { url } from '../data/url';
+
+type Model = (typeof data.models)[number];
+const toolSlugs = new Set((await getCollection('tools')).map((t) => t.id));
+const models: Model[] = data.models;
+const labs = [...new Set(models.map((m) => m.lab))];
+const dash = '—';
+const fmtDate = (d: string | null) => d ? new Date(d + 'T12:00:00Z').toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric', timeZone: 'UTC' }) : dash;
+const money = (n: number | null) => n == null ? dash : `$${n % 1 === 0 ? n : n.toFixed(2).replace(/0$/, '')}`;
+const price = (m: Model) => m.priceIn == null ? dash : `${money(m.priceIn)} / ${money(m.priceOut)}`;
+const openLabel = (o: boolean | null) => o === true ? 'Open' : o === false ? 'Closed' : dash;
+const ctxNum = (c: string | null) => !c ? 0 : parseFloat(c) * (c.endsWith('M') ? 1e6 : c.endsWith('K') ? 1e3 : 1);
+const updated = fmtDate(data.lastUpdated);
+const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+
+const faqs = [
+  ['What is a frontier AI model?', 'A frontier model is one of the most capable AI models available at a given time, usually the newest flagship from a major lab such as OpenAI, Anthropic, Google DeepMind or xAI. These models set the pace on reasoning, coding and agent benchmarks.'],
+  ['Which AI model is the best right now?', 'There is no single best model. For the hardest reasoning and coding work, flagships like GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Grok 4.7 and Muse Wonder are the top tier. For everyday tasks on a budget, cheaper models like Gemini 3.8 Flash, DeepSeek-V4.1-Flash or GLM-5.3-Flash are often good enough.'],
+  ['What does "price per 1M tokens" mean?', 'API providers bill by tokens, small chunks of text (roughly three-quarters of a word in English). The table shows the US dollar price for one million input tokens (what you send) and one million output tokens (what the model writes). Output usually costs several times more than input.'],
+  ['What is a context window?', 'The context window is how much text (and images or other media) a model can consider at once, measured in tokens. A 1M-token window holds several long books or a large codebase in a single request.'],
+  ['What is the difference between open-weight and closed models?', 'Open-weight models, such as Kimi K3, GLM-5.3-Flash, Mistral Large 4 and Muse Spark Open, publish their trained weights so you can download, self-host and fine-tune them. Closed models are only available through the lab’s apps and API.'],
+  ['Do I need the API to use these models?', 'No. Most flagship models are also available in consumer apps such as ChatGPT, Claude, Gemini, Grok and Meta AI, usually with a free tier and paid plans. The API is for developers building their own apps.'],
+  ['How often is this list updated?', `Andrew re-checks each model against the official lab announcements and docs regularly. This page was last updated on ${updated}. A dash means a figure could not be verified from an official source.`],
+];
+
+const jsonLd = [
+  {
+    '@context': 'https://schema.org', '@type': 'ItemList', name: 'Latest frontier AI models', dateModified: data.lastUpdated,
+    itemListElement: models.map((m, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'SoftwareApplication', name: m.model, applicationCategory: 'AI model', creator: { '@type': 'Organization', name: m.lab }, ...(m.released ? { datePublished: m.released } : {}), url: m.source } })),
+  },
+  { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: faqs.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })) },
+];
+---
+<Base title="Latest Frontier AI Models Compared (2026)" description={`Compare the latest frontier AI models from OpenAI, Anthropic, Google, xAI, Meta, Mistral, DeepSeek, Qwen and more: release dates, context windows, open weights and API prices in USD. Updated ${updated}.`}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <section class="container section">
+    <span class="pill">// models</span>
+    <h1>Frontier AI <span class="grad">Models</span></h1>
+    <p class="lead muted">The newest flagship models from the major AI labs, side by side: when they launched, what they accept, how much they remember, whether the weights are open, and what the API costs. Every figure links to the lab's official page.</p>
+    <p class="meta"><span class="pill">Last updated {updated}</span> <span class="pill">{models.length} models · {labs.length} labs</span> <span class="pill">Prices: USD per 1M tokens (input / output)</span></p>
+
+    <div class="filters">
+      <input id="mq" type="search" placeholder="Search models, labs, use cases…" aria-label="Search models" />
+      <div class="chips">
+        <button class="chip active" data-lab="all">All labs</button>
+        {labs.map((l) => <button class="chip" data-lab={slug(l)}>{l}</button>)}
+        <button class="chip" data-lab="open">Open weights only</button>
+      </div>
+    </div>
+
+    <div class="table-wrap">
+      <table id="models-table">
+        <thead><tr>
+          <th data-sort="lab">Lab</th><th data-sort="model">Model</th><th data-sort="date">Released</th><th>Type</th><th>Modalities</th>
+          <th data-sort="ctx">Context</th><th data-sort="open">Weights</th><th data-sort="price">API price</th><th>Best for</th><th>Links</th>
+        </tr></thead>
+        <tbody>
+          {models.map((m) => (
+            <tr data-lab={slug(m.lab)} data-open={m.openWeights ? '1' : '0'} data-date={m.released ?? ''} data-ctx={ctxNum(m.context)} data-price={m.priceIn ?? 9999} data-model={m.model.toLowerCase()}
+                data-search={`${m.lab} ${m.model} ${m.type} ${m.bestFor} ${m.where}`.toLowerCase()}>
+              <td class="lab">{m.lab}</td>
+              <td><strong>{m.model}</strong>{m.apiId && <code class="id">{m.apiId}</code>}</td>
+              <td class="nowrap">{fmtDate(m.released)}</td>
+              <td>{m.type}</td>
+              <td>{m.modalities ?? dash}</td>
+              <td class="mono">{m.context ?? dash}</td>
+              <td><span class={`pill ${m.openWeights ? 'free' : m.openWeights === false ? 'paid' : ''}`}>{openLabel(m.openWeights)}</span></td>
+              <td class="mono nowrap">{price(m)}{m.priceNote && <small class="muted note">{m.priceNote}</small>}</td>
+              <td>{m.bestFor}<small class="muted note">Use it: {m.where}</small></td>
+              <td class="links-cell">
+                <a href={m.source} target="_blank" rel="noopener">Official ↗</a>
+                {m.tool && toolSlugs.has(m.tool) && <a href={url(`/tools/${m.tool}/`)}>Tool review</a>}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p id="mempty" class="muted" hidden>No models match your filters.</p>
+    <p class="muted small">A dash (—) means the figure was not confirmed on an official source when we checked. Prices are standard list rates for short prompts; batch, caching, long-context and regional rates differ. Click a column header to sort.</p>
+
+    <AdSlot />
+
+    <div class="prose">
+      <h2>How to choose an AI model</h2>
+      <ul class="check">
+        <li><strong>Just want to chat or write?</strong> Use the app, not the API. ChatGPT, Claude, Gemini, Grok and Meta AI all run their latest models, and the differences matter less than the plan you pick.</li>
+        <li><strong>Hard coding, research or agent work?</strong> Start with a flagship (GPT-6 Astra, Claude Opus 5.5, Gemini 4 Argon, Grok 4.7, Muse Wonder) and test two of them on your own tasks.</li>
+        <li><strong>High volume on a budget?</strong> Fast, cheap models such as Gemini 3.8 Flash, DeepSeek-V4.1-Flash or GLM-5.3-Flash can cost a tenth as much or less.</li>
+        <li><strong>Need privacy, offline use or fine-tuning?</strong> Pick an open-weight model (Kimi K3, GLM-5.3-Flash, Mistral Large 4, Muse Spark Open) and host it yourself or with a provider you trust.</li>
+        <li><strong>Long documents or big codebases?</strong> Most flagships now offer around 1M tokens of context; check the Context column.</li>
+        <li><strong>Always test first.</strong> Benchmarks and prices change monthly. Run a few real prompts before committing.</li>
+      </ul>
+
+      <h2>Frequently asked questions</h2>
+      {faqs.map(([q, a]) => (<details class="faq card"><summary>{q}</summary><p>{a}</p></details>))}
+    </div>
+  </section>
+</Base>
+<script>
+  const rows = [...document.querySelectorAll<HTMLTableRowElement>('#models-table tbody tr')];
+  const tbody = document.querySelector('#models-table tbody')!;
+  const mq = document.getElementById('mq') as HTMLInputElement;
+  const chips = [...document.querySelectorAll<HTMLButtonElement>('.chip[data-lab]')];
+  let lab = 'all';
+  function apply() {
+    const term = mq.value.trim().toLowerCase(); let shown = 0;
+    rows.forEach((r) => {
+      const okLab = lab === 'all' || (lab === 'open' ? r.dataset.open === '1' : r.dataset.lab === lab);
+      const ok = okLab && (!term || r.dataset.search!.includes(term)); r.hidden = !ok; if (ok) shown++;
+    });
+    chips.forEach((c) => c.classList.toggle('active', c.dataset.lab === lab));
+    document.getElementById('mempty')!.hidden = shown > 0;
+  }
+  mq.addEventListener('input', apply);
+  chips.forEach((c) => c.addEventListener('click', () => { lab = c.dataset.lab!; apply(); }));
+  let sortKey = '', dir = 1;
+  document.querySelectorAll<HTMLTableCellElement>('th[data-sort]').forEach((th) => {
+    th.tabIndex = 0;
+    const go = () => {
+      const k = th.dataset.sort!; dir = sortKey === k ? -dir : (k === 'date' || k === 'ctx' ? -1 : 1); sortKey = k;
+      const val = (r: HTMLTableRowElement) => {
+        if (k === 'ctx' || k === 'price') return Number(r.dataset[k]);
+        if (k === 'open') return r.dataset.open!;
+        if (k === 'date') return r.dataset.date || '0000';
+        return k === 'model' ? r.dataset.model! : r.dataset.lab!;
+      };
+      rows.sort((a, b) => { const x = val(a), y = val(b); return (x < y ? -1 : x > y ? 1 : 0) * dir; }).forEach((r) => tbody.appendChild(r));
+      document.querySelectorAll('th[data-sort]').forEach((h) => h.removeAttribute('aria-sort'));
+      th.setAttribute('aria-sort', dir > 0 ? 'ascending' : 'descending');
+    };
+    th.addEventListener('click', go); th.addEventListener('keydown', (e) => { if (e.key === 'Enter') go(); });
+  });
+  apply();
+</script>
+<style>
+  .lead { max-width: 760px; font-size: 1.05rem; }
+  .meta { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .filters { margin: 1.5rem 0; display: grid; gap: 1rem; }
+  .chips { display: flex; flex-wrap: wrap; gap: .5rem; }
+  .chip { background: var(--color-surface); border: 1px solid var(--color-border); color: var(--color-muted); border-radius: 999px; padding: .4rem .9rem; cursor: pointer; font: inherit; font-size: .85rem; }
+  .chip:hover { color: var(--color-text); } .chip.active { border-color: var(--color-cyan); color: var(--color-cyan); box-shadow: var(--glow-cyan); }
+  .table-wrap { overflow-x: auto; border: 1px solid var(--color-border); border-radius: var(--radius); background: linear-gradient(180deg, var(--color-surface-2), var(--color-surface)); }
+  table { width: 100%; border-collapse: collapse; font-size: .88rem; min-width: 1100px; }
+  th, td { padding: .75rem .8rem; text-align: left; vertical-align: top; border-bottom: 1px solid var(--color-border); }
+  th { font-family: var(--font-mono); font-size: .72rem; text-transform: uppercase; letter-spacing: .06em; color: var(--color-muted); position: sticky; top: 0; background: var(--color-surface-2); white-space: nowrap; }
+  th[data-sort] { cursor: pointer; } th[data-sort]::after { content: ' ⇅'; opacity: .5; }
+  th[aria-sort] { color: var(--color-cyan); text-shadow: var(--glow-cyan); }
+  tbody tr:hover { background: rgba(0,229,255,.05); }
+  .lab { color: var(--color-violet); font-weight: 600; white-space: nowrap; }
+  .id { display: block; font-family: var(--font-mono); font-size: .72rem; color: var(--color-muted); margin-top: .2rem; }
+  .mono { font-family: var(--font-mono); } .nowrap { white-space: nowrap; }
+  .note { display: block; font-size: .75rem; margin-top: .25rem; white-space: normal; max-width: 220px; }
+  .links-cell a { display: block; white-space: nowrap; }
+  .small { font-size: .8rem; margin-top: .75rem; }
+  .faq { margin: .75rem 0; } .faq summary { cursor: pointer; font-weight: 600; } .faq p { margin: .75rem 0 0; color: var(--color-muted); }
+  [hidden] { display: none !important; }
+</style>
