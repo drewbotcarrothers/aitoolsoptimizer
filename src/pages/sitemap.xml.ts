@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../data/categories';
+import { getAiNews } from '../data/aiNews';
 
 export const GET: APIRoute = async ({ site }) => {
   const base = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -8,6 +9,7 @@ export const GET: APIRoute = async ({ site }) => {
   const posts = await getCollection('blog', (p) => !p.data.draft);
   const paths = ['/', '/tools/', '/models/', '/about/', '/contact/', '/privacy/', '/cookies/', '/terms/', '/disclaimer/',
     ...(posts.length ? ['/blog/'] : []),
+    ...((await getAiNews()).length ? ['/ai-news/'] : []),
     ...Object.keys(categories).map((c) => `/tools/category/${c}/`),
     ...tools.map((t) => `/tools/${t.id}/`),
     ...posts.map((p) => `/blog/${p.id}/`)];

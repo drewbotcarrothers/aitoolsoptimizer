@@ -7,7 +7,7 @@ interface Props { title?: string; description?: string; noindex?: boolean; }
 const { title, noindex = false, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const hasPosts = (await getCollection('blog', (p) => !p.data.draft)).length > 0;
-const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ...(hasPosts ? [['/blog/', 'Blog']] : []), ['/about/', 'About'], ['/contact/', 'Contact']];
+const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/ai-news/', 'AI News'], ...(hasPosts ? [['/blog/', 'Blog']] : []), ['/about/', 'About'], ['/contact/', 'Contact']];
 const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404\/$/, '/404.html'), Astro.site).href;
 ---
 <!doctype html>
@@ -41,6 +41,7 @@ const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404
   </script>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7909541570116920" crossorigin="anonymous" is:inline></script>
   </Fragment>}
+  <slot name="head" />
 </head>
 <body>
   <header class="site-header">
@@ -61,7 +62,7 @@ const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404
         <p class="muted">{SITE.tagline}<br />Made by Andrew.<br /><a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a></p>
       </div>
       <div class="links">
-        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a>{hasPosts && <a href={url('/blog/')}>Blog</a>}<a href={url('/about/')}>About</a>
+        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a><a href={url('/ai-news/')}>AI News</a>{hasPosts && <a href={url('/blog/')}>Blog</a>}<a href={url('/about/')}>About</a>
         <a href={url('/contact/')}>Contact</a><a href={url('/privacy/')}>Privacy Policy</a><a href={url('/cookies/')}>Cookie Policy</a><a href={url('/terms/')}>Terms of Use</a><a href={url('/disclaimer/')}>Disclaimer</a>
       </div>
     </div>
