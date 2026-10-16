@@ -9,6 +9,8 @@ import { url, stars } from '../../data/url';
 export async function getStaticPaths() { return (await getCollection('tools')).map((t) => ({ params: { slug: t.id }, props: { tool: t } })); }
 const { tool } = Astro.props; const d = tool.data; const c = categories[d.category];
 const { Content } = await render(tool);
+const sp = d.startingPrice ?? '';
+const priceSentence = /\d/.test(sp) ? `Paid plans start at ${sp}${/per (month|mo)|monthly|\/mo|one-time|\/yr|annual/i.test(sp) ? '' : ' per month'} (USD).` : `Price: ${sp}.`;
 const all = await getCollection('tools');
 const alts = d.alternatives.map((s) => all.find((t) => t.id === s)).filter(Boolean);
 const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(tool.id) && !p.data.draft);
@@ -40,7 +42,7 @@ const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(to
           {d.cons.length > 0 && <div class="card cons"><h3>👎 Cons</h3><ul class="check">{d.cons.map((p) => <li>{p}</li>)}</ul></div>}
         </div>}
         {d.tips.length > 0 && <><h2>Tips &amp; tricks</h2><ol class="tips">{d.tips.map((t) => <li>{t}</li>)}</ol></>}
-        {d.startingPrice && <><h2>Pricing</h2><p>{d.pricingModel && <>{d.pricingModel}. </>}Paid plans start at <b>{d.startingPrice}</b>{/per (month|mo)|monthly|\/mo|one-time|\/yr|annual/i.test(d.startingPrice) ? '' : ' per month'} (USD).{d.freePlan && <> Free plan: {d.freePlan}.</>}</p></>}
+        {d.startingPrice && <><h2>Pricing</h2><p>{d.pricingModel && <>{d.pricingModel}. </>}{priceSentence}{d.freePlan && <> Free plan: {d.freePlan}.</>}</p></>}
         {d.sourceUrls.length > 0 && <p class="muted sources">Sources: {d.sourceUrls.map((s, i) => <>{i > 0 && ' · '}<a href={s} target="_blank" rel="noopener nofollow">{new URL(s).hostname.replace(/^www\./, '')}</a></>)}</p>}
         <AdSlot label="Ad slot — in-content 300×250 (placeholder)" />
       </div>
