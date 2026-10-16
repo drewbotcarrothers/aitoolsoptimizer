@@ -49,6 +49,15 @@ const tools = defineCollection({
     alternatives: z.array(z.string()).default([]),
     lastUpdated: z.coerce.date(),
     sample: z.boolean().default(false),
+    seoTitle: z.string().optional(),
+    seoDescription: z.string().optional(),
+    verdict: z.string().optional(),
+    takeaways: z.array(z.string()).default([]),
+    platforms: z.string().optional(),
+    idealFor: z.array(z.string()).default([]),
+    notFor: z.array(z.string()).default([]),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+    sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
   }),
 });
 

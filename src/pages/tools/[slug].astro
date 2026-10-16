@@ -4,66 +4,159 @@ import ToolCard from '../../components/ToolCard.astro';
 import PostCard from '../../components/PostCard.astro';
 import { getCollection, render } from 'astro:content';
 import { categories } from '../../data/categories';
-import { url, stars } from '../../data/url';
+import { url } from '../../data/url';
 export async function getStaticPaths() { return (await getCollection('tools')).map((t) => ({ params: { slug: t.id }, props: { tool: t } })); }
 const { tool } = Astro.props; const d = tool.data; const c = categories[d.category];
-const { Content } = await render(tool);
-const sp = d.startingPrice ?? '';
-const priceSentence = /\d/.test(sp) ? `Paid plans start at ${sp}${/per (month|mo)|monthly|\/mo|one-time|\/yr|annual/i.test(sp) ? '' : ' per month'} (USD).` : `Price: ${sp}.`;
+const { Content, headings } = await render(tool);
 const all = await getCollection('tools');
-const alts = d.alternatives.map((s) => all.find((t) => t.id === s)).filter(Boolean);
+const alts = d.alternatives.map((s) => all.find((t) => t.id === s)).filter((t): t is NonNullable<typeof t> => Boolean(t));
+const related = all.filter((t) => t.data.category === d.category && t.id !== tool.id && !d.alternatives.includes(t.id)).slice(0, 6);
 const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(tool.id) && !p.data.draft);
+const rich = Boolean(d.verdict);
+const checked = (d.lastVerified ?? d.lastUpdated).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' });
+const sources = d.sources.length ? d.sources : d.sourceUrls.map((u) => ({ title: new URL(u).hostname.replace(/^www\./, '') + new URL(u).pathname.replace(/\/$/, ''), url: u }));
+// reading time: body + structured text
+const text = [tool.body ?? '', d.verdict ?? '', ...d.takeaways, ...d.pros, ...d.cons, ...d.idealFor, ...d.notFor, ...d.faq.flatMap((f) => [f.q, f.a])].join(' ');
+const words = text.split(/\s+/).filter(Boolean).length;
+const minutes = Math.max(1, Math.round(words / 225));
+const toc = [
+  ...(rich ? [['verdict', 'Quick verdict'], ['at-a-glance', 'At a glance']] : []),
+  ...headings.filter((h) => h.depth === 2).map((h) => [h.slug, h.text]),
+  ...((d.pros.length || d.cons.length) ? [['pros-and-cons', 'Pros and cons']] : []),
+  ...((d.idealFor.length || d.notFor.length) ? [['who-should-use-it', 'Who should use it']] : []),
+  ...(alts.length ? [['alternatives', `${d.name} alternatives`]] : []),
+  ...(d.faq.length ? [['faq', 'FAQ']] : []),
+  ...(sources.length ? [['sources', 'Sources']] : []),
+];
+const title = d.seoTitle ?? `${d.name} Review ${new Date().getUTCFullYear()}: Pricing, Features & Alternatives`;
+const description = d.seoDescription ?? `${d.name}: ${d.tagline.replace(/\.$/, '')}. Pricing, free plan, key features and use cases.`;
+const pageUrl = new URL(url(`/tools/${tool.id}/`), Astro.site).href;
+const ld: any[] = [{
+  '@context': 'https://schema.org', '@type': 'SoftwareApplication', name: d.name, url: d.website, description: d.description,
+  applicationCategory: d.subcategory ?? c.name, operatingSystem: d.platforms ?? 'Web',
+  ...(d.company ? { publisher: { '@type': 'Organization', name: d.company } } : {}),
+  ...(d.logo ? { image: new URL(url(d.logo), Astro.site).href } : {}),
+  ...(d.pricing !== 'paid' ? { offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD', description: d.freePlan ?? 'Free plan available' } } : {}),
+  ...(d.rating != null ? {} : {}),
+}, {
+  '@context': 'https://schema.org', '@type': 'Article', headline: title, description, url: pageUrl, dateModified: (d.lastVerified ?? d.lastUpdated).toISOString().slice(0, 10),
+  author: { '@type': 'Person', name: 'Andrew' }, publisher: { '@type': 'Organization', name: 'AI Tools Optimizer', url: 'https://aitoolsoptimizer.com' },
+}, {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Tools', item: new URL(url('/tools/'), Astro.site).href },
+    { '@type': 'ListItem', position: 2, name: c.name, item: new URL(url(`/tools/category/${d.category}/`), Astro.site).href },
+    { '@type': 'ListItem', position: 3, name: d.name, item: pageUrl }],
+}];
+if (d.faq.length) ld.push({ '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: d.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) });
 ---
-<Base title={d.rating != null ? `${d.name} Review` : `${d.name}: Pricing, Features & Use Cases`} description={`${d.name}: ${d.tagline.replace(/\.$/, '')}. Pricing, free plan, key features and use cases.`}>
+<Base title={title} description={description}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
   <article class="container section">
-    <a href={url(`/tools/category/${d.category}/`)}>← {c.icon} {c.name}</a>
-    <div class="head">
-      {d.logo ? <span class="logo-tile"><img src={url(d.logo)} alt={`${d.name} official logo`} width="72" height="72" loading="lazy" decoding="async" /></span> : <span class="avatar">{d.name[0]}</span>}
+    <nav class="crumbs" aria-label="Breadcrumb"><a href={url('/tools/')}>Tools</a> › <a href={url(`/tools/category/${d.category}/`)}>{c.icon} {c.name}</a> › <span>{d.name}</span></nav>
+    <header class="head">
+      {d.logo ? <span class="logo-tile"><img src={url(d.logo)} alt={`${d.name} official logo`} width="72" height="72" decoding="async" /></span> : <span class="avatar">{d.name[0]}</span>}
       <div>
-        <h1>{d.name}</h1>
+        <h1>{d.name} review</h1>
         <p class="muted tag">{d.tagline}</p>
-        <div class="meta">{d.rating != null && <><span class="stars">{stars(d.rating)}</span> <b>{d.rating.toFixed(1)}</b>/5</>} <span class={`pill ${d.pricing}`}>{d.pricing}</span></div>
+        <div class="meta"><span class={`pill ${d.pricing}`}>{d.pricing}</span><span class="pill">⏱ {minutes} min read</span><span class="pill">Checked {checked}</span><span class="pill">By Andrew</span></div>
       </div>
       <div class="cta card">
         <a class="btn" href={d.affiliateUrl || d.website} rel="nofollow sponsored noopener" target="_blank">Visit {d.name} →</a>
-        <small class="muted">{d.lastVerified ? 'Official website · verified' : 'Updated'} {(d.lastVerified ?? d.lastUpdated).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</small>
+        <small class="muted">Official website</small>
       </div>
-    </div>
+    </header>
+
+    {rich && <section id="verdict" class="verdict card">
+      <h2>⚡ Quick verdict</h2>
+      <p class="lead">{d.verdict}</p>
+      {d.takeaways.length > 0 && <><h3>Key takeaways</h3><ul class="check">{d.takeaways.map((t) => <li>{t}</li>)}</ul></>}
+    </section>}
+
     <div class="layout">
-      <div class="prose">
-        <h2>Overview</h2><p>{d.description}</p>
-        <Content />
-        {d.bestFor && <><h2>Who it's for</h2><p>{d.bestFor}</p></>}
-        {d.keyFeatures.length > 0 && <><h2>Key features</h2><ul class="check">{d.keyFeatures.map((f) => <li>{f}</li>)}</ul></>}
-        {d.useCases.length > 0 && <><h2>Best use cases</h2><ul class="check">{d.useCases.map((u) => <li>{u}</li>)}</ul></>}
-        {(d.pros.length > 0 || d.cons.length > 0) && <div class="two-col">
-          {d.pros.length > 0 && <div class="card pros"><h3>👍 Pros</h3><ul class="check">{d.pros.map((p) => <li>{p}</li>)}</ul></div>}
-          {d.cons.length > 0 && <div class="card cons"><h3>👎 Cons</h3><ul class="check">{d.cons.map((p) => <li>{p}</li>)}</ul></div>}
-        </div>}
-        {d.tips.length > 0 && <><h2>Tips &amp; tricks</h2><ol class="tips">{d.tips.map((t) => <li>{t}</li>)}</ol></>}
-        {d.startingPrice && <><h2>Pricing</h2><p>{d.pricingModel && <>{d.pricingModel}. </>}{priceSentence}{d.freePlan && <> Free plan: {d.freePlan}.</>}</p></>}
-        {d.sourceUrls.length > 0 && <p class="muted sources">Sources: {d.sourceUrls.map((s, i) => <>{i > 0 && ' · '}<a href={s} target="_blank" rel="noopener nofollow">{new URL(s).hostname.replace(/^www\./, '')}</a></>)}</p>}
+      <div class="main">
+        {rich && <section id="at-a-glance"><h2>At a glance</h2>
+          <div class="table-wrap"><table class="glance"><tbody>
+            {d.bestFor && <tr><th>Best for</th><td>{d.bestFor}</td></tr>}
+            {d.startingPrice && <tr><th>Pricing from (USD)</th><td>{d.startingPrice}</td></tr>}
+            <tr><th>Free plan</th><td>{d.freePlan ?? (d.pricing === 'paid' ? 'No' : 'Yes')}</td></tr>
+            {d.platforms && <tr><th>Platforms</th><td>{d.platforms}</td></tr>}
+            {d.company && <tr><th>Company</th><td>{d.company}</td></tr>}
+            <tr><th>Category</th><td><a href={url(`/tools/category/${d.category}/`)}>{c.name}</a></td></tr>
+            <tr><th>Last checked</th><td>{checked}</td></tr>
+          </tbody></table></div>
+        </section>}
+
+        <details class="toc-mobile card"><summary>On this page</summary><ol>{toc.map(([id, t]) => <li><a href={`#${id}`}>{t}</a></li>)}</ol></details>
+
+        <div class="prose">
+          {!rich && <><h2 id="overview">Overview</h2><p>{d.description}</p></>}
+          <Content />
+          {!rich && d.keyFeatures.length > 0 && <><h2>Key features</h2><ul class="check">{d.keyFeatures.map((f) => <li>{f}</li>)}</ul></>}
+          {!rich && d.useCases.length > 0 && <><h2>Best use cases</h2><ul class="check">{d.useCases.map((u) => <li>{u}</li>)}</ul></>}
+          {!rich && d.startingPrice && <><h2>Pricing</h2><p>{d.pricingModel && <>{d.pricingModel}. </>}From {d.startingPrice} (USD).</p></>}
+
+          {(d.pros.length > 0 || d.cons.length > 0) && <section id="pros-and-cons"><h2>Pros and cons</h2><div class="two-col">
+            {d.pros.length > 0 && <div class="card pros"><h3>👍 Pros</h3><ul class="check">{d.pros.map((p) => <li>{p}</li>)}</ul></div>}
+            {d.cons.length > 0 && <div class="card cons"><h3>👎 Cons</h3><ul class="check">{d.cons.map((p) => <li>{p}</li>)}</ul></div>}
+          </div></section>}
+
+          {(d.idealFor.length > 0 || d.notFor.length > 0) && <section id="who-should-use-it"><h2>Who should (and shouldn't) use {d.name}</h2><div class="two-col">
+            {d.idealFor.length > 0 && <div class="card pros"><h3>✅ A good fit if you…</h3><ul class="check">{d.idealFor.map((p) => <li>{p}</li>)}</ul></div>}
+            {d.notFor.length > 0 && <div class="card cons"><h3>⛔ Look elsewhere if you…</h3><ul class="check">{d.notFor.map((p) => <li>{p}</li>)}</ul></div>}
+          </div></section>}
+
+          {alts.length > 0 && <section id="alternatives"><h2>{d.name} alternatives</h2>
+            <ul class="alts">{alts.map((t) => <li><a href={url(`/tools/${t.id}/`)}><b>{t.data.name}</b></a> — {t.data.tagline} <span class="muted">({t.data.startingPrice ? `from ${t.data.startingPrice}` : t.data.pricing})</span></li>)}</ul>
+          </section>}
+
+          {d.faq.length > 0 && <section id="faq"><h2>FAQ</h2>{d.faq.map((f) => <details class="faq card"><summary>{f.q}</summary><p>{f.a}</p></details>)}</section>}
+
+          {sources.length > 0 && <section id="sources"><h2>Sources</h2>
+            <p class="muted small">This is an editorial review based on research of official {d.name} pages and documentation, not hands-on benchmark testing. Prices are in USD and were checked on {checked}; vendors change plans often, so confirm on the official pricing page before buying.</p>
+            <ol class="sources">{sources.map((s) => <li><a href={s.url} target="_blank" rel="noopener nofollow">{s.title}</a></li>)}</ol>
+          </section>}
+        </div>
       </div>
       <aside>
-        <div class="card"><h3>At a glance</h3><dl>
-          <dt>Category</dt><dd>{c.name}</dd>{d.subcategory && <><dt>Type</dt><dd>{d.subcategory}</dd></>}{d.company && <><dt>Company</dt><dd>{d.company}</dd></>}<dt>Pricing</dt><dd>{d.pricingModel ?? d.pricing}</dd>{d.startingPrice && <><dt>From (USD)</dt><dd>{d.startingPrice}</dd></>}{d.freePlan && <><dt>Free plan</dt><dd>{d.freePlan}</dd></>}{d.rating != null && <><dt>Rating</dt><dd>{d.rating}/5</dd></>}<dt>Website</dt><dd><a href={d.website} target="_blank" rel="noopener">{new URL(d.website).hostname}</a></dd>
-        </dl></div>
+        <nav class="toc card" aria-label="Table of contents"><h3>On this page</h3><ol>{toc.map(([id, t]) => <li><a href={`#${id}`}>{t}</a></li>)}</ol></nav>
+        <a class="btn side-cta" href={d.affiliateUrl || d.website} rel="nofollow sponsored noopener" target="_blank">Try {d.name} →</a>
       </aside>
     </div>
-    {alts.length > 0 && <section class="section"><h2>Alternatives to {d.name}</h2><div class="grid">{alts.map((t) => <ToolCard tool={t} />)}</div></section>}
+    {related.length > 0 && <section class="section"><h2>Related {c.name.toLowerCase()} tools</h2><div class="grid">{related.map((t) => <ToolCard tool={t} />)}</div></section>}
     {posts.length > 0 && <section><h2>Related guides</h2><div class="grid">{posts.map((p) => <PostCard post={p} />)}</div></section>}
   </article>
 </Base>
 <style>
-  .head { display: grid; grid-template-columns: auto 1fr auto; gap: 1.5rem; align-items: center; margin: 1.5rem 0 2rem; }
+  .crumbs { font-size: .88rem; color: var(--color-muted); } .crumbs span { color: var(--color-text); }
+  .head { display: grid; grid-template-columns: auto 1fr auto; gap: 1.5rem; align-items: center; margin: 1.25rem 0 1.5rem; }
   .avatar { width: 84px; height: 84px; border-radius: 22px; display: grid; place-items: center; font-family: var(--font-display); font-size: 2.4rem; font-weight: 800; background: var(--gradient-brand); color: var(--color-bg); box-shadow: var(--glow-violet); }
-  h1 { margin: 0; } .tag { margin: .2rem 0 .5rem; } .meta { display: flex; gap: .6rem; align-items: center; flex-wrap: wrap; }
+  h1 { margin: 0; line-height: 1.15; } .tag { margin: .3rem 0 .6rem; } .meta { display: flex; gap: .5rem; align-items: center; flex-wrap: wrap; }
   .cta { display: flex; flex-direction: column; gap: .5rem; text-align: center; }
-  .layout { display: grid; grid-template-columns: 1fr 300px; gap: 2rem; } aside { position: sticky; top: 80px; align-self: start; }
-  dl { display: grid; grid-template-columns: auto 1fr; gap: .4rem 1rem; margin: 0; } dt { color: var(--color-muted); }
-  .pros { border-color: rgba(124,255,178,.35); } .cons { border-color: rgba(255,61,206,.35); } .pros h3, .cons h3 { margin-top: 0; }
-  .sources { font-size: .85rem; margin-top: 1.5rem; } .tips li { margin-bottom: .5rem; } .tips li::marker { color: var(--color-violet); font-family: var(--font-mono); }
-  @media (max-width: 900px) { .head, .layout { grid-template-columns: 1fr; } aside { position: static; } }
+  .verdict { border-color: rgba(0,229,255,.45); box-shadow: var(--glow-cyan); margin-bottom: 2rem; background: linear-gradient(135deg, rgba(0,229,255,.07), rgba(139,92,246,.08) 60%, rgba(255,61,206,.06)), var(--color-surface); }
+  .verdict h2 { margin-top: 0; font-size: 1.3rem; } .verdict h3 { font-size: 1rem; margin: 1rem 0 .3rem; color: var(--color-cyan); } .lead { font-size: 1.08rem; }
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 2.5rem; }
+  .main { min-width: 0; } .prose { max-width: 780px; }
+  aside { position: sticky; top: 80px; align-self: start; display: grid; gap: 1rem; max-height: calc(100vh - 100px); overflow: auto; }
+  .toc h3 { margin: 0 0 .5rem; font-size: .95rem; } .toc ol, .toc-mobile ol { margin: 0; padding-left: 1.2rem; font-size: .9rem; } .toc li, .toc-mobile li { margin: .25rem 0; }
+  .toc a, .toc-mobile a { color: var(--color-muted); } .toc a:hover { color: var(--color-cyan); }
+  .side-cta { text-align: center; }
+  .toc-mobile { display: none; margin: 1rem 0; } .toc-mobile summary { cursor: pointer; font-weight: 600; color: var(--color-cyan); }
+  .table-wrap { overflow-x: auto; }
+  .glance, .prose :global(table) { width: 100%; border-collapse: collapse; font-size: .95rem; background: var(--color-surface); border: 1px solid var(--color-border); border-radius: 12px; overflow: hidden; }
+  .glance th, .glance td, .prose :global(th), .prose :global(td) { padding: .6rem .8rem; border-bottom: 1px solid var(--color-border); text-align: left; vertical-align: top; }
+  .glance th { width: 38%; color: var(--color-muted); font-weight: 600; } .prose :global(th) { background: var(--color-surface-2); color: var(--color-cyan); }
+  .prose :global(h2) { scroll-margin-top: 80px; padding-top: .5rem; border-top: 1px solid var(--color-border); }
+  .prose :global(h3) { color: var(--color-text); margin-top: 1.5rem; }
+  .prose :global(blockquote) { margin: 1rem 0; padding: .8rem 1rem; border-left: 3px solid var(--color-violet); background: var(--color-surface-2); border-radius: 8px; font-family: var(--font-mono); font-size: .9rem; }
+  .prose :global(li) { margin: .3rem 0; }
+  section[id] { scroll-margin-top: 80px; }
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .pros { border-color: rgba(124,255,178,.35); } .cons { border-color: rgba(255,61,206,.35); } .pros h3, .cons h3 { margin-top: 0; font-size: 1rem; }
+  .alts li { margin: .5rem 0; }
+  .faq { margin: .6rem 0; padding: .9rem 1.1rem; } .faq summary { cursor: pointer; font-weight: 600; } .faq[open] { border-color: rgba(0,229,255,.4); } .faq p { margin: .6rem 0 0; }
+  .sources { font-size: .88rem; word-break: break-word; } .small { font-size: .85rem; }
+  @media (max-width: 960px) { .head, .layout { grid-template-columns: 1fr; } aside { display: none; } .toc-mobile { display: block; } .cta { text-align: left; } }
+  @media (max-width: 640px) { .two-col { grid-template-columns: 1fr; } .head { gap: 1rem; } h1 { font-size: 1.7rem; } .glance th { width: 42%; } }
   .logo-tile { width: 84px; height: 84px; border-radius: 22px; background: #f4f5f8; display: grid; place-items: center; flex: none; overflow: hidden; box-shadow: var(--glow-violet); }
   .logo-tile img { width: 72px; height: 72px; object-fit: contain; border-radius: 14px; }
 </style>

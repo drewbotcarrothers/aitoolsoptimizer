@@ -1,0 +1,610 @@
+{
+  "tools": {
+    "adcreative-ai": {
+      "status": "done",
+      "words": 1446,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "adobe-express": {
+      "status": "done",
+      "words": 1380,
+      "sources": 5,
+      "lastChecked": "2026-10-16"
+    },
+    "adobe-firefly": {
+      "status": "done",
+      "words": 1481,
+      "sources": 4,
+      "lastChecked": "2026-10-16"
+    },
+    "apollo-io": {
+      "status": "done",
+      "words": 1502,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "beautiful-ai": {
+      "status": "done",
+      "words": 1110,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "bolt-new": {
+      "status": "done",
+      "words": 1302,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "brisk-teaching": {
+      "status": "done",
+      "words": 1152,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "canva": {
+      "status": "done",
+      "words": 1230,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "capcut": {
+      "status": "done",
+      "words": 1254,
+      "sources": 4,
+      "lastChecked": "2026-10-16"
+    },
+    "chatbase": {
+      "status": "done",
+      "words": 1132,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "chatgpt": {
+      "status": "done",
+      "words": 1412,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "claude-code": {
+      "status": "done",
+      "words": 1306,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "claude": {
+      "status": "done",
+      "words": 1447,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "clay": {
+      "status": "done",
+      "words": 1202,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "clickup-brain": {
+      "status": "done",
+      "words": 1165,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "consensus": {
+      "status": "done",
+      "words": 1086,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "copy-ai": {
+      "status": "done",
+      "words": 1118,
+      "sources": 2,
+      "lastChecked": "2026-10-16"
+    },
+    "cursor": {
+      "status": "done",
+      "words": 1315,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "dall-e": {
+      "status": "done",
+      "words": 1219,
+      "sources": 4,
+      "lastChecked": "2026-10-16"
+    },
+    "deepseek": {
+      "status": "done",
+      "words": 1234,
+      "sources": 3,
+      "lastChecked": "2026-10-16"
+    },
+    "descript": {
+      "status": "pending",
+      "words": 286,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "devin-desktop": {
+      "status": "pending",
+      "words": 244,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "duolingo-max": {
+      "status": "pending",
+      "words": 225,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "elevenlabs": {
+      "status": "pending",
+      "words": 257,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "elicit": {
+      "status": "pending",
+      "words": 192,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "fathom": {
+      "status": "pending",
+      "words": 219,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "figma": {
+      "status": "pending",
+      "words": 202,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "fireflies-ai": {
+      "status": "pending",
+      "words": 222,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "flux": {
+      "status": "pending",
+      "words": 265,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "frase": {
+      "status": "pending",
+      "words": 201,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "gamma": {
+      "status": "pending",
+      "words": 167,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "gemini-notebook": {
+      "status": "pending",
+      "words": 212,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "gemini": {
+      "status": "pending",
+      "words": 359,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "github-copilot": {
+      "status": "pending",
+      "words": 287,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "gong": {
+      "status": "pending",
+      "words": 172,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "google-flow": {
+      "status": "pending",
+      "words": 250,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "grammarly": {
+      "status": "pending",
+      "words": 251,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "granola": {
+      "status": "pending",
+      "words": 224,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "grok": {
+      "status": "pending",
+      "words": 276,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "hex": {
+      "status": "pending",
+      "words": 135,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "heygen": {
+      "status": "pending",
+      "words": 233,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "higgsfield": {
+      "status": "pending",
+      "words": 227,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "hubspot": {
+      "status": "pending",
+      "words": 217,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "ideogram": {
+      "status": "pending",
+      "words": 252,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "instantly": {
+      "status": "pending",
+      "words": 176,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "intercom-fin": {
+      "status": "pending",
+      "words": 188,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "invideo-ai": {
+      "status": "pending",
+      "words": 232,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "jasper": {
+      "status": "pending",
+      "words": 242,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "julius-ai": {
+      "status": "pending",
+      "words": 192,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "khanmigo": {
+      "status": "pending",
+      "words": 221,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "kling-ai": {
+      "status": "pending",
+      "words": 232,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "krea": {
+      "status": "pending",
+      "words": 251,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "leonardo-ai": {
+      "status": "pending",
+      "words": 254,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "lindy": {
+      "status": "pending",
+      "words": 198,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "looka": {
+      "status": "pending",
+      "words": 197,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "lovable": {
+      "status": "pending",
+      "words": 234,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "luma-ai": {
+      "status": "pending",
+      "words": 242,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "magicschool": {
+      "status": "pending",
+      "words": 222,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "magnific": {
+      "status": "pending",
+      "words": 261,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "make": {
+      "status": "pending",
+      "words": 222,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "manus": {
+      "status": "pending",
+      "words": 207,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "meta-ai": {
+      "status": "pending",
+      "words": 254,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "microsoft-copilot": {
+      "status": "pending",
+      "words": 271,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "midjourney": {
+      "status": "pending",
+      "words": 310,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "mistral-vibe": {
+      "status": "pending",
+      "words": 272,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "motion": {
+      "status": "pending",
+      "words": 180,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "murf-ai": {
+      "status": "pending",
+      "words": 214,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "n8n": {
+      "status": "pending",
+      "words": 196,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "napkin-ai": {
+      "status": "pending",
+      "words": 194,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "notion-ai": {
+      "status": "pending",
+      "words": 258,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "openai-codex": {
+      "status": "pending",
+      "words": 243,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "opusclip": {
+      "status": "pending",
+      "words": 235,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "otter-ai": {
+      "status": "pending",
+      "words": 220,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "perplexity": {
+      "status": "pending",
+      "words": 264,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "pika": {
+      "status": "pending",
+      "words": 231,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "pitch": {
+      "status": "pending",
+      "words": 155,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "plus-ai": {
+      "status": "pending",
+      "words": 180,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "poe": {
+      "status": "pending",
+      "words": 263,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "quillbot": {
+      "status": "pending",
+      "words": 193,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "quizlet": {
+      "status": "pending",
+      "words": 223,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "read-ai": {
+      "status": "pending",
+      "words": 218,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "reclaim-ai": {
+      "status": "pending",
+      "words": 184,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "relevance-ai": {
+      "status": "pending",
+      "words": 208,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "replit": {
+      "status": "pending",
+      "words": 238,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "runway": {
+      "status": "pending",
+      "words": 282,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "semrush": {
+      "status": "pending",
+      "words": 211,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "speak": {
+      "status": "pending",
+      "words": 215,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "speechify": {
+      "status": "pending",
+      "words": 222,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "sudowrite": {
+      "status": "pending",
+      "words": 191,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "suno": {
+      "status": "pending",
+      "words": 228,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "surfer-seo": {
+      "status": "pending",
+      "words": 208,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "synthesia": {
+      "status": "pending",
+      "words": 284,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "tidio": {
+      "status": "pending",
+      "words": 185,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "tl-dv": {
+      "status": "pending",
+      "words": 211,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "udio": {
+      "status": "pending",
+      "words": 217,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "v0": {
+      "status": "pending",
+      "words": 233,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "wispr-flow": {
+      "status": "pending",
+      "words": 226,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "writesonic": {
+      "status": "pending",
+      "words": 190,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "zapier": {
+      "status": "pending",
+      "words": 228,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    },
+    "zendesk-ai": {
+      "status": "pending",
+      "words": 184,
+      "sources": 0,
+      "lastChecked": "2026-10-15"
+    }
+  },
+  "summary": {
+    "done": 20,
+    "total": 100,
+    "averageWords": 1275,
+    "updated": "2026-10-16T09:55:21.147Z"
+  }
+}
