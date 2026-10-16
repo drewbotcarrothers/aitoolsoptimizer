@@ -3,8 +3,9 @@
 declare(strict_types=1);
 
 const TO_ADDRESS   = 'contact@aitoolsoptimizer.com';
-const FROM_ADDRESS = 'no-reply@aitoolsoptimizer.com';
-const FROM_NAME    = 'AI Tools Optimizer';
+// Hostinger only relays mail() From an existing mailbox on the domain.
+const FROM_ADDRESS = 'contact@aitoolsoptimizer.com';
+const FROM_NAME    = 'AI Tools Optimizer Website';
 const MIN_SECONDS  = 3;        // form must be open at least this long
 const MAX_AGE      = 86400;    // ...and no more than a day
 const RATE_LIMIT   = 5;        // submissions per IP...
@@ -84,5 +85,7 @@ $headers = implode("\r\n", [
   'X-Mailer: aitoolsoptimizer-contact',
 ]);
 $ok = @mail(TO_ADDRESS, $subject, $body, $headers, '-f' . FROM_ADDRESS);
+if (!$ok) $ok = @mail(TO_ADDRESS, $subject, $body, $headers); // some hosts reject -f
+if (!$ok) error_log('contact.php: mail() failed: ' . json_encode(error_get_last()));
 if (!$ok) respond(false, 'Sorry, the message could not be sent right now. Please email us directly.', 500);
 respond(true, "Thanks, $name! Your message has been sent. Andrew will get back to you soon.");
