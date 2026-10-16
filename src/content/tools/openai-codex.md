@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid (included in ChatGPT plans)"
 startingPrice: "$20 (ChatGPT Plus)"
 website: "https://openai.com/codex"
+logo: "/logos/openai-codex.png"
 bestFor: "Developers, ChatGPT subscribers"
 keyFeatures: ["Cloud & local agents","IDE/CLI","Merged with ChatGPT Work"]
 useCases: ["Code generation & PRs","Bug fixing","Knowledge-work automation"]

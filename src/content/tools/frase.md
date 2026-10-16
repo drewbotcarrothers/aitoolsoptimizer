@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$39 (annual); $49 monthly"
 freePlan: "No (7-day trial)"
 website: "https://www.frase.io"
+logo: "/logos/frase.png"
 bestFor: "Bloggers, content marketers"
 keyFeatures: ["SERP research","Briefs","AI writer","Optimization score"]
 useCases: ["Content briefs","SEO writing","SERP research"]

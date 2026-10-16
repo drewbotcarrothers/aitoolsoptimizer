@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9.99 (Microsoft 365 Personal incl. Copilot); Premium $19.99"
 freePlan: "Yes"
 website: "https://copilot.microsoft.com"
+logo: "/logos/microsoft-copilot.png"
 bestFor: "Microsoft 365 users, office workers, enterprises"
 keyFeatures: ["Copilot in Word/Excel/PowerPoint/Outlook","Free consumer chat","Microsoft 365 Premium advanced features"]
 useCases: ["Drafting in Word/Outlook","Excel analysis","PowerPoint creation","Web Q&A","Windows help"]

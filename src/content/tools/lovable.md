@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$25 (Pro)"
 freePlan: "Yes"
 website: "https://lovable.dev"
+logo: "/logos/lovable.png"
 bestFor: "Non-technical founders, product managers, creators"
 keyFeatures: ["Chat-to-app","Backend","GitHub sync","One-click deploy"]
 useCases: ["MVPs & prototypes","Internal tools","Landing pages","SaaS apps"]

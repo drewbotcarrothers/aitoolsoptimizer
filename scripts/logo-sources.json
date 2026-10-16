@@ -1,0 +1,402 @@
+{
+ "microsoft-copilot": {
+  "src": "https://copilot.microsoft.com/static/cmc/favicon.svg",
+  "w": 500
+ },
+ "perplexity": {
+  "src": "https://www.perplexity.ai/apple-touch-icon.png",
+  "w": 180
+ },
+ "adobe-firefly": {
+  "src": "https://firefly.adobe.com/releases/26846a22ee83a608753f5f9177e7586c50d2f6c8/assets/fi_android_192-DXlUnW6D.png",
+  "w": 192
+ },
+ "claude": {
+  "src": "https://claude.ai/apple-touch-icon.png",
+  "w": 180
+ },
+ "consensus": {
+  "src": "https://consensus.app/favicon.svg",
+  "w": 833
+ },
+ "clickup-brain": {
+  "src": "https://clickup.com/favicons/apple-touch-icon.png",
+  "w": 192
+ },
+ "khanmigo": {
+  "src": "https://cdn.prod.website-files.com/659ee90e075c502b5cc49dae/659ee90e075c502b5cc49e16_KA_Favicon_72x72.png",
+  "w": 256
+ },
+ "bolt-new": {
+  "src": "https://bolt.new/static/favicon.svg",
+  "w": 67
+ },
+ "copy-ai": {
+  "src": "https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6793eea6a090d6d2f4fa5570_favicon_256x256%20(2).png",
+  "w": 256
+ },
+ "lovable": {
+  "src": "https://lovable.dev/apple-touch-icon.png",
+  "w": 180
+ },
+ "read-ai": {
+  "src": "https://cdn.prod.website-files.com/614e5e239ea0f25fe5b6a797/615f71de842b191ea061fda6_ReadLogomark_256x256.png",
+  "w": 256
+ },
+ "instantly": {
+  "src": "https://cdn.prod.website-files.com/63860c8c65e7bef4a1eeebeb/63f62e4d1df86f1bf7f133d5_cleaned_rounded.png",
+  "w": 256
+ },
+ "make": {
+  "src": "https://cdn.prod.website-files.com/6a294495bc84130c6dd0c4fd/6a7b9441e295d2f297063147_favicon-32x32.png",
+  "w": 512
+ },
+ "quillbot": {
+  "src": "google-t2",
+  "w": 48
+ },
+ "magicschool": {
+  "src": "https://cdn.prod.website-files.com/645187265d5e5e386be40629/69446a3bf302af048b1b6297_Webclip_256x256.webp",
+  "w": 256
+ },
+ "midjourney": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "dall-e": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "ideogram": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "relevance-ai": {
+  "src": "https://cdn.relevanceai.com/images/favicon-256x256.png",
+  "w": 256
+ },
+ "semrush": {
+  "src": "https://www.semrush.com/__static__/favicon.37cab19e6995.svg",
+  "w": 200
+ },
+ "wispr-flow": {
+  "src": "https://cdn.prod.website-files.com/682f84b3838c89f8ff7667db/68d27d1a8a10f417b5644527_flow-wc-v2.png",
+  "w": 256
+ },
+ "grok": {
+  "src": "https://grok.com/images/favicon.svg",
+  "w": 2133
+ },
+ "fathom": {
+  "src": "https://cdn.prod.website-files.com/6899da9beccbdbe92be49b5d/6a4282cf5eaacfd4a9c45526_fathom_favicon.png",
+  "w": 512
+ },
+ "brisk-teaching": {
+  "src": "https://cdn.prod.website-files.com/6a6b7e36c7e8274794581e32/6a6b7e36c7e8274794582e23_Brisk%20Logo.png",
+  "w": 512
+ },
+ "gamma": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "flux": {
+  "src": "https://bfl.ai/icon0.svg?7e050ff634b43f18",
+  "w": 1083
+ },
+ "julius-ai": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "gemini": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "jasper": {
+  "src": "https://cdn.prod.website-files.com/6807ee8d73c233fb82842313/681e121f9445a06741087852_Webclip.png",
+  "w": 256
+ },
+ "suno": {
+  "src": "https://cdn-o.suno.com/favicon-512x512.png",
+  "w": 512
+ },
+ "frase": {
+  "src": "https://www.frase.io/favicon-192x192.png",
+  "w": 192
+ },
+ "synthesia": {
+  "src": "https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6618fd69d436784c0bba5e9e_webclip.png",
+  "w": 256
+ },
+ "chatgpt": {
+  "src": "https://chatgpt.com/cdn/assets/favicon-l4nq08hd.svg",
+  "w": 750
+ },
+ "speak": {
+  "src": "https://www.speak.com/cdn.prod.website-files.com/61a88c135006e8345b005efd/686a5c29b8678b5802ceb837_WebIcon.png",
+  "w": 256
+ },
+ "lindy": {
+  "src": "https://www.lindy.ai/_sherpa/assets/static/lindy/69f7b166c2e11ba39f7b2b9e_lindy-avatar-favicon.png",
+  "w": 512
+ },
+ "claude-code": {
+  "src": "https://claude.com/apple-touch-icon.png",
+  "w": 180
+ },
+ "adobe-express": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "meta-ai": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "deepseek": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "quizlet": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "duolingo-max": {
+  "src": "https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png",
+  "w": 180
+ },
+ "sudowrite": {
+  "src": "https://framerusercontent.com/images/QCeJzXxRJC6SF9Wc7FSkc1qkA.png",
+  "w": 512
+ },
+ "speechify": {
+  "src": "https://speechify.com/apple-icon.png?apple-icon.0ek7crgmoxfjk.png",
+  "w": 180
+ },
+ "fireflies-ai": {
+  "src": "https://fireflies.ai/icon.png?8ca41d3ade63e552",
+  "w": 512
+ },
+ "leonardo-ai": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "krea": {
+  "src": "https://www.krea.ai/favicon/favicon-192.png",
+  "w": 192
+ },
+ "gong": {
+  "src": "https://www.gong.io/marketing-assets/favicon.svg",
+  "w": 2133
+ },
+ "granola": {
+  "src": "https://www.granola.ai/favicon/favicon.svg",
+  "w": 4267
+ },
+ "pitch": {
+  "src": "https://framerusercontent.com/images/ZDXuG5VMV3iJ6FfqEQHgtZkhnM.png",
+  "w": 180
+ },
+ "looka": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "adcreative-ai": {
+  "src": "https://cdn.prod.website-files.com/661ce890f68a1d352ebbed35/66aa467aba9463ef88f4949d_256.png",
+  "w": 256
+ },
+ "heygen": {
+  "src": "google-t2",
+  "w": 48
+ },
+ "canva": {
+  "src": "https://static.canva.com/domain-assets/canva/static/images/android-192x192-2.png",
+  "w": 193
+ },
+ "hex": {
+  "src": "https://hex.tech/favicon.svg",
+  "w": 1167
+ },
+ "github-copilot": {
+  "src": "https://github.githubassets.com/favicons/favicon.svg",
+  "w": 133
+ },
+ "tl-dv": {
+  "src": "https://tldv.io/faviconV2.png",
+  "w": 64
+ },
+ "v0": {
+  "src": "https://v0.app/assets/apple-icon.png",
+  "w": 180
+ },
+ "apollo-io": {
+  "src": "https://www.apollo.io/icon.svg?icon.11df6mby0rn6l.svg",
+  "w": 1067
+ },
+ "cursor": {
+  "src": "https://cursor.com/marketing-static/favicon-light.svg",
+  "w": 2133
+ },
+ "elicit": {
+  "src": "https://framerusercontent.com/images/GWXKVhGBLC34aTLlmLIMsRVb4.png",
+  "w": 180
+ },
+ "devin-desktop": {
+  "src": "https://devin.ai/icon.png",
+  "w": 568
+ },
+ "clay": {
+  "src": "https://cdn.prod.website-files.com/61477f2c24a826836f969afe/6a3a92ab2ebcb50096cbd51a_dot-com_favicon_2026_512.png",
+  "w": 512
+ },
+ "elevenlabs": {
+  "src": "https://elevenlabs.io/icon.svg?c23f5371fdd26632",
+  "w": 2083
+ },
+ "chatbase": {
+  "src": "google-t2",
+  "w": 48
+ },
+ "udio": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "descript": {
+  "src": "https://static-cdn.descript.com/web/icons/favicon.svg",
+  "w": 1067
+ },
+ "tidio": {
+  "src": "https://www.tidio.com/images/favicon/icon.svg",
+  "w": 4167
+ },
+ "google-flow": {
+  "src": "https://www.gstatic.com/aitestkitchen/website/flow/favicon/flow_favicon_b.png",
+  "w": 653
+ },
+ "gemini-notebook": {
+  "src": "google-t2",
+  "w": 20
+ },
+ "zendesk-ai": {
+  "src": "https://d1eipm3vz40hy0.cloudfront.net/images/logos/favicons/zendesk-icon.svg",
+  "w": 83
+ },
+ "figma": {
+  "src": "https://static.figma.com/app/icon/2/favicon.svg",
+  "w": 267
+ },
+ "magnific": {
+  "src": "https://media.magnific.com/magnific-favicons/favicon.svg?v=2",
+  "w": 200
+ },
+ "manus": {
+  "src": "https://manus.im/icon.png?icon.1k-e-nyr3k65n.png",
+  "w": 512
+ },
+ "hubspot": {
+  "src": "https://www.hubspot.com/hubfs/HubSpot_Logos/HubSpot-Inversed-Favicon.png",
+  "w": 288
+ },
+ "surfer-seo": {
+  "src": "https://assets.surferseo.art/webflow-scripts/favicon/icon.svg",
+  "w": 67
+ },
+ "grammarly": {
+  "src": "google-t2",
+  "w": 48
+ },
+ "higgsfield": {
+  "src": "https://higgsfield.ai/apple-icon.png",
+  "w": 180
+ },
+ "luma-ai": {
+  "src": "google-t2",
+  "w": 48
+ },
+ "invideo-ai": {
+  "src": "https://invideo.io/favicon.svg",
+  "w": 133
+ },
+ "opusclip": {
+  "src": "https://cdn.prod.website-files.com/6388604483b03a9ecb34d695/6435197bfb1d6e486e04c37b_webclip.png",
+  "w": 256
+ },
+ "motion": {
+  "src": "https://www.usemotion.com/favicon.svg",
+  "w": 525
+ },
+ "reclaim-ai": {
+  "src": "https://cdn.prod.website-files.com/67859049c02d67b2cfcceebf/67859049c02d67b2cfccf4f1_logomark256maskable.png",
+  "w": 256
+ },
+ "notion-ai": {
+  "src": "https://www.notion.com/front-static/logo-ios.png",
+  "w": 512
+ },
+ "n8n": {
+  "src": "https://n8n.io/apple-touch-icon.png",
+  "w": 180
+ },
+ "replit": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "openai-codex": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "napkin-ai": {
+  "src": "https://www.napkin.ai/apple-touch-icon.png",
+  "w": 1024
+ },
+ "kling-ai": {
+  "src": "https://s16-kling.klingai.com/kos/s101/nlav112918/kling-homepage-aio/logo-180x180.png",
+  "w": 180
+ },
+ "intercom-fin": {
+  "src": "https://fin.ai/favicons/favicon-black-96x96.png",
+  "w": 96
+ },
+ "poe": {
+  "src": "https://poe.com/apple-touch-icon.png",
+  "w": 180
+ },
+ "writesonic": {
+  "src": "https://writesonic.com/icon.svg?icon.0hdydehcy1ouj.svg",
+  "w": 267
+ },
+ "pika": {
+  "src": "https://pika.art/icon.svg?icon.3bty87qirfeg8.svg",
+  "w": 92
+ },
+ "runway": {
+  "src": "https://runway.com/icon.png?icon.35ps9bmugbe1e.png",
+  "w": 320
+ },
+ "murf-ai": {
+  "src": "https://cdn.prod.website-files.com/66b3765153a8a0c399c70981/67065c22d34646f3bb23b232_android-chrome-256x256.png",
+  "w": 256
+ },
+ "plus-ai": {
+  "src": "https://plusai.com/favicon.svg",
+  "w": 1083
+ },
+ "mistral-vibe": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "otter-ai": {
+  "src": "https://cdn.prod.website-files.com/618e9316785b3582a5178502/618e943a80919a98b5e9bf69_apple-icon.png",
+  "w": 256
+ },
+ "zapier": {
+  "src": "google-t2",
+  "w": 128
+ },
+ "capcut": {
+  "src": "google-t2",
+  "w": 64
+ },
+ "beautiful-ai": {
+  "src": "https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/691b4ae4a724e6c686bfb035_BAI%20symbol%3Dfull%20color%20black.png",
+  "w": 256
+ }
+}

@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$30 (Plus)"
 website: "https://lumalabs.ai"
+logo: "/logos/luma-ai.png"
 bestFor: "Creators, filmmakers, developers"
 keyFeatures: ["Ray3.2 model","HDR/EXR output","API","Luma Agents"]
 useCases: ["Cinematic AI video","Video-to-video","HDR video via API"]

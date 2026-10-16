@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$20 (Core); $18 annual"
 website: "https://replit.com"
+logo: "/logos/replit.png"
 bestFor: "Beginners, students, founders"
 keyFeatures: ["Replit Agent","Hosting","Databases","Collaboration"]
 useCases: ["Build & deploy apps","Learn to code","Prototypes"]

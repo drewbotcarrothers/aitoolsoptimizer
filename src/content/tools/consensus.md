@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$20 (Pro; $144/yr)"
 freePlan: "Yes"
 website: "https://consensus.app"
+logo: "/logos/consensus.png"
 bestFor: "Students, academics, health & science writers"
 keyFeatures: ["Peer-reviewed sources","Deep searches","API/MCP access"]
 useCases: ["Literature search","Evidence summaries","Health/science fact-checking"]

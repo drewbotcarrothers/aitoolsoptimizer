@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$19.99 (Professional, annual)"
 website: "https://zapier.com"
+logo: "/logos/zapier.png"
 bestFor: "Small businesses, ops teams, solopreneurs"
 keyFeatures: ["Zaps","AI agents","Tables","Interfaces"]
 useCases: ["App-to-app workflows","AI agents","Lead routing","Data syncing"]

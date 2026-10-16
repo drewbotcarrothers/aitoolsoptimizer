@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 per seat (annual)"
 freePlan: "Yes"
 website: "https://invideo.io"
+logo: "/logos/invideo-ai.png"
 bestFor: "Creators, small businesses, marketers"
 keyFeatures: ["Prompt-to-video","Stock library","AI voiceovers","Editing via commands"]
 useCases: ["Faceless YouTube videos","Social ads","Explainers"]

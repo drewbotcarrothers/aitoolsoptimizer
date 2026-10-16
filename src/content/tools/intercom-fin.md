@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$49 base (standalone, incl. 50 outcomes) + $0.99/outcome"
 website: "https://fin.ai"
+logo: "/logos/intercom-fin.png"
 bestFor: "SaaS & e-commerce support teams"
 keyFeatures: ["Outcome-based pricing","Works with existing helpdesks","Procedures"]
 useCases: ["Automated support answers","Ticket deflection","Procedure automation"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$18 (Starter, annual); $29 monthly"
 freePlan: "Yes"
 website: "https://www.synthesia.io"
+logo: "/logos/synthesia.png"
 bestFor: "L&D teams, enterprises, educators"
 keyFeatures: ["AI avatars","Multilingual voices","Templates","Collaboration"]
 useCases: ["Training videos","Onboarding","Internal comms","Multilingual videos"]

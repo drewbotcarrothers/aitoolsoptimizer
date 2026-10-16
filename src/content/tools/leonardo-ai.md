@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium / Pay-as-you-go"
 startingPrice: "$12 (web subscription tier listed); new users moved to pay-as-you-go"
 website: "https://leonardo.ai"
+logo: "/logos/leonardo-ai.png"
 bestFor: "Creators, game devs, marketers"
 keyFeatures: ["Multiple models","Image-to-video","Canvas","API"]
 useCases: ["Game/concept art","Product images","Short AI video"]

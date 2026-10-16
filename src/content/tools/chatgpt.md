@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$8 (Go); Plus $20; Pro $100–$500"
 freePlan: "Yes"
 website: "https://chatgpt.com"
+logo: "/logos/chatgpt.png"
 bestFor: "Everyone – consumers, students, professionals, businesses"
 keyFeatures: ["GPT-6 models","Voice mode","File uploads","Image generation","Custom GPTs","Agent mode","Codex"]
 useCases: ["Writing & editing","Research & Q&A","Data/file analysis","Image generation","Coding help"]

@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$29 (Chat, 5 seats)"
 website: "https://www.copy.ai"
+logo: "/logos/copy-ai.png"
 bestFor: "Sales & marketing teams"
 keyFeatures: ["Chat with unlimited words","GTM workflow automation","Integrations"]
 useCases: ["Marketing copy","Sales prospecting workflows","Content repurposing"]

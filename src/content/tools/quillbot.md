@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 (annual); $19.95 monthly"
 freePlan: "Yes"
 website: "https://quillbot.com"
+logo: "/logos/quillbot.png"
 bestFor: "Students, ESL writers, bloggers"
 keyFeatures: ["Paraphraser modes","Summarizer","Grammar checker","Citation generator","AI detector","Translator"]
 useCases: ["Paraphrasing","Summarizing","Grammar checking","Citation generation","AI detection"]

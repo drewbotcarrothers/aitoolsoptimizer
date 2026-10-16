@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$20 per member (Business, annual) for full AI"
 freePlan: "Yes (limited AI trial)"
 website: "https://www.notion.com/product/ai"
+logo: "/logos/notion-ai.png"
 bestFor: "Teams, students, solopreneurs"
 keyFeatures: ["AI writing","Enterprise search","Meeting notes","Custom Agents (credits)"]
 useCases: ["Notes & docs","Workspace search","Meeting notes","Custom agents"]

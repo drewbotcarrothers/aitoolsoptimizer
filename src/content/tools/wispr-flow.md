@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$12 (Pro, annual); $15 monthly"
 freePlan: "Yes"
 website: "https://wisprflow.ai"
+logo: "/logos/wispr-flow.png"
 bestFor: "Professionals, writers, developers"
 keyFeatures: ["Works in any app","Auto-editing","Personal dictionary","Notetaker add-on"]
 useCases: ["Dictating emails/docs","Faster note-taking","Coding by voice"]

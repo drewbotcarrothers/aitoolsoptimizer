@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$14.99 (Educator Pro)"
 freePlan: "Yes"
 website: "https://www.briskteaching.com"
+logo: "/logos/brisk-teaching.png"
 bestFor: "Teachers"
 keyFeatures: ["Chrome extension","Feedback tools","Student activities"]
 useCases: ["Writing feedback","Lesson creation","Leveling texts"]

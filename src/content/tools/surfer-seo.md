@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$49 (Discovery, annual)"
 website: "https://surferseo.com"
+logo: "/logos/surfer-seo.png"
 bestFor: "Bloggers, SEO writers, agencies"
 keyFeatures: ["Content Editor","AI writer","Audits","AI tracker"]
 useCases: ["Content optimization","AI article drafts","Content audits"]

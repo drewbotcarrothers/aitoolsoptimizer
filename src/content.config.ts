@@ -30,6 +30,7 @@ const tools = defineCollection({
     description: z.string(),
     pricing: z.enum(['free', 'freemium', 'paid']),
     website: z.string().url(),
+    logo: z.string().optional(),
     affiliateUrl: z.string().url().optional(),
     rating: z.number().min(0).max(5).optional(),
     pros: z.array(z.string()).default([]),

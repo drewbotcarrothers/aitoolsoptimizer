@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9 (Plus, annual); $12 monthly"
 freePlan: "Yes"
 website: "https://www.napkin.ai"
+logo: "/logos/napkin-ai.png"
 bestFor: "Bloggers, educators, presenters"
 keyFeatures: ["Text-to-visual","Editing","PPT/SVG export","Branding (Pro)"]
 useCases: ["Infographics","Diagrams for slides","Visuals for blog posts"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$18 (Pro); $12/mo annual"
 freePlan: "Yes"
 website: "https://www.canva.com"
+logo: "/logos/canva.png"
 bestFor: "Everyone – small businesses, students, marketers, teachers"
 keyFeatures: ["Magic Design","Magic Write","Background remover","AI images","Templates"]
 useCases: ["Social graphics","Presentations","Marketing materials","AI image/edit tools"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$16 (Premium, annual); $20 monthly"
 freePlan: "Yes"
 website: "https://www.fathom.ai"
+logo: "/logos/fathom.png"
 bestFor: "Individuals, sales teams"
 keyFeatures: ["Recording","Summaries","Highlights","CRM integrations"]
 useCases: ["Call recording","Summaries","CRM sync"]

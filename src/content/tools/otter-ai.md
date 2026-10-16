@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$8.33 (Pro, annual); $16.99 monthly"
 freePlan: "Yes (300 min/mo)"
 website: "https://otter.ai"
+logo: "/logos/otter-ai.png"
 bestFor: "Professionals, students, journalists"
 keyFeatures: ["Live transcription","Summaries","AI chat","Zoom/Meet/Teams integration"]
 useCases: ["Meeting transcription","Summaries & action items","Lecture notes"]

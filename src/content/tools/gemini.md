@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$19.99 (Google AI Pro); Ultra $99.99–$199.99"
 freePlan: "Yes"
 website: "https://gemini.google.com"
+logo: "/logos/gemini.png"
 bestFor: "Google/Android users, students, Workspace users"
 keyFeatures: ["Gemini 3.1 Pro","Gemini Live voice/camera","Image generation (150M+ images/day)","Flow/Veo video access","40+ app actions on Android"]
 useCases: ["Everyday Q&A & planning","Voice/camera help (Gemini Live)","Image & video creation","Gmail/Docs help","Android app automation"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$4.99"
 freePlan: "Yes"
 website: "https://poe.com"
+logo: "/logos/poe.png"
 bestFor: "Power users who want many models"
 keyFeatures: ["Points-based access to many third-party models","Custom bots"]
 useCases: ["Compare AI models","Access many bots in one app","Build custom bots"]

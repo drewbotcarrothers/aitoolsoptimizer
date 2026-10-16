@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$19.99 (Pro); $179.99/yr"
 freePlan: "Yes"
 website: "https://www.capcut.com"
+logo: "/logos/capcut.png"
 bestFor: "Social creators, beginners"
 keyFeatures: ["Auto captions","Background removal","AI video/music/image tools","1TB cloud (Pro)"]
 useCases: ["TikTok/Reels editing","Auto captions","Background removal","AI effects"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "Higher limits via Google AI plans (Pro $19.99)"
 freePlan: "Yes"
 website: "https://workspace.google.com/products/gemini-notebook/"
+logo: "/logos/gemini-notebook.png"
 bestFor: "Students, researchers, teachers, content creators"
 keyFeatures: ["Cited answers from sources","Audio & Video Overviews","Mind maps","Flashcards","Quizzes","80+ languages"]
 useCases: ["Study your documents","Audio/Video Overviews (podcast-style)","Flashcards & quizzes","Slide decks/infographics from sources"]

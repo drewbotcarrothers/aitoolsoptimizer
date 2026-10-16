@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$32 (Hobby, annual); $40 monthly"
 freePlan: "Yes"
 website: "https://www.chatbase.co"
+logo: "/logos/chatbase.png"
 bestFor: "Small businesses, creators, SaaS"
 keyFeatures: ["Train on docs/sites","Actions","Integrations","Analytics"]
 useCases: ["Website support bot","Lead generation","Internal knowledge bot"]

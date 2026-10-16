@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 (Starter)"
 freePlan: "Yes (credit packs only)"
 website: "https://pika.art"
+logo: "/logos/pika.png"
 bestFor: "Social creators, hobbyists"
 keyFeatures: ["Video/image/audio generation","Effects","API Club"]
 useCases: ["Social video effects","Short clips","API generation"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 (Pro); $8/mo annual"
 freePlan: "Yes"
 website: "https://suno.com"
+logo: "/logos/suno.png"
 bestFor: "Creators, hobbyists, musicians, marketers"
 keyFeatures: ["Full songs with vocals","Suno Studio (Premier)","Commercial rights on paid plans"]
 useCases: ["Original songs","Background music for videos","Jingles","Music ideas"]

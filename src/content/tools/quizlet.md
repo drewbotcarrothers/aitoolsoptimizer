@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$7.99 monthly; $35.99/yr (Plus)"
 freePlan: "Yes"
 website: "https://quizlet.com"
+logo: "/logos/quizlet.png"
 bestFor: "Students"
 keyFeatures: ["AI flashcards","Q-Chat","Magic Notes","Practice tests","Textbook solutions"]
 useCases: ["Flashcards","AI practice tests","Study guides from notes"]

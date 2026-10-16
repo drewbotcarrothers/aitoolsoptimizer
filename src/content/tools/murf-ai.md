@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$19 (Starter, annual)"
 freePlan: "Yes"
 website: "https://murf.ai"
+logo: "/logos/murf-ai.png"
 bestFor: "Educators, marketers, L&D"
 keyFeatures: ["Studio editor","Many voices","API"]
 useCases: ["E-learning narration","Video voiceovers","Presentations"]

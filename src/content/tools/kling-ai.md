@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$8.80 (Standard, after promo)"
 website: "https://klingai.com"
+logo: "/logos/kling-ai.png"
 bestFor: "Creators, marketers"
 keyFeatures: ["Text/image-to-video","Audio","4K output","Team plans"]
 useCases: ["Image-to-video","Social clips","Product videos","Lip-sync"]

@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$29.99 per user"
 freePlan: "No (7-day trial)"
 website: "https://www.lindy.ai"
+logo: "/logos/lindy.png"
 bestFor: "Founders, executives, small teams"
 keyFeatures: ["AI teammates","Integrations","Credits"]
 useCases: ["Inbox triage","Scheduling","Lead follow-up","Meeting notes"]

@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$55 per agent (Suite Team, annual)"
 website: "https://www.zendesk.com"
+logo: "/logos/zendesk-ai.png"
 bestFor: "Support teams, mid-market & enterprise"
 keyFeatures: ["AI agents","Automated resolutions","Messaging","Telephony"]
 useCases: ["AI agents for chat/email","Agent copilot","Knowledge base"]

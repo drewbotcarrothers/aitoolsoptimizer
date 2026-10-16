@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$20 (Pro; ~$17/mo annual)"
 freePlan: "Yes"
 website: "https://www.perplexity.ai"
+logo: "/logos/perplexity.png"
 bestFor: "Students, researchers, professionals, curious consumers"
 keyFeatures: ["Cited answers","Pro Search","Deep Research","Comet browser","Multiple model choice"]
 useCases: ["Cited web research","Fact-checking","Product research","Deep research reports","Browsing agent (Comet)"]

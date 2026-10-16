@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$20 (Starter, annual); $39 monthly"
 website: "https://www.adcreative.ai"
+logo: "/logos/adcreative-ai.png"
 bestFor: "Performance marketers, e-commerce brands"
 keyFeatures: ["Ad creative generation","Creative scoring","Competitor insights"]
 useCases: ["Social ad creatives","Product photoshoots","Creative scoring"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 (Standard)"
 freePlan: "Yes (10 credits/day)"
 website: "https://www.udio.com"
+logo: "/logos/udio.png"
 bestFor: "Hobbyists, musicians"
 keyFeatures: ["Song generation","Licensed-music partnership","Starstruck app planned"]
 useCases: ["Song creation","Remixing","Music experimentation"]

@@ -8,6 +8,7 @@ description: "Edit video and podcasts by editing the transcript, with AI voice, 
 pricing: "freemium"
 pricingModel: "Freemium"
 website: "https://www.descript.com"
+logo: "/logos/descript.png"
 bestFor: "Podcasters, YouTubers, marketers"
 keyFeatures: ["Text-based editing","Studio Sound","AI voice","AI co-editor","Captions"]
 useCases: ["Podcast editing","YouTube editing","Filler-word removal","Clips for social"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 per seat (Starter)"
 freePlan: "Yes (Lite)"
 website: "https://reclaim.ai"
+logo: "/logos/reclaim-ai.png"
 bestFor: "Professionals, teams"
 keyFeatures: ["Smart habits","Focus time","Scheduling links","Task sync"]
 useCases: ["Focus time","Habit scheduling","Smart meeting links"]

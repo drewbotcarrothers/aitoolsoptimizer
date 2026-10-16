@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$20 (Pro)"
 website: "https://cursor.com"
+logo: "/logos/cursor.png"
 bestFor: "Developers, technical founders"
 keyFeatures: ["Agent mode","Tab completion","Multi-model","Codebase context"]
 useCases: ["AI pair programming","Codebase refactors","Background agents","Bug fixing"]

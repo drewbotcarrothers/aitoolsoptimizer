@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium (self-host) / Paid cloud"
 freePlan: "Yes (self-hosted Community)"
 website: "https://n8n.io"
+logo: "/logos/n8n.png"
 bestFor: "Developers, technical ops teams"
 keyFeatures: ["Self-hosting","AI agent nodes","Many integrations"]
 useCases: ["AI agent workflows","Self-hosted automation","Internal tools"]

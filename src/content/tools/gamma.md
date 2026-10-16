@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9 per seat (Plus)"
 freePlan: "Yes (400 one-time credits)"
 website: "https://gamma.app"
+logo: "/logos/gamma.png"
 bestFor: "Professionals, educators, founders, students"
 keyFeatures: ["Prompt-to-deck","Themes","Web publishing","Export to PPT/PDF"]
 useCases: ["Pitch decks","Class/lesson slides","One-page sites","Reports"]

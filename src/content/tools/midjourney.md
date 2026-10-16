@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$10 (Basic); $8/mo annual"
 website: "https://www.midjourney.com"
+logo: "/logos/midjourney.png"
 bestFor: "Designers, artists, marketers, hobbyists"
 keyFeatures: ["V8/V8.1 models","Style references","Moodboards","HD mode","Web editor"]
 useCases: ["Concept art","Marketing visuals","Illustrations","Mood boards"]

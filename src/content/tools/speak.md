@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$17.99 monthly (Premium); $83.99/yr"
 freePlan: "No (7-day trial)"
 website: "https://www.speak.com"
+logo: "/logos/speak.png"
 bestFor: "Language learners"
 keyFeatures: ["AI tutor conversations","Pronunciation feedback","6 languages"]
 useCases: ["Speaking practice","Pronunciation feedback","Conversation roleplay"]

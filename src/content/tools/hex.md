@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$36 per editor (Professional)"
 freePlan: "Yes (Community)"
 website: "https://hex.tech"
+logo: "/logos/hex.png"
 bestFor: "Data teams, analysts"
 keyFeatures: ["AI agents","Notebooks","Apps/dashboards","Compute"]
 useCases: ["SQL/Python analysis","Dashboards","Self-serve BI"]

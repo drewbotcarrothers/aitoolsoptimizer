@@ -5,7 +5,7 @@ const { tool } = Astro.props;
 const d = tool.data;
 ---
 <a class="card tool-card" href={url(`/tools/${tool.id}/`)} data-category={d.category} data-search={`${d.name} ${d.tagline} ${d.category}`.toLowerCase()}>
-  <div class="top"><span class="avatar">{d.name[0]}</span><div><h3>{d.name}</h3><span class="muted cat">{categories[d.category].icon} {categories[d.category].name}</span></div></div>
+  <div class="top">{d.logo ? <span class="logo-tile"><img src={url(d.logo)} alt={`${d.name} logo`} width="48" height="48" loading="lazy" decoding="async" /></span> : <span class="avatar">{d.name[0]}</span>}<div><h3>{d.name}</h3><span class="muted cat">{categories[d.category].icon} {categories[d.category].name}</span></div></div>
   <p class="muted">{d.tagline}</p>
   <div class="meta">{d.rating != null ? <span class="stars">{stars(d.rating)}</span> : <span class="muted price">{d.startingPrice ? `From ${d.startingPrice.split(/[;(]/)[0].trim()}` : (d.freePlan && /^yes/i.test(d.freePlan) ? 'Free plan' : '')}</span>}<span class={`pill ${d.pricing}`}>{d.pricing}</span></div>
 </a>
@@ -13,4 +13,6 @@ const d = tool.data;
   .top { display: flex; gap: .8rem; align-items: center; } h3 { margin: 0; font-size: 1.05rem; }
   .avatar { width: 42px; height: 42px; border-radius: 12px; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; background: var(--gradient-brand); color: var(--color-bg); flex: none; }
   .cat { font-size: .8rem; } .price { font-size: .8rem; } .meta { display: flex; justify-content: space-between; align-items: center; }
+  .logo-tile { width: 48px; height: 48px; border-radius: 12px; background: #f4f5f8; border: 1px solid rgba(255,255,255,.12); display: grid; place-items: center; flex: none; overflow: hidden; }
+  .logo-tile img { width: 40px; height: 40px; object-fit: contain; border-radius: 8px; }
 </style>

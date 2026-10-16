@@ -10,6 +10,7 @@ pricingModel: "Pay-as-you-go"
 startingPrice: "N/A (1 credit = $0.01, no subscription)"
 freePlan: "No"
 website: "https://bfl.ai"
+logo: "/logos/flux.png"
 bestFor: "Developers, technical creators"
 keyFeatures: ["FLUX models","Playground","API","FLUX 3 video"]
 useCases: ["High-quality image generation via API","Image editing","FLUX 3 video"]

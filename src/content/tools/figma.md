@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$16 (Professional Full seat, annual)"
 website: "https://www.figma.com"
+logo: "/logos/figma.png"
 bestFor: "Product designers, developers, teams"
 keyFeatures: ["Figma Make","AI credits","Dev Mode","Collaboration"]
 useCases: ["UI design","Prompt-to-prototype","Design systems","Collaboration"]

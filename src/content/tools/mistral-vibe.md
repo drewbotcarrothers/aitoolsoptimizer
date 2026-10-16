@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$14.99 (Pro)"
 website: "https://mistral.ai/products/vibe/"
+logo: "/logos/mistral-vibe.png"
 bestFor: "EU users, privacy-focused professionals, developers"
 keyFeatures: ["Extended reasoning","Deep research","Coding","API credits","Student price $5.99"]
 useCases: ["Chat & search","Deep research","Coding agent","Privacy-conscious EU use"]

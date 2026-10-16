@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$59 (Pro, annual); $69 monthly"
 website: "https://www.jasper.ai"
+logo: "/logos/jasper.png"
 bestFor: "Marketing teams, agencies"
 keyFeatures: ["Canvas","Marketing agents","Brand Voices","Knowledge assets","Audiences"]
 useCases: ["Blog & ad copy","On-brand campaigns","Marketing agents","Content repurposing"]

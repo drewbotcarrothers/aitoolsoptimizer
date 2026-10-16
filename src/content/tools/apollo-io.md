@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$49 per user (Basic, annual)"
 website: "https://www.apollo.io"
+logo: "/logos/apollo-io.png"
 bestFor: "SDRs, founders, small sales teams"
 keyFeatures: ["Contact database","Sequences","AI assistant","Dialer"]
 useCases: ["Lead lists","Email sequences","AI research & personalization"]

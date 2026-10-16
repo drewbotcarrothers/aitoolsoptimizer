@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$29 (Pro AI, annual); $49 monthly"
 website: "https://www.usemotion.com"
+logo: "/logos/motion.png"
 bestFor: "Busy professionals, small teams"
 keyFeatures: ["Auto-scheduling","AI credits","Projects","Docs"]
 useCases: ["Auto-scheduling","Task prioritization","Team project planning"]

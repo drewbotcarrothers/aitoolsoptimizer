@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid add-on"
 startingPrice: "$9 per user (annual)"
 website: "https://clickup.com/brain"
+logo: "/logos/clickup-brain.png"
 bestFor: "Project teams, agencies"
 keyFeatures: ["AI Q&A","Writing","Automations","Everything AI bundle ($28)"]
 useCases: ["Task summaries","Writing docs","Project automation","Workspace Q&A"]

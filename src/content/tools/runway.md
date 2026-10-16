@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$12 (Standard, annual); ~$15 monthly"
 website: "https://runway.com"
+logo: "/logos/runway.png"
 bestFor: "Filmmakers, creators, agencies"
 keyFeatures: ["Gen-4.5","Credits system","Editing tools","Image generation"]
 useCases: ["Text/image-to-video","AI video editing","Ads & music videos","Film previsualization"]

@@ -10,6 +10,7 @@ pricingModel: "Free (API pay-as-you-go)"
 startingPrice: "N/A (API usage-based)"
 freePlan: "Yes"
 website: "https://www.deepseek.com"
+logo: "/logos/deepseek.png"
 bestFor: "Budget-conscious users, developers"
 keyFeatures: ["DeepSeek-V4.1-Flash model","Native image/text understanding","Cheap API"]
 useCases: ["Free reasoning/Q&A","Coding","Low-cost API for developers"]

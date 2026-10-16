@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$14.50 (Premium, annual)"
 website: "https://www.freepik.com"
+logo: "/logos/magnific.png"
 bestFor: "Designers, marketers, content creators"
 keyFeatures: ["Multiple AI models","Magnific upscaler","Stock library","Credits"]
 useCases: ["AI images & video","Upscaling","Stock assets","Mockups"]

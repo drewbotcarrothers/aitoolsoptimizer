@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$79 (annual)"
 website: "https://writesonic.com"
+logo: "/logos/writesonic.png"
 bestFor: "Marketers, SEO teams, agencies"
 keyFeatures: ["AI article writer","AI visibility tracking","SEO tools","Chatsonic"]
 useCases: ["SEO articles","AI search (GEO) visibility tracking","Content optimization"]

@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$16 (Plus, annual); $20 monthly"
 freePlan: "Yes"
 website: "https://julius.ai"
+logo: "/logos/julius-ai.png"
 bestFor: "Analysts, students, small businesses"
 keyFeatures: ["File & database analysis","Charts","Python/R code","Reports"]
 useCases: ["Spreadsheet analysis","Charts & visualizations","Statistical analysis","Reports"]

@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 freePlan: "Yes"
 website: "https://pitch.com"
+logo: "/logos/pitch.png"
 bestFor: "Startups, teams"
 keyFeatures: ["AI credits","Collaboration","Templates","Analytics"]
 useCases: ["Team decks","Investor pitches","Sales presentations"]

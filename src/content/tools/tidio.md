@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$32.50 (Lyro, annual)"
 freePlan: "Yes (50 Lyro conversations lifetime)"
 website: "https://www.tidio.com"
+logo: "/logos/tidio.png"
 bestFor: "Small businesses, Shopify stores"
 keyFeatures: ["Lyro AI agent","Live chat","Flows","Shopify integration"]
 useCases: ["Website chatbot","E-commerce support","Lead capture"]

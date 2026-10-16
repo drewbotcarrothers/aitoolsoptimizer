@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$9.99 (Firefly Standard)"
 website: "https://firefly.adobe.com"
+logo: "/logos/adobe-firefly.png"
 bestFor: "Designers, marketers, Creative Cloud users"
 keyFeatures: ["Generative credits","Partner models","Video generation","Translation","Sound effects","Photoshop integration"]
 useCases: ["Commercial-safe images","Generative fill/editing","Video & sound effects","Vector graphics"]

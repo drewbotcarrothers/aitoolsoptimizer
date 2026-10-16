@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$19.80"
 freePlan: "Yes (no credits)"
 website: "https://higgsfield.ai"
+logo: "/logos/higgsfield.png"
 bestFor: "Creators, marketers"
 keyFeatures: ["Camera-motion presets","Multiple models","Credits"]
 useCases: ["Cinematic social clips","Ad creatives","Image generation"]

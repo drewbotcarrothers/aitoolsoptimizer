@@ -9,6 +9,7 @@ pricing: "free"
 pricingModel: "Free"
 freePlan: "Yes"
 website: "https://www.meta.ai"
+logo: "/logos/meta-ai.png"
 bestFor: "Casual consumers, social media users"
 keyFeatures: ["Built into Meta apps","Image generation","Voice","Smart-glasses integration"]
 useCases: ["Quick Q&A in chats","Image generation/editing","Group-chat help","Smart-glasses assistance"]

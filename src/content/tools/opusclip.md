@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$15 (Starter)"
 freePlan: "Yes"
 website: "https://www.opus.pro"
+logo: "/logos/opusclip.png"
 bestFor: "YouTubers, podcasters, social media managers"
 keyFeatures: ["AI clipping","Virality score","Captions","Reframing","Scheduler"]
 useCases: ["Repurpose long videos to Shorts/Reels","Auto captions","Social scheduling"]

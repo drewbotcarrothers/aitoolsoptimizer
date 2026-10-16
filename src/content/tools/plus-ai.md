@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$10 (Basic, annual); $15 monthly"
 freePlan: "No (7-day trial)"
 website: "https://plusai.com"
+logo: "/logos/plus-ai.png"
 bestFor: "Consultants, business users"
 keyFeatures: ["Native Slides/PowerPoint add-on","Rewrite & remix slides"]
 useCases: ["Decks in Google Slides","Edit existing slides","Convert docs to slides"]

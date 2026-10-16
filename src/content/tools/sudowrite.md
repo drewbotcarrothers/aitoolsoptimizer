@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$10 (Hobby & Student, annual); $19 monthly"
 website: "https://sudowrite.com"
+logo: "/logos/sudowrite.png"
 bestFor: "Novelists, fiction writers, self-publishers"
 keyFeatures: ["Story Bible","Write/Describe/Rewrite tools","Novel-length drafting"]
 useCases: ["Drafting fiction","Brainstorming plots/characters","Rewriting & description"]

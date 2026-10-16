@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$37.60 (annual); $47 monthly"
 website: "https://instantly.ai"
+logo: "/logos/instantly.png"
 bestFor: "Agencies, founders, SDRs"
 keyFeatures: ["Account warmup","Campaigns","AI reply features","CRM"]
 useCases: ["Cold email campaigns","Inbox warmup","Lead database"]

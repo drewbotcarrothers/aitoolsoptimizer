@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$29 monthly; $139/yr"
 freePlan: "Yes"
 website: "https://speechify.com"
+logo: "/logos/speechify.png"
 bestFor: "Students, busy professionals, people with reading difficulties"
 keyFeatures: ["Natural voices","Speed control","Scanning","Apps on all platforms"]
 useCases: ["Listening to documents","Reading support (dyslexia/ADHD)","Studying on the go"]

@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 freePlan: "Yes"
 website: "https://tldv.io"
+logo: "/logos/tl-dv.png"
 bestFor: "Remote teams, sales, customer success"
 keyFeatures: ["Recording","AI notes","CRM sync","Multi-meeting insights"]
 useCases: ["Meeting recording","AI notes","Multi-meeting reports"]

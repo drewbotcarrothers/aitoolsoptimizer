@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$8 (X Subscription Plus); Premium $30; Super $100; Ultra $200"
 website: "https://grok.com"
+logo: "/logos/grok.png"
 bestFor: "X users, news followers, tech enthusiasts"
 keyFeatures: ["Real-time X data","Image/video generation","Voice mode","SuperGrok replaced by The X Subscription for new buyers"]
 useCases: ["Real-time news & trends","Q&A & research","Image generation","Coding help"]

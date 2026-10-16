@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$8.33 (Plus, annual); $12.99 monthly"
 freePlan: "Yes"
 website: "https://www.magicschool.ai"
+logo: "/logos/magicschool.png"
 bestFor: "K-12 teachers, schools"
 keyFeatures: ["Teacher tools","Student-safe AI","District admin"]
 useCases: ["Lesson planning","Rubrics & assessments","Differentiation","Parent emails"]

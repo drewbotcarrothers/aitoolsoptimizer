@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$6 (Starter); Creator $22"
 website: "https://elevenlabs.io"
+logo: "/logos/elevenlabs.png"
 bestFor: "Creators, authors, developers, businesses"
 keyFeatures: ["Realistic TTS","Voice cloning","Dubbing","Sound effects","ElevenAgents","API"]
 useCases: ["Voiceovers","Audiobooks","Voice cloning","Dubbing","Voice agents"]

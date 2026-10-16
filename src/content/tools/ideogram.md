@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$15 (Plus, annual); $20 monthly"
 freePlan: "Yes"
 website: "https://ideogram.ai"
+logo: "/logos/ideogram.png"
 bestFor: "Creators, small businesses, merch sellers"
 keyFeatures: ["Strong text rendering","Magic Prompt","Canvas editing","Team plans"]
 useCases: ["Logos & posters","Social graphics with text","T-shirt/merch designs"]

@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$9 (Core, annual)"
 website: "https://www.make.com"
+logo: "/logos/make.png"
 bestFor: "Ops teams, agencies, power users"
 keyFeatures: ["Visual scenario builder","AI agents","Credits","API"]
 useCases: ["Multi-step workflows","AI agents","Data transformations"]

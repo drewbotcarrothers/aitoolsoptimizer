@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9 (Lite)"
 freePlan: "Yes"
 website: "https://bolt.new"
+logo: "/logos/bolt-new.png"
 bestFor: "Founders, designers, beginners"
 keyFeatures: ["In-browser dev environment","Deployment","Integrations"]
 useCases: ["Web app prototypes","Landing pages","MVPs"]

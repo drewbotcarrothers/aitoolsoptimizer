@@ -9,6 +9,7 @@ pricing: "freemium"
 pricingModel: "Freemium"
 startingPrice: "$24 (Creator, annual); $29 monthly"
 website: "https://www.heygen.com"
+logo: "/logos/heygen.png"
 bestFor: "Marketers, educators, sales teams, creators"
 keyFeatures: ["Custom avatars","Video translation","Lip-sync","API"]
 useCases: ["Avatar explainer videos","Video translation/dubbing","Personalized sales videos","Training content"]

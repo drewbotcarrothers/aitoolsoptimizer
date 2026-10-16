@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9.99 (Premium)"
 freePlan: "Yes"
 website: "https://www.adobe.com/express"
+logo: "/logos/adobe-express.png"
 bestFor: "Small businesses, creators, students"
 keyFeatures: ["Firefly generative AI","Templates","Scheduling","Brand kits"]
 useCases: ["Social posts","Flyers","Short videos","Brand kits"]

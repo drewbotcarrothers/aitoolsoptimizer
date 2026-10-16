@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$20 (Pro)"
 freePlan: "Yes"
 website: "https://manus.im"
+logo: "/logos/manus.png"
 bestFor: "Professionals, founders"
 keyFeatures: ["Autonomous task execution","Browsing","File creation","Independent again after Meta deal unwound"]
 useCases: ["Research reports","Building websites/apps","Multi-step tasks"]

@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$12 (Pro, annual – $144/yr); $45 monthly"
 website: "https://www.beautiful.ai"
+logo: "/logos/beautiful-ai.png"
 bestFor: "Business professionals, teams"
 keyFeatures: ["Smart templates","Auto-formatting","Brand control"]
 useCases: ["Sales decks","Business reports","Team presentations"]

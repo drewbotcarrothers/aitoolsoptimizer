@@ -10,6 +10,7 @@ pricingModel: "Paid (one-time + subscription)"
 startingPrice: "$20 one-time (basic logo); Brand Kit $96/yr"
 freePlan: "No (design free, pay to download)"
 website: "https://looka.com"
+logo: "/logos/looka.png"
 bestFor: "Entrepreneurs, small businesses"
 keyFeatures: ["AI logo generator","Brand kit","Website builder"]
 useCases: ["Logo design","Brand kits","Business cards/social assets"]

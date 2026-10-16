@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$9 (Basic)"
 freePlan: "Yes"
 website: "https://www.krea.ai"
+logo: "/logos/krea.png"
 bestFor: "Designers, creators"
 keyFeatures: ["Real-time canvas","Enhancer/upscaler","Multi-model video","Custom training"]
 useCases: ["Real-time image drafting","Upscaling/enhancing","AI video","Model training"]

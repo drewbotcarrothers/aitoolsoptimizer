@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid (via Google AI plans)"
 startingPrice: "Included with Google AI Plus/Pro/Ultra (Pro $19.99)"
 website: "https://labs.google/flow"
+logo: "/logos/google-flow.png"
 bestFor: "Creators, marketers, Google AI subscribers"
 keyFeatures: ["Veo 3.1 Lite/Fast/Quality","Flow credits","Scene building"]
 useCases: ["Cinematic clips with audio","Storyboarding","Social video","Ads"]

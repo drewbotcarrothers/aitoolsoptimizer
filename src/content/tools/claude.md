@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$20 (Pro; $17/mo annual); Max $100–$200"
 freePlan: "Yes"
 website: "https://claude.ai"
+logo: "/logos/claude.png"
 bestFor: "Writers, knowledge workers, developers, businesses"
 keyFeatures: ["Projects","Artifacts","File analysis","Claude Code access in paid plans"]
 useCases: ["Long-form writing & editing","Document analysis","Coding (Claude Code)","Research","Business analysis"]

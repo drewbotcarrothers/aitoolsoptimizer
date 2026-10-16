@@ -10,6 +10,7 @@ pricingModel: "Paid"
 startingPrice: "$117.33 (SEO plan, annual); $139.95 monthly"
 freePlan: "No (7-day trial)"
 website: "https://www.semrush.com"
+logo: "/logos/semrush.png"
 bestFor: "SEOs, marketers, agencies, bloggers"
 keyFeatures: ["Keyword/backlink databases","Site audit","AI Visibility Toolkit","Semrush One"]
 useCases: ["Keyword research","Competitor analysis","Site audits","AI search visibility"]

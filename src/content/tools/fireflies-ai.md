@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 per seat (Pro, annual); $18 monthly"
 freePlan: "Yes"
 website: "https://fireflies.ai"
+logo: "/logos/fireflies-ai.png"
 bestFor: "Sales teams, remote teams, managers"
 keyFeatures: ["Transcription","AI assistant","Conversation intelligence","CRM integrations"]
 useCases: ["Meeting notes","Searchable call library","Sales call insights"]

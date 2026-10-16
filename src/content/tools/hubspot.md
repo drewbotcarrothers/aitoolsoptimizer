@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$7 per seat (Starter, annual)"
 freePlan: "Yes (free CRM)"
 website: "https://www.hubspot.com/products/artificial-intelligence"
+logo: "/logos/hubspot.png"
 bestFor: "Small businesses, marketing & sales teams"
 keyFeatures: ["Breeze Assistant","Breeze agents (credits)","CRM","Marketing hub"]
 useCases: ["Email & content creation","Prospecting agent","Customer agent","CRM insights"]

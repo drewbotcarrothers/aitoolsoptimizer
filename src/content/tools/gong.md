@@ -10,6 +10,7 @@ pricingModel: "Paid (quote-based)"
 startingPrice: "Quote-based"
 freePlan: "No"
 website: "https://www.gong.io"
+logo: "/logos/gong.png"
 bestFor: "B2B sales teams, enterprises"
 keyFeatures: ["Conversation intelligence","Forecasting","AI credits"]
 useCases: ["Call analysis","Deal forecasting","Sales coaching"]

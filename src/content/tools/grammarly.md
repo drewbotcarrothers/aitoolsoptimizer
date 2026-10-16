@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$12 (Pro, annual); $30 monthly"
 freePlan: "Yes"
 website: "https://www.grammarly.com"
+logo: "/logos/grammarly.png"
 bestFor: "Students, professionals, non-native English writers, teams"
 keyFeatures: ["Works across apps/browsers","Generative AI","Tone detection","Plagiarism checker","Superhuman suite bundle"]
 useCases: ["Grammar & spelling","Tone/clarity rewrites","Email drafting","Plagiarism/AI detection","Team style guides"]

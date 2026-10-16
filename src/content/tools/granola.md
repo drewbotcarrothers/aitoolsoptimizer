@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$14 per user (Business)"
 freePlan: "Yes"
 website: "https://www.granola.ai"
+logo: "/logos/granola.png"
 bestFor: "Founders, investors, professionals"
 keyFeatures: ["No bot joins call","Note enhancement","Integrations","MCP"]
 useCases: ["Bot-free meeting notes","Enhanced personal notes","Team note sharing"]

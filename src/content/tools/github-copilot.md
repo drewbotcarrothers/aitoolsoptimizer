@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$10 (Pro)"
 freePlan: "Yes"
 website: "https://github.com/features/copilot"
+logo: "/logos/github-copilot.png"
 bestFor: "Developers, students, teams"
 keyFeatures: ["Completions","Chat","Agent mode","Multiple models","Free for verified teachers/OSS maintainers"]
 useCases: ["Code completion","Chat about code","Coding agent for PRs","Code review"]

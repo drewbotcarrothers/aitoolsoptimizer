@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$19 (Pro, annual); $29 monthly"
 website: "https://relevanceai.com"
+logo: "/logos/relevance-ai.png"
 bestFor: "Ops/sales teams, agencies"
 keyFeatures: ["No-code agent builder","Tools","Workforces","Integrations"]
 useCases: ["AI SDR agents","Research agents","Ops automation"]

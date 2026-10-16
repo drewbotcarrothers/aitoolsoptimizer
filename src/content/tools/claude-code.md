@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid (included in Claude plans)"
 startingPrice: "$20 (Claude Pro)"
 website: "https://claude.com/product/claude-code"
+logo: "/logos/claude-code.png"
 bestFor: "Developers, technical founders"
 keyFeatures: ["Terminal agent","IDE integrations","Shares usage with Claude plans"]
 useCases: ["Building features end-to-end","Refactoring","Debugging","Automation scripts"]

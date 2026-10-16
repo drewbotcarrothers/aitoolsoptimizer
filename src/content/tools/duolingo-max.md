@@ -10,6 +10,7 @@ pricingModel: "Freemium"
 startingPrice: "$29.99 monthly (Max); ~$168/yr"
 freePlan: "Yes (Duolingo free tier)"
 website: "https://www.duolingo.com"
+logo: "/logos/duolingo-max.png"
 bestFor: "Language learners"
 keyFeatures: ["AI video call practice","Explain My Answer","Roleplay"]
 useCases: ["Language practice","AI conversation","Explanations of mistakes"]

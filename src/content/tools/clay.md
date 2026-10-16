@@ -9,6 +9,7 @@ pricing: "paid"
 pricingModel: "Paid"
 startingPrice: "$167 (Launch, annual); $185 monthly"
 website: "https://www.clay.com"
+logo: "/logos/clay.png"
 bestFor: "Growth/GTM teams, agencies"
 keyFeatures: ["Waterfall enrichment","AI research agent","Signals","CRM sync"]
 useCases: ["Lead enrichment","AI account research","Personalized outbound"]
