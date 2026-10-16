@@ -1,9 +1,10 @@
 ---
+import { byPopularity, popularityUpdated } from '../../data/popularity';
 import Base from '../../layouts/Base.astro';
 import ToolCard from '../../components/ToolCard.astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories';
-const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCompare(b.data.name));
+const tools = (await getCollection('tools')).sort(byPopularity);
 ---
 <Base title="AI Tools Directory" description="Browse and compare AI tools by category with pricing, free plans, key features and use cases.">
   <section class="container section">
@@ -17,6 +18,7 @@ const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCo
         {Object.entries(categories).map(([slug, c]) => <button class="chip" data-cat={slug}>{c.icon} {c.name}</button>)}
       </div>
     </div>
+    <p class="muted small" id="sort-note">Sorted by search interest, updated {popularityUpdated}</p>
     <div class="grid" id="tool-grid">{tools.map((t) => <ToolCard tool={t} />)}</div>
     <p id="empty" class="muted" hidden>No tools match your search.</p>
   </section>

@@ -1,11 +1,12 @@
 ---
+import { byPopularity } from '../data/popularity';
 import Base from '../layouts/Base.astro';
 import ToolCard from '../components/ToolCard.astro';
 import PostCard from '../components/PostCard.astro';
 import { getCollection } from 'astro:content';
 import { categories } from '../data/categories';
 import { url } from '../data/url';
-const tools = (await getCollection('tools')).sort((a, b) => (Number(b.data.sample === false) - Number(a.data.sample === false)) || a.data.name.localeCompare(b.data.name));
+const tools = (await getCollection('tools')).sort(byPopularity);
 const posts = (await getCollection('blog', (p) => !p.data.draft)).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 const counts = Object.fromEntries(Object.keys(categories).map((c) => [c, tools.filter((t) => t.data.category === c).length]));
 ---
