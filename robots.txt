@@ -1,2 +1,7 @@
+User-agent: Mediapartners-Google
+Allow: /
+
 User-agent: *
 Allow: /
+
+Sitemap: https://drewbotcarrothers.github.io/aitoolsoptimizer/sitemap.xml
