@@ -2,3 +2,4 @@ ErrorDocument 404 /404.html
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
+RedirectMatch 301 ^/ebooks/?$ /
