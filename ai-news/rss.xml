@@ -6,5 +6,13 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 16, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-16/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-16/</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <description>Today’s AI news: Meta Muse Spark Open weights, Claude Opus 5.5 fast mode GA, FTC probes of OpenAI and Anthropic, Perplexity SPACE, Gemini 4 Argon availability, and OpenUI 1.0.</description>
+    </item>
   </channel>
 </rss>
