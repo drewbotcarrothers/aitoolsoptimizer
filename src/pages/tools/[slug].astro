@@ -13,7 +13,7 @@ const all = await getCollection('tools');
 const alts = d.alternatives.map((s) => all.find((t) => t.id === s)).filter(Boolean);
 const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(tool.id) && !p.data.draft);
 ---
-<Base title={`${d.name} Review`} description={`${d.name}: ${d.tagline}. Pricing, pros, cons, tips and alternatives.`}>
+<Base title={d.rating != null ? `${d.name} Review` : `${d.name}: Pricing, Features & Use Cases`} description={`${d.name}: ${d.tagline.replace(/\.$/, '')}. Pricing, free plan, key features and use cases.`}>
   <article class="container section">
     <a href={url(`/tools/category/${d.category}/`)}>← {c.icon} {c.name}</a>
     <div class="head">
@@ -21,28 +21,32 @@ const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(to
       <div>
         <h1>{d.name}</h1>
         <p class="muted tag">{d.tagline}</p>
-        <div class="meta"><span class="stars">{stars(d.rating)}</span> <b>{d.rating.toFixed(1)}</b>/5 <span class={`pill ${d.pricing}`}>{d.pricing}</span> {d.sample && <span class="sample-badge">SAMPLE REVIEW</span>}</div>
+        <div class="meta">{d.rating != null && <><span class="stars">{stars(d.rating)}</span> <b>{d.rating.toFixed(1)}</b>/5</>} <span class={`pill ${d.pricing}`}>{d.pricing}</span> {d.sample && <span class="sample-badge">SAMPLE REVIEW</span>}</div>
       </div>
       <div class="cta card">
         <a class="btn" href={d.affiliateUrl || d.website} rel="nofollow sponsored noopener" target="_blank">Visit {d.name} →</a>
-        <small class="muted">Affiliate link slot · updated {d.lastUpdated.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</small>
+        <small class="muted">{d.lastVerified ? 'Official website · verified' : 'Updated'} {(d.lastVerified ?? d.lastUpdated).toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</small>
       </div>
     </div>
     <div class="layout">
       <div class="prose">
         <h2>Overview</h2><p>{d.description}</p>
         <Content />
-        <div class="two-col">
-          <div class="card pros"><h3>👍 Pros</h3><ul class="check">{d.pros.map((p) => <li>{p}</li>)}</ul></div>
-          <div class="card cons"><h3>👎 Cons</h3><ul class="check">{d.cons.map((p) => <li>{p}</li>)}</ul></div>
-        </div>
-        <h2>Best use cases</h2><ul class="check">{d.useCases.map((u) => <li>{u}</li>)}</ul>
-        <h2>Tips &amp; tricks</h2><ol class="tips">{d.tips.map((t) => <li>{t}</li>)}</ol>
+        {d.bestFor && <><h2>Who it's for</h2><p>{d.bestFor}</p></>}
+        {d.keyFeatures.length > 0 && <><h2>Key features</h2><ul class="check">{d.keyFeatures.map((f) => <li>{f}</li>)}</ul></>}
+        {d.useCases.length > 0 && <><h2>Best use cases</h2><ul class="check">{d.useCases.map((u) => <li>{u}</li>)}</ul></>}
+        {(d.pros.length > 0 || d.cons.length > 0) && <div class="two-col">
+          {d.pros.length > 0 && <div class="card pros"><h3>👍 Pros</h3><ul class="check">{d.pros.map((p) => <li>{p}</li>)}</ul></div>}
+          {d.cons.length > 0 && <div class="card cons"><h3>👎 Cons</h3><ul class="check">{d.cons.map((p) => <li>{p}</li>)}</ul></div>}
+        </div>}
+        {d.tips.length > 0 && <><h2>Tips &amp; tricks</h2><ol class="tips">{d.tips.map((t) => <li>{t}</li>)}</ol></>}
+        {d.startingPrice && <><h2>Pricing</h2><p>{d.pricingModel && <>{d.pricingModel}. </>}Paid plans start at <b>{d.startingPrice}</b>{/per (month|mo)|monthly|\/mo|one-time|\/yr|annual/i.test(d.startingPrice) ? '' : ' per month'} (USD).{d.freePlan && <> Free plan: {d.freePlan}.</>}</p></>}
+        {d.sourceUrls.length > 0 && <p class="muted sources">Sources: {d.sourceUrls.map((s, i) => <>{i > 0 && ' · '}<a href={s} target="_blank" rel="noopener nofollow">{new URL(s).hostname.replace(/^www\./, '')}</a></>)}</p>}
         <AdSlot label="Ad slot — in-content 300×250 (placeholder)" />
       </div>
       <aside>
         <div class="card"><h3>At a glance</h3><dl>
-          <dt>Category</dt><dd>{c.name}</dd><dt>Pricing</dt><dd>{d.pricing}</dd><dt>Rating</dt><dd>{d.rating}/5</dd><dt>Website</dt><dd><a href={d.website} target="_blank" rel="noopener">{new URL(d.website).hostname}</a></dd>
+          <dt>Category</dt><dd>{c.name}</dd>{d.subcategory && <><dt>Type</dt><dd>{d.subcategory}</dd></>}{d.company && <><dt>Company</dt><dd>{d.company}</dd></>}<dt>Pricing</dt><dd>{d.pricingModel ?? d.pricing}</dd>{d.startingPrice && <><dt>From (USD)</dt><dd>{d.startingPrice}</dd></>}{d.freePlan && <><dt>Free plan</dt><dd>{d.freePlan}</dd></>}{d.rating != null && <><dt>Rating</dt><dd>{d.rating}/5</dd></>}<dt>Website</dt><dd><a href={d.website} target="_blank" rel="noopener">{new URL(d.website).hostname}</a></dd>
         </dl></div>
         <AdSlot label="Ad slot — sidebar 300×600" />
       </aside>
@@ -59,6 +63,6 @@ const posts = await getCollection('blog', (p) => p.data.relatedTools.includes(to
   .layout { display: grid; grid-template-columns: 1fr 300px; gap: 2rem; } aside { position: sticky; top: 80px; align-self: start; }
   dl { display: grid; grid-template-columns: auto 1fr; gap: .4rem 1rem; margin: 0; } dt { color: var(--color-muted); }
   .pros { border-color: rgba(124,255,178,.35); } .cons { border-color: rgba(255,61,206,.35); } .pros h3, .cons h3 { margin-top: 0; }
-  .tips li { margin-bottom: .5rem; } .tips li::marker { color: var(--color-violet); font-family: var(--font-mono); }
+  .sources { font-size: .85rem; margin-top: 1.5rem; } .tips li { margin-bottom: .5rem; } .tips li::marker { color: var(--color-violet); font-family: var(--font-mono); }
   @media (max-width: 900px) { .head, .layout { grid-template-columns: 1fr; } aside { position: static; } }
 </style>

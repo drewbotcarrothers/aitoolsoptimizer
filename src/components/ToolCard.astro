@@ -7,10 +7,10 @@ const d = tool.data;
 <a class="card tool-card" href={url(`/tools/${tool.id}/`)} data-category={d.category} data-search={`${d.name} ${d.tagline} ${d.category}`.toLowerCase()}>
   <div class="top"><span class="avatar">{d.name[0]}</span><div><h3>{d.name}</h3><span class="muted cat">{categories[d.category].icon} {categories[d.category].name}</span></div></div>
   <p class="muted">{d.tagline}</p>
-  <div class="meta"><span class="stars">{stars(d.rating)}</span><span class={`pill ${d.pricing}`}>{d.pricing}</span></div>
+  <div class="meta">{d.rating != null ? <span class="stars">{stars(d.rating)}</span> : <span class="muted price">{d.startingPrice ? `From ${d.startingPrice.split(/[;(]/)[0].trim()}` : (d.freePlan && /^yes/i.test(d.freePlan) ? 'Free plan' : '')}</span>}<span class={`pill ${d.pricing}`}>{d.pricing}</span></div>
 </a>
 <style>
   .top { display: flex; gap: .8rem; align-items: center; } h3 { margin: 0; font-size: 1.05rem; }
   .avatar { width: 42px; height: 42px; border-radius: 12px; display: grid; place-items: center; font-family: var(--font-display); font-weight: 800; background: var(--gradient-brand); color: var(--color-bg); flex: none; }
-  .cat { font-size: .8rem; } .meta { display: flex; justify-content: space-between; align-items: center; }
+  .cat { font-size: .8rem; } .price { font-size: .8rem; } .meta { display: flex; justify-content: space-between; align-items: center; }
 </style>

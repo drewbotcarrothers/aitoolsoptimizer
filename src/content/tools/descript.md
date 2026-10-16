@@ -1,20 +1,22 @@
 ---
 name: "Descript"
-category: "audio-voice"
+category: "video"
+subcategory: "Text-based video/podcast editing"
+company: "Descript"
 tagline: "Edit audio and video by editing the transcript."
-description: "Descript lets you edit podcasts and videos by editing a text transcript, with AI features like filler-word removal and Studio Sound."
+description: "Edit video and podcasts by editing the transcript, with AI voice, clips and cleanup."
 pricing: "freemium"
+pricingModel: "Freemium"
 website: "https://www.descript.com"
-rating: 4.4
-pros: ["Text-based editing is fast", "Great audio cleanup", "Screen recording built in"]
-cons: ["Can be heavy on older computers", "Advanced AI features cost more"]
-tips: ["Remove filler words in one click", "Use Studio Sound to clean noisy recordings"]
-useCases: ["Podcast editing", "Tutorial videos", "Clips for social"]
-alternatives: ["elevenlabs", "runway"]
+bestFor: "Podcasters, YouTubers, marketers"
+keyFeatures: ["Text-based editing","Studio Sound","AI voice","AI co-editor","Captions"]
+useCases: ["Podcast editing","YouTube editing","Filler-word removal","Clips for social"]
+pros: ["Text-based editing is fast","Great audio cleanup","Screen recording built in"]
+cons: ["Can be heavy on older computers","Advanced AI features cost more"]
+tips: ["Remove filler words in one click","Use Studio Sound to clean noisy recordings"]
+alternatives: ["elevenlabs","runway"]
+sourceUrls: ["https://www.descript.com/pricing","https://www.descript.com/affiliate"]
+lastVerified: "2026-10-15"
 lastUpdated: "2026-10-15"
-sample: true
+sample: false
 ---
-
-## Our take
-
-*Sample review — placeholder copy for the demo.* Descript is a solid choice if you need podcast editing. Start with the free or trial option where available and upgrade once it proves its value in your workflow.

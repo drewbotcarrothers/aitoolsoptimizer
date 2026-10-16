@@ -33,7 +33,7 @@ const nav = [['/tools/', 'Tools Directory'], ['/blog/', 'Blog'], ['/ebooks/', 'E
       <nav>{nav.map(([href, label]) => <a href={url(href)}>{label}</a>)}</nav>
     </div>
   </header>
-  <div class="demo-banner">Demo build — all reviews, posts and ratings are <strong>sample content</strong> for preview purposes.</div>
+  <div class="demo-banner">Preview build — blog posts marked SAMPLE are <strong>sample content</strong>; tool data comes from our verified research list.</div>
   <main><slot /></main>
   <footer class="site-footer">
     <div class="container foot">

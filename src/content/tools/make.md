@@ -1,20 +1,23 @@
 ---
 name: "Make"
-category: "automation"
+category: "automation-agents"
+subcategory: "Visual automation"
+company: "Make (Celonis)"
 tagline: "Visual automation platform for complex workflows."
-description: "Make (formerly Integromat) is a visual automation builder for connecting apps and building multi-step scenarios, including AI modules."
+description: "Visual automation platform for building complex workflows and AI agents."
 pricing: "freemium"
+pricingModel: "Freemium"
+startingPrice: "$9 (Core, annual)"
 website: "https://www.make.com"
-rating: 4.4
-pros: ["Powerful visual builder", "Good value", "Flexible logic"]
-cons: ["Steeper learning curve", "Debugging complex scenarios takes time"]
-tips: ["Use routers to branch logic", "Schedule scenarios to save operations"]
-useCases: ["Multi-step automations", "Data syncing", "AI content pipelines"]
+bestFor: "Ops teams, agencies, power users"
+keyFeatures: ["Visual scenario builder","AI agents","Credits","API"]
+useCases: ["Multi-step workflows","AI agents","Data transformations"]
+pros: ["Powerful visual builder","Good value","Flexible logic"]
+cons: ["Steeper learning curve","Debugging complex scenarios takes time"]
+tips: ["Use routers to branch logic","Schedule scenarios to save operations"]
 alternatives: ["zapier"]
+sourceUrls: ["https://www.make.com/en/pricing","https://help.make.com/affiliate-program"]
+lastVerified: "2026-10-15"
 lastUpdated: "2026-10-15"
-sample: true
+sample: false
 ---
-
-## Our take
-
-*Sample review — placeholder copy for the demo.* Make is a solid choice if you need multi-step automations. Start with the free or trial option where available and upgrade once it proves its value in your workflow.

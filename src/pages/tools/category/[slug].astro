@@ -7,7 +7,7 @@ import { categories } from '../../../data/categories';
 import { url } from '../../../data/url';
 export function getStaticPaths() { return Object.keys(categories).map((slug) => ({ params: { slug } })); }
 const { slug } = Astro.params; const c = categories[slug!];
-const tools = (await getCollection('tools', (t) => t.data.category === slug)).sort((a, b) => b.data.rating - a.data.rating);
+const tools = (await getCollection('tools', (t) => t.data.category === slug)).sort((a, b) => a.data.name.localeCompare(b.data.name));
 const posts = await getCollection('blog', (p) => p.data.category === slug && !p.data.draft);
 ---
 <Base title={`Best ${c.name} AI Tools`} description={`${c.name} AI tools compared: ${c.blurb}`}>

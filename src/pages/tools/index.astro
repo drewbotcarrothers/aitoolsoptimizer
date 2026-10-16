@@ -6,11 +6,11 @@ import { getCollection } from 'astro:content';
 import { categories } from '../../data/categories';
 const tools = (await getCollection('tools')).sort((a, b) => a.data.name.localeCompare(b.data.name));
 ---
-<Base title="AI Tools Directory" description="Browse and compare AI tools by category with ratings, pricing, pros, cons and tips.">
+<Base title="AI Tools Directory" description="Browse and compare AI tools by category with pricing, free plans, key features and use cases.">
   <section class="container section">
     <span class="pill">// directory</span>
     <h1>AI Tools <span class="grad">Directory</span></h1>
-    <p class="muted">{tools.length} hand-picked tools across {Object.keys(categories).length} categories. Filter by category or search by name.</p>
+    <p class="muted">{tools.length} researched tools across {Object.keys(categories).length} categories. Filter by category or search by name.</p>
     <div class="filters">
       <input id="q" type="search" placeholder="Search tools…" aria-label="Search tools" />
       <div class="chips">

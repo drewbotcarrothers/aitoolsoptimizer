@@ -2,7 +2,7 @@
 title: "Automate Repetitive Work with AI: Zapier vs Make"
 description: "Save hours each week by connecting your apps and adding AI steps."
 pubDate: "2026-10-03"
-category: "automation"
+category: "automation-agents"
 relatedTools: ["zapier", "make", "chatgpt"]
 tags: []
 sample: true

@@ -1,20 +1,23 @@
 ---
 name: "Zapier"
-category: "automation"
+category: "automation-agents"
+subcategory: "No-code automation & agents"
+company: "Zapier"
 tagline: "Connect apps and automate workflows with AI."
-description: "Zapier connects thousands of apps so you can automate workflows, with AI steps and natural-language Zap building."
+description: "No-code automation connecting thousands of apps, with AI agents and AI steps."
 pricing: "freemium"
+pricingModel: "Freemium"
+startingPrice: "$19.99 (Professional, annual)"
 website: "https://zapier.com"
-rating: 4.5
-pros: ["Thousands of integrations", "Build automations in plain English", "Reliable"]
-cons: ["Costs grow with task volume", "Complex logic can get messy"]
-tips: ["Start with a template Zap", "Add AI steps to summarise or classify data"]
-useCases: ["Lead routing", "Content publishing", "Notifications"]
+bestFor: "Small businesses, ops teams, solopreneurs"
+keyFeatures: ["Zaps","AI agents","Tables","Interfaces"]
+useCases: ["App-to-app workflows","AI agents","Lead routing","Data syncing"]
+pros: ["Thousands of integrations","Build automations in plain English","Reliable"]
+cons: ["Costs grow with task volume","Complex logic can get messy"]
+tips: ["Start with a template Zap","Add AI steps to summarize or classify data"]
 alternatives: ["make"]
+sourceUrls: ["https://zapier.com/blog/zapier-pricing/","https://zapier.com/legal/ambassador-affiliate-terms"]
+lastVerified: "2026-10-15"
 lastUpdated: "2026-10-15"
-sample: true
+sample: false
 ---
-
-## Our take
-
-*Sample review — placeholder copy for the demo.* Zapier is a solid choice if you need lead routing. Start with the free or trial option where available and upgrade once it proves its value in your workflow.

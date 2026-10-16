@@ -2,7 +2,7 @@
 title: "AI Voice Tools for Creators: ElevenLabs and Descript"
 description: "Make professional voiceovers and clean up audio without a studio."
 pubDate: "2026-09-20"
-category: "audio-voice"
+category: "audio-voice-music"
 relatedTools: ["elevenlabs", "descript"]
 tags: []
 sample: true
