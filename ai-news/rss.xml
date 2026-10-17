@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 17, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-17/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-17/</guid>
+      <pubDate>Sat, 17 Oct 2026 19:00:00 GMT</pubDate>
+      <description>Today’s AI news: China drafts export controls on 23 AI technologies, DeepSeek V4.1-Flash-1017 and its Search &amp; Fetch APIs, AI agents reaching live systems, Reflection’s Beam open weights, OpenAI parallel agents and prompt-to-voice, Claude’s quantum circuits, and Claude Code Review GA.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 16, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-16/</link>
