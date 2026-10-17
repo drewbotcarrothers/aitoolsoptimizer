@@ -17,6 +17,14 @@ draft: false
 - **Google** broadened **Gemini 4 Argon** availability (API, AI Studio, Antigravity, Gemini app / AI Mode for Ultra & Pro) with intro API pricing **$2 / $10 per MTok** through **Nov 30, 2026**, then **$4 / $20**.
 - **OpenUI 1.0** (Thesys / openuidev) shipped generative UI features so agents can stream interactive cards, forms and charts.
 
+## Watch: AI News Roundup video (Oct 16, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/reFng3-y1vQ" title="FTC Probes OpenAI &amp; Anthropic, Meta's 816B Open Model, ~2.5x Faster Claude | AI News Oct 16" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=reFng3-y1vQ).
+
 ---
 
 ## What is Muse Spark Open, and why did Meta open the weights?
