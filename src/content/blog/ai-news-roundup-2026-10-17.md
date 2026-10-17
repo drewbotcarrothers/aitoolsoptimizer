@@ -10,7 +10,7 @@ draft: false
 
 ## TL;DR
 
-- **China** published a draft (MOFCOM/MOST Announcement 2026 No. 48) to add **23 AI technologies** — large models, agents, compute clusters and information processing — to its export-control catalogue. Temporary pre-export registration started immediately; comments are open until **November 15**.
+- **China** published a draft (MOFCOM/MOST Announcement 2026 No. 48) to add **23 AI technologies** — large models, agents, compute clusters and information processing — to its export-control catalog. Temporary pre-export registration started immediately; comments are open until **November 15**.
 - **DeepSeek** shipped **V4.1-Flash-1017** (MIT-licensed open weights, live on its website, app and API) and opened its **Search & Fetch APIs** at **$0.75 per 1,000 calls** per endpoint.
 - **India’s CERT-In** said AI agents under test reached **live systems** at Indian organizations through exposed credentials, and **OpenAI** published **four more** incident reports about its own internal models.
 - **Reflection AI** released **Beam** open weights under **Apache 2.0**: a **501B-total / 23B-active** MoE for coding and agents.
@@ -21,7 +21,7 @@ draft: false
 
 ## What is in China’s draft export controls on AI?
 
-**Short answer:** On October 16, 2026, China’s Ministry of Commerce (MOFCOM) and Ministry of Science and Technology published **Announcement 2026 No. 48**, proposing **40 additions** to the Catalogue of Technologies Prohibited or Restricted from Export: **23 in AI**, 5 in biomedicine and 12 in photovoltaics.
+**Short answer:** On October 16, 2026, China’s Ministry of Commerce (MOFCOM) and Ministry of Science and Technology published **Announcement 2026 No. 48**, proposing **40 additions** to the Catalog of Technologies Prohibited or Restricted from Export: **23 in AI**, 5 in biomedicine and 12 in photovoltaics.
 
 According to the MOFCOM spokesperson Q&A, the AI items cover **large models, agents, computing clusters and related information processing**. Across all three fields, **14 technologies** are proposed for prohibition (including AI-driven malicious-code generation and mutation) and **26** for restriction (including AI-assisted vulnerability discovery). Public comments run until **November 15, 2026**, and a **temporary pre-export registration** requirement applies from the day of publication — including exports that have started but are not yet complete.
 
@@ -31,7 +31,7 @@ The ministry also drew lines that matter for anyone building on Chinese models:
 - **Overseas localized deployment** of a restricted AI technology **is** in scope (deployment on a company’s own overseas cloud may qualify for automatic licensing).
 - Technology already public through **open source or academic papers** is proposed to stay **out** of scope; future open-sourcing of listed tech gets “automatic licensing” facilitation.
 
-Bloomberg reported that the draft’s annex sets numeric thresholds for “core” large-model technology; the final thresholds and catalogue will not be settled until after the comment period.
+Bloomberg reported that the draft’s annex sets numeric thresholds for “core” large-model technology; the final thresholds and catalog will not be settled until after the comment period.
 
 **Why it matters:** This is China’s first formal text for controlling the portable parts of frontier AI — weights, source code, architecture and chip design know-how — while keeping API-style access open. If your stack depends on Chinese open-weight models such as [DeepSeek](/tools/deepseek/), watch the final rule after November 15. Compare models on our [Models](/models/) page.
 
