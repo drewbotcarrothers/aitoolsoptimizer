@@ -18,6 +18,14 @@ draft: false
 - **Meta** removed the word **“train”** from its new crawling terms for business accounts after publisher backlash. Legal experts say the revised text is still broad.
 - **Anthropic** signed its **first Canadian data-center lease**, for EverWind’s planned **95 MW** first phase in Nova Scotia.
 
+## Watch: AI News Roundup video (Oct 18, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/iMMA5wbqK3Y" title="Anthropic Pledges 5% to Public Good, Its Draft AI Bill, ChatGPT Slides | AI News Oct 18" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=iMMA5wbqK3Y).
+
 ---
 
 ## What is Anthropic’s new Public Benefit Fund?
