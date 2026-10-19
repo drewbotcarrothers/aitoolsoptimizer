@@ -17,6 +17,14 @@ draft: false
 - **OpenAI** upgraded **GPT-6 Astra Pro** in ChatGPT with **parallel agents**, and launched **prompt-to-voice** for all API customers.
 - **Anthropic** showed **Claude Mythos 5** designing quantum circuits that beat the best published designs, and made **Code Review** in Claude Code generally available for Team and Enterprise.
 
+## Watch: AI News Roundup video (Oct 17, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/z-lMOTcYfiU" title="China Drafts AI Export Controls, DeepSeek V4.1-Flash, Agents in Live Systems | AI News Oct 17" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=z-lMOTcYfiU).
+
 ---
 
 ## What is in China’s draft export controls on AI?
