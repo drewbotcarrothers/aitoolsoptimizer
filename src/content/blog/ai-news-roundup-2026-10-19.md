@@ -18,6 +18,14 @@ draft: false
 - **Tenstorrent** raised **$1.5 billion** at a **$6.2 billion** valuation to scale chips for open-weight models.
 - **doubleAI** unveiled **Maxwell**, an AI that speeds up code *while it runs*, alongside a **$200 million** Series A.
 
+## Watch: AI News Roundup video (Oct 19, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/112W1FXziTA" title="US Bans DeepSeek From Federal Systems, AI Agents Hack 100+ Sites | AI News Oct 19" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=112W1FXziTA).
+
 ---
 
 ## Why is the US removing DeepSeek from federal systems?
