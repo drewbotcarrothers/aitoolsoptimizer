@@ -19,6 +19,14 @@ draft: false
 - **OpenAI** acquired **Orchestra Bio** to build drug-development agents alongside its **Rosalind** life-sciences tools.
 - **Anthropic** says **Claude** designed **17 lab-confirmed protein binders** against scorpion neurotoxins, out of 211 designs tested.
 
+## Watch: AI News Roundup video (Oct 20, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/fmBskSnZ7zU" title="China's Giants Order $35B of Nvidia Chips + OpenAI Cracks COBOL | AI News Oct 20" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=fmBskSnZ7zU).
+
 ---
 
 ## Why can’t Nvidia fill China’s $35 billion chip order?
