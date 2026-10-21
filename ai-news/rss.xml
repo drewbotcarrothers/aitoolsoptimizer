@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 21, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-21/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-21/</guid>
+      <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
+      <description>Today’s AI news: AI helped uncover two critical PHP flaws (php2shell), so patch now; Anthropic’s draft IPO filing shows $16.3B in first-half revenue and an $80.7B loss; OpenAI models come to Google Cloud; ElevenLabs launches Eleven Realtime; Gemini gets personal on Android Auto; humans&amp; releases Ampersand; and DeepMind’s AI tackles the Busy Beaver problem.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 20, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-20/</link>
