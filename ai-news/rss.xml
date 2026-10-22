@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:15:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 22, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-22/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-22/</guid>
+      <pubDate>Thu, 22 Oct 2026 19:15:00 GMT</pubDate>
+      <description>Today’s AI news: Anthropic launches Claude Duet, a proactive agent app that checks with you before it acts; DeepSeek raises about $15B; OpenAI, Anthropic, Hugging Face and Alibaba donate agent standards to the Agentic AI Foundation; Google’s Agent Compute Engine; Hugging Face’s Carbon-X DNA model; Kevin Weil’s Warp Sciences; and Recursive’s AI-built Flint coding model.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 21, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-21/</link>
