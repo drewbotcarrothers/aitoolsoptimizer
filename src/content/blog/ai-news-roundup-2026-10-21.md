@@ -20,6 +20,14 @@ draft: false
 
 ---
 
+## Watch: AI News Roundup video (Oct 21, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/pd3FZXsNSeA" title="AI Found Critical PHP Flaws + Anthropic&#39;s IPO Numbers Leak | AI News Oct 21" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=pd3FZXsNSeA).
+
 ## What is php2shell, and do you need to patch PHP?
 
 **Short answer:** Yes, if you run PHP, update now. On October 21 the PHP project released **PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35** to fix two critical vulnerabilities, **CVE-2026-109618** (memory corruption when a request hits the memory limit at the wrong moment) and **CVE-2026-109619** (a use-after-free from leftover state between requests). Both are rated **CVSSv4 9.2** and can allow an **unauthenticated attacker to execute code** on the server. PHP says every installation that serves web requests is at risk, including PHP-FPM, Apache with mod_php, php-cgi, FrankenPHP and LiteSpeed, with mod_php the most exposed. In the PHP Foundation’s words: “If you run PHP, it is imperative that you update now.”
