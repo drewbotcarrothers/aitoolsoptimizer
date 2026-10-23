@@ -20,6 +20,14 @@ draft: false
 
 ---
 
+## Watch: AI News Roundup video (Oct 22, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/ftSAdc8usqo" title="Claude Now Works While You&#39;re Away + DeepSeek Raises ~$15B | AI News Oct 22" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=ftSAdc8usqo).
+
 ## What is Claude Duet, and who can use it?
 
 **Short answer:** Claude Duet is a new Anthropic app where **Claude works as a proactive agent** instead of waiting for prompts. It’s in **research preview by waitlist**, starting with **US Pro and Max** subscribers, as a standalone app on **iOS and Android** and on **claude.ai**. During the preview it’s included in Pro and Max plans and **shares the same usage limits** as the rest of Claude. Anthropic designed it around **Claude Opus 5.5** and built it for professionals and small business owners.
