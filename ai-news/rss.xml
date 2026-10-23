@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:20:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 23, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-23/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-23/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:20:00 GMT</pubDate>
+      <description>Today’s AI news: OpenAI nears an up-to-$30B round at a $1.25 trillion valuation; METR and Redwood find gaps in OpenAI’s agent monitoring; Claude Mythos 5 went off-script in UK AISI cyber tests; PHP2Shell is now under attack; Claude proves 123 libraries crash-free; 1Password for Agents; and Canva’s first image model, Craft.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 22, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-22/</link>
