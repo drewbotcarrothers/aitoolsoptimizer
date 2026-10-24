@@ -1,0 +1,114 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is Prompt Compaction? (2026): Shrink the Prompt, Keep the Task | AI Tools Optimizer</title><meta name="description" content="Prompt compaction shrinks a long prompt so it fits a token budget while keeping the current task. A 2026 explainer. It is not a summary for a person."><link rel="canonical" href="https://aitoolsoptimizer.com/blog/what-is-prompt-compaction-2026/"><meta property="og:url" content="https://aitoolsoptimizer.com/blog/what-is-prompt-compaction-2026/"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta property="og:title" content="What Is Prompt Compaction? (2026): Shrink the Prompt, Keep the Task | AI Tools Optimizer"><meta property="og:description" content="Prompt compaction shrinks a long prompt so it fits a token budget while keeping the current task. A 2026 explainer. It is not a summary for a person."><meta property="og:image" content="https://aitoolsoptimizer.com/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8QRK7THNC1"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8QRK7THNC1');
+  </script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7909541570116920" crossorigin="anonymous"></script><link rel="stylesheet" href="/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/tools/category/chatbots-assistants/" data-astro-cid-4sn4zg3r>Chatbots &amp; Assistants</a> <h1 data-astro-cid-4sn4zg3r>What Is Prompt Compaction? (2026): Shrink the Prompt, Keep the Task</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>Prompt compaction is the step that shrinks a prompt so the next model call fits the token budget, while keeping the instructions and the facts this turn still needs.</strong> A summary written for a person is a document they will read. Compaction is an input to a machine. If the machine loses the constraint, the shorter prompt failed.</p>
+<p>The split you are trying to fit is <a href="/blog/what-is-token-budgeting-2026/">what token budgeting is</a>. Memory that is supposed to last across sessions is <a href="/blog/what-is-ai-memory-2026/">what AI memory is</a>. A file check that catches a broken template before you compact it is <a href="/blog/what-is-prompt-linter-2026/">what a prompt linter is</a>. Retrieved passages you should rank before you paste them are <a href="/blog/what-is-rag-explained-2026/">what RAG is</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score which product summarizes a thread more faithfully. This page does not invent a token limit for a chat plan.</p>
+<h2 id="what-you-may-drop-and-what-you-keep">What you may drop, and what you keep</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Piece</th><th>Compaction may</th><th>Compaction may not</th></tr></thead><tbody><tr><td>Resolved tangents</td><td>Drop them when the decision is already in a sentence you keep</td><td>Drop the decision and keep the debate</td></tr><tr><td>Old tool output</td><td>Keep the field that still binds the answer</td><td>Paste the raw payload again</td></tr><tr><td>Instructions</td><td>Leave them intact, or shorten them in a reviewed edit</td><td>Paraphrase a safety or pricing rule you did not approve</td></tr><tr><td>The current user message</td><td>Leave it intact</td><td>“Summarize” the question into a different question</td></tr><tr><td>Numbers, ids, and dates</td><td>Copy them exactly into the kept note</td><td>Round them for brevity</td></tr><tr><td>A secret that should not have been in the thread</td><td>Delete it</td><td>Repeat it in the compact form</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  thread["A thread that no longer fits the budget"] --> pin["Pin instructions, the current question, and the facts you mark as binding"]
+  pin --> cut["Drop resolved turns and raw tool payloads"]
+  cut --> fit{"Does the next call fit, with reply room reserved?"}
+  fit -->|No| refuse["Refuse or ask the person to start a scoped thread"]
+  fit -->|Yes| send["Send the compact prompt"]
+  send --> check["Log what was dropped"]</pre>
+<p>Log the drop. A later incident will ask why the model “forgot” a limit. The answer should be a list: these turns were removed, these ids were kept. That list is part of <a href="/blog/what-is-structured-logging-for-ai-2026/">structured logging for AI</a>.</p>
+<h2 id="where-the-long-prompt-comes-from">Where the long prompt comes from</h2>
+<p><strong>A project that accumulates files.</strong> <a href="/tools/claude/">Claude</a> Pro is $20 a month, or $17 billed annually, and includes Projects on the directory card. A Project is a place to keep the source. Compaction is what you do when the source plus the thread still exceeds the call you want to make. The review is <a href="/blog/claude-review-2026/">Claude review</a>.</p>
+<p><strong>A chat product with history.</strong> <a href="/tools/chatgpt/">ChatGPT</a> Plus is $20 a month and includes projects. Free can hold a conversation with limits the card describes as limits. If you depend on a long thread, start a new one with the kept facts pasted on purpose. The product’s automatic shortening, if it has one, is the vendor’s policy. Read it. Do not assume it preserved the price you set in message four.</p>
+<p><strong>A file in Google’s notebook.</strong> <a href="/tools/gemini-notebook/">Gemini Notebook</a> is free with a Google account. It answers from sources you upload. Compaction inside a general chat is a different path from “ask only this notebook.” Prefer the notebook when the source is the file. The long-file comparison is <a href="/blog/gemini-vs-claude-for-long-pdfs-2026/">Gemini vs Claude for long PDFs</a>.</p>
+<p><strong>The note a team keeps.</strong> <a href="/tools/notion-ai/">Notion AI</a> Business is $20 a seat a month, which is the tier with the full agent on the directory card. Plus is $10 and is not that full AI tier. A pinned decision log in Notion is a better compact form than an ever-growing chat, because a person can edit the pin. The invoice is <a href="/blog/notion-ai-pricing-explained-2026/">Notion AI pricing explained</a>.</p>
+<p>A prompt that holds the line, when you do ask a model to compact:</p>
+<p>“Keep the instructions unchanged. Keep the current user message unchanged. Keep every id, price, date, and limit exactly. Drop turns that are already resolved. List what you dropped. If a binding fact does not fit, say so. Do not add a new fact.”</p>
+<p>The person who accepts the compact prompt is <a href="/blog/what-is-human-in-the-loop-ai-2026/">what human-in-the-loop AI is</a>.</p>
+<h2 id="a-compact-prompt-can-still-be-wrong">A compact prompt can still be wrong</h2>
+<p>Compaction preserves what you marked. If the thread contained a hallucinated price, the compact form will preserve it too, neatly. Correct the fact first. The failure mode is <a href="/blog/what-is-ai-hallucination-2026/">what an AI hallucination is</a>.</p>
+<p>Compaction is also the wrong tool for a record you must keep. A support case, a contract, and a medical note need the original. Compact a copy for the next model call. Leave the record intact. That record is <a href="/blog/what-is-a-system-of-record-for-ai-2026/">what a system of record for AI is</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-compaction-the-same-as-memory">Is compaction the same as memory?</h3>
+<p>Memory is what the product claims to recall later, under its own rules. Compaction is a deliberate shrink of this prompt, with a list of what you dropped. You can compact without granting the product a long-term memory.</p>
+<h3 id="should-we-compact-every-turn">Should we compact every turn?</h3>
+<p>Compact when the next call would otherwise truncate the question or the reply reserve. Compacting a short thread adds a chance to drop the constraint, and it spends a call to do it.</p>
+<h3 id="can-the-model-compact-itself-safely">Can the model compact itself safely?</h3>
+<p>It can draft the short form. You still compare the kept numbers to the source thread before you rely on the short form for a price, a limit, or a customer commitment. A model that both writes the summary and approves it has not been checked.</p>
+<h3 id="what-if-the-instructions-themselves-are-too-long">What if the instructions themselves are too long?</h3>
+<p>That is an edit, not an automatic compact. Shorten the instructions in review, and run them through the linter if the template has variables. Automatic paraphrase of a policy is how the policy changes without a decision.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for Claude, ChatGPT, Gemini Notebook, and Notion AI. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://chatgpt.com/pricing/">ChatGPT pricing</a>, <a href="https://www.notion.com/pricing">Notion pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/claude/">Claude</a> is in the <a href="/tools/category/chatbots-assistants/">chatbots and assistants directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/gemini/" data-category="chatbots-assistants" data-search="google gemini google's ai assistant for chat, research, image and video generation, built into gmail, docs and android. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/gemini.png" alt="Google Gemini logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Google Gemini</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Google&#39;s AI assistant for chat, research, image and video generation, built into Gmail, Docs and Android.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $4.99/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/notion-ai/" data-category="productivity-notes" data-search="notion ai ai built into your notion workspace: notion agent, custom agents, ai meeting notes and enterprise search. productivity-notes" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/notion-ai.png" alt="Notion AI logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Notion AI</h3><span class="muted cat" data-astro-cid-g5sewvjw>⚡ Productivity &amp; Notes</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI built into your Notion workspace: Notion Agent, Custom Agents, AI Meeting Notes and enterprise search.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $20/seat/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a> <a href="/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
