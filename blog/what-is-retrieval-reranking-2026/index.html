@@ -1,0 +1,105 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is Retrieval Reranking? (2026): A Second Pass on the Passages | AI Tools Optimizer</title><meta name="description" content="Retrieval reranking reorders fetched passages with a second scorer before the model reads them. A 2026 explainer. No ranking scores."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-retrieval-reranking-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-retrieval-reranking-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is Retrieval Reranking? (2026): A Second Pass on the Passages | AI Tools Optimizer"><meta property="og:description" content="Retrieval reranking reorders fetched passages with a second scorer before the model reads them. A 2026 explainer. No ranking scores."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/research-search/" data-astro-cid-4sn4zg3r>Research &amp; Search</a> <h1 data-astro-cid-4sn4zg3r>What Is Retrieval Reranking? (2026): A Second Pass on the Passages</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>Retrieval reranking is a second pass that reorders passages you already fetched, using a slower or stricter scorer, before those passages go into the prompt.</strong> The first pass finds candidates quickly. The reranker decides which of those candidates the model should actually see. A page that never entered the first pass cannot be reranked into the answer.</p>
+<p>Fetching passages at all is <a href="/blog/what-is-rag-explained-2026/">what RAG is</a>. Whether the page is current is <a href="/blog/what-is-retrieval-freshness-2026/">what retrieval freshness is</a>. How you tell a good fetch from a bad one is <a href="/blog/what-is-retrieval-evaluation-2026/">what retrieval evaluation is</a>. The vectors the first pass usually searches are <a href="/blog/what-is-embeddings-in-ai-2026/">what embeddings are</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not inspect any vendor’s stack and does not claim they run a reranker. We did not score search quality.</p>
+<h2 id="the-two-passes">The two passes</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th></th><th>First pass</th><th>Rerank</th></tr></thead><tbody><tr><td>Job</td><td>Pull a candidate set from the index</td><td>Order that set for the prompt</td></tr><tr><td>Typical pressure</td><td>Cheap enough to scan many chunks</td><td>Expensive enough that you only run it on the candidates</td></tr><tr><td>What it can see</td><td>Whatever the index holds</td><td>Only what the first pass returned</td></tr><tr><td>Failure</td><td>The right page never appears</td><td>The right page was fetched and then buried</td></tr><tr><td>What you log</td><td>The candidate ids</td><td>The order you kept, and the order you dropped</td></tr><tr><td>What you still check</td><td>The date on the source</td><td>The same date. Rerank does not refresh a stale page</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  query["A question arrives"] --> first["First pass returns candidates"]
+  first --> empty{"Any candidates?"}
+  empty -->|No| miss["Say you found nothing. Do not invent a source"]
+  empty -->|Yes| rerank["A second scorer reorders the candidates"]
+  rerank --> keep["Keep the top passages you budgeted"]
+  keep --> prompt["Those passages enter the prompt"]</pre>
+<p>Reranking spends context. Every passage you keep is tokens the reply cannot use. The split of that window is <a href="/blog/what-is-token-budgeting-2026/">what token budgeting is</a>. A reranker that returns twelve long chunks can crowd out the answer. Cap the count before you admire the order.</p>
+<h2 id="products-that-retrieve-and-what-this-page-will-not-claim">Products that retrieve, and what this page will not claim</h2>
+<p><strong>Cited answers.</strong> <a href="/tools/perplexity/">Perplexity</a> puts citations on answers. Pro is $17 a month billed annually. A citation means you can open a source. It does not tell you whether a reranker ordered those sources. Open the link and note the date. The research habit is <a href="/blog/how-to-use-perplexity-for-market-research-2026/">how to use Perplexity for market research</a>. The review is <a href="/blog/perplexity-review-2026/">Perplexity review</a>.</p>
+<p><strong>A bot on your articles.</strong> <a href="/tools/chatbase/">Chatbase</a> trains an agent on sources you supply. Hobby is $32 a month billed yearly, with 700 message credits. If the right article is missing from the sources, no second pass will find it. Add the article. Then ask whether your plan’s retrieval order matches the question. The directory does not document a rerank control, so this page does not invent one.</p>
+<p><strong>Literature, with papers attached.</strong> <a href="/tools/elicit/">Elicit</a> is a research tool in this directory. Use it when the candidates should be papers, and still read the paper. A ranked list of abstracts is a first pass you can see. Treat any “top” label as an order to review, and keep the judgment with the person who will cite the work.</p>
+<p><strong>The wiki you already have.</strong> <a href="/tools/notion-ai/">Notion AI</a> Business is $20 a seat a month and can search connected apps. The page of record still needs an owner. A rerank inside a vendor’s search is their implementation. Your job is to notice when the passage in the draft is the wrong page from a set you could have checked.</p>
+<h2 id="what-to-log-if-you-build-the-second-pass">What to log if you build the second pass</h2>
+<p>Log the query, the candidate ids from the first pass, the ids you kept after rerank, and the date on each source. When an answer is wrong, you can see whether the page was missing or merely buried. Evaluation needs that distinction. Freshness needs the date. Rerank needs the before-and-after order.</p>
+<p>Do not add a reranker to hide a bad index. If the first pass never returns the right page, fix the index, the chunking, or the source list. A second scorer cannot retrieve a document it was not given.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-reranking-the-same-as-the-models-answer">Is reranking the same as the model’s answer?</h3>
+<p>The reranker orders sources. The model writes from the sources you kept. A fluent answer can still cite the passage you ranked second and ignore the one you ranked first. Read both.</p>
+<h3 id="does-a-higher-similarity-score-mean-we-reranked">Does a higher similarity score mean we reranked?</h3>
+<p>A similarity score is usually the first pass. Reranking is a separate order on top of those scores. One score, with no second list, is one pass.</p>
+<h3 id="will-reranking-fix-stale-prices">Will reranking fix stale prices?</h3>
+<p>It will prefer a passage that looks more relevant. It will not update the passage. Check the date. A fresh wrong page can outrank a stale right one, and the reverse happens too.</p>
+<h3 id="should-every-search-box-have-a-reranker">Should every search box have a reranker?</h3>
+<p>Add one when you can show that the right page is in the candidate set and still loses. If it is absent, spend the effort on the first pass. If you cannot log the order, you cannot tell which problem you have.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for Perplexity, Chatbase, and Notion AI. No vendor on this page is credited with a specific reranker. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://www.perplexity.ai/pro">Perplexity Pro</a>, <a href="https://www.chatbase.co/pricing">Chatbase pricing</a>, <a href="https://www.notion.com/pricing">Notion pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/perplexity/">Perplexity</a> is in the <a href="/tools/category/research-search/">research and search directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/chatbase/" data-category="customer-support" data-search="chatbase build ai agents trained on your data to handle support and sales across chat, email, whatsapp, slack and voice. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatbase.png" alt="Chatbase logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Chatbase</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Build AI agents trained on your data to handle support and sales across chat, email, WhatsApp, Slack and voice.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $32/mo</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/elicit/" data-category="research-search" data-search="elicit ai research assistant that searches, summarizes and extracts data from scientific papers, including systematic reviews. research-search" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/elicit.png" alt="Elicit logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Elicit</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔎 Research &amp; Search</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI research assistant that searches, summarizes and extracts data from scientific papers, including systematic reviews.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $11/user/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/notion-ai/" data-category="productivity-notes" data-search="notion ai ai built into your notion workspace: notion agent, custom agents, ai meeting notes and enterprise search. productivity-notes" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/notion-ai.png" alt="Notion AI logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Notion AI</h3><span class="muted cat" data-astro-cid-g5sewvjw>⚡ Productivity &amp; Notes</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI built into your Notion workspace: Notion Agent, Custom Agents, AI Meeting Notes and enterprise search.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $20/seat/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/perplexity/" data-category="research-search" data-search="perplexity ai answer engine with cited sources, deep research, the comet browser and perplexity computer. research-search" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/perplexity.png" alt="Perplexity logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Perplexity</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔎 Research &amp; Search</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI answer engine with cited sources, Deep Research, the Comet browser and Perplexity Computer.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
