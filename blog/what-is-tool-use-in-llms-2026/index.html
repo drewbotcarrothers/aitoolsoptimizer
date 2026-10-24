@@ -1,0 +1,147 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is Tool Use in LLMs? (2026): When the Model Should Look Something Up | AI Tools Optimizer</title><meta name="description" content="Tool use is a model choosing to call search, code, or another system instead of answering from the prompt. When to want that in 2026, and when a fixed workflow is enough."><link rel="canonical" href="https://aitoolsoptimizer.com/blog/what-is-tool-use-in-llms-2026/"><meta property="og:url" content="https://aitoolsoptimizer.com/blog/what-is-tool-use-in-llms-2026/"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta property="og:title" content="What Is Tool Use in LLMs? (2026): When the Model Should Look Something Up | AI Tools Optimizer"><meta property="og:description" content="Tool use is a model choosing to call search, code, or another system instead of answering from the prompt. When to want that in 2026, and when a fixed workflow is enough."><meta property="og:image" content="https://aitoolsoptimizer.com/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8QRK7THNC1"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8QRK7THNC1');
+  </script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7909541570116920" crossorigin="anonymous"></script><link rel="stylesheet" href="/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/tools/category/automation-agents/" data-astro-cid-4sn4zg3r>Automation &amp; Agents</a> <h1 data-astro-cid-4sn4zg3r>What Is Tool Use in LLMs? (2026): When the Model Should Look Something Up</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>Tool use is the model deciding it needs a system outside the prompt, then continuing from what that system returns.</strong> The system might be web search, a code runner, a calculator, a file, or a calendar. The model proposes the call. Your app, or the vendor’s app, runs it. The answer can be better because it saw today’s page. It can also be worse because it trusted a bad result.</p>
+<p>The wire format of that proposal is <a href="/blog/what-is-function-calling-in-ai-2026/">what function calling is</a>. Read that when you are building the call. Read this when you are deciding whether a product should be allowed to act. A shared plug shape for those tools is <a href="/blog/what-is-model-context-protocol-2026/">what the Model Context Protocol is</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026, plus plan details recorded October 24, 2026 where a linked article re-read the vendor page. We did not score tool-use accuracy.</p>
+<h2 id="four-kinds-of-tool-and-the-risk-that-matches">Four kinds of tool, and the risk that matches</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Kind</th><th>Example</th><th>Reversible?</th><th>Buy it when</th></tr></thead><tbody><tr><td>Lookup</td><td>Web search, a help-center passage, a paper</td><td>Yes. You can ignore the result</td><td>The fact changes, or it lives in a corpus</td></tr><tr><td>Compute</td><td>Code execution, a spreadsheet formula</td><td>Yes, if it does not write back</td><td>The model is bad at arithmetic and the rows are yours</td></tr><tr><td>Draft from a file</td><td>Reading an upload and outlining it</td><td>Yes</td><td>You already have the source and you will check the outline</td></tr><tr><td>Action</td><td>Send, pay, delete, post, merge</td><td>No</td><td>A person still approves, until the log shows the call is boring</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  ask["The user asks"] --> q1{"Does the answer depend on a system outside the prompt?"}
+  q1 -->|No| chat["Answer from the prompt"]
+  q1 -->|Yes, and a person can check| tool["Let the model call a lookup or a file"]
+  q1 -->|Yes, and it would send or pay| human["A fixed workflow, then a person"]
+  tool --> read["Open the source before you keep the sentence"]</pre>
+<p>Lookup without a link is not tool use you can audit. <a href="/tools/perplexity/">Perplexity</a> is the directory’s clean case of search that ships with citations. Pro is $17 a month billed annually. Open the citation. The plan card is <a href="/blog/perplexity-pricing-explained-2026/">Perplexity pricing explained</a>.</p>
+<h2 id="products-where-tool-use-is-already-the-default">Products where tool use is already the default</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Product</th><th>The tool you are actually getting</th><th>Price to know</th></tr></thead><tbody><tr><td><a href="/tools/chatgpt/">ChatGPT</a></td><td>Search, files, image tools, and Codex on the plan that includes them. Advanced reasoning and expanded Codex start at Plus</td><td>Plus is $20/month. Free can do quick Codex tasks on the recorded matrix. Go at $8 is lightweight tasks and may include ads</td></tr><tr><td><a href="/tools/claude/">Claude</a></td><td>Files, code execution, web search, and connectors on the free card. Claude Code starts at Pro</td><td>Pro is $20/month, or $17 billed annually. There is no free Claude Code</td></tr><tr><td><a href="/tools/perplexity/">Perplexity</a></td><td>Retrieval over the web, with links</td><td>Pro is $17/month billed annually</td></tr><tr><td><a href="/tools/lindy/">Lindy</a></td><td>An agent that can pick among email, calendar, and the integrations you connect</td><td>Team starts at $49.99/month for 5,000 credits. The trial is $50 in credits for 7 days</td></tr><tr><td><a href="/tools/zapier/">Zapier</a></td><td>Not model-chosen. You drew the steps</td><td>Professional is $19.99/month billed annually for 750 tasks</td></tr><tr><td><a href="/tools/cursor/">Cursor</a></td><td>Editor tools: Tab, Chat, and Agent, on a usage pool</td><td>Plus is $8/month on The X Subscription</td></tr></tbody></table>
+<p>The coding version of this choice, where the tool is the repository, is <a href="/blog/chatgpt-vs-claude-for-coding-2026/">ChatGPT vs Claude for coding</a>. The editor versus the two agents is <a href="/blog/cursor-vs-claude-code-vs-codex-2026/">Cursor vs Claude Code vs Codex</a>. Lindy’s invoice is <a href="/blog/lindy-pricing-explained-2026/">Lindy pricing explained</a>.</p>
+<p>A path you drew is still the right tool when the branch is known. “When a form is submitted, create a row and ping a channel” should not ask a model whether to ping. That comparison is <a href="/blog/zapier-vs-make-vs-n8n/">Zapier vs Make vs n8n</a>. Make Core is from $9 a month billed annually. n8n’s cloud prices were shown in euros. This page does not convert them.</p>
+<h2 id="when-to-turn-tool-use-off">When to turn tool use off</h2>
+<p><strong>The source is already in the prompt.</strong> Search will wander. Paste the paragraph and ask for the edit. A writing pass is <a href="/blog/chatgpt-vs-claude-for-writing-2026/">ChatGPT vs Claude for writing</a>.</p>
+<p><strong>The action moves money or mail.</strong> Tool use can draft the message. A person sends it. An agent platform is not a substitute for that click. The log of what ran is <a href="/blog/what-is-ai-observability-2026/">what AI observability is</a>.</p>
+<p><strong>The corpus is your own files and the web would dilute it.</strong> Use a notebook. <a href="/tools/gemini-notebook/">Gemini Notebook</a> stays on what you upload. That pattern, extended to images and tables, is <a href="/blog/what-is-multimodal-rag-2026/">what multimodal RAG is</a>.</p>
+<p><strong>You wanted a format, not a fact.</strong> A template is a prompt. Tool use is for when the answer depends on a system. The craft of the prompt is <a href="/blog/what-is-prompt-engineering-2026/">what prompt engineering is</a>.</p>
+<p>Each tool call spends <a href="/blog/what-are-ai-tokens-explained-2026/">tokens</a> or a credit. A loop of calls is why an agent task costs more than a one-line rewrite. If the receipt surprises you, the surprise is the feature working, not a bug in the invoice.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-browsing-the-same-as-tool-use">Is browsing the same as tool use?</h3>
+<p>Browsing is one tool. Code execution is another. A product can have one without the other. Read the plan card for the tool you need, not for the word “agent.”</p>
+<h3 id="does-the-model-have-to-use-a-tool-every-time">Does the model have to use a tool every time?</h3>
+<p>No. A good product answers from the prompt when the prompt is enough. Forcing search on a style edit adds a citation you did not need and a chance to import someone else’s sentence.</p>
+<h3 id="can-tool-use-hallucinate">Can tool use hallucinate?</h3>
+<p>Yes. It can misread the tool output, or the tool can return the wrong row. The habit is to open the row. A fluent summary of a bad search is still <a href="/blog/what-is-ai-hallucination-2026/">a hallucination</a>.</p>
+<h3 id="is-claude-code-tool-use">Is Claude Code “tool use”?</h3>
+<p>Yes. It is tool use aimed at a repository, and it is included with Claude Pro, not with Free. ChatGPT’s version is Codex, with meaningful access on Plus. Neither one merges code by itself unless you gave it that permission.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for Claude, Perplexity, Lindy, Zapier, Make, and Cursor prices. October 24, 2026 for the ChatGPT Codex rows as recorded in the Cursor, Claude Code, and Codex comparison. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://chatgpt.com/pricing/">ChatGPT pricing</a>, <a href="https://www.perplexity.ai/pro">Perplexity pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/perplexity/">Perplexity</a> is in the <a href="/tools/category/research-search/">research directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/cursor/" data-category="coding" data-search="cursor ai coding agent and code editor that builds, tests and ships software from the desktop, cli, slack and github. coding" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/cursor.png" alt="Cursor logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Cursor</h3><span class="muted cat" data-astro-cid-g5sewvjw>💻 Coding</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI coding agent and code editor that builds, tests and ships software from the desktop, CLI, Slack and GitHub.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/lindy/" data-category="automation-agents" data-search="lindy ai teammate that plugs into your tools, learns how you work and handles real tasks across inbox, sales, marketing and ops. automation-agents" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/lindy.png" alt="Lindy logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Lindy</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔗 Automation &amp; Agents</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI teammate that plugs into your tools, learns how you work and handles real tasks across inbox, sales, marketing and ops.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $49.99/mo for 5,000 credits</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/perplexity/" data-category="research-search" data-search="perplexity ai answer engine with cited sources, deep research, the comet browser and perplexity computer. research-search" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/perplexity.png" alt="Perplexity logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Perplexity</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔎 Research &amp; Search</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI answer engine with cited sources, Deep Research, the Comet browser and Perplexity Computer.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/zapier/" data-category="automation-agents" data-search="zapier no-code automation across 9,000+ apps, with ai agents, copilot, mcp, tables and forms. automation-agents" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/zapier.png" alt="Zapier logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Zapier</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔗 Automation &amp; Agents</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>No-code automation across 9,000+ apps, with AI agents, Copilot, MCP, Tables and Forms.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $19.99/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a> <a href="/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
