@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { remarkMermaid } from './src/lib/remark-mermaid.mjs';
 
 // SITE / BASE are overridden in CI for the GitHub Pages demo preview.
 export default defineConfig({
@@ -7,4 +8,7 @@ export default defineConfig({
   base: process.env.BASE || '/',
   trailingSlash: 'ignore',
   build: { format: 'directory' },
+  markdown: {
+    remarkPlugins: [remarkMermaid],
+  },
 });
