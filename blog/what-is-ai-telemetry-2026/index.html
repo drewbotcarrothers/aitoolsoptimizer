@@ -1,0 +1,104 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is AI Telemetry? (2026): The Signals a Request Emits | AI Tools Optimizer</title><meta name="description" content="AI telemetry is the logs, metrics, traces, and check labels a model request emits. A 2026 explainer. Observability is what you can answer with them."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-telemetry-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-telemetry-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is AI Telemetry? (2026): The Signals a Request Emits | AI Tools Optimizer"><meta property="og:description" content="AI telemetry is the logs, metrics, traces, and check labels a model request emits. A 2026 explainer. Observability is what you can answer with them."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/data-analytics/" data-astro-cid-4sn4zg3r>Data &amp; Analytics</a> <h1 data-astro-cid-4sn4zg3r>What Is AI Telemetry? (2026): The Signals a Request Emits</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>AI telemetry is the set of signals one model request emits: a structured log, a metric, a trace, and a label from a check you defined.</strong> Observability is the set of questions you can answer because those signals exist. A dashboard with no request id is a picture. Telemetry is the record that picture should have been built from.</p>
+<p>Reading the record is <a href="/blog/what-is-ai-observability-2026/">what AI observability is</a>. The log shape is <a href="/blog/what-is-structured-logging-for-ai-2026/">what structured logging for AI is</a>. The label on a sampled answer is <a href="/blog/what-is-ai-eval-testing-2026/">what AI eval testing is</a>. The target you compute from the signals is <a href="/blog/what-is-ai-slo-2026/">what an AI SLO is</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. The directory does not list a telemetry-vendor fee, so this page does not invent one. We did not rank trace products.</p>
+<h2 id="the-four-signals-worth-naming">The four signals worth naming</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Signal</th><th>One field that makes it useful</th><th>A field that looks like telemetry and is not</th></tr></thead><tbody><tr><td>Log</td><td>Request id, model, feature name, error class</td><td>A paragraph in a chat transcript with no id</td></tr><tr><td>Metric</td><td>Count or latency with the feature name as a dimension</td><td>A single average called “AI latency”</td></tr><tr><td>Trace</td><td>Spans for retrieval, tool calls, and the model</td><td>The final answer alone</td></tr><tr><td>Check label</td><td>Pass or fail for a named rubric, on that request</td><td>A star a user tapped, with no rubric</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  req["One production request"] --> log["Structured log: id, model, tokens, error class"]
+  req --> metric["Metric: latency and count, by feature"]
+  req --> trace["Trace: retrieval, tools, model"]
+  req --> label["Optional check label on a sample"]
+  log --> question["A question you can answer later"]
+  metric --> question
+  trace --> question
+  label --> question</pre>
+<p>Emit the request id in every signal so a metric spike can be opened as a trace. Without the id, the on-call person has a number and nothing to read. The hour after a customer-visible failure is <a href="/blog/what-is-ai-incident-response-2026/">what AI incident response is</a>.</p>
+<h2 id="what-to-emit-and-what-to-leave-out">What to emit, and what to leave out</h2>
+<p>Emit the feature name, the model id, input and output token counts when you have them, latency, the tool names that ran, and whether the answer was shown to a person or blocked. Emit the check result when you sampled.</p>
+<p>Leave out secrets, raw payment data, and the body of a document the log store is not allowed to hold. A prompt can be sensitive. Decide retention before you turn the firehose on. “Log everything forever” is how a debug aid becomes a second copy of customer data.</p>
+<p>If you call <a href="/tools/deepseek/">DeepSeek</a> and the directory’s off-peak cache-miss price applies, input is from $0.15 per 1 million tokens and output is $0.60 per 1 million tokens. Telemetry is how you explain that invoice per feature. The price is not the telemetry product.</p>
+<p>Seat products are a weaker meter. <a href="/tools/chatgpt/">ChatGPT</a> Plus is $20 a month. <a href="/tools/claude/">Claude</a> Pro is $20 a month, or $17 billed annually. A person using the website does not hand you a trace. Telemetry starts when your application makes the call. This page does not invent API rates for those seats.</p>
+<p>A customer-facing agent has its own analytics, and you should still know which fields you can export. <a href="/tools/chatbase/">Chatbase</a> Hobby is $32 a month billed yearly on the directory card. <a href="/tools/zendesk-ai/">Zendesk AI</a> records Support Team at $19 an agent a month paid yearly. Export and retention are questions for the plan you buy. A chart inside the product is theirs. A request id in your incident doc is yours.</p>
+<h2 id="a-small-set-that-answers-real-questions">A small set that answers real questions</h2>
+<p>You do not need a second platform on the first day. You need the questions written down:</p>
+<ul>
+<li>Which feature spent the tokens?</li>
+<li>Which requests timed out?</li>
+<li>Which tool ran?</li>
+<li>Which sampled answers failed the groundedness check?</li>
+</ul>
+<p>If a field does not answer one of those, wait to emit it. The groundedness label is <a href="/blog/what-is-ai-groundedness-2026/">what AI groundedness is</a>. The token field is only meaningful if you also know the split you intended, which is <a href="/blog/what-is-token-budgeting-2026/">token budgeting</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-telemetry-the-same-as-observability">Is telemetry the same as observability?</h3>
+<p>Telemetry is what you emit. Observability is what you can explain from it. You can emit logs nobody can query. You cannot answer a production question from a log you never wrote.</p>
+<h3 id="do-we-log-the-full-prompt">Do we log the full prompt?</h3>
+<p>Only if policy, retention, and access say yes. Many teams log a hash, the template id, and the token counts, and keep the full prompt for a short sample. Write the choice down. A default of “full prompt, indefinite” is a decision you did not mean to make.</p>
+<h3 id="what-about-a-vendor-that-already-has-a-dashboard">What about a vendor that already has a dashboard?</h3>
+<p>Use it if it answers the four questions above for your feature. Add your own request id if the vendor’s id never appears in your ticket. A dashboard you cannot join to a customer report will not close the incident.</p>
+<h3 id="is-a-user-thumbs-down-telemetry">Is a user thumbs-down telemetry?</h3>
+<p>It is a signal. It is not a check label until you define what the thumb means and sample the misses. Treat it as a queue for review, which is the human step in <a href="/blog/what-is-human-in-the-loop-ai-2026/">human-in-the-loop AI</a>.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for DeepSeek, ChatGPT, Claude, Chatbase, and Zendesk AI. Published October 24, 2026. The definition does not depend on a price change.</p>
+<p><strong>Sources:</strong> <a href="https://api-docs.deepseek.com/">DeepSeek API docs</a>, <a href="https://chatgpt.com/pricing/">ChatGPT pricing</a>, <a href="https://claude.com/pricing">Claude pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/chatbase/">Chatbase</a> is in the <a href="/tools/category/customer-support/">customer support directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/chatbase/" data-category="customer-support" data-search="chatbase build ai agents trained on your data to handle support and sales across chat, email, whatsapp, slack and voice. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatbase.png" alt="Chatbase logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Chatbase</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Build AI agents trained on your data to handle support and sales across chat, email, WhatsApp, Slack and voice.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $32/mo</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/deepseek/" data-category="chatbots-assistants" data-search="deepseek chinese ai lab offering a free chat assistant and some of the lowest-cost frontier-class api models. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/deepseek.png" alt="DeepSeek logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>DeepSeek</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Chinese AI lab offering a free chat assistant and some of the lowest-cost frontier-class API models.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From Free chat</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/zendesk-ai/" data-category="customer-support" data-search="zendesk ai ai agents, copilot and automation built into zendesk's customer service suite. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/zendesk-ai.png" alt="Zendesk AI logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Zendesk AI</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI agents, Copilot and automation built into Zendesk&#39;s customer service suite.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $19/agent/mo paid yearly</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
