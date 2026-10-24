@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is an AI Circuit Breaker? (2026): Stop Calling a Failing Model | AI Tools Optimizer</title><meta name="description" content="An AI circuit breaker stops calls to a model or tool after too many failures, fails fast, then probes again. A 2026 explainer. No uptime scores."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-circuit-breaker-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-circuit-breaker-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is an AI Circuit Breaker? (2026): Stop Calling a Failing Model | AI Tools Optimizer"><meta property="og:description" content="An AI circuit breaker stops calls to a model or tool after too many failures, fails fast, then probes again. A 2026 explainer. No uptime scores."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/automation-agents/" data-astro-cid-4sn4zg3r>Automation &amp; Agents</a> <h1 data-astro-cid-4sn4zg3r>What Is an AI Circuit Breaker? (2026): Stop Calling a Failing Model</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>An AI circuit breaker is a switch in front of a model or a tool: after a failure count you defined, it stops sending new calls, returns a fast error or a backup you already named, and tries one probe later to see if the dependency recovered.</strong> The point is to stop a pile of callers from waiting on a model that is already failing. A retry loop is the opposite of a breaker. It spends the outage.</p>
+<p>Sending the same request to a second model is <a href="/blog/what-is-ai-fallback-routing-2026/">what AI fallback routing is</a>. The breaker decides whether the primary is eligible to be called. The fallback decides where the work goes if you still intend to answer. Dropping optional work during overload is <a href="/blog/what-is-ai-load-shedding-2026/">what AI load shedding is</a>. The hour after a customer-visible failure is <a href="/blog/what-is-ai-incident-response-2026/">what AI incident response is</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. The directory does not list a circuit-breaker product fee, so this page does not invent one. We did not measure failover time for any vendor.</p>
+<h2 id="the-three-positions">The three positions</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Position</th><th>What it means</th><th>What the caller gets</th></tr></thead><tbody><tr><td>Closed</td><td>The dependency is eligible. Failures are counted</td><td>A normal call</td></tr><tr><td>Open</td><td>The failure count crossed your line. New calls do not go out</td><td>A fast error, or the backup you named. Not a long wait</td></tr><tr><td>Half-open</td><td>The cool-down elapsed. One probe is allowed</td><td>The probe’s result. Everyone else stays on the open behavior until the probe succeeds</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  call["A call wants this model or tool"] --> state{"Breaker position?"}
+  state -->|Closed| send["Send the call"]
+  send --> ok{"Success, by your definition?"}
+  ok -->|Yes| reset["Reset the failure count"]
+  ok -->|No| count["Increment failures"]
+  count --> trip{"At the threshold you wrote?"}
+  trip -->|Yes| open["Open the breaker. Start the cool-down"]
+  trip -->|No| send
+  state -->|Open| fast["Fail fast or use the named backup"]
+  state -->|Half-open| probe["Allow one probe"]
+  probe --> decide{"Did the probe succeed?"}
+  decide -->|Yes| reset
+  decide -->|No| open</pre>
+<p>You define success. A timeout is a failure. A refusal the product intended, such as a safety refusal, is not a broken circuit. If you count polite refusals as outages, you will open the breaker on a policy. Write the error classes down.</p>
+<h2 id="what-you-set-before-the-first-outage">What you set before the first outage</h2>
+<p><strong>The threshold and the window.</strong> For example, a count of timeouts inside a minute. This page does not recommend a universal number. A chat feature and a batch job should not share one. Pick the number from the failure you are willing to absorb.</p>
+<p><strong>The cool-down.</strong> How long the breaker stays open before a probe. Too short, and you hammer the model while it is down. Too long, and you stay on the backup after recovery. Write the duration next to the threshold.</p>
+<p><strong>The backup, or the honest error.</strong> If a backup exists, it is the fallback you already tested. If it does not, the open state returns an error a person can understand. A spinner until the cool-down ends is a closed breaker that ignores its own switch.</p>
+<p><strong>The log.</strong> Position, error class, and whether the answer came from the backup. That field is part of <a href="/blog/what-is-structured-logging-for-ai-2026/">structured logging for AI</a>.</p>
+<h2 id="plans-that-are-not-a-breaker">Plans that are not a breaker</h2>
+<p>A subscription does not open a circuit for you. These prices are context for the call you might wrap. They are not uptime promises.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Call you might wrap</th><th>Price the directory recorded</th><th>What you still build</th></tr></thead><tbody><tr><td><a href="/tools/chatgpt/">ChatGPT</a> as a product seat</td><td>Plus is $20 a month. The API is a different contract. This page does not invent an API rate</td><td>A breaker in your app, if you call an API</td></tr><tr><td><a href="/tools/claude/">Claude</a></td><td>Pro is $20 a month, or $17 billed annually</td><td>The same. A seat timeout is not a logged breaker</td></tr><tr><td><a href="/tools/gemini/">Gemini</a></td><td>Google AI Pro is $19.99 a month</td><td>The same</td></tr><tr><td><a href="/tools/deepseek/">DeepSeek</a> API</td><td>Input from $0.15 per 1 million tokens off-peak on a cache miss. Output $0.60 off-peak</td><td>A breaker is more useful here, because you own the client</td></tr><tr><td>A workflow that calls a model</td><td><a href="/tools/zapier/">Zapier</a> Professional is $19.99 a month billed annually</td><td>Zapier’s retries are Zapier’s. Confirm they match the cool-down you want. Do not assume they do</td></tr></tbody></table>
+<p>The routing choice among these models, before anything fails, is <a href="/blog/what-is-ai-routing-2026/">what AI routing is</a>. The canary that should not open a breaker on the whole product is <a href="/blog/what-is-ai-canary-releases-2026/">what an AI canary release is</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-a-breaker-the-same-as-a-fallback">Is a breaker the same as a fallback?</h3>
+<p>They stack. The breaker stops the bad dependency. The fallback is optional and must be named in advance. A fallback without a breaker will keep calling the broken model and the backup together if your client retries the primary.</p>
+<h3 id="should-safety-refusals-trip-it">Should safety refusals trip it?</h3>
+<p>No, unless you have decided a surge of refusals is itself an incident. Count transport failures, timeouts, and server errors. A policy refusal is a successful round trip with an answer you may not like.</p>
+<h3 id="what-is-a-good-threshold">What is a good threshold?</h3>
+<p>The one you can explain on the incident call. Start from a real outage you had, or from a drill. Copying a number from a blog, including this one, is how the probe fires every minute on a healthy model.</p>
+<h3 id="do-i-need-one-in-front-of-chatgpt-plus">Do I need one in front of ChatGPT Plus?</h3>
+<p>Not for a person clicking a website. You need one when your software calls a model on behalf of many users. A human who waits and retries is already the breaker, informally. Software will not be that polite unless you write it.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for the prices named above. Published October 24, 2026. The definition does not depend on a price change.</p>
+<p><strong>Sources:</strong> <a href="https://chatgpt.com/pricing/">ChatGPT pricing</a>, <a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://gemini.google/subscriptions/">Google AI subscriptions</a>, <a href="https://api-docs.deepseek.com/">DeepSeek API docs</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/deepseek/">DeepSeek</a> is in the <a href="/tools/category/chatbots-assistants/">chatbots and assistants directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/deepseek/" data-category="chatbots-assistants" data-search="deepseek chinese ai lab offering a free chat assistant and some of the lowest-cost frontier-class api models. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/deepseek.png" alt="DeepSeek logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>DeepSeek</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Chinese AI lab offering a free chat assistant and some of the lowest-cost frontier-class API models.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From Free chat</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/gemini/" data-category="chatbots-assistants" data-search="google gemini google's ai assistant for chat, research, image and video generation, built into gmail, docs and android. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/gemini.png" alt="Google Gemini logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Google Gemini</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Google&#39;s AI assistant for chat, research, image and video generation, built into Gmail, Docs and Android.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $4.99/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/zapier/" data-category="automation-agents" data-search="zapier no-code automation across 9,000+ apps, with ai agents, copilot, mcp, tables and forms. automation-agents" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/zapier.png" alt="Zapier logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Zapier</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔗 Automation &amp; Agents</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>No-code automation across 9,000+ apps, with AI agents, Copilot, MCP, Tables and Forms.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $19.99/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
