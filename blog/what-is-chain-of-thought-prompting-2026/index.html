@@ -1,0 +1,127 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is Chain-of-Thought Prompting? (2026): Show the Steps, Then Check Them | AI Tools Optimizer</title><meta name="description" content="Chain-of-thought prompting asks a model to write intermediate steps before the answer. A 2026 explainer of when the steps help, and when they only add length."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-chain-of-thought-prompting-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-chain-of-thought-prompting-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is Chain-of-Thought Prompting? (2026): Show the Steps, Then Check Them | AI Tools Optimizer"><meta property="og:description" content="Chain-of-thought prompting asks a model to write intermediate steps before the answer. A 2026 explainer of when the steps help, and when they only add length."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/chatbots-assistants/" data-astro-cid-4sn4zg3r>Chatbots &amp; Assistants</a> <h1 data-astro-cid-4sn4zg3r>What Is Chain-of-Thought Prompting? (2026): Show the Steps, Then Check Them</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>Chain-of-thought prompting asks the model to write the intermediate steps before the final answer.</strong> You do it when the task has more than one hop and a person will read the hops. A step that sounds orderly is still a sentence you can check. It is a method for your review, and it is a weak substitute for a source.</p>
+<p>The phrase covers two habits. One is your instruction: “show the calculation, then the number.” The other is a product’s hidden reasoning, which you may or may not see. This article is about the instruction you write. The general craft is <a href="/blog/what-is-prompt-engineering-2026/">what prompt engineering is</a>.</p>
+<p>Prices are US list prices excluding tax from directory pages checked October 16, 2026, and from the October 24, 2026 Perplexity pricing article where noted. Published October 24, 2026.</p>
+<h2 id="when-the-steps-earn-their-tokens">When the steps earn their tokens</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Task</th><th>Ask for steps</th><th>Skip the steps</th></tr></thead><tbody><tr><td>A price, a date, or a count from a file you pasted</td><td>Yes. Require the line it used</td><td>When you only need a rewrite of one sentence</td></tr><tr><td>A decision with two constraints</td><td>Yes. Name both constraints and ask it to test each</td><td>When you already decided and want a cleaner paragraph</td></tr><tr><td>A fact that must come from the web</td><td>The step is the link, opened by you</td><td>A private chain of thought with no citation</td></tr><tr><td>A poem, a headline, a tone pass</td><td>The steps rarely change the line</td><td>Write the constraint in one sentence</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  q1{"Does the task have more than one hop?"}
+  q1 -->|No| direct["Ask for the format only"]
+  q1 -->|Yes| cot["Ask for the steps, then the answer"]
+  cot --> check["Read each step against the source"]
+  check --> keep["Keep the answer only if the steps survive"]</pre>
+<p>Asking with no example at all is <a href="/blog/what-is-zero-shot-prompting-2026/">what zero-shot prompting is</a>. You can combine them: zero examples, plus a request to show the work. You can also show one solved problem and ask it to follow that shape. The second version spends more tokens. The meter is <a href="/blog/what-are-ai-tokens-explained-2026/">what AI tokens are</a>.</p>
+<h2 id="what-to-write">What to write</h2>
+<p>A usable chain-of-thought instruction names the hops. “Think step by step” leaves the hops up to the model. Prefer:</p>
+<p>“From these notes only: list the two options, the cost of each as written in the notes, and the constraint each one violates. Then recommend one. If a cost is absent, write ‘not in the notes.’”</p>
+<p>That prompt forces a structure you can audit. A hidden scratchpad you never see cannot be audited. If a product offers a reasoning mode, use it when you can open the trace or when the final answer cites a line. The standing rules around the prompt are <a href="/blog/what-is-a-system-prompt-2026/">what a system prompt is</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Product</th><th>What you are buying</th><th>Price to know</th></tr></thead><tbody><tr><td><a href="/tools/claude/">Claude</a></td><td>A draft with the steps in the reply, on the same plan as any other chat</td><td>Pro is $20/month, or $17 billed annually</td></tr><tr><td><a href="/tools/chatgpt/">ChatGPT</a></td><td>The same habit inside ChatGPT</td><td>Plus is $20/month. Go is $8</td></tr><tr><td><a href="/tools/perplexity/">Perplexity</a></td><td>Steps that should end in a citation you open</td><td>Pro is $17/month billed annually</td></tr><tr><td><a href="/tools/consensus/">Consensus</a></td><td>A paper question, where the “step” is the paper</td><td>Pro is $12/month on the directory page</td></tr></tbody></table>
+<p>Perplexity’s ladder is <a href="/blog/perplexity-pricing-explained-2026/">Perplexity pricing explained</a>. Research steps that start from citations are <a href="/blog/how-to-use-perplexity-for-market-research-2026/">how to use Perplexity for market research</a>. Consensus is for papers, and the paired workflow is <a href="/blog/how-to-research-with-elicit-and-consensus-2026/">how to research with Elicit and Consensus</a>.</p>
+<h2 id="where-chain-of-thought-fails-in-a-familiar-way">Where chain-of-thought fails in a familiar way</h2>
+<p><strong>The steps cite a number that was never in the source.</strong> The chain looks rigorous and the input was incomplete. The fix is the boundary, plus your read of the source. That failure is <a href="/blog/what-is-ai-hallucination-2026/">what an AI hallucination is</a>.</p>
+<p><strong>The steps are performed on a creative task.</strong> A headline does not get better because the model narrated three moods. State the audience and the offer.</p>
+<p><strong>The steps are too long to read, so nobody reads them.</strong> Cap the trace: three bullets, then the answer. A chain nobody checks is decoration. How much variation the model is allowed in the wording is <a href="/blog/what-is-temperature-in-ai-models-2026/">what temperature is</a>. Lower temperature is the closer match to a calculation. It still needs the source.</p>
+<p><strong>The steps replace a tool.</strong> Arithmetic on a large sheet belongs in the sheet. A model can explain a formula. The formula should run where the numbers live. The spreadsheet guide is <a href="/blog/best-ai-for-excel-and-google-sheets-2026/">best AI for Excel and Google Sheets</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="does-chain-of-thought-make-a-model-more-accurate">Does chain-of-thought make a model more accurate?</h3>
+<p>It makes some multi-step answers easier to audit, and it gives the model room to do a hop it would otherwise skip. It does not create a missing source. Treat an unaudited chain as an unverified answer.</p>
+<h3 id="should-i-pay-for-a-reasoning-model-to-get-chain-of-thought">Should I pay for a “reasoning” model to get chain-of-thought?</h3>
+<p>Pay for a higher plan when the usage cap, or a feature on that plan, blocks work you already do. A reasoning trace you cannot read is a vendor choice. Your instruction to show the steps works on ordinary chat plans, including free tiers, until the cap stops you.</p>
+<h3 id="is-this-the-same-as-the-model-thinking-in-the-product">Is this the same as the model “thinking” in the product?</h3>
+<p>Products sometimes run extra inference before the visible answer. Your prompt can also ask for visible steps. Those are different controls. Use the visible steps when a person must sign the result.</p>
+<h3 id="how-is-this-different-from-an-agent">How is this different from an agent?</h3>
+<p>An agent takes actions across steps and tools. Chain-of-thought is text before an answer. The agent definition is <a href="/blog/what-is-an-ai-agent-2026/">what an AI agent is</a>.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for Claude, ChatGPT, and Consensus prices. Perplexity Pro at $17 a month billed annually is also recorded in the October 24, 2026 pricing article. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://openai.com/chatgpt/pricing/">OpenAI ChatGPT pricing</a>, <a href="https://www.perplexity.ai/pro">Perplexity pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/claude/">Claude</a> and <a href="/tools/chatgpt/">ChatGPT</a> are in the <a href="/tools/category/chatbots-assistants/">chatbots directory</a>. <a href="/tools/perplexity/">Perplexity</a> is in the <a href="/tools/category/research-search/">research directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/consensus/" data-category="research-search" data-search="consensus ai search engine for peer-reviewed research that gives cited, evidence-based answers. research-search" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/consensus.png" alt="Consensus logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Consensus</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔎 Research &amp; Search</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI search engine for peer-reviewed research that gives cited, evidence-based answers.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $12/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/perplexity/" data-category="research-search" data-search="perplexity ai answer engine with cited sources, deep research, the comet browser and perplexity computer. research-search" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/perplexity.png" alt="Perplexity logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Perplexity</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔎 Research &amp; Search</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI answer engine with cited sources, Deep Research, the Comet browser and Perplexity Computer.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
