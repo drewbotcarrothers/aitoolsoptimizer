@@ -1,0 +1,143 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is AI Observability? (2026): Traces, Cost, and a Check You Can Open | AI Tools Optimizer</title><meta name="description" content="AI observability means you can see a production request: the prompt, the tools, the cost, and whether a check passed. A 2026 explainer with the meters this directory already records."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-observability-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-observability-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is AI Observability? (2026): Traces, Cost, and a Check You Can Open | AI Tools Optimizer"><meta property="og:description" content="AI observability means you can see a production request: the prompt, the tools, the cost, and whether a check passed. A 2026 explainer with the meters this directory already records."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/data-analytics/" data-astro-cid-4sn4zg3r>Data &amp; Analytics</a> <h1 data-astro-cid-4sn4zg3r>What Is AI Observability? (2026): Traces, Cost, and a Check You Can Open</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>AI observability is the record of what a model did on a real request: the prompt, the tools it called, the passages it used, the latency, the token cost, and whether a check you defined passed.</strong> A dashboard of vibes is not observability. If you cannot open one bad answer and see why it was produced, you are looking at a chart, not the system.</p>
+<p>You need it when the model faces a customer, spends money, or writes into another system. You do not need a second product to watch a personal chat you already reread. The check itself is <a href="/blog/what-is-ai-eval-testing-2026/">what AI eval testing is</a>. The fence around what the model may do is <a href="/blog/what-is-ai-guardrails-2026/">what AI guardrails are</a>.</p>
+<p>Prices below are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not rank trace vendors, and it does not publish a quality score.</p>
+<h2 id="what-you-should-be-able-to-open">What you should be able to open</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Question after a bad answer</th><th>The record that answers it</th><th>What is not enough</th></tr></thead><tbody><tr><td>What did we send?</td><td>The prompt, the system instructions, and the files attached</td><td>“The user asked about refunds”</td></tr><tr><td>What did it look up?</td><td>The passages or tool results, with ids</td><td>A citation title with no passage</td></tr><tr><td>What did it do?</td><td>Each tool call and whether your system allowed it</td><td>The final paragraph only</td></tr><tr><td>What did it cost?</td><td>Tokens or credits on that request</td><td>The monthly invoice, with no per-request split</td></tr><tr><td>Was it slow?</td><td>Time to first token and time to done</td><td>A single average for the week</td></tr><tr><td>Did it pass a check?</td><td>A named eval or a human label on that trace</td><td>A green “AI quality” tile</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  req["A production request"] --> trace["Trace: prompt, tools, passages"]
+  trace --> meter["Tokens or credits, and latency"]
+  trace --> check{"Named check or a person"}
+  check -->|Fail| sample["Keep the trace and fix the source"]
+  check -->|Pass| keep["Sample it anyway"]
+  meter --> bill["The invoice you can explain"]</pre>
+<p>A trace you cannot export is a vendor screenshot. Write down, before you buy, who can open a trace and how long it is kept. A support lead who cannot see the prompt will escalate to engineering for every complaint.</p>
+<h2 id="where-this-directory-already-shows-a-meter">Where this directory already shows a meter</h2>
+<p>Most chat seats are not observability platforms. They show a usage cap. That cap is still the number finance will ask about, so start there before you add a tool whose only job is traces.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>What you run</th><th>The meter this directory recorded</th><th>Price to know</th></tr></thead><tbody><tr><td>A help bot on your articles</td><td><a href="/tools/chatbase/">Chatbase</a> message credits</td><td>Hobby is $32/month billed yearly for 700 credits. Extra credits are $40 per 1,000</td></tr><tr><td>An API you call yourself</td><td><a href="/tools/deepseek/">DeepSeek</a> token rates</td><td>Chat is free. API input from $0.15 per 1 million tokens off-peak on a cache miss, output $0.60 off-peak</td></tr><tr><td>A chat seat with a cap</td><td><a href="/tools/claude/">Claude</a> or <a href="/tools/chatgpt/">ChatGPT</a></td><td>Claude Pro is $20/month, or $17 billed annually. ChatGPT Plus is $20. The cap is the observability</td></tr><tr><td>A path you drew</td><td><a href="/tools/n8n/">n8n</a> executions</td><td>Cloud Starter was shown in euros, from €20/month billed annually. This page does not convert that</td></tr><tr><td>A help desk that bills outcomes</td><td><a href="/tools/zendesk-ai/">Zendesk AI</a></td><td>Suite Team is $55 per agent per month paid yearly. Automated resolutions can bill on top</td></tr></tbody></table>
+<p>Chatbase’s credit card is <a href="/blog/chatbase-pricing-explained-2026/">Chatbase pricing explained</a>. The support stack around the bot is <a href="/blog/best-ai-tools-for-support-teams-2026/">best AI tools for support teams</a>. A document that tries to rewrite the bot’s instructions is <a href="/blog/what-is-prompt-injection-2026/">what prompt injection is</a>. Log that attempt. The model’s polite reply is not the incident record.</p>
+<p>If you are building the call yourself, the trace has to include the tool request. That mechanism is <a href="/blog/what-is-function-calling-in-ai-2026/">what function calling is</a>. An agent that takes several of those calls is <a href="/blog/what-is-an-ai-agent-2026/">what an AI agent is</a>. Several agents handing work around is <a href="/blog/what-is-ai-agent-orchestration-2026/">what AI agent orchestration is</a>. Orchestration without a trace is how a refund gets sent twice and nobody can say which step did it.</p>
+<h2 id="what-to-collect-and-what-to-skip">What to collect, and what to skip</h2>
+<p><strong>Collect the failure and a sample of the ordinary.</strong> One angry ticket and fifty random traces from the same day. The random set is how you learn the failure is rare. The ticket is how you learn it is expensive.</p>
+<p><strong>Collect cost next to the feature, not next to the vendor.</strong> “DeepSeek output tokens on the refund flow” is a sentence finance can use. “AI spend” is not.</p>
+<p><strong>Do not collect a score you cannot define.</strong> A 0.8 “helpfulness” number with no rubric will be managed. The rubric is the eval. The trace is the evidence the rubric ran.</p>
+<p><strong>Do not buy a trace product to watch a plan you could read in settings.</strong> Claude and ChatGPT publish usage limits. Hit the limit, then decide you need per-request traces. A personal Plus seat does not need a tracing warehouse.</p>
+<p>Latency belongs in the same trace as the tokens. A slow tool call is a different incident from a slow model. This glossary does not invent a latency budget. Time the request you care about, on the plan you pay for.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-observability-the-same-as-evals">Is observability the same as evals?</h3>
+<p>Evals are the checks. Observability is the record those checks run against, plus cost and latency. You can log every request and still never define a pass. You can also write evals offline and never see production. You want both once a customer can see the answer.</p>
+<h3 id="do-i-need-it-for-chatgpt-plus">Do I need it for ChatGPT Plus?</h3>
+<p>You need the habit of rereading the answer. You do not need a tracing vendor for a seat whose whole history is the chat you already have. You need traces when the same model answers people who cannot see the prompt.</p>
+<h3 id="what-is-the-smallest-useful-trace">What is the smallest useful trace?</h3>
+<p>Prompt, model name, tool results, final text, token or credit count, and a timestamp. Add a human label when someone corrects it. Skip screenshots of a dashboard.</p>
+<h3 id="will-a-bigger-model-replace-observability">Will a bigger model replace observability?</h3>
+<p>No. A larger model can still retrieve the wrong article. The trace is how you notice. The article is the fix. The plan upgrade is a capacity purchase, which is a different decision from <a href="/blog/chatgpt-go-vs-plus-vs-pro-2026/">ChatGPT Go vs Plus vs Pro</a>.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for the prices named above. Published October 24, 2026. Definitions do not depend on a price change.</p>
+<p><strong>Sources:</strong> <a href="https://www.chatbase.co/pricing">Chatbase pricing</a>, <a href="https://api-docs.deepseek.com/">DeepSeek API docs</a>, <a href="https://www.zendesk.com/pricing/">Zendesk pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/chatbase/">Chatbase</a> is in the <a href="/tools/category/customer-support/">customer support directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/chatbase/" data-category="customer-support" data-search="chatbase build ai agents trained on your data to handle support and sales across chat, email, whatsapp, slack and voice. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatbase.png" alt="Chatbase logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Chatbase</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Build AI agents trained on your data to handle support and sales across chat, email, WhatsApp, Slack and voice.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $32/mo</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/deepseek/" data-category="chatbots-assistants" data-search="deepseek chinese ai lab offering a free chat assistant and some of the lowest-cost frontier-class api models. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/deepseek.png" alt="DeepSeek logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>DeepSeek</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Chinese AI lab offering a free chat assistant and some of the lowest-cost frontier-class API models.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From Free chat</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/n8n/" data-category="automation-agents" data-search="n8n fair-code workflow automation with ai agents—self-host it or use n8n cloud. automation-agents" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/n8n.png" alt="n8n logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>n8n</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔗 Automation &amp; Agents</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Fair-code workflow automation with AI agents—self-host it or use n8n Cloud.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From €20/mo billed annually</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/zendesk-ai/" data-category="customer-support" data-search="zendesk ai ai agents, copilot and automation built into zendesk's customer service suite. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/zendesk-ai.png" alt="Zendesk AI logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Zendesk AI</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI agents, Copilot and automation built into Zendesk&#39;s customer service suite.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $19/agent/mo paid yearly</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
