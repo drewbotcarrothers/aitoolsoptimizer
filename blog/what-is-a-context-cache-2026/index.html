@@ -1,0 +1,110 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is a Context Cache? (2026): A Repeated Prefix, Not a Memory | AI Tools Optimizer</title><meta name="description" content="A context cache reuses a repeated prompt prefix so the next call can cost less. A 2026 explainer with DeepSeek and v0 rates this directory recorded."><link rel="canonical" href="https://aitoolsoptimizer.com/blog/what-is-a-context-cache-2026/"><meta property="og:url" content="https://aitoolsoptimizer.com/blog/what-is-a-context-cache-2026/"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta property="og:title" content="What Is a Context Cache? (2026): A Repeated Prefix, Not a Memory | AI Tools Optimizer"><meta property="og:description" content="A context cache reuses a repeated prompt prefix so the next call can cost less. A 2026 explainer with DeepSeek and v0 rates this directory recorded."><meta property="og:image" content="https://aitoolsoptimizer.com/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8QRK7THNC1"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8QRK7THNC1');
+  </script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7909541570116920" crossorigin="anonymous"></script><link rel="stylesheet" href="/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/tools/category/chatbots-assistants/" data-astro-cid-4sn4zg3r>Chatbots &amp; Assistants</a> <h1 data-astro-cid-4sn4zg3r>What Is a Context Cache? (2026): A Repeated Prefix, Not a Memory</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>A context cache stores a repeated prefix of a prompt so the next request can reuse that work instead of paying full price to read the same tokens again.</strong> It is a serving feature on an API bill. It is not the product setting that remembers your name next week. That setting is <a href="/blog/what-is-ai-memory-2026/">what AI memory is</a>.</p>
+<p>The unit being stored is <a href="/blog/what-are-ai-tokens-explained-2026/">what an AI token is</a>. The box those tokens must fit in is <a href="/blog/what-is-a-context-window-2026/">what a context window is</a>. If the material does not belong in the prompt at all, retrieval is <a href="/blog/what-is-rag-explained-2026/">what RAG is</a>.</p>
+<p>Prices are US list prices excluding tax. DeepSeek’s Flash rows are from the directory page checked October 16, 2026, and the October 24 review of the same docs. v0’s cache columns are from the pricing page read October 24, 2026. Published October 24, 2026. This page does not score answer quality.</p>
+<h2 id="hit-miss-write-read">Hit, miss, write, read</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Event</th><th>What happened</th><th>What you should expect to pay</th></tr></thead><tbody><tr><td>Cache miss</td><td>The prefix was not already stored, or it no longer matched</td><td>The vendor’s normal input rate</td></tr><tr><td>Cache hit</td><td>The prefix matched what the vendor still holds</td><td>A lower input rate, when the card has one</td></tr><tr><td>Cache write</td><td>The vendor stored the prefix for later</td><td>Sometimes a separate, higher rate. Sometimes bundled into the miss</td></tr><tr><td>Cache expired</td><td>The vendor dropped the prefix</td><td>The next call is a miss, even if your text did not change</td></tr><tr><td>You edited the system prompt</td><td>The prefix changed</td><td>A miss, until the new prefix is stored</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  call["A request with a long stable prefix"] --> match{"Does the prefix match a live cache entry?"}
+  match -->|No| miss["Pay the miss rate. A write may be extra"]
+  match -->|Yes| hit["Pay the hit rate on that prefix"]
+  miss --> next["The following identical call can hit"]
+  hit --> edit{"Did you change the prefix?"}
+  edit -->|Yes| miss
+  edit -->|No| hit</pre>
+<p>The prefix is the part that must be byte-for-byte the same. A system prompt, a tool catalog, or a project file you send every turn is a candidate. The user’s new sentence is not. If you rewrite the whole prompt to “keep it fresh,” you manufacture misses.</p>
+<h2 id="two-cards-this-directory-can-actually-quote">Two cards this directory can actually quote</h2>
+<p><a href="/tools/deepseek/">DeepSeek</a> publishes hit and miss on one model card. For deepseek-flash, off-peak, a cache hit is $0.003 per million input tokens and a cache miss is $0.15. Peak doubles both, to $0.006 and $0.30. Output stays $0.60 off-peak and $1.20 at peak, cache or not. The October 24 review notes that $0.15 / $0.003 is a 50× gap on that off-peak input pair. Peak hours on the directory page are 01:00–04:00 and 06:00–10:00 UTC on weekdays. The worked examples live in <a href="/blog/deepseek-review-2026/">DeepSeek review</a>.</p>
+<p>A product that sends a stable system prompt and only changes the user turn can land on the cheap rate for the stable part, if the cache hits. A product that shuffles the prompt every call pays the miss and will not understand why the invoice moved. The cache does not discount output tokens on this card.</p>
+<p><a href="/tools/v0/">v0</a> prints four columns: input, cache write, cache read, and output. On the October 24 page, v0 Mini is $0.20 input, $0.25 cache write, $0.02 cache read, and $1.20 output, per million tokens. v0 Pro is $2, $2.50, $0.20, and $10. The write column is higher than the plain input column. The read column is the discount. The first time you store a large project, you can pay extra. The repeat is the point. The full grid, including Max and Max Fast, is <a href="/blog/v0-pricing-explained-2026/">v0 pricing explained</a>.</p>
+<p>Those are two shapes. DeepSeek’s recorded table is hit versus miss. v0’s recorded table adds an explicit write. Do not paste one vendor’s ratio onto the other.</p>
+<p><a href="/tools/claude/">Claude</a> and <a href="/tools/chatgpt/">ChatGPT</a> seat prices are not cache rates. Pro is $20 a month on both, with Claude also listed at $17 billed annually. The Claude Code review notes that Claude’s API pricing page lists cache reads and writes. This article does not reprint those API dollars, because that review did not print them. Use the DeepSeek and v0 tables when you need a number you can show finance today. Seat math is <a href="/blog/claude-pro-vs-max-2026/">Claude Pro vs Max</a> and <a href="/blog/chatgpt-go-vs-plus-vs-pro-2026/">ChatGPT Go vs Plus vs Pro</a>.</p>
+<h2 id="what-a-cache-will-not-do">What a cache will not do</h2>
+<p><strong>It will not remember a user.</strong> Memory is a product feature that stores facts across chats. A cache is a prefix the server may drop. Turning memory off does not turn the cache off, and the reverse is also true.</p>
+<p><strong>It will not make a huge prompt free.</strong> You still send it. You still occupy the window. A cache hit changes the rate on the matched prefix. A miss bills the window you used.</p>
+<p><strong>It will not fix a slow tool.</strong> If the wait is a database call, the cache never sees it. Latency versus the queue is <a href="/blog/what-is-ai-latency-vs-throughput-2026/">what AI latency vs throughput is</a>.</p>
+<p><strong>It is not quantization.</strong> Quantization stores weights in fewer bits. A cache stores a prompt prefix. The other technique is <a href="/blog/what-is-quantization-in-ai-2026/">what quantization is</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-a-context-cache-the-same-as-a-kv-cache">Is a context cache the same as a KV cache?</h3>
+<p>People use both phrases for the serving trick that avoids recomputing a prefix. KV cache is the usual engineering name for the stored attention state. “Context cache” is the name that shows up on a pricing page as hit, miss, write, or read. If the invoice says cache and your diagram says KV, confirm they are the same line item before you forecast.</p>
+<h3 id="how-long-does-the-cache-last">How long does the cache last?</h3>
+<p>As long as that vendor keeps it. This directory does not record a universal TTL. A hit you saw at noon is not a contract that the 2 a.m. job will hit. Log the hit rate. Do not assume it.</p>
+<h3 id="should-i-cache-every-call">Should I cache every call?</h3>
+<p>Cache the prefix that repeats and is large enough to matter. Caching a one-sentence prompt can cost a write and save nothing. v0’s write rate, which is above its input rate on the recorded Mini row, is the reason to do that math first.</p>
+<h3 id="does-chatgpt-plus-include-a-context-cache-i-can-see">Does ChatGPT Plus include a context cache I can see?</h3>
+<p>Plus is a seat. This page does not claim a user-visible cache meter on Plus. If you need a hit rate in a dashboard, you are on an API that prints one, and you should log it. The habit of logging cost per request is <a href="/blog/what-is-ai-observability-2026/">what AI observability is</a>.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for the DeepSeek directory table. October 24, 2026 for the DeepSeek review’s 50× note and for v0’s cache columns. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://api-docs.deepseek.com/">DeepSeek API docs</a>, <a href="https://v0.dev/pricing">v0 pricing</a>, <a href="https://claude.com/pricing">Claude pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/deepseek/">DeepSeek</a> is in the <a href="/tools/category/chatbots-assistants/">chatbots and assistants directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/deepseek/" data-category="chatbots-assistants" data-search="deepseek chinese ai lab offering a free chat assistant and some of the lowest-cost frontier-class api models. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/deepseek.png" alt="DeepSeek logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>DeepSeek</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Chinese AI lab offering a free chat assistant and some of the lowest-cost frontier-class API models.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From Free chat</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/v0/" data-category="coding" data-search="v0 vercel's ai builder that turns prompts into working apps and publishes them in seconds. coding" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/v0.png" alt="v0 logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>v0</h3><span class="muted cat" data-astro-cid-g5sewvjw>💻 Coding</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Vercel&#39;s AI builder that turns prompts into working apps and publishes them in seconds.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $30/user/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a> <a href="/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>

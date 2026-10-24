@@ -1,0 +1,110 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is Speculative Decoding? (2026): A Draft, Then a Check | AI Tools Optimizer</title><meta name="description" content="Speculative decoding drafts tokens with a small model and checks them with the model you trust. A 2026 explainer with no invented speedups."><link rel="canonical" href="https://aitoolsoptimizer.com/blog/what-is-speculative-decoding-2026/"><meta property="og:url" content="https://aitoolsoptimizer.com/blog/what-is-speculative-decoding-2026/"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><meta property="og:title" content="What Is Speculative Decoding? (2026): A Draft, Then a Check | AI Tools Optimizer"><meta property="og:description" content="Speculative decoding drafts tokens with a small model and checks them with the model you trust. A 2026 explainer with no invented speedups."><meta property="og:image" content="https://aitoolsoptimizer.com/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><script async src="https://www.googletagmanager.com/gtag/js?id=G-8QRK7THNC1"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-8QRK7THNC1');
+  </script><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7909541570116920" crossorigin="anonymous"></script><link rel="stylesheet" href="/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a><a href="/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/tools/category/chatbots-assistants/" data-astro-cid-4sn4zg3r>Chatbots &amp; Assistants</a> <h1 data-astro-cid-4sn4zg3r>What Is Speculative Decoding? (2026): A Draft, Then a Check</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>Speculative decoding drafts the next tokens with a small, fast model, then lets the model you actually trust accept or reject that draft in one pass.</strong> The goal is a shorter wait for one answer. When the check is done the usual way, the text you keep is the text the large model would have produced. You did not switch products. You changed how the tokens were proposed.</p>
+<p>The wait it tries to shrink is <a href="/blog/what-is-ai-latency-vs-throughput-2026/">what AI latency is</a>. The pieces being drafted are <a href="/blog/what-are-ai-tokens-explained-2026/">what AI tokens are</a>. The large model and the draft model are both doing <a href="/blog/what-is-ai-inference-vs-training-2026/">inference</a>, not training.</p>
+<p>Published October 24, 2026. Vendors sometimes advertise a speedup. This page does not reprint one, and it does not score quality.</p>
+<h2 id="what-has-to-be-true-for-the-trick-to-help">What has to be true for the trick to help</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Piece</th><th>Its job</th><th>If it fails</th></tr></thead><tbody><tr><td>Draft model</td><td>Propose several next tokens quickly</td><td>A bad guess wastes the proposal</td></tr><tr><td>Target model</td><td>Accept a prefix of that draft, or reject it</td><td>This is the model whose answers you wanted</td></tr><tr><td>A match rule</td><td>Keep only what the target model agrees with</td><td>Skip the rule and you have shipped the draft, which is a different product</td></tr><tr><td>Spare compute</td><td>Run the draft beside the target</td><td>A machine that is already full may get slower, not faster</td></tr><tr><td>Your prompt</td><td>Stay the prompt you meant to send</td><td>A shorter prompt can beat a clever decoder</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  prompt["Your prompt"] --> draft["Small model proposes a few tokens"]
+  draft --> check["Target model checks that draft in one pass"]
+  check --> keep{"How much of the draft matched?"}
+  keep -->|A long prefix| fast["You kept several tokens per step"]
+  keep -->|Almost nothing| slow["You did extra work and kept one token"]
+  fast --> out["The text is the target model's text"]
+  slow --> out</pre>
+<p>The win shows up when the draft is often right. Code with a repetitive shape, or a phrase the model was going to write anyway, is the friendly case. A prompt where the next token is genuinely uncertain is the unfriendly case. The target model rejects the guess, and you paid for a draft that did not stick.</p>
+<h2 id="what-it-is-not">What it is not</h2>
+<p><strong>It is not quantization.</strong> Quantization stores the same model in fewer bits. Speculative decoding adds a second model that only proposes. You can quantize a model and also speculate. They are different levers. The bit-width lever is <a href="/blog/what-is-quantization-in-ai-2026/">what quantization is</a>.</p>
+<p><strong>It is not distillation.</strong> Distillation trains a smaller model to imitate a larger one, and then you serve the smaller model as the product. A speculative draft model may have been trained that way, but the user-facing model is still the target. If you wanted the small model to be the answer, you wanted <a href="/blog/what-is-model-distillation-2026/">what model distillation is</a>.</p>
+<p><strong>It is not a longer context window.</strong> Nothing about a draft token raises how much you can paste. The limit is <a href="/blog/what-is-a-context-window-2026/">what a context window is</a>.</p>
+<p><strong>It is not a cache.</strong> A <a href="/blog/what-is-a-context-cache-2026/">context cache</a> reuses a prefix you already sent. Speculative decoding proposes tokens you have not accepted yet. A cached prompt can still be decoded speculatively. The invoice lines are different.</p>
+<h2 id="where-you-would-meet-it-in-this-directory">Where you would meet it in this directory</h2>
+<p>You usually do not buy “speculative decoding” as a seat. It sits inside a vendor’s serving stack, or in an inference server you run. The name on the invoice stays the model name.</p>
+<p><a href="/tools/deepseek/">DeepSeek</a> is the API in this directory with a public token card, not a public latency card. Flash input on a cache miss is $0.15 per million tokens off-peak. That price does not tell you whether the serving path drafts tokens ahead. Read <a href="/blog/deepseek-review-2026/">DeepSeek review</a> for the bill. Time your own call if the wait is the issue.</p>
+<p><a href="/tools/chatgpt/">ChatGPT</a> Plus at $20 and <a href="/tools/claude/">Claude</a> Pro at $20, or $17 billed annually, are usage plans. Neither plan page, as recorded here, sells a speculative-decoding toggle. If a reply feels slow, time the first token and the tool calls before you change plans. The trace habit is <a href="/blog/what-is-ai-observability-2026/">what AI observability is</a>.</p>
+<p><a href="/tools/github-copilot/">GitHub Copilot</a> Free includes 2,000 completions a month. Pro is $10. A completion is a short draft by product design. That product fact is not a statement that the serving stack uses speculative decoding. The seat is <a href="/blog/github-copilot-pricing-explained-2026/">GitHub Copilot pricing explained</a>.</p>
+<p>The architecture underneath the target model, if you need the picture, is <a href="/blog/what-is-a-transformer-model-2026/">what a transformer model is</a>.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="does-speculative-decoding-change-the-answer">Does speculative decoding change the answer?</h3>
+<p>The standard design keeps the target model’s answer and throws away draft tokens the target model rejects. A vendor that skips the check has shipped the draft model. Ask which model is allowed to commit a token before you quote a speedup.</p>
+<h3 id="will-it-help-a-saturated-batch">Will it help a saturated batch?</h3>
+<p>Often less. The technique spends extra draft compute to shorten one sequence. When the hardware is already full of batch work, that extra compute has nowhere to sit. Latency and throughput pull apart here. Measure the path you actually run.</p>
+<h3 id="can-i-turn-it-on-in-chatgpt">Can I turn it on in ChatGPT?</h3>
+<p>Nothing recorded on the Plus or Pro cards in this directory is that switch. Assume it is an internal serving choice unless a setting says otherwise.</p>
+<h3 id="should-i-pick-a-model-because-a-blog-claimed-a-2-speedup">Should I pick a model because a blog claimed a 2× speedup?</h3>
+<p>No. A speedup from someone else’s prompt, hardware, and draft model is not your number. This page intentionally has no speedup in it. Time a prompt you send every day.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for ChatGPT, Claude, Copilot, and DeepSeek list prices used as orientation. The definition does not depend on those prices. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://api-docs.deepseek.com/">DeepSeek API docs</a>, <a href="https://github.com/features/copilot">GitHub Copilot plans</a>, <a href="https://claude.com/pricing">Claude pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/claude/">Claude</a> is in the <a href="/tools/category/chatbots-assistants/">chatbots and assistants directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/deepseek/" data-category="chatbots-assistants" data-search="deepseek chinese ai lab offering a free chat assistant and some of the lowest-cost frontier-class api models. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/deepseek.png" alt="DeepSeek logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>DeepSeek</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Chinese AI lab offering a free chat assistant and some of the lowest-cost frontier-class API models.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From Free chat</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/tools/github-copilot/" data-category="coding" data-search="github copilot ai pair programmer with code completion, chat, a cloud coding agent, code review and access to third-party agents. coding" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/logos/github-copilot.png" alt="GitHub Copilot logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>GitHub Copilot</h3><span class="muted cat" data-astro-cid-g5sewvjw>💻 Coding</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI pair programmer with code completion, chat, a cloud coding agent, code review and access to third-party agents.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $10/user/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/models/" data-astro-cid-5hce7sga>Models</a><a href="/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/about/" data-astro-cid-5hce7sga>About</a> <a href="/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
