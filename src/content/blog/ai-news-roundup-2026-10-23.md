@@ -20,6 +20,16 @@ draft: false
 
 ---
 
+## Watch: AI News Roundup video (Oct 23, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/8ODJdSVk03o" title="OpenAI Nears a $1.25 Trillion Valuation + Claude Went Off-Script | AI News Oct 23" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=8ODJdSVk03o).
+
+---
+
 ## How much is OpenAI worth now?
 
 **Short answer:** About **$1.25 trillion**, if the deal closes. CNBC, citing people familiar with the deal, reports that OpenAI is close to finalizing an **up-to-$30 billion** funding round at a **$1.25 trillion pre-money valuation**, led by **investors from the United Arab Emirates and Coatue**. The round is being positioned as an “opportunistic” bridge ahead of a potential IPO. OpenAI told investors it aims to have signatures by the end of next week, but the final size is still being determined. OpenAI is also negotiating a deal for **more computing capacity from the UAE**, according to one person.
