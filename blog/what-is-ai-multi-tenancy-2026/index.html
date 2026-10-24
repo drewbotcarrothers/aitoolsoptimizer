@@ -1,0 +1,99 @@
+<!DOCTYPE html><html lang="en" data-astro-cid-5hce7sga> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>What Is AI Multi-Tenancy? (2026): One System, Separate Customers | AI Tools Optimizer</title><meta name="description" content="AI multi-tenancy is one deployment serving many customers, with data, quotas, and keys kept apart. A 2026 explainer. No isolation scores."><link rel="canonical" href="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-multi-tenancy-2026/"><meta property="og:url" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/what-is-ai-multi-tenancy-2026/"><link rel="icon" href="/aitoolsoptimizer/favicon.ico" sizes="any"><link rel="icon" href="/aitoolsoptimizer/favicon-32.png" type="image/png" sizes="32x32"><link rel="apple-touch-icon" href="/aitoolsoptimizer/apple-touch-icon.png"><meta property="og:title" content="What Is AI Multi-Tenancy? (2026): One System, Separate Customers | AI Tools Optimizer"><meta property="og:description" content="AI multi-tenancy is one deployment serving many customers, with data, quotas, and keys kept apart. A 2026 explainer. No isolation scores."><meta property="og:image" content="https://drewbotcarrothers.github.io/aitoolsoptimizer/og-image.png"><meta name="twitter:card" content="summary"><meta name="theme-color" content="#070A13"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Inter:wght@400;600&family=JetBrains+Mono&display=swap" rel="stylesheet"><link rel="stylesheet" href="/aitoolsoptimizer/_astro/about.C0DKT8Yr.css">
+<style>.top[data-astro-cid-g5sewvjw]{display:flex;gap:.8rem;align-items:center}h3[data-astro-cid-g5sewvjw]{margin:0;font-size:1.05rem}.avatar[data-astro-cid-g5sewvjw]{width:42px;height:42px;border-radius:12px;display:grid;place-items:center;font-family:var(--font-display);font-weight:800;background:var(--gradient-brand);color:var(--color-bg);flex:none}.cat[data-astro-cid-g5sewvjw],.price[data-astro-cid-g5sewvjw]{font-size:.8rem}.meta[data-astro-cid-g5sewvjw]{display:flex;justify-content:space-between;align-items:center}.logo-tile[data-astro-cid-g5sewvjw]{width:48px;height:48px;border-radius:12px;background:#f4f5f8;border:1px solid rgba(255,255,255,.12);display:grid;place-items:center;flex:none;overflow:hidden}.logo-tile[data-astro-cid-g5sewvjw] img[data-astro-cid-g5sewvjw]{width:40px;height:40px;object-fit:contain;border-radius:8px}
+.ph[data-astro-cid-4sn4zg3r]{margin:1.5rem 0;max-width:820px}.ph[data-astro-cid-4sn4zg3r] .pill[data-astro-cid-4sn4zg3r]{margin-right:.5rem}
+</style></head> <body data-astro-cid-5hce7sga> <header class="site-header" data-astro-cid-5hce7sga> <div class="container bar" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <nav class="desktop-nav" data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> <details class="mobile-nav" data-astro-cid-5hce7sga> <summary aria-label="Menu" data-astro-cid-5hce7sga>☰</summary> <nav data-astro-cid-5hce7sga><a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools Directory</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a><a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a></nav> </details> </div> </header> <main data-astro-cid-5hce7sga> <article class="container section" data-astro-cid-4sn4zg3r> <a href="/aitoolsoptimizer/blog/" data-astro-cid-4sn4zg3r>← Blog</a> <header class="ph" data-astro-cid-4sn4zg3r> <a class="pill" href="/aitoolsoptimizer/tools/category/automation-agents/" data-astro-cid-4sn4zg3r>Automation &amp; Agents</a> <h1 data-astro-cid-4sn4zg3r>What Is AI Multi-Tenancy? (2026): One System, Separate Customers</h1> <p class="muted" data-astro-cid-4sn4zg3r>By Andrew · October 24, 2026</p> </header> <div class="prose" data-astro-cid-4sn4zg3r><p><strong>AI multi-tenancy means one product serves many customers, and a boundary keeps one customer’s prompts, files, quota, and keys from becoming another’s.</strong> The model weights are often shared. The tenant’s data is not, unless a contract says that customer opted into sharing. A login screen is not that boundary. The boundary is the identifier on every row, every tool call, and every log line.</p>
+<p>The bill you assign to a team is <a href="/blog/what-is-ai-cost-center-2026/">what an AI cost center is</a>. The counter on usage is <a href="/blog/what-is-ai-token-metering-2026/">what AI token metering is</a>. The signed list of allowed actions is <a href="/blog/what-is-ai-guardrail-policy-2026/">what an AI guardrail policy is</a>. The place a fact is allowed to live is <a href="/blog/what-is-a-system-of-record-for-ai-2026/">what a system of record for AI is</a>.</p>
+<p>Prices below are US list prices excluding tax. ChatGPT, Claude, and Chatbase figures are from directory pages checked October 16, 2026. Lindy’s seat price is the figure the guardrail article read on October 24, 2026. Published October 24, 2026. This page does not score how well any vendor isolates tenants.</p>
+<h2 id="what-is-shared-and-what-is-not">What is shared, and what is not</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Piece</th><th>Often shared</th><th>Must stay on the tenant</th></tr></thead><tbody><tr><td>Model weights</td><td>Yes, unless that customer paid for a private copy</td><td>A fine-tune or a file they uploaded</td></tr><tr><td>Prompts and outputs</td><td>No</td><td>Stored and retrieved only with that tenant id</td></tr><tr><td>Quotas and keys</td><td>A pool you split</td><td>One tenant cannot spend another’s allowance or call another’s tools</td></tr><tr><td>Retrieved documents</td><td>No</td><td>A search for tenant A returns tenant A’s corpus</td></tr><tr><td>Admin logs</td><td>Your operators may see a cross-tenant view</td><td>A tenant admin sees only their tenant</td></tr></tbody></table>
+<pre class="mermaid">flowchart TD
+  req["A request arrives"] --> id{"Is the tenant id present?"}
+  id -->|No| reject["Reject it. Do not guess the tenant"]
+  id -->|Yes| load["Load that tenant's files, quota, and tool list"]
+  load --> answer["The model drafts inside that boundary"]
+  answer --> log["The log row carries the same tenant id"]</pre>
+<p>A shared model is normal. A shared prompt log is a breach of the promise you made, even when the text looks harmless. The same rule applies to embeddings: the index that holds one customer’s chunks is <a href="/blog/what-is-embedding-index-2026/">what an embedding index is</a>. If two customers share an index, the filter is the tenant id, and a missing filter is a data leak.</p>
+<h2 id="where-you-meet-this-as-a-buyer">Where you meet this as a buyer</h2>
+<p><strong>A company workspace.</strong> <a href="/tools/chatgpt/">ChatGPT</a> Business is $20 per user per month billed annually, with a two-user minimum, or $25 monthly, on the October 16 card. The card says Business does not train on your business data by default. That sentence is about training. It is not a diagram of how workspaces are separated. Your policy still names which workspace is the tenant. Plus at $20 a month is a personal seat. Do not put two customers’ files in one personal account and call it multi-tenant.</p>
+<p><strong>A writing seat.</strong> <a href="/tools/claude/">Claude</a> Pro is $20 a month, or $17 billed annually. The directory says Team plans serve 2 to 150 people. This page does not print a Team dollar price, because the card we are using does not. A Project is a folder. It becomes a tenant boundary only if people outside that customer cannot open it.</p>
+<p><strong>A bot per customer.</strong> <a href="/tools/chatbase/">Chatbase</a> Hobby is $32 a month billed yearly, with 700 message credits, on the October 16 card. If you run one bot for many customers, the retrieval set has to be filtered by customer. A single help center for your own company is one tenant. Two clients’ private docs in one bot, with no filter, is the failure mode.</p>
+<p><strong>An agent that can act.</strong> <a href="/tools/lindy/">Lindy</a> paid use starts at $49.99 per user per month for 5,000 credits, on the pricing page read October 24, 2026. Anything with outside impact waits for approval, on that same read. Approval is per action. It does not replace a tenant id on the record the agent is allowed to touch.</p>
+<h2 id="what-to-write-down">What to write down</h2>
+<p>Name the tenant key. Name who can read another tenant’s logs, and why. Name the quota so a noisy customer cannot drain the pool. A retry that must not double-charge that tenant is <a href="/blog/what-is-ai-idempotency-2026/">what AI idempotency is</a>.</p>
+<p>Do not accept “we use enterprise security” as the design. Ask which field is the tenant id, and what a request does when that field is missing. The correct behavior is to reject it.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="is-a-shared-model-a-multi-tenant-violation">Is a shared model a multi-tenant violation?</h3>
+<p>No. Sharing weights is how a hosted model works. The violation is sharing or mixing customer content, credentials, or spend without a rule the customer accepted.</p>
+<h3 id="does-a-separate-workspace-guarantee-isolation">Does a separate workspace guarantee isolation?</h3>
+<p>It is the vendor’s control, plus the settings you turned on. Confirm what an admin in workspace A can export from workspace B. If the answer is “it depends who is an org owner,” write that owner down. Hope is not a boundary.</p>
+<h3 id="can-a-small-team-skip-this">Can a small team skip this?</h3>
+<p>If you have one customer, you have one tenant, and the page can be one paragraph. The moment a second customer’s private text enters the same bot, index, or agent, you need the id. Adding it later means re-labeling every row.</p>
+<h3 id="is-this-the-same-as-a-cost-center">Is this the same as a cost center?</h3>
+<p>A cost center says who pays. Multi-tenancy says who can see and spend. You can bill two teams correctly and still leak one’s documents into the other’s answers. Track both.</p>
+<h2 id="last-verified">Last verified</h2>
+<p>October 16, 2026 for ChatGPT, Claude, and Chatbase. October 24, 2026 for Lindy’s $49.99 line, from the guardrail article’s read of lindy.ai/pricing. No isolation rating is claimed. Published October 24, 2026.</p>
+<p><strong>Sources:</strong> <a href="https://chatgpt.com/pricing/">ChatGPT pricing</a>, <a href="https://claude.com/pricing">Claude pricing</a>, <a href="https://www.chatbase.co/pricing">Chatbase pricing</a>, <a href="https://www.lindy.ai/pricing">Lindy pricing</a>.</p>
+<p><em>Published by Andrew for <a href="https://aitoolsoptimizer.com">AI Tools Optimizer</a>.</em></p>
+<p><a href="/tools/chatbase/">Chatbase</a> is in the <a href="/tools/category/customer-support/">customer support directory</a>. Directory pages may use affiliate links. A purchase through them may earn us a commission at no extra cost to you.</p></div> <p class="notice prose" data-astro-cid-4sn4zg3r>Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p> <section class="section" data-astro-cid-4sn4zg3r><h2 data-astro-cid-4sn4zg3r>Tools mentioned in this post</h2><div class="grid" data-astro-cid-4sn4zg3r><a class="card tool-card" href="/aitoolsoptimizer/tools/chatbase/" data-category="customer-support" data-search="chatbase build ai agents trained on your data to handle support and sales across chat, email, whatsapp, slack and voice. customer-support" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatbase.png" alt="Chatbase logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Chatbase</h3><span class="muted cat" data-astro-cid-g5sewvjw>🎧 Customer Support</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Build AI agents trained on your data to handle support and sales across chat, email, WhatsApp, Slack and voice.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $32/mo</span><span class="pill paid" data-astro-cid-g5sewvjw>paid</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/chatgpt/" data-category="chatbots-assistants" data-search="chatgpt openai's ai assistant for chat, research, writing, coding, images, voice and agentic work. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/chatgpt.png" alt="ChatGPT logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>ChatGPT</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>OpenAI&#39;s AI assistant for chat, research, writing, coding, images, voice and agentic work.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $8/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/claude/" data-category="chatbots-assistants" data-search="claude anthropic's ai assistant for writing, analysis, research, coding and long-running work, with claude code included on paid plans. chatbots-assistants" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/claude.png" alt="Claude logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Claude</h3><span class="muted cat" data-astro-cid-g5sewvjw>🤖 Chatbots &amp; Assistants</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>Anthropic&#39;s AI assistant for writing, analysis, research, coding and long-running work, with Claude Code included on paid plans.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $17/mo</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> <a class="card tool-card" href="/aitoolsoptimizer/tools/lindy/" data-category="automation-agents" data-search="lindy ai teammate that plugs into your tools, learns how you work and handles real tasks across inbox, sales, marketing and ops. automation-agents" data-astro-cid-g5sewvjw> <div class="top" data-astro-cid-g5sewvjw><span class="logo-tile" data-astro-cid-g5sewvjw><img src="/aitoolsoptimizer/logos/lindy.png" alt="Lindy logo" width="48" height="48" loading="lazy" decoding="async" data-astro-cid-g5sewvjw></span><div data-astro-cid-g5sewvjw><h3 data-astro-cid-g5sewvjw>Lindy</h3><span class="muted cat" data-astro-cid-g5sewvjw>🔗 Automation &amp; Agents</span></div></div> <p class="muted" data-astro-cid-g5sewvjw>AI teammate that plugs into your tools, learns how you work and handles real tasks across inbox, sales, marketing and ops.</p> <div class="meta" data-astro-cid-g5sewvjw><span class="muted price" data-astro-cid-g5sewvjw>From $49.99/mo for 5,000 credits</span><span class="pill freemium" data-astro-cid-g5sewvjw>freemium</span></div> </a> </div></section> </article> </main> <footer class="site-footer" data-astro-cid-5hce7sga> <div class="container foot" data-astro-cid-5hce7sga> <div data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/" class="logo" data-astro-cid-5hce7sga><img class="mark" src="/aitoolsoptimizer/logo-mark.png" alt="" width="32" height="32" data-astro-cid-5hce7sga> AI Tools <span class="grad" data-astro-cid-5hce7sga>Optimizer</span></a> <p class="muted" data-astro-cid-5hce7sga>Learn AI. Pick the right tools. Work smarter.<br data-astro-cid-5hce7sga>Made by Andrew.<br data-astro-cid-5hce7sga><a href="mailto:contact@aitoolsoptimizer.com" data-astro-cid-5hce7sga>contact@aitoolsoptimizer.com</a></p> </div> <div class="links" data-astro-cid-5hce7sga> <a href="/aitoolsoptimizer/tools/" data-astro-cid-5hce7sga>Tools</a><a href="/aitoolsoptimizer/models/" data-astro-cid-5hce7sga>Models</a><a href="/aitoolsoptimizer/ai-news/" data-astro-cid-5hce7sga>AI News</a><a href="/aitoolsoptimizer/blog/" data-astro-cid-5hce7sga>Blog</a><a href="/aitoolsoptimizer/about/" data-astro-cid-5hce7sga>About</a> <a href="/aitoolsoptimizer/contact/" data-astro-cid-5hce7sga>Contact</a><a href="/aitoolsoptimizer/privacy/" data-astro-cid-5hce7sga>Privacy Policy</a><a href="/aitoolsoptimizer/cookies/" data-astro-cid-5hce7sga>Cookie Policy</a><a href="/aitoolsoptimizer/terms/" data-astro-cid-5hce7sga>Terms of Use</a><a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a> </div> </div> <div class="container muted small" data-astro-cid-5hce7sga>Disclosure: some links may be affiliate links; we may earn a commission at no extra cost to you. See our <a href="/aitoolsoptimizer/disclaimer/" data-astro-cid-5hce7sga>Disclaimer</a>. © 2026 AI Tools Optimizer.</div> </footer> </body></html>  <script>
+  const mermaidNodes = document.querySelectorAll('pre.mermaid');
+  if (mermaidNodes.length) {
+    const loader = document.createElement('script');
+    loader.type = 'module';
+    loader.textContent = `
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.12.0/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({
+        startOnLoad: false,
+        securityLevel: 'strict',
+        theme: 'dark',
+        themeVariables: {
+          darkMode: true,
+          background: '#0E1324',
+          primaryColor: '#151B33',
+          primaryTextColor: '#E6ECFF',
+          primaryBorderColor: '#00E5FF',
+          lineColor: '#8A94B8',
+          secondaryColor: '#151B33',
+          tertiaryColor: '#070A13',
+          fontFamily: 'Inter, system-ui, sans-serif'
+        }
+      });
+      await mermaid.run({ nodes: document.querySelectorAll('pre.mermaid') });
+    `;
+    document.body.appendChild(loader);
+  }
+</script>
