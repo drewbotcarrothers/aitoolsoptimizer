@@ -11,18 +11,27 @@ const tools = (await getCollection('tools')).filter((t) => d.relatedTools.includ
 ---
 <Base title={d.title} description={d.description}>
   <article class="container section">
-    <a href={url('/blog/')}>← Blog</a>
-    <header class="ph">
-      {d.category && <a class="pill" href={url(`/tools/category/${d.category}/`)}>{categories[d.category].name}</a>}
-      <h1>{d.title}</h1>
-      <p class="muted">By Andrew · {d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' })}</p>
-    </header>
-    <div class="prose"><Content /></div>
-    <p class="notice prose">Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p>
+    <div class="post-col">
+      <a href={url('/blog/')}>← Blog</a>
+      <header class="ph">
+        {d.category && <a class="pill" href={url(`/tools/category/${d.category}/`)}>{categories[d.category].name}</a>}
+        <h1>{d.title}</h1>
+        <p class="muted">By Andrew · {d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' })}</p>
+      </header>
+      <div class="prose"><Content /></div>
+      <p class="notice prose">Disclosure: this post may contain affiliate links. If you buy through them we may earn a commission at no extra cost to you.</p>
+    </div>
     {tools.length > 0 && <section class="section"><h2>Tools mentioned in this post</h2><div class="grid">{tools.map((t) => <ToolCard tool={t} />)}</div></section>}
   </article>
 </Base>
-<style>.ph { margin: 1.5rem 0; max-width: 820px; } .ph .pill { margin-right: .5rem; }</style>
+<style>
+  /* .section's shorthand padding clears .container's side padding. Put it back on the post page. */
+  article.section { padding-left: 1.25rem; padding-right: 1.25rem; }
+  /* Center the reading column in the wider container. Body copy stays left-aligned. */
+  .post-col { max-width: 760px; margin-inline: auto; text-align: left; }
+  .ph { margin: 1.5rem 0; }
+  .ph .pill { margin-right: .5rem; }
+</style>
 <script is:inline>
   const mermaidNodes = document.querySelectorAll('pre.mermaid');
   if (mermaidNodes.length) {
