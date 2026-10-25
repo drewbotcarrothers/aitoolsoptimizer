@@ -18,6 +18,14 @@ draft: false
 - **Pennsylvania** now requires **labels on AI-generated ads**; political ads are exempt.
 - **Gemini Notebook** is now a **Connected App** in the Gemini app, so you can create and query notebooks right from a chat.
 
+## Watch: AI News Roundup video (Oct 24, 2026)
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/chQ7kpJbWI0" title="OpenAI Cuts AI Training Off the Internet + Kimi K3.1 Pro | AI News Oct 24" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+Prefer YouTube? [Watch on the AI Tools Optimizer channel](https://www.youtube.com/watch?v=chQ7kpJbWI0).
+
 ---
 
 ## Why is OpenAI cutting its AI training off from the internet?
