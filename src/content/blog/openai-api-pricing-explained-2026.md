@@ -47,7 +47,7 @@ Batch and Flex, for gpt-6-astra short context, are $5 input, $25 output, and $0.
 
 **A ChatGPT Business seat** is $20 a user a month billed annually, for two or more users, or $25 monthly. It is a workspace. It is not a prepaid token balance. The workspace article is [ChatGPT Team pricing explained](/blog/chatgpt-team-pricing-explained-2026/).
 
-**A neighboring API**, so the shape of a token bill is not unique to OpenAI: [DeepSeek](/tools/deepseek/) Flash off-peak is $0.15 per million input tokens on a cache miss on the directory card. That is DeepSeek's meter. The invoice is [DeepSeek pricing explained](/blog/deepseek-pricing-explained-2026/).
+**Another lab's chat seat.** [Claude](/tools/claude/) is not this rate card. The invoice is [Anthropic API pricing explained](/blog/anthropic-api-pricing-explained-2026/). **A neighboring API**, so the shape of a token bill is not unique to OpenAI: [DeepSeek](/tools/deepseek/) Flash off-peak is $0.15 per million input tokens on a cache miss on the directory card. That is DeepSeek's meter. The invoice is [DeepSeek pricing explained](/blog/deepseek-pricing-explained-2026/).
 
 **A coding seat** that can call models without you holding this key is [GitHub Copilot](/tools/github-copilot/) Pro at $10 a user a month on the October 16 card. Copilot credits are not this API price list. The company seat is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/).
 

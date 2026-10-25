@@ -40,11 +40,11 @@ Unsent model output needs a label so a later export does not treat it as what th
 
 **Notion.** The directory, checked October 16, 2026, quotes Notion: contractual agreements prohibit AI subprocessors from using customer data to train models, and no data is stored with LLM providers, with 30-day retention for non-Enterprise. [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Enterprise is the plan the same note ties to a different retention line. Confirm the current clause before you cite it in a policy. The seat article is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**ChatGPT.** The directory says Business does not train on your business data by default. Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly. The directory does not print a day count for how long Business keeps a chat. Do not borrow Notion's 30 days and apply them here. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
+**[ChatGPT](/tools/chatgpt/).** The directory says Business does not train on your business data by default. Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly. The directory does not print a day count for how long Business keeps a chat. Do not borrow Notion's 30 days and apply them here. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**Claude.** The directory says model training is opt-out on Free, Pro, and Max, so a person can turn it off in settings. Pro is $20 a month, or $17 billed annually. The directory does not print a retention day count on that card. Opting out of training is not the same sentence as "deleted after N days." The review is [Claude review](/blog/claude-review-2026/).
+**[Claude](/tools/claude/).** The directory says model training is opt-out on Free, Pro, and Max, so a person can turn it off in settings. Pro is $20 a month, or $17 billed annually. The directory does not print a retention day count on that card. Opting out of training is not the same sentence as "deleted after N days." The review is [Claude review](/blog/claude-review-2026/).
 
-**Perplexity.** Enterprise Max is $325 a user a month, or $3,250 a year, and the directory lists data retention settings on that plan. Enterprise Pro is $40 a user a month, or $400 a year. The directory names the setting. It does not print the menu of windows. Read them in the admin console you have.
+**[Perplexity](/tools/perplexity/).** Enterprise Max is $325 a user a month, or $3,250 a year, and the directory lists data retention settings on that plan. Enterprise Pro is $40 a user a month, or $400 a year. The directory names the setting. It does not print the menu of windows. Read them in the admin console you have.
 
 ## What to write down
 

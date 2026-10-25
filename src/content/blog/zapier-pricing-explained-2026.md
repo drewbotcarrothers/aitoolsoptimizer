@@ -45,7 +45,7 @@ A year of Professional at the recorded rate is 12 × $19.99 = $239.88. A year of
 
 **Team** is the admin jump: shared folders and connections, user roles, and SAML SSO. Because the task allotment is blank on the card this article uses, do not assume Team includes 750, or ten times 750. Ask, and write the number down.
 
-**Make and n8n** are different meters. [Make](/tools/make/) Core starts at $9 a month billed annually for 10,000 credits. A credit is not a Zapier task. [n8n](/tools/n8n/) Starter is €20 a month billed annually in the directory. This page does not convert euros to dollars. Compare them when the job is the same workflow and you can explain the unit. The reviews are [Zapier review](/blog/zapier-review-2026/) and the two pricing articles linked above.
+**Make and n8n** are different meters. [Make](/tools/make/) Core starts at $9 a month billed annually for 10,000 credits. A credit is not a Zapier task. [n8n](/tools/n8n/) Starter is €20 a month billed annually in the directory. This page does not convert euros to dollars. Compare them when the job is the same workflow and you can explain the unit. A draft you steer by chat is [Claude](/tools/claude/), not a Zap. The reviews are [Zapier review](/blog/zapier-review-2026/) and the two pricing articles linked above.
 
 A test that writes a real customer is not a free action. Point the Zap at a record you can delete. The boundary is [what an AI tool sandbox is](/blog/what-is-ai-tool-sandbox-2026/).
 

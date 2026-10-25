@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Claude or ChatGPT to summarize a document you have the right to upload, then have a qualified person read both the summary and the source before anyone relies on it.** This is document summarization. It is not legal advice, not a prediction of how a dispute comes out, and not a substitute for counsel. Pick Claude Pro at $20 a month ($17 billed annually) when the file is long and you want the summary to stay tied to sections you can point at. Pick ChatGPT Plus at $20 a month when the memo should live in a Project your team reopens. If a clause is not in the file, the summary says Missing.
+**Use Claude or [ChatGPT](/tools/chatgpt/) to summarize a document you have the right to upload, then have a qualified person read both the summary and the source before anyone relies on it.** This is document summarization. It is not legal advice, not a prediction of how a dispute comes out, and not a substitute for counsel. Pick Claude Pro at $20 a month ($17 billed annually) when the file is long and you want the summary to stay tied to sections you can point at. Pick ChatGPT Plus at $20 a month when the memo should live in a Project your team reopens. If a clause is not in the file, the summary says Missing.
 
 The ops shelf around intake and playbooks, which is a different job, is [best AI tools for legal ops](/blog/best-ai-tools-for-legal-ops-2026/). A wrong sentence that was not in the file is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/). The check is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 

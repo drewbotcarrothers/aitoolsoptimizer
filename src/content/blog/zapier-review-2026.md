@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from Zapier's pricing guide, recorded October 16, 2026. Higher task tiers cost more than the 750-task Professional entry. Tax and currency can differ. We did not load-test a Zap, and we did not score AI Agents against a human operator.
 
-This page is the Zapier contract. The three-way choice is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). Make's own numbers are in the [Make review](/blog/make-com-review-2026/). n8n's cloud price, in euros, is in the [n8n review](/blog/n8n-cloud-review-2026/).
+This page is the Zapier contract. The three-way choice is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). Make's own numbers are in the [Make review](/blog/make-com-review-2026/). [n8n](/tools/n8n/)'s cloud price, in euros, is in the [n8n review](/blog/n8n-cloud-review-2026/).
 
 ## The meter, with the free steps called out
 

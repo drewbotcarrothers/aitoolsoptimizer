@@ -41,9 +41,9 @@ The directory page says inline suggestions and predicted next edits are unlimite
 
 **A personal Pro seat on a company repo.** Pro is $10. It is a real product. It is not "basically Business" because the developer already uses GitHub. The indemnity line is on the Business card, not on the Pro card we used.
 
-**Claude Code as a separate seat.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Copilot's paid plans can reach third-party agents, including Claude Code, on the October 16 card. That access draws on Copilot's credit story. It does not duplicate a Claude invoice you already pay. The Claude seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+**Claude Code as a separate seat.** [Claude Code](/tools/claude-code/) is included with paid [Claude](/tools/claude/) plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Copilot's paid plans can reach third-party agents, including Claude Code, on the October 16 card. That access draws on Copilot's credit story. It does not duplicate a Claude invoice you already pay. The Claude seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
 
-**Cursor**, if the company is pricing an editor at the same time, is Plus at $8 a month or $80 a year on the October 16 card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). A Copilot Business rollout and a Cursor rollout are two decisions. The migration pairing is [Cursor vs Claude Code for migrations](/blog/cursor-vs-claude-code-for-migrations-2026/).
+**[Cursor](/tools/cursor/)**, if the company is pricing an editor at the same time, is Plus at $8 a month or $80 a year on the October 16 card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). A Copilot Business rollout and a Cursor rollout are two decisions. The migration pairing is [Cursor vs Claude Code for migrations](/blog/cursor-vs-claude-code-for-migrations-2026/).
 
 ## What not to assume
 

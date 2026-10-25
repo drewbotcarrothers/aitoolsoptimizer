@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Cursor when the refactor is a branch in an AI-native editor and you want the agent to touch the files you named. Use GitHub Copilot when the code stays in the editor you already use and the change should arrive as a pull request on GitHub.** A refactor here means a behavior-preserving edit: rename, extract, or move code you already own, with tests you already have. It is not a new feature, and it is not a test-writing session.
+**Use Cursor when the refactor is a branch in an AI-native editor and you want the agent to touch the files you named. Use GitHub Copilot when the code stays in the editor you already use and the change should arrive as a pull request on GitHub.** A refactor here means a behavior-preserving edit: rename, extract, or move code you already own, with tests you already have. It is not a new feature, and it is not a test-writing session. [Claude](/tools/claude/) and [ChatGPT](/tools/chatgpt/) can draft the plan. They do not open the branch.
 
 The general product split is [Cursor vs GitHub Copilot](/blog/cursor-vs-github-copilot-2026/). The seat-and-admin split is [Cursor vs GitHub Copilot for teams](/blog/cursor-vs-github-copilot-for-teams-2026/). The test-writing split is [Cursor vs GitHub Copilot for tests](/blog/cursor-vs-github-copilot-for-tests-2026/).
 

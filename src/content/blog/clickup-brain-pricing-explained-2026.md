@@ -46,7 +46,7 @@ The page says every AI plan includes a monthly credit allowance shared across th
 
 Everything AI's card lists 3 times more Super Agent usage and the 5,000 credits. The asterisk on unlimited image generation was not defined in the text we kept. Do not assume images are free of credits because the word unlimited is nearby.
 
-**Notion AI** Business is $20 a seat a month if the team lives in Notion and not in ClickUp. Brain's value, on the directory verdict, depends on tasks and docs that are already in ClickUp. The invoice is the Notion article. **ChatGPT** Plus at $20 a month and **Claude** Pro at $20 a month, or $17 billed annually, are general chats. They do not see a ClickUp list unless you paste it or connect a tool you have reviewed. The reviews are [ChatGPT review](/blog/chatgpt-review-2026/) and [Claude review](/blog/claude-review-2026/).
+**[Notion AI](/tools/notion-ai/)** Business is $20 a seat a month if the team lives in Notion and not in ClickUp. Brain's value, on the directory verdict, depends on tasks and docs that are already in ClickUp. The invoice is the Notion article. **[ChatGPT](/tools/chatgpt/)** Plus at $20 a month and **[Claude](/tools/claude/)** Pro at $20 a month, or $17 billed annually, are general chats. They do not see a ClickUp list unless you paste it or connect a tool you have reviewed. The reviews are [ChatGPT review](/blog/chatgpt-review-2026/) and [Claude review](/blog/claude-review-2026/).
 
 ## What not to assume
 

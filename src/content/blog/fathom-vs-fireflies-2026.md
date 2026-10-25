@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Fathom when you want unlimited recordings and a summary on the free plan, and a bot in the meeting is acceptable. Use Fireflies when you will pay for search across calls and the annual seat is the number finance will sign.** Both put a bot in the room. If the bot is the problem, leave for [Granola](/tools/granola/). The three-way that includes Otter is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). This page stays on the two-way: a generous free recorder, or a paid searchable archive.
+**Use Fathom when you want unlimited recordings and a summary on the free plan, and a bot in the meeting is acceptable. Use Fireflies when you will pay for search across calls and the annual seat is the number finance will sign.** Both put a bot in the room. If the bot is the problem, leave for [Granola](/tools/granola/). The three-way that includes [Otter](/tools/otter-ai/) is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). This page stays on the two-way: a generous free recorder, or a paid searchable archive.
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score transcription accuracy. The directory does not print a minute cap for Fireflies Free. It does print unlimited recordings for Fathom Free. Those are different sentences. Do not swap them.
 
@@ -51,7 +51,7 @@ Start on Fathom Free if you are one person, or a small team, and you want every 
 
 Start on Fireflies if you already know you will search months of calls, or you record dialers and uploaded files, and a $10 annual seat is an easier approval than "unlimited, then we will see." The monthly prices are much higher. Pro at $18 is close to Fathom Premium's monthly $20, and it is not a bargain against Fathom Free. Annual is the Fireflies discount. Buy it when you will still be searching calls in three months.
 
-If the guest should not see a bot, neither of these is the tool. [Granola vs Fathom](/blog/granola-vs-fathom-2026/) is that decision. A live transcript with a minute cap is [Otter vs Granola](/blog/otter-vs-granola-2026/). The shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/).
+If the guest should not see a bot, neither of these is the tool. [Granola vs Fathom](/blog/granola-vs-fathom-2026/) is that decision. A live transcript with a minute cap is [Otter vs Granola](/blog/otter-vs-granola-2026/). The shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). [Read AI](/tools/read-ai/) is another meeting-search seat, not a tie-breaker between these two.
 
 Read the summary the same day. A fluent recap can miss the decision. The habit is [how to summarize meetings with AI](/blog/how-to-summarize-meetings-with-ai-2026/).
 

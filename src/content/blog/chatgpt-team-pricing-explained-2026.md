@@ -36,11 +36,11 @@ Plus is $20 a month on the same page, for one person. Five Plus seats are five p
 
 ## The names that sit next to Business
 
-**Business Premium** is the name on the October 24 Dots page, which lists dots rolling out to Pro tiers, Business Premium, and Enterprise. That page did not print a Business Premium dollar. The October 16 directory card lists Business Premium at $125 a user a month billed monthly, or $100 annually. Cite that card's date if you put $125 on a purchase order. Do not describe the $20 Business row as the dot plan.
+**Business Premium** is the name on the October 24 [Dots](/tools/openai-dots/) page, which lists dots rolling out to Pro tiers, Business Premium, and Enterprise. That page did not print a Business Premium dollar. The October 16 directory card lists Business Premium at $125 a user a month billed monthly, or $100 annually. Cite that card's date if you put $125 on a purchase order. Do not describe the $20 Business row as the dot plan.
 
-**Claude Team**, if you are comparing a workspace on the other assistant, is a named Team plan: standard seats at $20 a seat a month billed annually, or $25 monthly, on claude.com/pricing the same day. That is Claude's sticker, not a ChatGPT discount. The invoice is [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/).
+**[Claude](/tools/claude/) Team**, if you are comparing a workspace on the other assistant, is a named Team plan: standard seats at $20 a seat a month billed annually, or $25 monthly, on claude.com/pricing the same day. That is Claude's sticker, not a ChatGPT discount. The invoice is [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/).
 
-**Notion Business** is $20 a seat a month on the October 16 card if the brief lives in Notion. That $20 is a wiki seat. It is not a ChatGPT workspace. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+[Notion AI](/tools/notion-ai/) on Business is $20 a seat a month on the October 16 card if the brief lives in Notion. That $20 is a wiki seat. It is not a ChatGPT workspace. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
 **The API key** on the October 24 Codex plan page is its own row: you pay API pricing, and cloud features such as GitHub code review are not on that key. A Business seat and an API key are two purchases when you use both.
 

@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from Semrush's pricing page, recorded October 16, 2026. Annual billing saves up to 17%. Extra users start at $45 a month. A report add-on starts at $10, a Pro report at $20, and lead generation at $90. Local, content, social, and advertising toolkits are priced on their own. Tax and currency at checkout can differ. We do not have traffic numbers for Semrush, and this review does not claim a ranking lift.
 
-The map of neighboring tools is [best AI SEO tools](/blog/best-ai-seo-tools-2026/). If the job is the article in front of you, read the [Surfer SEO review](/blog/surfer-seo-review-2026/) before you buy a full dataset. Writing systems are in [best AI writing assistants](/blog/best-ai-writing-assistants/).
+The map of neighboring tools is [best AI SEO tools](/blog/best-ai-seo-tools-2026/). If the job is the article in front of you, read the [Surfer SEO review](/blog/surfer-seo-review-2026/) before you buy a full dataset. Writing systems are in [best AI writing assistants](/blog/best-ai-writing-assistants/). [Writesonic](/tools/writesonic/) is the one aimed at search visibility, not this keyword dataset.
 
 ## Which subscription you are actually opening
 

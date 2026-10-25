@@ -21,7 +21,7 @@ The meter is credits. The pricing summary we used does not publish a credits-per
 
 > **Figure (plan diagram, not a product screenshot).** **Alt:** Free sits at the bottom with credits and no commercial license. Starter adds the license, commercial music use, and Dubbing Studio. Creator adds Professional Voice Cloning. Pro, Scale, and Business add credits, audio specs, seats, and more professional clones. A side path, ElevenAgents, is for phone and chat agents rather than a finished voiceover file.
 
-The category comparison is [best AI voice generators](/blog/best-ai-voice-generators/). If you already know you want a different vendor, use [ElevenLabs alternatives](/blog/elevenlabs-alternatives-2026/). If the task is a clone of a specific person, use [how to clone a voice with ElevenLabs](/blog/how-to-clone-a-voice-with-elevenlabs/).
+The category comparison is [best AI voice generators](/blog/best-ai-voice-generators/). If you already know you want a different vendor, use [ElevenLabs alternatives](/blog/elevenlabs-alternatives-2026/). [Speechify](/tools/speechify/) is the listening app. [Murf AI](/tools/murf-ai/) is the other narration contract. [Descript](/tools/descript/) is the editor when the audio already exists. [Suno](/tools/suno/) is the song, not the voiceover. If the task is a clone of a specific person, use [how to clone a voice with ElevenLabs](/blog/how-to-clone-a-voice-with-elevenlabs/).
 
 ## What each tier adds over the one below it
 
@@ -66,7 +66,7 @@ A practical order:
 
 ElevenAgents is for a business that wants a voice on a phone line or in a support flow, with monitoring. It is the wrong reason for a creator to leave Starter. If the "agent" you wanted is a research worker that returns a document, that is a different product. See [Manus AI review](/blog/manus-ai-review-2026/) and [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
-Dubbing is the feature that overlaps video tools. Starter includes Dubbing Studio. If the deliverable is a presenter on camera, compare [HeyGen and Synthesia](/blog/heygen-vs-synthesia-2026/) before you buy a higher ElevenLabs tier for the face. The faceless-channel stack that uses ElevenLabs only for narration is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/).
+Dubbing is the feature that overlaps video tools. Starter includes Dubbing Studio. If the deliverable is a presenter on camera, compare [HeyGen](/tools/heygen/) and Synthesia in [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/) before you buy a higher ElevenLabs tier for the face. The faceless-channel stack that uses ElevenLabs only for narration is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/).
 
 ## Fit, from the published plan, not from a listening test
 

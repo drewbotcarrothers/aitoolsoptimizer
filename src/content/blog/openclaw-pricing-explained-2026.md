@@ -39,11 +39,11 @@ The October 24 page says you run a Gateway and meet the assistant in channels yo
 
 These are not OpenClaw prices. They are the hosted products people compare it with, so a $0 software line is not mistaken for a $0 assistant.
 
-**Claude Pro** is $17 a month billed annually, $200 up front, or $20 billed monthly, on claude.com/pricing fetched October 24, 2026. Max is $100 or $200 a month. If you point OpenClaw at a Claude account, that account's limits and bill still apply. The review is [Claude review](/blog/claude-review-2026/).
+**[Claude](/tools/claude/) Pro** is $17 a month billed annually, $200 up front, or $20 billed monthly, on claude.com/pricing fetched October 24, 2026. Max is $100 or $200 a month. If you point OpenClaw at a Claude account, that account's limits and bill still apply. The review is [Claude review](/blog/claude-review-2026/).
 
-**ChatGPT Plus** is $20 a month on the directory card checked October 16, 2026. chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace that card. Go is $8 and may include ads. Business is $20 a user a month billed annually, with a monthly figure of $25, and it wants at least two users. Connecting a personal Plus seat to a Gateway is a policy question, not a feature of the $0 software.
+**[ChatGPT](/tools/chatgpt/) Plus** is $20 a month on the directory card checked October 16, 2026. chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace that card. Go is $8 and may include ads. Business is $20 a user a month billed annually, with a monthly figure of $25, and it wants at least two users. Connecting a personal Plus seat to a Gateway is a policy question, not a feature of the $0 software.
 
-**Grok Plus**, through The X Subscription, is $8 a month or $80 a year on the October 16 directory card. The invoice is [Grok pricing explained](/blog/grok-pricing-explained-2026/). It is a hosted assistant. It is not included with OpenClaw.
+**[Grok](/tools/grok/) Plus**, through The X Subscription, is $8 a month or $80 a year on the October 16 directory card. The invoice is [Grok pricing explained](/blog/grok-pricing-explained-2026/). It is a hosted assistant. It is not included with OpenClaw.
 
 ## What not to assume
 

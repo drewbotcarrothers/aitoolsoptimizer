@@ -13,7 +13,7 @@ draft: false
 
 Those seat prices are what Notion's pricing page showed in our directory check on October 16, 2026, in US dollars. Confirm on the live page whether the figure you see is the monthly charge or the annual per-month rate. Notion has displayed those differently over time, and tax depends on where you pay. We did not score answer quality against ChatGPT or Claude on a shared test.
 
-If the team lives in ClickUp, read the [ClickUp Brain review](/blog/clickup-brain-review-2026/) instead of forcing a migration. Meeting bots are a different category: [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Which general subscription to pay for is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+If the team lives in [ClickUp Brain](/tools/clickup-brain/), read the [ClickUp Brain review](/blog/clickup-brain-review-2026/) instead of forcing a migration. Meeting bots are a different category: [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Which general subscription to pay for is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
 ## Two bills, if you use agents
 

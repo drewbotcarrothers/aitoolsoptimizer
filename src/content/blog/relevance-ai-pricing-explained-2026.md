@@ -39,7 +39,7 @@ The directory says every plan can use any LLM with credits or bring your own API
 
 The jump from Pro annual to Team annual is $234 − $19 = $215 a month, before you count Actions. The directory says Team adds unused-credit rollover, the larger user counts, shared projects, calling and meeting agents, and A/B testing. Enterprise is where it puts Salesforce, Snowflake, and Zendesk triggers, plus agent evaluations. Do not buy Team to get a trigger that the card places on Enterprise.
 
-**Zapier Professional** at $19.99 a month billed annually is a similar sticker to Relevance Pro and a different product: tasks between apps, not a multi-agent workforce. **Lindy** Team starts at $49.99 a month for 5,000 credits, on the directory card. A Lindy credit and a Relevance Action are not convertible. **Clay** Launch starts at $167 a month billed annually. Clay is the enrichment bill. Relevance is the agent bill. A GTM team can need both, and should not describe them as one line item.
+**[Zapier](/tools/zapier/) Professional** at $19.99 a month billed annually is a similar sticker to Relevance Pro and a different product: tasks between apps, not a multi-agent workforce. **[Lindy](/tools/lindy/)** Team starts at $49.99 a month for 5,000 credits, on the directory card. A Lindy credit and a Relevance Action are not convertible. **[Clay](/tools/clay/)** Launch starts at $167 a month billed annually. Clay is the enrichment bill. Relevance is the agent bill. A GTM team can need both, and should not describe them as one line item.
 
 ## What not to assume
 

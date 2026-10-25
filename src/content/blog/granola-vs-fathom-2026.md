@@ -11,7 +11,7 @@ draft: false
 
 **Choose Granola when a bot in the participant list would change the meeting. Choose Fathom when you want unlimited recordings for free and the other people can be told a bot is there.** Granola transcribes your computer's audio and rewrites notes you typed. Fathom joins Zoom, Google Meet, and Microsoft Teams and sends a summary when the call ends. They are not two prices for the same capture method.
 
-The wider shelf, including Otter and Fireflies, is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). The bot-only decision is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). Prices are US list prices excluding tax, last verified October 16, 2026. We did not compare transcript accuracy.
+The wider shelf, including [Otter](/tools/otter-ai/) and [Fireflies](/tools/fireflies-ai/), is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). The bot-only decision is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). Prices are US list prices excluding tax, last verified October 16, 2026. We did not compare transcript accuracy.
 
 ## The split that decides it
 

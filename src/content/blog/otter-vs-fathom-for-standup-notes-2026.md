@@ -46,7 +46,7 @@ The date, who spoke, the blocker they named, and the owner they named. If nobody
 
 **Otter Basic** fits a standup that ends before 30 minutes and a team that will not blow the 300-minute monthly pool by recording everything else in the same workspace. **Pro** is the step when the meeting runs longer or the pool is the limit. Five billed users is the Pro workspace cap on the directory card. A larger standup group that all need paid Otter seats is a Business conversation, not a quiet upgrade.
 
-**Notion** is where the running list of blockers should live if that is the page people open. The transcript can stay in Otter or Fathom. **Granola** is the 1:1 article. Business there is $14 a user a month, on the directory card. Do not add it for a standup you already record.
+**Notion** is where the running list of blockers should live if that is the page people open. The transcript can stay in Otter or Fathom. **[Granola](/tools/granola/)** is the 1:1 article. Business there is $14 a user a month, on the directory card. Do not add it for a standup you already record.
 
 A prompt that holds the line:
 

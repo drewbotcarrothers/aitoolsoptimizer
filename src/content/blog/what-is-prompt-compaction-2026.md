@@ -44,7 +44,7 @@ Log the drop. A later incident will ask why the model "forgot" a limit. The answ
 
 **A chat product with history.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month and includes projects. Free can hold a conversation with limits the card describes as limits. If you depend on a long thread, start a new one with the kept facts pasted on purpose. The product's automatic shortening, if it has one, is the vendor's policy. Read it. Do not assume it preserved the price you set in message four.
 
-**A file in Google's notebook.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. It answers from sources you upload. Compaction inside a general chat is a different path from "ask only this notebook." Prefer the notebook when the source is the file. The long-file comparison is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
+**A file in Google's notebook.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. It answers from sources you upload. Compaction inside a general chat is a different path from "ask only this notebook." Prefer the notebook when the source is the file. The general assistant, separate from that notebook, is [Google Gemini](/tools/gemini/). The long-file comparison is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
 
 **The note a team keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month, which is the tier with the full agent on the directory card. Plus is $10 and is not that full AI tier. A pinned decision log in Notion is a better compact form than an ever-growing chat, because a person can edit the pin. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

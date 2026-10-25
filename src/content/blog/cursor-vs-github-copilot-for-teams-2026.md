@@ -53,7 +53,7 @@ Switching a legacy Cursor plan to The X Subscription is optional and permanent o
 
 Standardize one seat. A new hire who gets both Copilot Business and a Cursor team seat is $19 + $30 = $49 a month at the first team tiers, or $570 a year, before anyone asks whether both windows stay open. Pay for both only when you can name the hour: Copilot for review inside GitHub, Cursor for the editor the pod already adopted.
 
-A terminal agent is a third bill. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Claude Code. There is no Claude Code on Free. The map is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Do not add it as a default seat in the same purchase as the editor standard.
+A terminal agent is a third bill. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes [Claude Code](/tools/claude-code/). There is no Claude Code on Free. The map that includes [OpenAI Codex](/tools/openai-codex/) is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Do not add it as a default seat in the same purchase as the editor standard.
 
 The person who merges still reviews the diff. The flag that limits a risky assistant feature to staff is [what AI feature flags are](/blog/what-is-ai-feature-flags-2026/). The prompt text in your own tools still needs a version: [what prompt versioning is](/blog/what-is-prompt-versioning-2026/).
 

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**DALL·E is not a separate subscription in 2026. OpenAI removed DALL·E 2 and DALL·E 3 from the API on May 12, 2026. Image creation for most people is a ChatGPT plan. Developers pay GPT Image token rates.** The shutdown date is from OpenAI's deprecations page on October 24, 2026. That page lists gpt-image-2, gpt-image-1, or gpt-image-1-mini as the recommended replacements for dall-e-2 and dall-e-3. The same day's API pricing page lists newer image models and says prices are per 1M tokens.
+**DALL·E is not a separate subscription in 2026. OpenAI removed DALL·E 2 and DALL·E 3 from the API on May 12, 2026. Image creation for most people is a [ChatGPT](/tools/chatgpt/) plan. Developers pay GPT Image token rates.** The shutdown date is from OpenAI's deprecations page on October 24, 2026. That page lists gpt-image-2, gpt-image-1, or gpt-image-1-mini as the recommended replacements for dall-e-2 and dall-e-3. The same day's API pricing page lists newer image models and says prices are per 1M tokens.
 
 The product page is [ChatGPT Images, formerly DALL·E](/tools/dall-e/). A look study on a GPU plan is [Midjourney pricing explained](/blog/midjourney-pricing-explained-2026/). A mark a vendor embeds in an output is [what an AI output watermark is](/blog/what-is-ai-output-watermark-2026/).
 
@@ -48,9 +48,9 @@ The pricing page also lists batch rates and tells you to use the image generatio
 
 ## What you are comparing it with
 
-**Midjourney** Basic is $10 a month, or $8 billed annually, on the October 16 directory card. There is no free plan. It is a different product, with its own privacy rules. Do not describe a ChatGPT image as a Midjourney plan.
+**[Midjourney](/tools/midjourney/)** Basic is $10 a month, or $8 billed annually, on the October 16 directory card. There is no free plan. It is a different product, with its own privacy rules. Do not describe a ChatGPT image as a Midjourney plan.
 
-**Adobe Firefly** Standard is $9.99 a month on the October 16 directory card. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). Firefly's credit system is not OpenAI's token system.
+**[Adobe Firefly](/tools/adobe-firefly/)** Standard is $9.99 a month on the October 16 directory card. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). Firefly's credit system is not OpenAI's token system.
 
 **Leonardo** Essential is $12 a month on the October 16 card, with a free tier the card describes as casual. leonardo.ai/pricing returned HTTP 403 on October 24. The ladder is [Leonardo pricing explained](/blog/leonardo-ai-pricing-explained-2026/).
 

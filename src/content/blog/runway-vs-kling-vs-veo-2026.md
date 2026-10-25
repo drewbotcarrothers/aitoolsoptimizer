@@ -11,7 +11,7 @@ draft: false
 
 **Pay for Runway when you want a studio priced in Gen-4.5 seconds. Pay for Kling when the renewal price and the 720p sketch fit the volume. Pay for Google Flow when you want Veo 3.1 and you already live in a Google AI plan.** The three meters are not the same unit. A "cheaper" plan can buy fewer finished seconds after you convert with each vendor's own rate.
 
-Veo in this directory is [Google Flow](/tools/google-flow/), which generates with Veo 3.1, Gemini Omni Flash, and other Google models. There is no separate Veo 3 subscription in our tool list. Prices below are US list prices checked October 16, 2026. We did not score motion or prompt adherence. Fit labels describe the published meter.
+Veo in this directory is [Google Flow](/tools/google-flow/), which generates with Veo 3.1, Gemini Omni Flash, and other Google models. There is no separate Veo 3 subscription in our tool list. The chat product beside Flow is [Google Gemini](/tools/gemini/), not a fourth video meter. Prices below are US list prices checked October 16, 2026. We did not score motion or prompt adherence. Fit labels describe the published meter.
 
 Individual plan notes are the [Runway review](/blog/runway-review-2026/) and the [Kling review](/blog/kling-ai-review-2026/). The wider shelf, including avatars, is [best AI video generators](/blog/best-ai-video-generators-2026/).
 
@@ -60,7 +60,7 @@ Google AI Plus is $4.99/month for 200 monthly Flow credits. Ultra is $99.99 or $
 | Veo Quality on a slate | Google AI Pro at $19.99 | 1,000 monthly credits is ten Quality clips, plus the daily 50 |
 | You already pay for Google AI Pro | Flow, not a second subscription | The credits are a feature of the plan you have. See [which subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/) |
 
-A presenter who speaks a script is not in this table. That is [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). [Pika](/tools/pika/) Starter is $10/month and is the free-account tool that states it has no watermark, with no commercial license on Free. [Luma](/tools/luma-ai/) Plus is $30/month. Both are alternatives when none of the three meters fit, not tie-breakers inside this comparison.
+A presenter who speaks a script is not in this table. That is [HeyGen](/tools/heygen/), compared in [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). [Pika](/tools/pika/) Starter is $10/month and is the free-account tool that states it has no watermark, with no commercial license on Free. [Luma](/tools/luma-ai/) Plus is $30/month. Both are alternatives when none of the three meters fit, not tie-breakers inside this comparison.
 
 ## What else you are buying
 

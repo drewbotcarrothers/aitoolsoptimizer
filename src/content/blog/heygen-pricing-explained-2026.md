@@ -11,7 +11,7 @@ draft: false
 
 **HeyGen pricing is a video cap and a credit allowance, then a resolution and an admin tier.** Free is 3 videos a month, up to 1 minute each. Creator is $29 a month for 600 credits, videos up to 30 minutes, 1080p, watermark removal, and voice cloning. Pro is $49 a month for 1,000 credits and 4K. Business is $149 a month for 1,500 credits, videos up to 60 minutes, SSO, SCORM, and LMS integrations.
 
-Prices are US monthly list prices excluding tax, from HeyGen's pricing page as recorded October 16, 2026. Yearly billing is offered. This explainer is published October 24, 2026. HeyGen's summary does not publish one universal minutes-per-credit rate, so this article treats credits as an allowance and minute caps as maximum video length. The review is [HeyGen review](/blog/heygen-review-2026/). Synthesia's bill is [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/). The comparison is [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/).
+Prices are US monthly list prices excluding tax, from HeyGen's pricing page as recorded October 16, 2026. Yearly billing is offered. This explainer is published October 24, 2026. HeyGen's summary does not publish one universal minutes-per-credit rate, so this article treats credits as an allowance and minute caps as maximum video length. The review is [HeyGen review](/blog/heygen-review-2026/). [Synthesia](/tools/synthesia/)'s bill is [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/). The comparison is [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/).
 
 ## The ladder
 

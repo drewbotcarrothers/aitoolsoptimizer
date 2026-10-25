@@ -55,9 +55,9 @@ The $49 and $169 figures stay in this paragraph so you are not surprised if chec
 
 **Consensus Pro** is $12 a month billed annually ($144 a year), or $20 monthly, for evidence-style answers. Free includes unlimited paper searches with tight limits on Pro messages and Deep reviews. Consensus is the faster yes-or-no evidence check. Elicit is the table. The tool page is [Consensus](/tools/consensus/). The review is [Consensus review](/blog/consensus-review-2026/).
 
-**Perplexity Pro** is $17 a month billed annually when the question is the open web with citations, not a screening protocol. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+**[Perplexity](/tools/perplexity/) Pro** is $17 a month billed annually when the question is the open web with citations, not a screening protocol. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**Gemini Notebook** is free with a Google account when the PDF is already yours and you need citations from that file. It does not search 138 million papers. The long-file choice is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
+**[Gemini Notebook](/tools/gemini-notebook/)** is free with a Google account when the PDF is already yours and you need citations from that file. It does not search 138 million papers. The long-file choice is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
 
 A cell in an extraction table is a claim. Open the quote Elicit links. A wrong sample size that looks tidy will survive into the slide. The failure mode is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

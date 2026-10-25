@@ -35,7 +35,7 @@ flowchart TD
   deep --> click
 ```
 
-A Deep review is a longer synthesis across many papers, closer to a mini literature review than a one-line answer. Fifteen of those a month is the Pro cap on the card. Two hundred is the Deep cap. If your protocol needs a screening table with columns you define, you are describing Elicit, not a larger Consensus tier.
+A Deep review is a longer synthesis across many papers, closer to a mini literature review than a one-line answer. Fifteen of those a month is the Pro cap on the card. Two hundred is the Deep cap. If your protocol needs a screening table with columns you define, you are describing [Elicit](/tools/elicit/), not a larger Consensus tier.
 
 ## What you are buying
 
@@ -51,9 +51,9 @@ A Deep review is a longer synthesis across many papers, closer to a mini literat
 
 **Elicit Plus is $11 a user a month billed annually** when you need columns, exports, and a screening workflow. Consensus answers a question with papers attached. Elicit builds the table. Pro at Elicit, $39 billed annually, is the systematic-review seat on that card. Use both only when you will use both outputs.
 
-**Perplexity Pro is $17 a month billed annually** when the source is the open web, a market page, or a news report. It is the wrong corpus for "what do randomized trials say," and Consensus is the wrong corpus for a product's pricing page. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). The market-research split is [Perplexity vs Gemini for market research](/blog/perplexity-vs-gemini-for-market-research-2026/).
+**[Perplexity](/tools/perplexity/) Pro is $17 a month billed annually** when the source is the open web, a market page, or a news report. It is the wrong corpus for "what do randomized trials say," and Consensus is the wrong corpus for a product's pricing page. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). The market-research split is [Perplexity vs Gemini for market research](/blog/perplexity-vs-gemini-for-market-research-2026/).
 
-**Gemini Notebook** is free with a Google account when the PDF is already yours. It does not search Consensus's index. The file comparison is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
+**[Gemini Notebook](/tools/gemini-notebook/)** is free with a Google account when the PDF is already yours. It does not search Consensus's index. The file comparison is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
 
 A sentence you will quote needs the passage, not the badge. That check is [what AI groundedness is](/blog/what-is-ai-groundedness-2026/). The failure mode is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

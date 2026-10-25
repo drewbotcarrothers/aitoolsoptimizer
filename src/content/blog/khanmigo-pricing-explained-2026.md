@@ -41,13 +41,13 @@ The product is a Socratic tutor tied to Khan Academy's content: it asks question
 
 Parents get a dashboard: up to 10 children, history, and moderation alerts. Ten children is the recorded cap. An eleventh child is a second account or a district plan, not a toggle this page can promise.
 
-Teachers who only need planning can stay on the free teacher tools. Paying the family price so a teacher can generate a rubric is unnecessary on this card. MagicSchool's free tier is the other individual-teacher path, and Plus there is $8.33 a user a month billed annually, or $12.99 monthly. Brisk Teaching is free for individual teachers, with Premium and Intelligence priced custom. Those are classroom workflow tools. Khanmigo's family row is the learner in the account.
+Teachers who only need planning can stay on the free teacher tools. Paying the family price so a teacher can generate a rubric is unnecessary on this card. [MagicSchool](/tools/magicschool/)'s free tier is the other individual-teacher path, and Plus there is $8.33 a user a month billed annually, or $12.99 monthly. [Brisk Teaching](/tools/brisk-teaching/) is free for individual teachers, with Premium and Intelligence priced custom. Those are classroom workflow tools. Khanmigo's family row is the learner in the account.
 
 ## What it will not replace
 
 **A general assistant.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the homework is outside Khan Academy's approach and you want a general draft. Free exists. A general chatbot will often give the answer Khanmigo is built to withhold. Use it with the academic-integrity rules of the class. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A language course.** Duolingo's prices are not a single sticker on Duolingo's website. Do not compare $4 to a Max price this directory does not treat as official. Read the Duolingo article before you assume Max is the plan that includes speaking practice.
+**A language course.** [Duolingo](/tools/duolingo-max/)'s prices are not a single sticker on Duolingo's website. Do not compare $4 to a Max price this directory does not treat as official. Read the Duolingo article before you assume Max is the plan that includes speaking practice.
 
 **A literature review.** Khanmigo is not [Consensus](/tools/consensus/) or [Elicit](/tools/elicit/). Evidence questions belong on those invoices: [Consensus pricing explained](/blog/consensus-pricing-explained-2026/) and [Elicit pricing explained](/blog/elicit-pricing-explained-2026/).
 

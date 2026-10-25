@@ -44,9 +44,9 @@ Instructions you rely on are still [what a system prompt is](/blog/what-is-a-sys
 
 **A format you repeat.** A custom GPT that knows the release-note headings, the banned words, and two examples will beat a Project you have to re-explain. Paste one finished example. That is [what few-shot prompting is](/blog/what-is-few-shot-prompting-2026/). The release-note steps are [how to write release notes with AI](/blog/how-to-write-release-notes-with-ai-2026/).
 
-**Notes that are the system of record.** A Project is a working set. It is a poor wiki. If the team lives in Notion, the comparison is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/). Notion Business is $20 per seat per month on the October 16 card. ChatGPT Plus is also $20, and it does not become the wiki.
+**Notes that are the system of record.** A Project is a working set. It is a poor wiki. If the team lives in Notion, the AI seat is [Notion AI](/tools/notion-ai/). The comparison is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/). Notion Business is $20 per seat per month on the October 16 card. ChatGPT Plus is also $20, and it does not become the wiki.
 
-**Claude's version of a project.** Anthropic's container is the other column if the writing or the long file is the reason you are here. The side-by-side is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**[Claude](/tools/claude/)'s version of a project.** Anthropic's container is the other column if the writing or the long file is the reason you are here. The side-by-side is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 Business is $20 per user per month billed annually, or $25 monthly, for two or more users, on the October 16 card. Move the Project or the GPT into Business when an admin has to control sharing and data settings. Pro at $100 and up is a usage buy, which the Go-versus-Plus article separates from the feature list.
 

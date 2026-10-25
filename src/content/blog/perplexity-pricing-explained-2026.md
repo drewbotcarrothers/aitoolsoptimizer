@@ -80,7 +80,7 @@ Papers are not this bill. [Consensus](/tools/consensus/) Pro is $12 a month on a
 
 - **Buying Max because a page said unlimited.** The help center still describes weekly and monthly limits on Max, at a higher intensity.
 - **Quoting a monthly price we did not print.** Use the annual figures here, then read monthly at checkout.
-- **Paying for Pro to get a writing partner.** [Claude](/tools/claude/) Pro is $20, or $17 annual, and is the writing seat. See [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+- **Paying for Pro to get a writing partner.** [Claude](/tools/claude/) Pro is $20, or $17 annual, and is the writing seat. See [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). [ChatGPT](/tools/chatgpt/) Plus is $20 for a general chat seat. [Gemini](/tools/gemini/) on Google AI Pro is $19.99. Neither one is this citation bill.
 - **Counting a credit bonus as a permanent allowance.** Read the card's dates.
 - **Using Enterprise Max as a personal upgrade.** $325 a seat is an organization plan. Max at $167 is the personal capacity step, and only after Pro's meter is the constraint.
 

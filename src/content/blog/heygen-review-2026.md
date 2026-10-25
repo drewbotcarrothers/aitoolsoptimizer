@@ -13,7 +13,7 @@ draft: false
 
 Those are monthly list prices in US dollars from HeyGen's pricing page, recorded October 16, 2026. Yearly billing is offered. HeyGen's summary does not publish one universal "minutes per credit" rate, so the credit totals below are allowances, and the minute caps are maximum video length. Checkout, tax, and local currency can differ from the US list price.
 
-The head-to-head with Synthesia is in [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). Generators that invent footage, rather than a presenter, are in [best AI video generators](/blog/best-ai-video-generators-2026/).
+The head-to-head with Synthesia is in [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). Footage you already filmed is [Descript](/tools/descript/), not an avatar. Generators that invent footage, rather than a presenter, are in [best AI video generators](/blog/best-ai-video-generators-2026/).
 
 ## What each plan is allowed to publish
 

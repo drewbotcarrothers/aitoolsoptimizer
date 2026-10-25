@@ -24,7 +24,7 @@ Answer these before you open the product:
 
 > **Figure (consent diagram, not a product screenshot).** **Alt:** Three gates in a row. Permission from the person. Then the plan: instant cloning on lower tiers, Professional Voice Cloning from Creator at $22 a month. Then the license: commercial publish starts at Starter, $6 a month. A blocked path shows a public figure, a client, or a coworker with no agreement.
 
-If the voice is a recording you can simply clean, stop and use [Descript](/tools/descript/). That path is in [ElevenLabs alternatives](/blog/elevenlabs-alternatives-2026/).
+If the voice is a recording you can simply clean, stop and use [Descript](/tools/descript/). If the contract has to quote a price per character, use [Murf AI](/tools/murf-ai/). That path is in [ElevenLabs alternatives](/blog/elevenlabs-alternatives-2026/).
 
 ## What the plans allow you to do
 

@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from Granola's pricing page and help center, recorded October 16, 2026. Billing is per workspace: one seat per active member, and every member is on the same plan. Enterprise is the tier that mentions an annual option. We did not score note quality against a human minute-taker.
 
-The field guide is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Free options that do put a bot in the room are in [best free AI note takers](/blog/best-free-ai-note-takers-2026/).
+The field guide is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Free options that do put a bot in the room are in [best free AI note takers](/blog/best-free-ai-note-takers-2026/). If the accepted note should live in the wiki, the seat is [Notion AI](/tools/notion-ai/).
 
 ## The cliff is the price
 
@@ -93,7 +93,7 @@ Business is $14 per user per month. Enterprise starts at $35 per user per month.
 
 ### Does a bot join the meeting?
 
-No. Granola uses device audio. Participants will not see a Fireflies- or Otter-style guest unless you add one.
+No. Granola uses device audio. Participants will not see a [Fireflies](/tools/fireflies-ai/)- or [Otter](/tools/otter-ai/)-style guest unless you add one.
 
 ### Which devices are supported?
 

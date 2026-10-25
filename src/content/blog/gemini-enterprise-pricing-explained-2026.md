@@ -11,7 +11,7 @@ draft: false
 
 **Gemini Enterprise, on cloud.google.com/gemini-enterprise fetched October 24, 2026, does not print a public seat price.** The page says you can contact Google Cloud sales, or try Gemini Enterprise Plus at no cost for 30 days without sales assistance. That is the business-agent page. It is not Google AI Plus at $4.99 or Google AI Pro at $19.99. Those consumer subscriptions are [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
-A Google Workspace seat that includes Gemini in Gmail is a third bill, with its own figures below. The notebook's enterprise row, which also prints no dollar, is [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/). The Microsoft work seat, when the files are in that suite, is [Microsoft 365 Copilot pricing explained](/blog/microsoft-365-copilot-pricing-explained-2026/).
+A Google Workspace seat that includes Gemini in Gmail is a third bill, with its own figures below. The notebook's enterprise row, which also prints no dollar, is [Gemini Notebook](/tools/gemini-notebook/). The invoice is [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/). The Microsoft work seat, when the files are in that suite, is [Microsoft Copilot](/tools/microsoft-copilot/). The invoice is [Microsoft 365 Copilot pricing explained](/blog/microsoft-365-copilot-pricing-explained-2026/).
 
 Published October 24, 2026. We did not score answers. Some features on the Cloud page are marked early access. A missing dollar is not a price of zero beyond the trial the page names.
 
@@ -44,7 +44,7 @@ The same page says not every feature shown is available now. It names delegating
 
 **A consumer Pro seat** at $19.99 does not become Gemini Enterprise because the user has a work Gmail. The product review of the consumer app is [Gemini review](/blog/gemini-review-2026/).
 
-**ChatGPT Enterprise**, if the other company workspace is the comparison, also has no list price on the plan page fetched the same day. That invoice is [ChatGPT Enterprise pricing explained](/blog/chatgpt-enterprise-pricing-explained-2026/).
+**[ChatGPT](/tools/chatgpt/) Enterprise**, if the other company workspace is the comparison, also has no list price on the plan page fetched the same day. That invoice is [ChatGPT Enterprise pricing explained](/blog/chatgpt-enterprise-pricing-explained-2026/).
 
 ## What not to assume
 

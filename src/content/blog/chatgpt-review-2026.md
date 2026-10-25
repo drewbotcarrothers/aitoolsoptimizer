@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**[ChatGPT](/tools/chatgpt/) is OpenAI's general assistant: chat, files, images, research, and coding tools including Codex, sold as a monthly subscription with a free tier.** The plan ladder is a separate article, [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). This review is whether ChatGPT is the assistant to start with, and which published job each tier is for.
+**[ChatGPT](/tools/chatgpt/) is OpenAI's general assistant: chat, files, images, research, and coding tools including [Codex](/tools/openai-codex/), sold as a monthly subscription with a free tier.** The plan ladder is a separate article, [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). This review is whether ChatGPT is the assistant to start with, and which published job each tier is for.
 
 Prices below are US list prices. The feature matrix was read from OpenAI's plans page on October 24, 2026. Plus at $20 is the price in OpenAI's pricing documentation we checked October 16, 2026, and in the January 16, 2026 Go announcement, which still describes Plus as the $20 plan beside Go. Go at $8 and the line that the plan may include ads are on the current Go help article and on that plans page. Pro at $100, $200, or $500 is on the Pro tiers help article. Tax and regional storefronts can differ. We did not score answer quality.
 

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use the AI that already sits in the file when you have the plan that unlocks it.** In Excel, that is [Microsoft Copilot](/tools/microsoft-copilot/) on a qualifying Microsoft 365 plan. In Google Sheets, that is Gemini on an eligible Google AI or Workspace plan. If you only have the file, upload it to [Julius AI](/tools/julius-ai/), [ChatGPT](/tools/chatgpt/), or [Claude](/tools/claude/) and paste back the formulas you have checked.
+**Use the AI that already sits in the file when you have the plan that unlocks it.** In Excel, that is [Microsoft Copilot](/tools/microsoft-copilot/) on a qualifying Microsoft 365 plan. In Google Sheets, that is [Gemini](/tools/gemini/) on an eligible Google AI or Workspace plan. If you only have the file, upload it to [Julius AI](/tools/julius-ai/), [ChatGPT](/tools/chatgpt/), or [Claude](/tools/claude/) and paste back the formulas you have checked.
 
 This guide separates three jobs that get lumped together: writing a formula, explaining a table, and drafting VBA. Prices are US list prices. Copilot credit limits and Gemini's Sheets behavior were read from Microsoft and Google help pages on October 24, 2026. Subscription dollar prices for Microsoft 365 and Julius were taken from vendor pages on October 16, 2026. Fit labels are published-product fit, not a bake-off score.
 

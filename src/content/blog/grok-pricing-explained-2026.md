@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Grok Plus is $8 a month, or $80 a year. Premium is $30 a month, or $300 a year. Super is $100 a month, or $1,000 a year. Ultra is $200 a month, or $2,000 a year.** Free exists, with limited usage. Those paid plans are The X Subscription, which the directory describes as one subscription across Grok, Cursor, and X. The usage multiples on the card are 4x on Premium, 15x on Super, and 50x on Ultra, relative to Plus. The multiples are a usage label. They are not a quality score.
+**Grok Plus is $8 a month, or $80 a year. Premium is $30 a month, or $300 a year. Super is $100 a month, or $1,000 a year. Ultra is $200 a month, or $2,000 a year.** Free exists, with limited usage. Those paid plans are The X Subscription, which the directory describes as one subscription across Grok, [Cursor](/tools/cursor/), and X. The usage multiples on the card are 4x on Premium, 15x on Super, and 50x on Ultra, relative to Plus. The multiples are a usage label. They are not a quality score.
 
 The product page is [Grok review](/blog/grok-review-2026/). The editor that draws on the same pool is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). A general chat seat that is not this bundle is [ChatGPT review](/blog/chatgpt-review-2026/).
 

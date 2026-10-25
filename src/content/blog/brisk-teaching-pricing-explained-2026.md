@@ -47,11 +47,11 @@ The directory records a 95 percent Common Sense Privacy Rating as Brisk's own re
 
 ## When a published price is the other product
 
-**MagicSchool Plus** is $8.33 per user a month billed annually, or $12.99 billed monthly, for teachers who want that platform's paid individual tier. Free exists there too. The invoice is [MagicSchool pricing explained](/blog/magicschool-pricing-explained-2026/).
+**[MagicSchool](/tools/magicschool/) Plus** is $8.33 per user a month billed annually, or $12.99 billed monthly, for teachers who want that platform's paid individual tier. Free exists there too. The invoice is [MagicSchool pricing explained](/blog/magicschool-pricing-explained-2026/).
 
 **Khanmigo** is free for teachers on its card, and $4 a month or $44 a year for learners and families. That is a tutor tied to Khan Academy, not a Docs extension. Use it when the student is the user. Use Brisk when the teacher is producing materials.
 
-**Quizlet** has a free tier for flashcards. The Plus dollar was not confirmed on the directory card, so this page does not print one. Use it for practice sets, not for a lesson plan inside a Doc.
+**[Quizlet](/tools/quizlet/)** has a free tier for flashcards. The Plus dollar was not confirmed on the directory card, so this page does not print one. Use it for practice sets, not for a lesson plan inside a Doc.
 
 A district that wants both a teacher extension and a student tutor should budget them as two quotes. One pilot does not include the other.
 

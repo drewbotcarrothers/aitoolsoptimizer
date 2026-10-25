@@ -49,7 +49,7 @@ Words from the transcript, a next step you can timestamp, and an owner who was i
 
 **tl;dv** is the path when the workflow you want is the log after the call, and you will read the price in the currency checkout shows. Do not put €29 into a USD spreadsheet as if it were $29.
 
-**Notion Business** at $20 a seat a month, on the October 16 card, is where the accepted note can live if the success plan is already in Notion. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+[Notion AI](/tools/notion-ai/) on Business, at $20 a seat a month on the October 16 card, is where the accepted note can live if the success plan is already in Notion. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
 A prompt that holds the line:
 

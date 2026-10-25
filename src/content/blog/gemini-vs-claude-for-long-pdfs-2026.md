@@ -44,7 +44,7 @@ A number that was not on the page you opened is [a hallucination](/blog/what-is-
 
 **Claude Free** includes file upload and up to five Projects, with usage limits. **Pro is $20 a month, or $17 billed annually.** That is the seat for a week of revision, not a prize for owning a long PDF. **Max at $100 or $200** is 5× or 20× Pro usage. A long file on a quiet week can fit on Pro. Fifty short questions in a day can blow a cap. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
-**ChatGPT Plus at $20** can take a PDF upload too. It is a reasonable third seat if your notes already live there. It is not the citation product this page starts with. The three-way assistant choice is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+**[ChatGPT](/tools/chatgpt/) Plus at $20** can take a PDF upload too. It is a reasonable third seat if your notes already live there. It is not the citation product this page starts with. The three-way assistant choice is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 
 Audio Overviews on Gemini Notebook turn sources into a listenable conversation. Useful for a first pass. Not a substitute for the page a number came from. Treat the audio as a tour. Treat the PDF as the record.
 

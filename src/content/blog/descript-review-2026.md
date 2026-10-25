@@ -37,7 +37,7 @@ The core loop is text. Descript transcribes the recording, including a screen re
 - **Remove Filler Words** and **Remove Retakes** are the bulk edits on a rambling take.
 - **Underlord** is the co-editor. You can ask it to tighten a cut, add captions, or make clips. Hobbyist has access. Creator and above have full access. "Full" is Descript's word for the higher tier. It is not a claim that the cut is finished without you.
 - **Create Clips**, captions, Eye Contact, Green Screen, and multicam are the picture tools.
-- **AI speech and voice clones** exist inside the editor. If you have no recording and you want a synthetic narrator, [ElevenLabs](/tools/elevenlabs/) is the tool built for that. See [ElevenLabs review](/blog/elevenlabs-review-2026/).
+- **AI speech and voice clones** exist inside the editor. If you have no recording and you want a synthetic narrator, [ElevenLabs](/tools/elevenlabs/) is the tool built for that. If you want a presenter on camera, that is [HeyGen](/tools/heygen/). See [ElevenLabs review](/blog/elevenlabs-review-2026/).
 - **Translation and dubbing** in 30+ languages is a Business feature, with proofreading. Transcription in 25 languages is on all plans.
 
 Descript says it is used by a large base of creators and names teams at well-known companies. That is a marketing claim, not a result we reproduced.

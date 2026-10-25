@@ -48,7 +48,7 @@ Students: the October 24 FAQ says students and educators with an education email
 
 The page also says HIPAA-ready dictation can come with a signed BAA, and that Notetaker and Scratchpad are disabled on BAA accounts. If you need the notetaker and a BAA, read that constraint before you buy. This page does not give legal advice.
 
-**Speechify** is the wrong tool if you need text read to you. **Granola** Business at $14 a user a month is the wrong tool if you need dictation into every app, and the right comparison if the job is meeting notes. **Otter** is a meeting bot with a minute cap. Flow's notetaker, on the October 24 page, does not join as a bot.
+**[Speechify](/tools/speechify/)** is the wrong tool if you need text read to you. **[Granola](/tools/granola/)** Business at $14 a user a month is the wrong tool if you need dictation into every app, and the right comparison if the job is meeting notes. **[Otter](/tools/otter-ai/)** is a meeting bot with a minute cap. Flow's notetaker, on the October 24 page, does not join as a bot.
 
 ## What not to assume
 

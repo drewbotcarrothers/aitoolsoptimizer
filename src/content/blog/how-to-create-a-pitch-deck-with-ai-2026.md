@@ -11,7 +11,7 @@ draft: false
 
 **A pitch deck made with AI is a slide pass over a memo you already believe: problem, what you do, the proof, the ask.** The model can turn that memo into cards. It cannot know your revenue, your runway, or the round. If a number is not in the memo, it does not go on a slide. Investors will ask, and "the tool wrote it" is not an answer.
 
-Pick the slide tool after the narrative is stable. Switching from Gamma to Beautiful.ai will not repair a missing proof point. The format choice is [Gamma vs Beautiful.ai vs Plus AI](/blog/gamma-vs-beautiful-ai-vs-plus-ai-2026/). The shelf is [best AI presentation makers](/blog/best-ai-presentation-makers/). The credit math is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/).
+Pick the slide tool after the narrative is stable. Switching from Gamma to [Beautiful.ai](/tools/beautiful-ai/) will not repair a missing proof point. The format choice is [Gamma vs Beautiful.ai vs Plus AI](/blog/gamma-vs-beautiful-ai-vs-plus-ai-2026/). The shelf is [best AI presentation makers](/blog/best-ai-presentation-makers/). The credit math is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score decks or fundraising outcomes.
 
@@ -45,7 +45,7 @@ A market slide without a source is the usual failure. Delete it. A smaller deck 
 
 **Gamma, when the deliverable is a card deck.** Plus is $9 a seat a month, or $108 a year, with 1,000 credits. Pro at $18 adds the API and 4,000 credits. Paste the memo. Edit the outline before you generate cards. Regenerating to discover the story spends the month. The alternatives, if the format is wrong, are [Gamma alternatives](/blog/gamma-alternatives-2026/).
 
-**Plus AI, when the file has to be PowerPoint or Google Slides.** Basic is $10 per user per month billed annually for 1,500 credits. The trial is seven days. Use it because of the file, not because the model is a different storyteller.
+**[Plus AI](/tools/plus-ai/), when the file has to be PowerPoint or Google Slides.** Basic is $10 per user per month billed annually for 1,500 credits. The trial is seven days. Use it because of the file, not because the model is a different storyteller.
 
 **Beautiful.ai, when you want a designed system and you will use the trial.** Pro is $14.50 a month billed annually, or $45 monthly. There is no free plan. The invoice is [Beautiful.ai pricing explained](/blog/beautiful-ai-pricing-explained-2026/). Fourteen days is the evaluation.
 

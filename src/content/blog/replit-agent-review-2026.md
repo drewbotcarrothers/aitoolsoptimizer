@@ -61,7 +61,7 @@ Do not quote a Core price from memory, from an ad, or from this article. Open [R
 ## Where it is the wrong shape
 
 - You will not read code, and you want the cheapest confirmed monthly price. Price Lovable or Bolt first, because their entry paid prices were published.
-- The app already lives in a git repo on your laptop. Use Cursor or Claude Code. Agent's advantage is the hosted environment, not a better diff.
+- The app already lives in a git repo on your laptop. Use [Cursor](/tools/cursor/) or [Claude Code](/tools/claude-code/). Agent's advantage is the hosted environment, not a better diff.
 - You need a native mobile app, a compliance review, or a stable production database with an owner. A generated MVP is a start. It is not that system.
 - You want an unattended business process. That is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/), not an app builder.
 

@@ -11,7 +11,7 @@ draft: false
 
 **[Perplexity](/tools/perplexity/) is an answer engine that searches, writes a short answer, and attaches citations you are supposed to open.** That habit is the product. Pro at $17/month billed annually adds higher limits, model choice, files, and Perplexity Computer. The question of whether those extras are worth $17 is a different article: [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/). This one is how to use the desk you already have.
 
-Annual prices and the help-center limits below were read October 24, 2026 for that companion piece. We did not score answer accuracy against ChatGPT or Gemini. A citation is a link. It is not a fact until you open it.
+Annual prices and the help-center limits below were read October 24, 2026 for that companion piece. We did not score answer accuracy against ChatGPT or [Gemini](/tools/gemini/). A citation is a link. It is not a fact until you open it.
 
 ## The workflow, before the upgrade
 

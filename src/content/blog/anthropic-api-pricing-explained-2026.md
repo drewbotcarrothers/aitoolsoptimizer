@@ -11,7 +11,7 @@ draft: false
 
 **The Anthropic API bills tokens and a few tool meters. It does not bill a Claude seat.** On the Claude Platform pricing page fetched October 24, 2026, at platform.claude.com/docs/en/about-claude/pricing, base prices per million tokens include Claude Fable 5.1 at $10 input and $50 output, Claude Opus 5.5 at $4 and $20, and Claude Sonnet 5.5 at $2 and $10. Claude Haiku 5.5 is $0.10 input and $0.50 output for prompts up to 100,000 tokens. The page says all prices are USD. The product link for the chat side of the company is [Claude](/tools/claude/).
 
-A Claude subscription is the other product. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing the same day. The seat ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/). A neighboring token bill is [OpenAI API pricing explained](/blog/openai-api-pricing-explained-2026/). The idea of a key in front of a product is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/).
+A Claude subscription is the other product. The terminal agent on that seat is [Claude Code](/tools/claude-code/). Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing the same day. The seat ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/). A neighboring token bill is [OpenAI API pricing explained](/blog/openai-api-pricing-explained-2026/). The chat seat on that side is [ChatGPT](/tools/chatgpt/). The idea of a key in front of a product is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/).
 
 Published October 24, 2026. We did not run a bill. Prices below are the ones on that platform page. The directory has no separate Anthropic API card.
 

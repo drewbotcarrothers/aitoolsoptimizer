@@ -31,7 +31,7 @@ Extra Fast GPU time is $4/hour on every plan. Rating images can earn free GPU ti
 
 > **Figure (plan diagram, not a product screenshot).** **Alt:** Basic is a small Fast-time bucket and public images. Standard adds unlimited Relax images. Pro adds Stealth and is the minimum for companies over $1 million in gross revenue. Mega adds Fast hours. A side note marks V8 alpha: some heavier settings run slower, and Relax is not available on that alpha yet.
 
-How to spend the first month is [Midjourney for beginners](/blog/midjourney-for-beginners-2026/). If the picture needs readable words, an Adobe file, or no subscription, leave via [Midjourney alternatives](/blog/midjourney-alternatives-2026/). The wider start-here guide is [AI image generators for beginners](/blog/ai-image-generators-beginners-guide/).
+How to spend the first month is [Midjourney for beginners](/blog/midjourney-for-beginners-2026/). If the picture needs readable words, start with [Ideogram](/tools/ideogram/). If it has to land in an Adobe file, use [Adobe Firefly](/tools/adobe-firefly/). A model you can call without this subscription is [FLUX](/tools/flux/) or [Leonardo.Ai](/tools/leonardo-ai/). [ChatGPT Images](/tools/dall-e/) stays on a ChatGPT seat. [Krea](/tools/krea/) is the canvas when you want to steer the picture. The roundup is [Midjourney alternatives](/blog/midjourney-alternatives-2026/). The wider start-here guide is [AI image generators for beginners](/blog/ai-image-generators-beginners-guide/).
 
 ## What the dollars are for
 

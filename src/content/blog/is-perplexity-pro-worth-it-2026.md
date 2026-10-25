@@ -11,7 +11,7 @@ draft: false
 
 **Perplexity Pro is worth $17 a month, billed annually, if you already use Perplexity most days and the free caps are what stop the work.** Free is a real product: basic search with citations, and a small daily allowance of stronger searches. Max at $167 a month billed annually is a capacity plan for Computer and research, not the plan you buy to "try citations."
 
-The $17 and $167 annual prices were on Perplexity's pricing pages on October 24, 2026. The limit table is from Perplexity's help-center plan comparison, read the same day. Monthly prices were higher on the page and were not a single number we could quote cleanly, so this article uses the annual figures only. We did not score answer quality against ChatGPT or Gemini. Citations still have to be opened.
+The $17 and $167 annual prices were on Perplexity's pricing pages on October 24, 2026. The limit table is from Perplexity's help-center plan comparison, read the same day. Monthly prices were higher on the page and were not a single number we could quote cleanly, so this article uses the annual figures only. We did not score answer quality against ChatGPT or [Gemini](/tools/gemini/). Citations still have to be opened.
 
 ## What each plan is for
 

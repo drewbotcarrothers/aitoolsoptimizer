@@ -45,7 +45,7 @@ The FAQ on that page says each paid plan includes a usage allowance that refresh
 
 One full developer seat on Teams is not $40. It is $40 plus a share of the $80 base. Two full seats are $80 + $80 = $160 a month. Ten full seats are $80 + $400 = $480 a month. The page caps the plan at 200 users. Enterprise is the row past what that plan states, and it has no public price here.
 
-Do not compare a Teams seat to Cursor Plus at $8, or to Copilot Pro at $10, as if the products were the same meter. Cursor's new individual plans and Copilot's credit packs are different invoices. Compare them on the job: an editor with Tab and one agent, versus a command center the directory describes as dispatching Devin and other agents. The dollar is comparable. The quota is not, until both vendors print a number.
+Do not compare a Teams seat to [Cursor](/tools/cursor/) Plus at $8, or to [GitHub Copilot](/tools/github-copilot/) Pro at $10, as if the products were the same meter. Cursor's new individual plans and Copilot's credit packs are different invoices. Compare them on the job: an editor with Tab and one agent, versus a command center the directory describes as dispatching Devin and other agents. The dollar is comparable. The quota is not, until both vendors print a number. A terminal agent on a Claude plan is [Claude Code](/tools/claude-code/), a third meter.
 
 ## What not to assume
 

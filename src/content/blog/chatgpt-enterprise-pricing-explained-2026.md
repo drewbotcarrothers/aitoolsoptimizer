@@ -40,11 +40,11 @@ Business, on this fetch, is the workspace with a secure dedicated space, SAML SS
 
 ## What sits next to Enterprise
 
-**Business Premium and Dots.** The Dots page read October 24 lists Enterprise among the plans where dots roll out, off until an admin enables them. That page did not print an Enterprise seat price either. The invoice is [OpenAI Dots pricing explained](/blog/openai-dots-pricing-explained-2026/).
+**Business Premium and [Dots](/tools/openai-dots/).** The Dots page read October 24 lists Enterprise among the plans where dots roll out, off until an admin enables them. That page did not print an Enterprise seat price either. The invoice is [OpenAI Dots pricing explained](/blog/openai-dots-pricing-explained-2026/).
 
-**Claude Enterprise**, if you are comparing the other assistant's company plan, is priced on claude.com/pricing the same day at $20 a seat a month plus usage at API rates, billed annually. That is Anthropic's sticker, not a ChatGPT number. The invoice is [Claude Enterprise pricing explained](/blog/claude-enterprise-pricing-explained-2026/).
+**[Claude](/tools/claude/) Enterprise**, if you are comparing the other assistant's company plan, is priced on claude.com/pricing the same day at $20 a seat a month plus usage at API rates, billed annually. That is Anthropic's sticker, not a ChatGPT number. The invoice is [Claude Enterprise pricing explained](/blog/claude-enterprise-pricing-explained-2026/).
 
-**Notion Enterprise** is a sales conversation on the October 16 card. Notion Business, the priced AI seat, is $20 a seat a month. That $20 is a wiki. It is not ChatGPT Enterprise. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+The wiki product is [Notion AI](/tools/notion-ai/). **Notion Enterprise** is a sales conversation on the October 16 card. Notion Business, the priced AI seat, is $20 a seat a month. That $20 is a wiki. It is not ChatGPT Enterprise. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
 ## What not to assume
 

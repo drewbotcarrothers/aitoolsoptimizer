@@ -36,15 +36,15 @@ flowchart TD
 
 The FAQ on that page says Claude Code is included in all paid plans and that terminal work and chats share limits. It says there is no fixed message count. When you hit a limit you can wait, move up, or turn on usage credits at standard API rates. It also says you can switch heavy coding to pay-as-you-go API credits through a Console account. Those API rates are a second bill. Do not add a token price to the Pro seat and call the sum "Claude Code."
 
-The Max columns list monthly API credits of $100 and $200. The Claude pricing article, from the same day's page, says those credits are for the Claude Platform and are not a second copy of the seat price. This article treats them the same way. If checkout shows a different Max dollar, checkout wins.
+The Max columns list monthly API credits of $100 and $200. The [Claude](/tools/claude/) pricing article, from the same day's page, says those credits are for the Claude Platform and are not a second copy of the seat price. This article treats them the same way. If checkout shows a different Max dollar, checkout wins.
 
 ## Team dollars, and two meters that are not the seat
 
 **Team seat prices.** This fetch's Team cards named the 2-to-150 range and listed Claude Code as included. They did not reprint a standard or premium dollar in the markdown we saved. [Claude pricing explained](/blog/claude-pricing-explained-2026/) recorded, from claude.com/pricing on October 24, 2026, standard seats at $20 a seat a month billed annually or $25 monthly, and premium seats at $100 annually or $125 monthly. Cite that article's date, then read checkout. A premium seat is not required by the compare table's Claude Code row. The row is Yes on Team generally.
 
-**Cursor**, if you want a different editor, is Plus at $8 a month or $80 a year on the October 16 directory card. That is not a Claude Code discount. The migration choice is [Cursor vs Claude Code for migrations](/blog/cursor-vs-claude-code-for-migrations-2026/).
+**[Cursor](/tools/cursor/)**, if you want a different editor, is Plus at $8 a month or $80 a year on the October 16 directory card. That is not a Claude Code discount. The migration choice is [Cursor vs Claude Code for migrations](/blog/cursor-vs-claude-code-for-migrations-2026/).
 
-**GitHub Copilot** Pro is $10 a user a month on that card. Business is $19. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+**[GitHub Copilot](/tools/github-copilot/)** Pro is $10 a user a month on that card. Business is $19. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 
 **Platform meters** on the same Claude page, which are not the Claude Code subscription: Managed Agents at $0.08 per session-hour for active runtime, and code execution at $0.05 per hour per container after the free hours the page describes. Do not put those rates on a Pro invoice unless you are buying those platform features.
 

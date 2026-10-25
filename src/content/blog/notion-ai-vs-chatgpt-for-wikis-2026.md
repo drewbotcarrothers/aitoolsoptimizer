@@ -37,7 +37,7 @@ flowchart TD
   conflict -->|No| keep["The page stays. The chat does not"]
 ```
 
-Notion Enterprise is a sales conversation. ChatGPT Pro starts at $100. A wiki page does not need Pro. Claude Pro at $20 a month, or $17 billed annually, is the drafting seat when the source is a long file and Notion is only where you paste the result. Do not pay for three drafters and zero owners.
+Notion Enterprise is a sales conversation. ChatGPT Pro starts at $100. A wiki page does not need Pro. [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually, is the drafting seat when the source is a long file and Notion is only where you paste the result. Do not pay for three drafters and zero owners.
 
 ## What the page should contain
 

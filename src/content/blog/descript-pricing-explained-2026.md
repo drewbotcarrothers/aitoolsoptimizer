@@ -49,7 +49,7 @@ AI credits spend on tools such as Studio Sound, filler-word removal, and clips. 
 
 **A person learning the transcript edit.** Free. One hour is enough for a short episode or a meeting excerpt. It is not a weekly hour-long raw tape.
 
-**A podcaster publishing 1080p.** Hobbyist. The watermark comes off here. Annual at $16 is the price once the second episode ships. Monthly at $24 is the price while you are still deciding. The timeline-editor comparison is [Descript vs CapCut](/blog/descript-vs-capcut-2026/).
+**A podcaster publishing 1080p.** Hobbyist. The watermark comes off here. Annual at $16 is the price once the second episode ships. Monthly at $24 is the price while you are still deciding. The timeline editor for a short you will caption and post is [CapCut](/tools/capcut/). The comparison is [Descript vs CapCut](/blog/descript-vs-capcut-2026/).
 
 **A YouTuber who needs 4K, or anyone importing more than 10 hours.** Creator at $24 annual. Top-ups exist on this tier. Price them after a heavy month, not before.
 

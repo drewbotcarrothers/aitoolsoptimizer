@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use [Cursor](/tools/cursor/) if you want an editor with autocomplete and agents, especially at the new $8 Plus price. Use [Claude Code](/tools/claude-code/) if you want a terminal-and-IDE agent and you are already going to pay for Claude. Use [Codex](/tools/openai-codex/) if you are already going to pay for ChatGPT and the coding should live in that subscription.** Add [GitHub Copilot](/tools/github-copilot/) Pro at $10 when the only missing piece is GitHub-native completions and a cloud agent.
+**Use [Cursor](/tools/cursor/) if you want an editor with autocomplete and agents, especially at the new $8 Plus price. Use [Claude Code](/tools/claude-code/) if you want a terminal-and-IDE agent and you are already going to pay for Claude. Use [Codex](/tools/openai-codex/) if you are already going to pay for [ChatGPT](/tools/chatgpt/) and the coding should live in that subscription.** Add [GitHub Copilot](/tools/github-copilot/) Pro at $10 when the only missing piece is GitHub-native completions and a cloud agent.
 
 These are documented product differences, last verified October 16, 2026. We did not run a benchmark, and we do not publish a “coding score.” The table uses Strong / Partial / Limited for scope, not for bug-fixing quality.
 

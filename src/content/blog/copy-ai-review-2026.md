@@ -11,7 +11,7 @@ draft: false
 
 **[Copy.ai](/tools/copy-ai/) is a go-to-market platform with two prices that should not be compared as if they were one product.** Chat is $29 a month, or $24 a month billed annually ($288 a year), and it includes five seats. Growth, the first workflow plan, is $1,000 a month billed annually. Buying Chat does not put you on the path to "try workflows cheaply."
 
-Those figures were read from Copy.ai's pricing page on October 24, 2026. The workflow plans are shown as annual totals. The page did not list a permanent free plan. Prices are in US dollars. We did not score copy against Jasper or ChatGPT. The writing shelf is [best AI writing assistants](/blog/best-ai-writing-assistants/).
+Those figures were read from Copy.ai's pricing page on October 24, 2026. The workflow plans are shown as annual totals. The page did not list a permanent free plan. Prices are in US dollars. We did not score copy against [Jasper](/tools/jasper/) or ChatGPT. The writing shelf is [best AI writing assistants](/blog/best-ai-writing-assistants/).
 
 ## Two products on one pricing page
 

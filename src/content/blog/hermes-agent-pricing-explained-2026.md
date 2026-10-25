@@ -39,9 +39,9 @@ OpenClaw's directory record is the same shape: free MIT software, no hosted tier
 
 ## What a priced seat looks like instead
 
-**Claude Pro** is $20 a month, or $17 billed annually, and the directory says Claude Code is included. That is a published seat. It is not Hermes. If you wanted a terminal agent and a price you can put on a slide without an asterisk, read [Claude review](/blog/claude-review-2026/) and price Pro. Max starts at $100 a month.
+**[Claude](/tools/claude/) Pro** is $20 a month, or $17 billed annually, and the directory says Claude Code is included. That is a published seat. It is not Hermes. If you wanted a terminal agent and a price you can put on a slide without an asterisk, read [Claude review](/blog/claude-review-2026/) and price Pro. Max starts at $100 a month.
 
-**Cursor Plus** is $8 a month, or $80 a year, when the work is a repository you review. Hermes can touch a repo, on the directory's use cases. Cursor is the editor with a sticker. Do not add both on day one and call the sum "the agent budget" without saying which one is allowed to merge.
+**[Cursor](/tools/cursor/) Plus** is $8 a month, or $80 a year, when the work is a repository you review. Hermes can touch a repo, on the directory's use cases. Cursor is the editor with a sticker. Do not add both on day one and call the sum "the agent budget" without saying which one is allowed to merge.
 
 **Zapier Professional** is $19.99 a month billed annually when the job is a no-code workflow between apps you already use. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/). Hermes is a self-hosted agent. Zapier is a workflow product. The directory lists both as alternatives for different readers.
 

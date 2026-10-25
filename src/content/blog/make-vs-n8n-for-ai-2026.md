@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Make when a visual scenario should branch and you want a USD credit price you can read. Use n8n when a developer will own the workflow, especially if you can self-host, because one execution can contain many AI steps.** Zapier is the third product, for a non-technical owner who wants the common apps this week. That three-way, including the AI step, is already [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). This page is the two-way decision after Zapier is off the table.
+**Use Make when a visual scenario should branch and you want a USD credit price you can read. Use n8n when a developer will own the workflow, especially if you can self-host, because one execution can contain many AI steps.** [Zapier](/tools/zapier/) is the third product, for a non-technical owner who wants the common apps this week. That three-way, including the AI step, is already [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). This page is the two-way decision after Zapier is off the table.
 
 The how-to for the drawn path is [how to automate work with Zapier and Make](/blog/how-to-automate-work-with-zapier-and-make/). The split between a diagram and an agent is [AI orchestration vs automation](/blog/what-is-ai-orchestration-vs-automation-2026/).
 

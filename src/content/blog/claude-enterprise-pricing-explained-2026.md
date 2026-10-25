@@ -38,7 +38,7 @@ A same-day reading recorded in the Claude pricing article states a 20-seat minim
 
 The $20 is not the whole bill. Usage is billed at API rates, so the model and the task change the invoice. Team's "up to $500 a month" pooled API credits are on the Team row. The Enterprise columns on this fetch say no on that credit row. Do not carry the $500 onto an Enterprise order.
 
-Claude Code is Yes on both Enterprise columns. The page says Claude Code shares the plan's usage with chat. An Enterprise seat does not mint a separate unlimited coding pool. The coding article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+[Claude Code](/tools/claude-code/) is Yes on both Enterprise columns. The page says Claude Code shares the plan's usage with chat. An Enterprise seat does not mint a separate unlimited coding pool. The coding article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
 
 ## What you are not buying
 
@@ -46,9 +46,9 @@ Claude Code is Yes on both Enterprise columns. The page says Claude Code shares 
 
 **Team premium as a substitute for SCIM.** Premium is $100 a seat a month billed annually, or $125 monthly, and the Team page says it is 5x the usage of a standard seat. The Team column still marks SCIM, audit logs, and custom data retention as no. Usage and SCIM are different purchases.
 
-**ChatGPT Enterprise,** if the other workspace is the comparison, has no list price in the section we read on October 24. The invoice is [ChatGPT Enterprise pricing explained](/blog/chatgpt-enterprise-pricing-explained-2026/).
+**[ChatGPT](/tools/chatgpt/) Enterprise,** if the other workspace is the comparison, has no list price in the section we read on October 24. The invoice is [ChatGPT Enterprise pricing explained](/blog/chatgpt-enterprise-pricing-explained-2026/).
 
-**Cursor**, if the work is an editor seat, is a different company. Plus is $8 a month or $80 a year on the October 16 directory card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
+**[Cursor](/tools/cursor/)**, if the work is an editor seat, is a different company. Plus is $8 a month or $80 a year on the October 16 directory card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
 ## What not to assume
 

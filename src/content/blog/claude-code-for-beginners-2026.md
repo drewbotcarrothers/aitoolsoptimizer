@@ -52,6 +52,8 @@ Self-hosted environments are a public beta for sessions that must stay on your n
 
 ## When Claude Code is the wrong first tool
 
+If you do not want to review a diff, start in [Lovable](/tools/lovable/) and move here when you outgrow it.
+
 | You are | Start somewhere else |
 |---|---|
 | You want autocomplete in an editor at $8 | [Cursor](/tools/cursor/) Plus. See [Cursor review](/blog/cursor-review-2026/) |

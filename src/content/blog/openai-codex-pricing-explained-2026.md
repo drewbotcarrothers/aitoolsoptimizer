@@ -11,7 +11,7 @@ draft: false
 
 **Codex is included with ChatGPT plans: Free at $0, Go at $8 a month, Plus at $20 a month, and Pro at $100, $200, or $500 a month.** Business is $25 per user per month when billed monthly, for workspaces of 2 or more users, on the October 24, 2026 docs page. That page says Business is billed annually for those workspaces and does not print the annual per-user dollar in the text we captured. The directory page checked October 16, 2026 recorded the annual figure as $20 per user per month. Quote the annual checkout line, not a blend of the two dates.
 
-The buying choice against the other coding agents is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). A local bugfix, which may not need Codex, is [Cursor vs Claude Code for bugfixes](/blog/cursor-vs-claude-code-for-bugfixes-2026/). Claude Code's seat is [Claude Code review](/blog/claude-code-review-2026/).
+The buying choice against the other coding agents is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). A local bugfix, which may not need Codex, is [Cursor vs Claude Code for bugfixes](/blog/cursor-vs-claude-code-for-bugfixes-2026/). [Claude Code](/tools/claude-code/)'s seat is [Claude Code review](/blog/claude-code-review-2026/).
 
 Published October 24, 2026. Prices below are US list prices from learn.chatgpt.com/docs/pricing on that date, except the annual Business dollar, which is marked as the October 16 directory record. We did not score pull requests.
 
@@ -46,7 +46,7 @@ The docs page still describes GPT-5.5 retiring from Codex with ChatGPT sign-in o
 
 An API key does not include cloud review, Slack, or the other cloud features the table marks off. Credit rates per million tokens are on the same docs page. They are not the subscription price, and this article does not copy that rate card. The vendor's own example says a typical GPT-5.6 Sol task may use 2 to 15 credits. That is their example, not a measurement we ran.
 
-**Claude Code** comes with Claude Pro at $20 a month, or $17 billed annually, on the directory card checked October 16. It is a different subscription. The review is linked above. **Cursor** Plus is $8 a month, or $80 a year, when the fix should stay in an editor you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). **GitHub Copilot** Pro is $10 a user a month for completions in GitHub's surfaces. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+**Claude Code** comes with Claude Pro at $20 a month, or $17 billed annually, on the directory card checked October 16. It is a different subscription. The review is linked above. **[Cursor](/tools/cursor/)** Plus is $8 a month, or $80 a year, when the fix should stay in an editor you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). **[GitHub Copilot](/tools/github-copilot/)** Pro is $10 a user a month for completions in GitHub's surfaces. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 
 ## What not to assume
 

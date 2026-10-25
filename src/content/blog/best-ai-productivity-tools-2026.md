@@ -13,7 +13,7 @@ draft: false
 
 Prices are US list prices checked October 16, 2026. Motion's annual discount is stated as a percent, not as a second list price, so this page does not invent the yearly dollar total. Fit labels describe the job the vendor sells. They are not a productivity score.
 
-Meeting bots are a different category. Use [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/) for Otter, Fireflies, Fathom, and Granola. The general assistant decision is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+Meeting bots are a different category. Use [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/) for Otter, Fireflies, Fathom, and [Granola](/tools/granola/). The general assistant decision is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
 ## One bottleneck, one tool
 

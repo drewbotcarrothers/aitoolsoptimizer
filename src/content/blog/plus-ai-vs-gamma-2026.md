@@ -11,7 +11,7 @@ draft: false
 
 **Use Plus AI when the working copy has to be a Google Slides or PowerPoint file the client already opens. Use Gamma when a link, a doc, or a one-page site is an acceptable deliverable.** Both meter credits. The $9 and $10 stickers are close. The file is not.
 
-The three-way that also includes Beautiful.ai is [Gamma vs Beautiful.ai vs Plus AI](/blog/gamma-vs-beautiful-ai-vs-plus-ai-2026/). This page leaves Beautiful.ai as a neighbor: Smart Slides and a PowerPoint export, with unlimited AI generation on paid seats, at $14.50 a month billed annually or $45 month to month. If that guardrail editor is the real question, read the three-way. This page is the add-in versus the card deck.
+The three-way that also includes [Beautiful.ai](/tools/beautiful-ai/) is [Gamma vs Beautiful.ai vs Plus AI](/blog/gamma-vs-beautiful-ai-vs-plus-ai-2026/). This page leaves Beautiful.ai as a neighbor: Smart Slides and a PowerPoint export, with unlimited AI generation on paid seats, at $14.50 a month billed annually or $45 month to month. If that guardrail editor is the real question, read the three-way. This page is the add-in versus the card deck.
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score slide design.
 
