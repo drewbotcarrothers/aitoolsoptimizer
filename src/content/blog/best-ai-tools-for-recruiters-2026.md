@@ -40,7 +40,7 @@ Interview capture is [Granola vs Fathom](/blog/granola-vs-fathom-2026/). The bot
 
 ## The req and the scorecard
 
-Paste the hiring manager's notes: level, must-have skills, what the team will not trade away. Ask Claude or ChatGPT for a job post and a scorecard that use only those notes. Delete any requirement the manager did not ask for. Models add degrees and years because job posts in the training data did. That is how a role gets narrower than the team intended.
+Paste the hiring manager's notes: level, must-have skills, what the team will not trade away. Ask Claude or ChatGPT for a job post and a scorecard that use only those notes. Delete any requirement the manager did not ask for. Models add degrees and years because job posts in the training data did. That is how a role gets narrower than the team intended. One posting from a signed requirements list, versus several roles that must share the same must-have sentences, is [ChatGPT vs Claude for job descriptions](/blog/chatgpt-vs-claude-for-job-descriptions-2026/).
 
 The editing standard is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). Grammarly is the surface pass. Free covers grammar. Pro is the tone and rewrite seat. Whether Pro is worth $12 annual is [is Grammarly Pro worth it](/blog/is-grammarly-pro-worth-it-2026/).
 

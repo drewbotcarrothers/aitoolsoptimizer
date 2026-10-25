@@ -69,6 +69,8 @@ That makes Plus the first ChatGPT plan to treat as an Office companion. Go is a 
 
 Neither assistant is a substitute for cell references you understand. Ask it to return the formula and a one-sentence explanation of each range. Then type or insert that formula yourself so you can see it calculate.
 
+The person who drafts a pipeline diff and a schema contract, rather than a formula in a cell, is [best AI tools for data engineers](/blog/best-ai-tools-for-data-engineers-2026/).
+
 ## Julius, when you want an answer more than a workbook
 
 [Julius AI](/tools/julius-ai/) is a chat workspace for files. Free includes a daily credit allowance. Plus is $20/month or $16/month billed annually, with 2,000 monthly credits, 100 daily refresh credits on paid plans, and 16 GB of RAM. Pro is $45/month or $37 annually, with 5,000 credits. Business is $450/month or $375 annually and adds database connectors.

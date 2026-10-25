@@ -11,7 +11,7 @@ draft: false
 
 **A brand team should use AI to apply a voice and a visual system you already wrote down, then export a file the rest of the company can edit.** The model can draft in that voice. It cannot invent the voice, the logo, or a claim about the product. This page is one tool per job. The marketer's shelf is [best AI tools for marketers](/blog/best-ai-tools-for-marketers-2026/). The designer's shelf is [best AI tools for designers](/blog/best-ai-tools-for-designers-2026/).
 
-The writing rules are [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/). The broader style sheet is [how to create a style guide with AI](/blog/how-to-create-a-style-guide-with-ai-2026/). The image pair, when the words have to render, is [Midjourney vs Ideogram](/blog/midjourney-vs-ideogram-2026/).
+The writing rules are [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/). The broader style sheet is [how to create a style guide with AI](/blog/how-to-create-a-style-guide-with-ai-2026/). The image pair, when the words have to render, is [Midjourney vs Ideogram](/blog/midjourney-vs-ideogram-2026/). The person who tracks the request and the asset status, and does not invent the logo, is [best AI tools for brand ops](/blog/best-ai-tools-for-brand-ops-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score brand consistency.
 

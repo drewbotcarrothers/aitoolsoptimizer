@@ -47,6 +47,8 @@ The category hub is [productivity and notes](/tools/category/productivity-notes/
 
 Do not migrate to Notion or ClickUp so you can buy the AI. Move the work only if you were going to move it anyway. The AI on an empty workspace has nothing to search.
 
+An executive assistant drafting a pre-meeting brief from facts they already have, and not a commitment the executive did not make, is [best AI tools for executive assistants](/blog/best-ai-tools-for-executive-assistants-2026/). OKRs that already live on the Notion page, versus a quarter you format in chat first, are [Notion AI vs ChatGPT for OKRs](/blog/notion-ai-vs-chatgpt-for-okrs-2026/).
+
 ## Calendars
 
 **Reclaim** works on Google Calendar and Outlook. Lite is free, with no card, and includes 5 AI agents, Focus Time, scheduling links, and a short list of integrations. Starter is $10 per seat per month with 10 agents per seat. Business is $15 per seat per month with 100 agents per seat. Everyone gets a 14-day Business trial, then Lite if you do not upgrade. Yearly billing saves 20%. At that rate, Business is $12 per seat per month across the year, which is $144 a year, if the 20% applies to the $15 list. Confirm the yearly total. Reclaim is the right buy when the calendar you have is fine and the missing piece is protected time.

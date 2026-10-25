@@ -79,6 +79,8 @@ Seats multiply. Five Ideogram Team users are $20/user/month on yearly billing, w
 - A beginner's prompt course as a substitute for the license line. The prompting guide is useful on day one. The invoice is this page.
 - Any quality ranking you see quoted without a method. We do not have one.
 
+A simple symbol sketch versus a Firefly file inside Adobe is [Midjourney vs Adobe Firefly for brand icons](/blog/midjourney-vs-adobe-firefly-for-brand-icons-2026/). A set of stylized ad variants on Fast GPU time versus a Leonardo token plan is [Midjourney vs Leonardo for ad variants](/blog/midjourney-vs-leonardo-for-ad-variants-2026/).
+
 ## FAQ
 
 ### What is the best AI image generator in 2026?

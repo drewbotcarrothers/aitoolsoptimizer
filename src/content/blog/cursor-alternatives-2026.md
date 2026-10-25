@@ -43,11 +43,11 @@ The three-way among Cursor, Claude Code, and Codex is [Cursor vs Claude Code vs 
 
 **GitHub Copilot** is the alternative when the repository, the pull requests, and the editor extension are the point. Pro at $10 is the individual plan. Pro+ is $39 with $70 of monthly credits. Business is $19 a user with pooled credits. The credit story is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/). Copilot does not require The X Subscription. If you are paying for Cursor only to get completions, price Copilot Pro before Premium.
 
-**Claude Code** ships with Claude Pro and Max. There is no separate Claude Code seat on the directory page. Pro is the short-sprint plan. Max 5x at $100 is the everyday larger-codebase plan, and it includes $100 a month of API credits. If you already pay for Claude, this is the alternative that does not add a second vendor.
+**Claude Code** ships with Claude Pro and Max. There is no separate Claude Code seat on the directory page. Pro is the short-sprint plan. Max 5x at $100 is the everyday larger-codebase plan, and it includes $100 a month of API credits. If you already pay for Claude, this is the alternative that does not add a second vendor. A new script drafted in chat and copied in after a person reads it, versus a diff in the repo you have open, is [Claude vs Cursor for scripts](/blog/claude-vs-cursor-for-scripts-2026/).
 
 **Codex** shares ChatGPT's plan. Plus at $20 covers the web, CLI, and IDE surfaces on the directory page. Pro at $100, $200, or $500 removes the five-hour limit described there, with Ultrafast on the $500 tier. Free is for quick tasks. If you already pay for Plus, try Codex before you add Cursor Premium.
 
-**Devin Desktop** is the former Windsurf editor, now a command center for Devin and other agents. Pro is $20 a month. Teams is $80 a month plus $40 a month per full developer seat. Use it when you are dispatching more than one agent and want a board. A solo autocomplete habit does not need that board. The directory records a vendor note about token efficiency. This page does not repeat it as a measurement.
+**Devin Desktop** is the former Windsurf editor, now a command center for Devin and other agents. Pro is $20 a month. Teams is $80 a month plus $40 a month per full developer seat. Use it when you are dispatching more than one agent and want a board. A solo autocomplete habit does not need that board. The directory records a vendor note about token efficiency. This page does not repeat it as a measurement. The team-seat choice between Cursor and that desktop is [Cursor vs Windsurf for teams](/blog/cursor-vs-windsurf-for-teams-2026/).
 
 ## When you did not want an editor
 

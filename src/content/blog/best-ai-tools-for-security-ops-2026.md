@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A security operations reviewer should use AI to format a triage note from an alert a person already classified, an access list from an export a person already ran, and a handoff that does not invent a cause.** The model does not decide severity, and it does not investigate by trying anything against a system. The documentation shelf, which is the runbook and the status note, is [best AI tools for security ops docs](/blog/best-ai-tools-for-security-ops-docs-2026/). The people who carry production after a bad ship are [best AI tools for SRE teams](/blog/best-ai-tools-for-sre-teams-2026/).
+**A security operations reviewer should use AI to format a triage note from an alert a person already classified, an access list from an export a person already ran, and a handoff that does not invent a cause.** The model does not decide severity, and it does not investigate by trying anything against a system. The documentation shelf, which is the runbook and the status note, is [best AI tools for security ops docs](/blog/best-ai-tools-for-security-ops-docs-2026/). The people who carry production after a bad ship are [best AI tools for SRE teams](/blog/best-ai-tools-for-sre-teams-2026/). The engineer who drafts a control statement from a rule they already wrote, and does not pick a severity, is [best AI tools for security engineers](/blog/best-ai-tools-for-security-engineers-2026/).
 
 The hour of an incident is [what AI incident response is](/blog/what-is-ai-incident-response-2026/). The page on-call opens for a known procedure is [what an AI runbook is](/blog/what-is-an-ai-runbook-2026/).
 

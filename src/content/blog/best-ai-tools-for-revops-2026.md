@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**RevOps should buy the tool that matches the operational job: enrich a list, keep the CRM as the system of record, route a record, or explain a funnel number.** A rep's dialer is a sales purchase. This page is the system behind the rep. The rep-facing stack is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/). The weekly workflow that is not revenue-specific is [best AI tools for ops teams](/blog/best-ai-tools-for-ops-teams-2026/).
+**RevOps should buy the tool that matches the operational job: enrich a list, keep the CRM as the system of record, route a record, or explain a funnel number.** A rep's dialer is a sales purchase. This page is the system behind the rep. The rep-facing stack is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/). The weekly workflow that is not revenue-specific is [best AI tools for ops teams](/blog/best-ai-tools-for-ops-teams-2026/). The motion note and the playbook, which must leave the CRM amount where it is, are [best AI tools for GTM ops](/blog/best-ai-tools-for-gtm-ops-2026/).
 
 Clay and Hex prices below were read on their pricing pages October 24, 2026. The other prices are US list prices from directory pages checked October 16, 2026. n8n stays in euros. Published October 24, 2026. We did not score data accuracy or forecast quality.
 

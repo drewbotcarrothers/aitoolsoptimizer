@@ -11,6 +11,8 @@ draft: false
 
 **An agency should buy the tool that survives a second client, and keep everything else on a plan you can cancel when the retainer ends.** The failure mode is one login shared across brands, or a $59 seat multiplied by every contractor who opened the demo. This page is one tool per client job. The in-house marketing calendar is [best AI tools for marketers](/blog/best-ai-tools-for-marketers-2026/). A contractor billing a single deliverable is [best AI tools for freelancers](/blog/best-ai-tools-for-freelancers-2026/).
 
+Two people inside that client job are not the agency stack. The account manager who keeps the recap, the scope check, and the next ask honest is [best AI tools for agency account managers](/blog/best-ai-tools-for-agency-account-managers-2026/). The producer who cuts footage they have the right to use, and writes the client note from an approved brief, is [best AI tools for agency producers](/blog/best-ai-tools-for-agency-producers-2026/).
+
 Prices are US list prices excluding tax from directory pages checked October 16, 2026, except Instantly and Writesonic figures taken from pricing pages read October 24, 2026 for the reviews linked below. Published October 24, 2026. Nothing here is a campaign score.
 
 ## The client job, with a price

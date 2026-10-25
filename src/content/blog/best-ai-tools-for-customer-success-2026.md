@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A customer-success team should buy the tool that matches the job in front of the renewal: notes from the call, an answer from the help center, or a ticket a human still owns.** A health score the model invented is not a system. This page is one tool per job. The support-bot category is [best AI chatbots for business](/blog/best-ai-chatbots-for-business-2026/). The build steps for the articles are [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/).
+**A customer-success team should buy the tool that matches the job in front of the renewal: notes from the call, an answer from the help center, or a ticket a human still owns.** A health score the model invented is not a system. This page is one tool per job. The support-bot category is [best AI chatbots for business](/blog/best-ai-chatbots-for-business-2026/). The build steps for the articles are [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/). The manager who owns a book of accounts, and must not invent a health score, is [best AI tools for customer success managers](/blog/best-ai-tools-for-customer-success-managers-2026/).
 
 Prices are US list prices excluding tax. Granola's cards were read October 24, 2026. Fathom's prices are from the October 24, 2026 pricing article. The rest are from directory pages checked October 16, 2026. Published October 24, 2026. Nothing here is a retention score.
 

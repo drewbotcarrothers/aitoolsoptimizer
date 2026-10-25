@@ -66,9 +66,9 @@ Fifty included outcomes is a pilot, not a contact center. Multiply $0.99 by the 
 ## A rollout that does not start with the customer
 
 1. Put internal questions on ChatGPT Business, Copilot, or Notion, wherever the files already are. One of those, not all three.
-2. Collect the 20 questions customers actually ask. Write the approved answer for each.
+2. Collect the 20 questions customers actually ask. Write the approved answer for each. Turning those approved pairs into one public FAQ, in ChatGPT or in a Google Doc the support team already edits, is [ChatGPT vs Gemini for FAQ pages](/blog/chatgpt-vs-gemini-for-faq-pages-2026/).
 3. Point a support agent at that material only. Fin, Lyro, Zendesk, or Chatbase. One.
-4. Read every conversation for a week. If the agent invents a policy, the source document is wrong or missing.
+4. Read every conversation for a week. If the agent invents a policy, the source document is wrong or missing. The lead who drafts the coaching note and the shift handoff from facts already logged, and does not close the ticket, is [best AI tools for support leads](/blog/best-ai-tools-for-support-leads-2026/).
 5. Then look at the meter. Outcomes, automated resolutions, Lyro conversations, or Chatbase credits. Buy the tier that matches the week, with headroom, using the vendor's unit.
 
 An unattended agent that can also spend money or change account records is a different project. The setup order for that is [how to create an AI agent without coding](/blog/how-to-create-an-ai-agent-without-coding/).

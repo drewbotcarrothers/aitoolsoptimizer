@@ -11,7 +11,7 @@ draft: false
 
 **Draft the story in [Gamma](/tools/gamma/) if you want a finished-looking deck in a browser. Stay inside PowerPoint or Google Slides with [Plus AI](/tools/plus-ai/) if that is where the file has to live. Use [Beautiful.ai](/tools/beautiful-ai/) when every slide must obey a layout system. Use [Canva](/tools/canva/) when the deck is one asset in a pile of social graphics.**
 
-Prices are US list prices last verified October 16, 2026. We did not score slide taste. The fit table records where each product puts the file and what the published plan includes.
+Prices are US list prices last verified October 16, 2026. We did not score slide taste. The fit table records where each product puts the file and what the published plan includes. A pitch that can be a new card deck from an outline you wrote, versus Smart Slides and a PowerPoint file, is [Gamma vs Beautiful.ai for pitch decks](/blog/gamma-vs-beautiful-ai-for-pitch-decks-2026/).
 
 ## Which presentation tool to open
 

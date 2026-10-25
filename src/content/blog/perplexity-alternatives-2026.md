@@ -11,7 +11,7 @@ draft: false
 
 **Leave Perplexity when the source you need is not the open web.** Papers, a writing draft, a Google or Microsoft workflow, or a multi-model comparison are different products. Staying on Perplexity and buying Max because a paper search felt thin is the expensive version of the wrong aisle.
 
-Prices are US list prices excluding tax, from vendor pages checked October 16, 2026, published here on October 24, 2026. A live refetch of the pricing URLs that day did not return numbers. The "should I pay for this one" piece is [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/). The product overview is [Perplexity review](/blog/perplexity-review-2026/).
+Prices are US list prices excluding tax, from vendor pages checked October 16, 2026, published here on October 24, 2026. A live refetch of the pricing URLs that day did not return numbers. The "should I pay for this one" piece is [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/). The product overview is [Perplexity review](/blog/perplexity-review-2026/). The protocol for which sources a person may open, which is not a literature tool, is [best AI tools for research ops](/blog/best-ai-tools-for-research-ops-2026/).
 
 ## What you are replacing
 
