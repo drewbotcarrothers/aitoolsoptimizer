@@ -50,13 +50,13 @@ Playback is the Enterprise line. If you only need the summary, paying $22.50 to 
 
 ## Nearby meters
 
-**Fathom** Premium is $16 a month billed annually, or $20 monthly. Team is $15 a user annually with a two-user minimum. The free tier includes unlimited recordings, on the directory card. The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
+**[Fathom](/tools/fathom/)** Premium is $16 a month billed annually, or $20 monthly. Team is $15 a user annually with a two-user minimum. The free tier includes unlimited recordings, on the directory card. The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
 
-**Fireflies** Pro is $10 a user a month billed annually, or $18 monthly. Business is $19 annually. [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/).
+**[Fireflies](/tools/fireflies-ai/)** Pro is $10 a user a month billed annually, or $18 monthly. Business is $19 annually. [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/).
 
-**Otter** Pro is $8.33 a user a month billed annually, or $16.99 monthly, with 1,200 minutes. Free is 300 minutes. [Otter pricing explained](/blog/otter-ai-pricing-explained-2026/).
+**[Otter](/tools/otter-ai/)** Pro is $8.33 a user a month billed annually, or $16.99 monthly, with 1,200 minutes. Free is 300 minutes. [Otter pricing explained](/blog/otter-ai-pricing-explained-2026/).
 
-**Granola** Business is $14 a user a month and does not send a bot into the call. Free keeps 30 days of history. Pick it when the room should not see a bot. Pick Read when you want search across meetings, email, and messages, which is the product's pitch on the directory card.
+**[Granola](/tools/granola/)** Business is $14 a user a month and does not send a bot into the call. Free keeps 30 days of history. Pick it when the room should not see a bot. Pick Read when you want search across meetings, email, and messages, which is the product's pitch on the directory card.
 
 A seat is not a recording policy. The notice you give attendees is yours. A summary that adds a decision nobody made is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

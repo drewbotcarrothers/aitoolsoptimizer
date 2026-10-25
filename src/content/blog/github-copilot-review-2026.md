@@ -11,7 +11,7 @@ draft: false
 
 **[GitHub Copilot](/tools/github-copilot/) is GitHub's coding assistant: completions in the editor, chat, and agents that can work from an issue to a pull request.** Pro is $10 a month. The number that surprises people is not $10. It is the credit meter on chat and agents. Completions on a paid plan do not spend those credits.
 
-Individual prices, the credit rule, and the Business and Enterprise headings were read from GitHub's plans page on October 24, 2026. One GitHub AI Credit is $0.01. We did not benchmark Copilot against Cursor. The map of the rest of the shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
+Individual prices, the credit rule, and the Business and Enterprise headings were read from GitHub's plans page on October 24, 2026. One GitHub AI Credit is $0.01. We did not benchmark Copilot against [Cursor](/tools/cursor/). The map of the rest of the shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
 
 ## The seats
 
@@ -43,7 +43,7 @@ flowchart TD
 
 Copilot fits a developer who already works in GitHub and in VS Code, Visual Studio, a JetBrains IDE, Xcode, Neovim, or the other editors GitHub lists. The cloud agent is the feature that makes Pro more than autocomplete: assign work, review the pull request, merge it yourself. An agent that opens a pull request has not replaced the reviewer.
 
-Paid plans also advertise access to third-party agents, including Claude Code and Codex. That can double-pay if you already subscribe to Claude or ChatGPT for the same agent. Check whether the agent you want is inside the Copilot seat before you stack bills. The terminal-first version of Claude's agent is [Claude Code for beginners](/blog/claude-code-for-beginners-2026/). The three-way editor choice is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
+Paid plans also advertise access to third-party agents, including [Claude Code](/tools/claude-code/) and [Codex](/tools/openai-codex/). That can double-pay if you already subscribe to Claude or ChatGPT for the same agent. Check whether the agent you want is inside the Copilot seat before you stack bills. The terminal-first version of Claude's agent is [Claude Code for beginners](/blog/claude-code-for-beginners-2026/). The three-way editor choice is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
 
 Students: GitHub's materials describe a Copilot Student plan for verified students. We did not record that plan's limits on October 24. Confirm them before you tell a class it is "Pro for free."
 

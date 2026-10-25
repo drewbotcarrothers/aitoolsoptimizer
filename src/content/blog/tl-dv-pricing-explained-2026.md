@@ -11,7 +11,7 @@ draft: false
 
 **tl;dv's pricing page, fetched October 24, 2026, exposed plan prices in euros, not dollars.** Structured data on that page listed Pro at €29 per seat per month billed monthly, or €18 per seat per month billed annually (€216 per seat per year). Business was €39 per seat per month billed monthly, or €29 per seat per month billed annually (€348 per seat per year). Free was €0. This article does not convert those figures to USD.
 
-A customer-call comparison that also names Otter is [Otter vs tl;dv for customer success calls](/blog/otter-vs-tl-dv-for-customer-success-calls-2026/). Otter's dollar seats are [Otter AI pricing explained](/blog/otter-ai-pricing-explained-2026/). A free recording seat in USD, on a different product, is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
+A customer-call comparison that also names [Otter](/tools/otter-ai/) is [Otter vs tl;dv for customer success calls](/blog/otter-vs-tl-dv-for-customer-success-calls-2026/). Otter's dollar seats are [Otter AI pricing explained](/blog/otter-ai-pricing-explained-2026/). A free recording seat in USD, on a different product, is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
 
 Published October 24, 2026. We did not score transcripts. The October 16 directory check saw Canadian dollars, not these euros, and not a USD sticker. Both records are below. Neither one is a conversion of the other.
 
@@ -46,9 +46,9 @@ That same card, which is about limits rather than currency, says Free includes u
 
 **Otter** Pro is $8.33 a user a month billed annually, or $16.99 monthly, on the October 16 card. Business is $19.99 a user a month billed annually, or $30 monthly. Those are Otter's dollars. They are not a tl;dv translation.
 
-**Fathom** Premium is $16 a month billed annually on that card. Free is $0 for unlimited recordings, on the same card. Read the limits. A $0 plan is not the tl;dv Free plan.
+**[Fathom](/tools/fathom/)** Premium is $16 a month billed annually on that card. Free is $0 for unlimited recordings, on the same card. Read the limits. A $0 plan is not the tl;dv Free plan.
 
-**Granola** Business is $14 a user a month on that card, with no bot in the meeting. The invoice is [Granola pricing explained](/blog/granola-pricing-explained-2026/). A board that refuses a bot is [Otter vs Granola for board meetings](/blog/otter-vs-granola-for-board-meetings-2026/).
+**[Granola](/tools/granola/)** Business is $14 a user a month on that card, with no bot in the meeting. The invoice is [Granola pricing explained](/blog/granola-pricing-explained-2026/). A board that refuses a bot is [Otter vs Granola for board meetings](/blog/otter-vs-granola-for-board-meetings-2026/).
 
 ## What not to assume
 

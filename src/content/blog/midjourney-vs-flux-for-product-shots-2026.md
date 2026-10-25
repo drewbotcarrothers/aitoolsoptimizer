@@ -47,7 +47,7 @@ A generated bottle that changes the logo, the scent name, or the volume is a dif
 
 **Ideogram Plus** is $15 a month billed yearly, or $20 monthly, when the words on the label are the reason you are generating at all. The invoice is [Ideogram pricing explained](/blog/ideogram-pricing-explained-2026/).
 
-**Adobe Firefly Standard** is $9.99 a month when the shot has to stay inside an Adobe file and you want the commercially safe positioning on that card. It is a different pipeline. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/).
+**[Adobe Firefly](/tools/adobe-firefly/) Standard** is $9.99 a month when the shot has to stay inside an Adobe file and you want the commercially safe positioning on that card. It is a different pipeline. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/).
 
 A Basic plan at $10 can cost more than a hundred API frames and still be the right buy, because a person is steering. An API at $0.90 is the right buy when the prompt is already frozen and the job is volume. Do not "save" the $10 by hand-running a hundred playground clicks you will not review.
 

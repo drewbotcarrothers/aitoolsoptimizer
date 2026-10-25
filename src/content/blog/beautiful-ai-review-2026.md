@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from Beautiful.ai's pricing page, recorded October 16, 2026. A 14-day trial covers Pro or Team. Students with a valid .edu email can get a free year. Tax and regional checkout can differ. We did not score slide design against a human designer.
 
-Choose among the field in [best AI presentation makers](/blog/best-ai-presentation-makers/). If the deliverable can be a Gamma link, read the [Gamma review](/blog/gamma-review-2026/) and [Gamma vs Canva](/blog/gamma-vs-canva-presentations/).
+Choose among the field in [best AI presentation makers](/blog/best-ai-presentation-makers/). If the deliverable can be a Gamma link, read the [Gamma review](/blog/gamma-review-2026/) and [Gamma vs Canva](/blog/gamma-vs-canva-presentations/). [Canva](/tools/canva/) is that template pile. [Pitch](/tools/pitch/) is the shared file when a team will keep editing the deck.
 
 ## The monthly price is a different product decision
 

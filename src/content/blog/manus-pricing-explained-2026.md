@@ -48,13 +48,13 @@ The daily 300 on Free can coexist with a monthly Pro allowance. The directory sa
 
 ## What not to compare blindly
 
-**Lindy** starts at $49.99 a month for 5,000 credits, with top-ups at $10 per 1,000. Anything with outside impact waits for approval, on the pricing page read October 24, 2026. Lindy credits are not Manus credits.
+**[Lindy](/tools/lindy/)** starts at $49.99 a month for 5,000 credits, with top-ups at $10 per 1,000. Anything with outside impact waits for approval, on the pricing page read October 24, 2026. Lindy credits are not Manus credits.
 
-**ChatGPT** Plus is $20 a month for a chat seat, not an autonomous task runner with a credit meter. [ChatGPT review](/blog/chatgpt-review-2026/) is the seat. Use it when you want a draft you steer turn by turn.
+**[ChatGPT](/tools/chatgpt/)** Plus is $20 a month for a chat seat, not an autonomous task runner with a credit meter. [ChatGPT review](/blog/chatgpt-review-2026/) is the seat. Use it when you want a draft you steer turn by turn.
 
-**Perplexity** Pro is $17 a month billed annually when the job is a cited answer. [Perplexity review](/blog/perplexity-review-2026/). A Manus report still needs those links opened.
+**[Perplexity](/tools/perplexity/)** Pro is $17 a month billed annually when the job is a cited answer. [Perplexity review](/blog/perplexity-review-2026/). A Manus report still needs those links opened.
 
-**Zapier** Professional is $19.99 a month billed annually for 750 tasks. A Zap is a workflow you drew. Manus is a goal you delegate. If the steps must be identical every time, draw them. The difference is [what an AI agent is](/blog/what-is-an-ai-agent-2026/).
+**[Zapier](/tools/zapier/)** Professional is $19.99 a month billed annually for 750 tasks. A Zap is a workflow you drew. Manus is a goal you delegate. If the steps must be identical every time, draw them. The difference is [what an AI agent is](/blog/what-is-an-ai-agent-2026/).
 
 ## FAQ
 

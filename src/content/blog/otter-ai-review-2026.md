@@ -60,7 +60,7 @@ Exports include mp3, txt, pdf, docx, and srt.
 2. If the transcript stops at 30 minutes and your real meetings run longer, Basic is a demo.
 3. Add up last month's meeting minutes. Under 1,200, with none over 90 minutes, Pro's annual price is the number to compare.
 4. If you need the whole team library, conversations past 90 minutes, or a pile of imported files, price Business.
-5. If clients flinch at a bot, stop and read the [Granola review](/blog/granola-review-2026/). If the calls are on a phone dialer, read the [Fireflies review](/blog/fireflies-ai-review-2026/).
+5. If clients flinch at a bot, stop and use [Granola](/tools/granola/). The write-up is the [Granola review](/blog/granola-review-2026/). If the calls are on a phone dialer, use [Fireflies.ai](/tools/fireflies-ai/). The write-up is the [Fireflies review](/blog/fireflies-ai-review-2026/).
 
 ## Fit score
 

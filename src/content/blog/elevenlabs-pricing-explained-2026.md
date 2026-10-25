@@ -80,7 +80,7 @@ Business is the tier that publishes a latency price: low-latency text to speech 
 - **Ignoring tax and currency.** These are US list prices excluding tax. A local checkout can differ.
 - **Using a chatbot subscription as the voice plan.** [ChatGPT](/tools/chatgpt/) Plus does not include this license. They are separate bills. The subscription map is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
-For a YouTube stack around the voice, see [best AI tools for YouTubers](/blog/best-ai-tools-for-youtubers-2026/). [Murf](/tools/murf-ai/) sells API speech from $0.01 per 1,000 characters, and its Studio subscription prices did not fully load in our check. [Speechify](/tools/speechify/) Premium is $29/month billed monthly and is a listening product, not this credit system. [Descript](/tools/descript/) is where you edit the file after it exists.
+For a YouTube stack around the voice, see [best AI tools for YouTubers](/blog/best-ai-tools-for-youtubers-2026/). [Murf](/tools/murf-ai/) sells API speech from $0.01 per 1,000 characters, and its Studio subscription prices did not fully load in our check. [Speechify](/tools/speechify/) Premium is $29/month billed monthly and is a listening product, not this credit system. [Descript](/tools/descript/) is where you edit the file after it exists. A presenter on camera is [HeyGen](/tools/heygen/). A song under the voice is [Suno](/tools/suno/).
 
 ## FAQ
 

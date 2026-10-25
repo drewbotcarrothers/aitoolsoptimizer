@@ -45,7 +45,7 @@ The Core doc also lists monthly credits that apply to Agent, publishing, network
 
 **A local editor.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the help page recorded October 24, 2026. That is the seat once the code should live in a repository you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**Bolt's token card.** [Bolt.new](/tools/bolt-new/) Pro is $25 month to month or $18 billed annually, on its own article. A Bolt token and a Replit credit are different meters. The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/).
+**Bolt's token card.** [Bolt.new](/tools/bolt-new/) Pro is $25 month to month or $18 billed annually, on its own article. A Bolt token and a Replit credit are different meters. [Lovable](/tools/lovable/) Pro is $25 a month for 100 credits, and that credit is a third meter. The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/).
 
 Overage, from the October 16 directory note: on Core and Pro, usage beyond included credits can be charged, and charges can accumulate until they cross an invoice threshold that starts at $50 and can rise to $250. The October 24 pricing text we captured did not repeat that threshold. Confirm it on the billing page before you rely on it.
 

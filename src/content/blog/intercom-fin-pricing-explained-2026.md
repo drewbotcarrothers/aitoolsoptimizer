@@ -49,7 +49,7 @@ The help center says the base plan for Fin with your helpdesk includes 50 resolu
 
 ## When a credit bot is the other bill
 
-**Chatbase** meters message credits, not outcomes. Hobby is $32 a month billed yearly, or $40 monthly, with 700 message credits. Standard is $120 yearly or $150 monthly. You pay when the agent responds, including answers that did not "resolve" anything. Fin's pitch is that you pay for a resolution or a configured handoff. Chatbase's pitch is a credit per reply. Pick the meter you can forecast. The invoice is [Chatbase pricing explained](/blog/chatbase-pricing-explained-2026/).
+**[Chatbase](/tools/chatbase/)** meters message credits, not outcomes. Hobby is $32 a month billed yearly, or $40 monthly, with 700 message credits. Standard is $120 yearly or $150 monthly. You pay when the agent responds, including answers that did not "resolve" anything. Fin's pitch is that you pay for a resolution or a configured handoff. Chatbase's pitch is a credit per reply. Pick the meter you can forecast. The invoice is [Chatbase pricing explained](/blog/chatbase-pricing-explained-2026/).
 
 A bot that answers outside its articles will create outcomes you did not want, or credits you did not want. The handoff rule is [how to create a support escalation matrix with AI](/blog/how-to-create-a-support-escalation-matrix-with-ai-2026/). The person who still owns the case is [what human-in-the-loop AI is](/blog/what-is-human-in-the-loop-ai-2026/).
 

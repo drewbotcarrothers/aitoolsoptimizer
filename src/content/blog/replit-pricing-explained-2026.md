@@ -42,7 +42,7 @@ Agent modes, Power and Max, and the credit packs belong to the Agent article. Re
 
 **Core** is the first labeled paid plan: Plan mode, AI integrations, and unlimited workspaces, with Free Mode limits printed on the card. **Pro** is the plan with 15 collaborators, 50 viewers, 10 parallel agents, and database rollback up to 28 days. **Enterprise** is the sales conversation. Do not quote a dollar for it.
 
-[Cursor](/tools/cursor/) Plus at $8 a month, or $80 a year, is the editor once the code should live in a repository you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). [Bolt.new](/tools/bolt-new/) Pro is $25 month to month or $18 billed annually, on its own pricing article. The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/). A Bolt token, a Lovable credit, and a Replit credit are different meters.
+[Cursor](/tools/cursor/) Plus at $8 a month, or $80 a year, is the editor once the code should live in a repository you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). [Bolt.new](/tools/bolt-new/) Pro is $25 month to month or $18 billed annually, on its own pricing article. The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/). A Bolt token, a [Lovable](/tools/lovable/) credit, and a Replit credit are different meters.
 
 ## What not to assume
 

@@ -11,7 +11,7 @@ draft: false
 
 **Choose Midjourney when you want a subscription, a web app, and Fast GPU hours for ongoing art direction. Choose FLUX when you want a price per image, an API, and no seat.** The meters are different. A "cheaper" answer depends on how many images you actually render, at which size.
 
-The three-way with Leonardo is [Midjourney vs Leonardo vs FLUX](/blog/midjourney-vs-leonardo-vs-flux-2026/). The subscription clock alone is [Midjourney pricing explained](/blog/midjourney-pricing-explained-2026/). The per-image card is [FLUX pricing explained](/blog/flux-pricing-explained-2026/). This page stays on the two-way: a plan versus a meter.
+The three-way with [Leonardo](/tools/leonardo-ai/) is [Midjourney vs Leonardo vs FLUX](/blog/midjourney-vs-leonardo-vs-flux-2026/). The subscription clock alone is [Midjourney pricing explained](/blog/midjourney-pricing-explained-2026/). The per-image card is [FLUX pricing explained](/blog/flux-pricing-explained-2026/). This page stays on the two-way: a plan versus a meter.
 
 Prices are US list prices from directory pages checked October 16, 2026. Published October 24, 2026. We did not score image quality.
 
@@ -52,7 +52,7 @@ FLUX 3 Klein at 768×768 is $0.008. One hundred of those images are $0.80. One h
 
 The directory says the same credit price applies in the API and the playground. Enterprise is custom, with volume discounts and SLAs. Open-weights licensing is a separate decision from the playground price. Check the license before you ship a fine-tune. The review is [FLUX review](/blog/flux-review-2026/).
 
-A third shape, a token plan with a free tier, is Leonardo. Essential is $12 a month on the directory card. That comparison is the three-way linked above, and the two-way [Midjourney vs Leonardo](/blog/midjourney-vs-leonardo-2026/). Type-in-image and licensed-training claims are a different trio: [FLUX vs Ideogram vs Firefly](/blog/flux-vs-ideogram-vs-firefly-2026/).
+A third shape, a token plan with a free tier, is Leonardo. Essential is $12 a month on the directory card. That comparison is the three-way linked above, and the two-way [Midjourney vs Leonardo](/blog/midjourney-vs-leonardo-2026/). Type in the image is [Ideogram](/tools/ideogram/). Licensed training inside Adobe is [Adobe Firefly](/tools/adobe-firefly/). That pair is [FLUX vs Ideogram vs Firefly](/blog/flux-vs-ideogram-vs-firefly-2026/).
 
 ## How to choose
 

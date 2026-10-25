@@ -48,11 +48,11 @@ The 720p sketch divides evenly at 20 credits per video: 660 ÷ 33, 3,000 ÷ 150,
 
 ## When another studio is the other bill
 
-**Runway** Standard is $12 a month billed annually, or $15 monthly, with 625 credits. That credit is not a Kling credit. Do not add the balances. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/).
+**[Runway](/tools/runway/)** Standard is $12 a month billed annually, or $15 monthly, with 625 credits. That credit is not a Kling credit. Do not add the balances. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/).
 
-**Luma** Plus is $30 a month or $300 a year for 10,000 credits. Again, a different meter. [Luma AI pricing explained](/blog/luma-ai-pricing-explained-2026/) keeps the units apart.
+**[Luma](/tools/luma-ai/)** Plus is $30 a month or $300 a year for 10,000 credits. Again, a different meter. [Luma AI pricing explained](/blog/luma-ai-pricing-explained-2026/) keeps the units apart.
 
-**Pika** is a third credit system. Read [Pika pricing explained](/blog/pika-pricing-explained-2026/) before you put a dollar next to Kling's renewal. The three-way context is [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/). This page does not print a Veo price.
+**[Pika](/tools/pika/)** is a third credit system. Read [Pika pricing explained](/blog/pika-pricing-explained-2026/) before you put a dollar next to Kling's renewal. The three-way context is [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/). This page does not print a Veo price.
 
 An API exists, on the directory card. This article does not print a separate API rate, because the credit guide we are quoting is the membership table. Ask for the API card before you model a product feature.
 

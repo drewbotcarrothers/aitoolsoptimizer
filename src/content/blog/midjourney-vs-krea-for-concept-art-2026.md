@@ -47,7 +47,7 @@ A direction you can point at: palette, subject, and the references you have righ
 
 **Krea Pro** is the practical paid path when one subscription should cover the model list and the upscale, and the work is commercial. The yearly price is the one to compare. The review is [Krea review](/blog/krea-review-2026/).
 
-**Adobe Firefly** Standard is $9.99 a month when the next step is a brand-safe asset inside Adobe, not a concept still. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). [Leonardo](/tools/leonardo-ai/) Essential is $12 a month when you want that token plan instead. The invoice is [Leonardo pricing explained](/blog/leonardo-ai-pricing-explained-2026/).
+**[Adobe Firefly](/tools/adobe-firefly/)** Standard is $9.99 a month when the next step is a brand-safe asset inside Adobe, not a concept still. The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). [Leonardo](/tools/leonardo-ai/) Essential is $12 a month when you want that token plan instead. The invoice is [Leonardo pricing explained](/blog/leonardo-ai-pricing-explained-2026/).
 
 A prompt that holds the line:
 

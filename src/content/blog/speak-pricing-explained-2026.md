@@ -35,13 +35,13 @@ flowchart TD
 
 The languages on the directory card, for English speakers, are Spanish, French, Korean, Japanese, Italian, and Simplified Chinese. A language that is not on that list is not a reason to guess a price. It is a reason to pick a different product.
 
-Speak's directory page also records a formal partnership with OpenAI and backing from the OpenAI Startup Fund. That is a corporate fact on the card. It is not a discount, and it does not make Speak's price equal ChatGPT's price.
+Speak's directory page also records a formal partnership with OpenAI and backing from the OpenAI Startup Fund. That is a corporate fact on the card. It is not a discount, and it does not make Speak's price equal [ChatGPT](/tools/chatgpt/)'s price.
 
 ## What a published dollar looks like instead
 
 **ChatGPT Plus** is $20 a month. You can practice a conversation by typing or talking, if the product you have allows it. Plus does not include Speak's lesson sequence, the pronunciation feedback the directory describes, or the Premium Plus tutor. Quote $20 for ChatGPT. Quote the in-app number for Speak. Do not average them.
 
-**Duolingo** does not publish one USD sticker for Max either, and the Duolingo article is the place to read the Super versus Max story. **Quizlet** names Plus and Plus Unlimited and does not print a dollar on the help page that article covers. None of those gaps is permission to copy a price from a blog that is not the vendor.
+**[Duolingo](/tools/duolingo-max/)** does not publish one USD sticker for Max either, and the Duolingo article is the place to read the Super versus Max story. **[Quizlet](/tools/quizlet/)** names Plus and Plus Unlimited and does not print a dollar on the help page that article covers. None of those gaps is permission to copy a price from a blog that is not the vendor.
 
 If a family member's screen shows a different dollar, that can be region, platform, or a promotion. The directory says the most accurate price is in the app. Two screenshots from two countries are two prices. This site publishes in USD and does not convert a local currency into a dollar Speak did not print.
 

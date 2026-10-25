@@ -50,9 +50,9 @@ International dialing, taxes, and any introductory change are checkout questions
 
 ## When a different tool is the bill
 
-**Clay Launch starts at $167 a month billed annually** when the work is a waterfall of providers and a table you design. Clay's free tier is 500 actions and 100 data credits a month. Apollo is the database-plus-sequences seat. Clay is the workflow when one vendor's record is not enough. Use both only if someone owns the credit math.
+**[Clay](/tools/clay/) Launch starts at $167 a month billed annually** when the work is a waterfall of providers and a table you design. Clay's free tier is 500 actions and 100 data credits a month. Apollo is the database-plus-sequences seat. Clay is the workflow when one vendor's record is not enough. Use both only if someone owns the credit math.
 
-**Instantly Growth is $47 a month** for an outreach-only plan with 5,000 emails and 1,000 contacts, on the directory card. Buy Instantly when the sending infrastructure is the problem and the data already lives somewhere else. Buying Apollo and Instantly and Clay on day one is three meters.
+**[Instantly](/tools/instantly/) Growth is $47 a month** for an outreach-only plan with 5,000 emails and 1,000 contacts, on the directory card. Buy Instantly when the sending infrastructure is the problem and the data already lives somewhere else. Buying Apollo and Instantly and Clay on day one is three meters.
 
 **HubSpot** has a free CRM. Starter was listed at $7 or $10 a seat a month as a limited-time offer when the directory was checked, up to 65 percent off. Professional and Enterprise were not given as a single sticker on that card. HubSpot Credits were listed at $10 per 1,000. Confirm the current promo before you compare it with Apollo's $49. The tool page is [HubSpot](/tools/hubspot/). Gong, for conversation intelligence, is custom. The tool page is [Gong](/tools/gong/). This page does not invent a Gong price.
 

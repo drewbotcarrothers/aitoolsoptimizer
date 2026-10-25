@@ -25,9 +25,9 @@ The invoice is [Suno pricing explained](/blog/suno-pricing-explained-2026/).
 
 Pro and Premier can buy additional credits and downloads. The yearly Pro figure is the one to use if you will publish. Monthly Pro at $11 is the one to use if you are testing a single month.
 
-> **Figure (rights diagram, not a product screenshot).** **Alt:** A prompt becomes a song on every plan. Free stops before download-for-the-month and before commercial use. Pro and Premier continue into downloads, commercial rights, stems, and Suno Studio. A separate arrow sends voiceover scripts to ElevenLabs and recorded podcasts to Descript.
+> **Figure (rights diagram, not a product screenshot).** **Alt:** A prompt becomes a song on every plan. Free stops before download-for-the-month and before commercial use. Pro and Premier continue into downloads, commercial rights, stems, and Suno Studio. A separate arrow sends voiceover scripts to ElevenLabs and recorded podcasts to [Descript](/tools/descript/).
 
-If the track is background for a video, the rest of that stack is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/). Suno is step 5 in that guide, and only on a plan with commercial rights.
+If the track is background for a video, finish the cut in [CapCut](/tools/capcut/). The rest of that stack is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/). Suno is step 5 in that guide, and only on a plan with commercial rights.
 
 ## What Pro is paying for besides the song
 

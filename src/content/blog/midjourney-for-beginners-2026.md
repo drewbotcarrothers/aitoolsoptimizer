@@ -25,7 +25,7 @@ Mega at $120/month is not a beginner plan. Extra Fast time is $4/hour if you run
 
 > **Figure (first-session diagram, not a product screenshot).** **Alt:** Sign in on the web, pick Basic or Standard, write one prompt with a subject and an aspect ratio, vary the best image, and stop. A crossed-out box lists V8 alpha flags, Stealth on a Basic plan, and a pile of parameters on the first prompt.
 
-If you are not sure Midjourney is the first tool to learn, the wider map is [AI image generators for beginners](/blog/ai-image-generators-beginners-guide/). ChatGPT or Canva is enough for a week of practice before you pay $10. If the image must contain words, start on [Ideogram](/tools/ideogram/) instead. That choice is [Midjourney alternatives](/blog/midjourney-alternatives-2026/).
+If you are not sure Midjourney is the first tool to learn, the wider map is [AI image generators for beginners](/blog/ai-image-generators-beginners-guide/). [ChatGPT Images](/tools/dall-e/) or [Canva](/tools/canva/) is enough for a week of practice before you pay $10. If the image must contain words, start on [Ideogram](/tools/ideogram/) instead. That choice is [Midjourney alternatives](/blog/midjourney-alternatives-2026/).
 
 ## Where you type
 
@@ -74,7 +74,7 @@ Video is a second product on the same plan. Basic includes SD. Standard and abov
 | 6 | Repeat day 1 on a real, small deliverable: a cover concept or a social still | Mega, "to be safe" |
 | 7 | Read the Fast hours you used. Stay, move to Standard, or cancel | A second image subscription in the same week |
 
-If day 7 shows you needed readable type, a slide layout, or a Photoshop file, switch tools instead of upgrading. Canva Free is the layout. Firefly is the Adobe path. The subscription logic for stacking image tools on top of a chatbot is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+If day 7 shows you needed readable type, a slide layout, or a Photoshop file, switch tools instead of upgrading. Canva Free is the layout. [Firefly](/tools/adobe-firefly/) is the Adobe path. The subscription logic for stacking image tools on top of a chatbot is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
 ## Fit for a first purchase
 

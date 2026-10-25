@@ -11,7 +11,7 @@ draft: false
 
 **ChatGPT's paid seats, on the plan page we could read on October 24, 2026, are Go at $8 a month, Plus at $20, Pro at $100, $200, or $500, and Business at $20 a user a month billed annually for two or more users, or $25 monthly.** Free is $0. That page is learn.chatgpt.com/docs/pricing. It prices Codex and ChatGPT Work inside those ChatGPT plans. chatgpt.com/pricing returned HTTP 403 the same day, so this article does not pretend to have re-read the consumer marketing page.
 
-The directory card checked October 16, 2026 matches those seat prices and adds plan notes the Codex page does not fully restate. Where the two disagree, this article says which page said it. A second assistant's ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/). The always-on agent inside eligible ChatGPT plans is [OpenAI Dots pricing explained](/blog/openai-dots-pricing-explained-2026/).
+The directory card checked October 16, 2026 matches those seat prices and adds plan notes the Codex page does not fully restate. Where the two disagree, this article says which page said it. A second assistant's ladder is [Claude](/tools/claude/). The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/). The always-on agent inside eligible ChatGPT plans is [OpenAI Dots pricing explained](/blog/openai-dots-pricing-explained-2026/).
 
 Published October 24, 2026. We did not score answers. Prices below exclude any tax the checkout adds. We did not see a tax line.
 
@@ -45,9 +45,9 @@ Go may include ads, on the October 16 card. The October 24 Codex page's Go line 
 
 **Pro** is three prices, not a single "Pro means unlimited" line. The October 24 page says Pro plans currently have no five-hour limit, in the usage section we read, and that limits still depend on model, size, and cloud versus local work. Do not budget as if every Pro tier were the same.
 
-**A dot** is not on the Free, Go, or Plus lines of the Dots page we could read. Eligibility is in the Dots article. Business Premium's dollar price was not on the pages that returned 200 on October 24. The October 16 directory card lists Business Premium at $125 a user a month billed monthly, or $100 annually. Cite that card's date if you put $125 on a purchase order, and re-check before you pay.
+**A dot** is not on the Free, Go, or Plus lines of the [Dots](/tools/openai-dots/) page we could read. Eligibility is in the Dots article. Business Premium's dollar price was not on the pages that returned 200 on October 24. The October 16 directory card lists Business Premium at $125 a user a month billed monthly, or $100 annually. Cite that card's date if you put $125 on a purchase order, and re-check before you pay.
 
-**Gemini** Google AI Plus is $4.99 a month and Pro is $19.99, on the October 16 card, if you are comparing a Google seat rather than buying ChatGPT. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review of the product, separate from this bill, is [ChatGPT review](/blog/chatgpt-review-2026/).
+**[Gemini](/tools/gemini/)** Google AI Plus is $4.99 a month and Pro is $19.99, on the October 16 card, if you are comparing a Google seat rather than buying ChatGPT. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review of the product, separate from this bill, is [ChatGPT review](/blog/chatgpt-review-2026/).
 
 ## What not to assume
 

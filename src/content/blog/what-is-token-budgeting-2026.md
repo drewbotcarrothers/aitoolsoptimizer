@@ -13,7 +13,7 @@ draft: false
 
 The unit is [what AI tokens are](/blog/what-are-ai-tokens-explained-2026/). The monthly split across teams is [what AI quota management is](/blog/what-is-ai-quota-management-2026/). A dollar ceiling is [what AI budget caps are](/blog/what-is-ai-budget-caps-2026/). Shrinking history so it fits the split you chose is [what prompt compaction is](/blog/what-is-prompt-compaction-2026/).
 
-Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not invent an API rate for ChatGPT, Claude, or Gemini. Where the directory records a per-token price, it is labeled. We did not measure how many tokens a prompt "should" use.
+Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not invent an API rate for [ChatGPT](/tools/chatgpt/), Claude, or [Gemini](/tools/gemini/). Where the directory records a per-token price, it is labeled. We did not measure how many tokens a prompt "should" use.
 
 ## The slices inside one call
 

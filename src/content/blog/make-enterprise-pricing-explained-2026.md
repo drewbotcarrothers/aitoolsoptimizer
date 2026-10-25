@@ -43,7 +43,7 @@ A year of Teams at the $29 floor is 12 × $29 = $348. That arithmetic is for Tea
 
 **The startup percent.** The directory notes that startups under 20 employees may qualify for 50% off a Business tier. The public ladder on the same card is Free, Core, Pro, Teams, and Enterprise. It does not list a Business plan between Teams and Enterprise. Confirm which plan that percent applies to. Do not apply it to Enterprise in a spreadsheet unless the quote says so.
 
-**A self-hosted Make.** The card's product is the hosted canvas. Self-hosting is a reason to read [n8n pricing explained](/blog/n8n-pricing-explained-2026/), where Community Edition is free on your hardware and Cloud Starter was €20 a month annually. This page does not convert euros. n8n Cloud's invoice, if the question is hosting, is [n8n Cloud pricing explained](/blog/n8n-cloud-pricing-explained-2026/).
+**A self-hosted Make.** The card's product is the hosted canvas. Self-hosting is a reason to read [n8n pricing explained](/blog/n8n-pricing-explained-2026/), where Community Edition is free on your hardware and Cloud Starter was €20 a month annually. This page does not convert euros. [n8n](/tools/n8n/) Cloud's invoice, if the question is hosting, is [n8n Cloud pricing explained](/blog/n8n-cloud-pricing-explained-2026/).
 
 ## The meters next to a custom quote
 

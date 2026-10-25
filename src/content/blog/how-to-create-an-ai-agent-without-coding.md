@@ -11,7 +11,7 @@ draft: false
 
 **An AI agent without code is a job description plus a tool that can touch your apps.** Start with one repeating task, connect it read-only, and make a person approve anything that sends, pays, or deletes. [Lindy](/tools/lindy/) and [Manus](/tools/manus/) are agent products. [Zapier](/tools/zapier/) and [Make](/tools/make/) are workflow products that can call a model in the middle. Pick the shape before you pick the brand.
 
-Prices are US list prices, last verified October 16, 2026. n8n's cloud price was shown to us in euros, so it stays in euros. We did not score how often these agents finish a task correctly. The steps below are a setup order. They are not a guarantee the agent will be right.
+Prices are US list prices, last verified October 16, 2026. [n8n](/tools/n8n/)'s cloud price was shown to us in euros, so it stays in euros. We did not score how often these agents finish a task correctly. The steps below are a setup order. They are not a guarantee the agent will be right.
 
 ## Which product matches the job
 

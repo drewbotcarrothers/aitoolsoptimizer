@@ -47,11 +47,11 @@ Enterprise is the quote for customization, oversight, and onboarding. Ask what i
 
 ## Nearby bills with public numbers
 
-**Brisk Teaching** is $0 for an individual teacher. School Premium and district Intelligence are custom, with no USD figure on the card. Brisk lives in the browser extension. MagicSchool is its own platform. A school can want both. Budget them separately. The Brisk article is linked above.
+**[Brisk Teaching](/tools/brisk-teaching/)** is $0 for an individual teacher. School Premium and district Intelligence are custom, with no USD figure on the card. Brisk lives in the browser extension. MagicSchool is its own platform. A school can want both. Budget them separately. The Brisk article is linked above.
 
 **Khanmigo** is free for teachers, and $4 a month or $44 a year for learners and families. That is a tutor on Khan Academy's content. It is the student-at-home product, not a staff rollout. The tool page is [Khanmigo](/tools/khanmigo/).
 
-**Quizlet** is free for flashcards and practice. The Plus price was not confirmed in the directory, so it is omitted here. Use it when the job is memorization, not a unit plan.
+**[Quizlet](/tools/quizlet/)** is free for flashcards and practice. The Plus price was not confirmed in the directory, so it is omitted here. Use it when the job is memorization, not a unit plan.
 
 Report-card comments and a leveled reading still need the teacher who knows the student. A fluent comment that invents a trait is a parent meeting you did not schedule. The check is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Gamma when you need a first narrative from a memo you already wrote, and a link is an acceptable leave-behind. Use Pitch when the deck is a file the founders will edit together, with a template and a room you can track.** The model may order slides. It may not invent revenue, a round size, a logo, or a customer quote. Gamma versus Plus AI, which is the Slides-or-PowerPoint path, is [Gamma vs Plus AI for pitch decks](/blog/gamma-vs-plus-ai-for-pitch-decks-2026/). This page is Gamma versus [Pitch](/tools/pitch/).
+**Use Gamma when you need a first narrative from a memo you already wrote, and a link is an acceptable leave-behind. Use Pitch when the deck is a file the founders will edit together, with a template and a room you can track.** The model may order slides. It may not invent revenue, a round size, a logo, or a customer quote. Gamma versus [Plus AI](/tools/plus-ai/), which is the Slides-or-PowerPoint path, is [Gamma vs Plus AI for pitch decks](/blog/gamma-vs-plus-ai-for-pitch-decks-2026/). This page is Gamma versus [Pitch](/tools/pitch/).
 
 Gamma's credits are [Gamma pricing explained](/blog/gamma-pricing-explained-2026/). Pitch's seats are [Pitch pricing explained](/blog/pitch-pricing-explained-2026/). The one-page version of the story, before any slides, is [how to write a product one-pager with AI](/blog/how-to-write-a-product-one-pager-with-ai-2026/).
 

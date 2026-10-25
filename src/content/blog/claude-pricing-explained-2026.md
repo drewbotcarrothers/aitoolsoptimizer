@@ -11,7 +11,7 @@ draft: false
 
 **Claude Pro is $17 a month with the annual discount, $200 billed up front, or $20 billed monthly. Max starts at $100 a month. Team standard seats are $20 a seat a month billed annually, or $25 monthly, for 2 to 150 people.** Those figures are from claude.com/pricing fetched October 24, 2026. The page says prices exclude tax and can change. Free is $0.
 
-A ChatGPT seat at $20 is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). The coding tool included with paid Claude plans is on the [Claude Code](/tools/claude-code/) card. The product review, separate from this bill, is [Claude review](/blog/claude-review-2026/).
+A [ChatGPT](/tools/chatgpt/) seat at $20 is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). The coding tool included with paid Claude plans is on the [Claude Code](/tools/claude-code/) card. The product review, separate from this bill, is [Claude review](/blog/claude-review-2026/).
 
 Published October 24, 2026. We did not score answers. The October 16 directory card matches the Pro price and lists Max 5x at $100 and Max 20x at $200. The October 24 page says Max is "from $100" and shows $100 a month and $200 a month on the API-credits row for Max 5x and Max 20x. This article does not treat that credits row as the seat price.
 
@@ -45,7 +45,7 @@ Usage limits apply on every plan. The page says the context window is up to 1M t
 
 **Claude Code** has no separate consumer price on the October 16 directory card. The card says it is included with Pro, Max, Team, and Enterprise, or available through the API. The October 24 Claude page lists Claude Code on Pro. A Team or Enterprise buyer should still read the current Claude Code page before assuming every seat includes the same usage.
 
-**Gemini** Google AI Pro is $19.99 a month on the October 16 card, if the alternative is a Google seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**[Gemini](/tools/gemini/)** Google AI Pro is $19.99 a month on the October 16 card, if the alternative is a Google seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What not to assume
 

@@ -43,9 +43,9 @@ The card says inline suggestions and predicted next edits are unlimited on Busin
 
 **Business, if the ask was indemnity.** The October 16 card lists IP indemnity, access controls, and budget controls on Business. It does not reprint that sentence on the Enterprise row. Do not assume a control written only on Business is missing from Enterprise, and do not assume it is included. Read checkout. The $19 article is the place those controls are quoted.
 
-**Claude Code as a separate seat.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Copilot's paid plans can reach third-party agents, including Claude Code, on the October 16 card. That access draws on Copilot's credit story. It does not duplicate a Claude invoice. The article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+**Claude Code as a separate seat.** [Claude Code](/tools/claude-code/) is included with paid [Claude](/tools/claude/) plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Copilot's paid plans can reach third-party agents, including Claude Code, on the October 16 card. That access draws on Copilot's credit story. It does not duplicate a Claude invoice. The article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
 
-**Cursor**, if the company is pricing an editor at the same time. Plus is $8 a month or $80 a year on the October 16 card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
+**[Cursor](/tools/cursor/)**, if the company is pricing an editor at the same time. Plus is $8 a month or $80 a year on the October 16 card. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
 ## What not to assume
 

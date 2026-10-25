@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Notion Business and ChatGPT Plus are both $20, and they buy different rooms.** Business is $20 a seat a month for the workspace, and it is the plan that includes Notion Agent, AI Meeting Notes, and search across connected apps. Plus is $20 a month for one person's ChatGPT. A team that needs the wiki pays Notion. A person who needs a general assistant pays Plus. Paying both is $40 a person before any add-on. Notion Plus at $10 does not replace ChatGPT Plus.
+**Notion Business and [ChatGPT](/tools/chatgpt/) Plus are both $20, and they buy different rooms.** Business is $20 a seat a month for the workspace, and it is the plan that includes Notion Agent, AI Meeting Notes, and search across connected apps. Plus is $20 a month for one person's ChatGPT. A team that needs the wiki pays Notion. A person who needs a general assistant pays Plus. Paying both is $40 a person before any add-on. Notion Plus at $10 does not replace ChatGPT Plus.
 
 The Notion card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The ChatGPT ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The writing split is [ChatGPT vs Notion AI for writing](/blog/chatgpt-vs-notion-ai-for-writing-2026/).
 

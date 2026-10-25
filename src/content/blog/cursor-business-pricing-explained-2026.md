@@ -48,7 +48,7 @@ Every paid plan on that page includes a weekly pool for Cursor models, named the
 
 **Enterprise** is the row for SCIM, audit logs, pooled usage across Grok and Cursor, and invoicing. It is not a dollar on this page. A security review that asks for SCIM is asking for that conversation, not for a $30 seat.
 
-**A neighboring company coding seat** is [GitHub Copilot](/tools/github-copilot/) Business at $19 a user a month on the October 16 directory card. That invoice is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/). Copilot Business and Cursor Teams are two products. [Claude Code](/tools/claude-code/) is included with paid Claude plans. Claude Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. The seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+**A neighboring company coding seat** is [GitHub Copilot](/tools/github-copilot/) Business at $19 a user a month on the October 16 directory card. That invoice is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/). Copilot Business and Cursor Teams are two products. [Claude Code](/tools/claude-code/) is included with paid [Claude](/tools/claude/) plans. Claude Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. The seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
 
 ## What not to assume
 

@@ -48,11 +48,11 @@ An annual-plan banner offered unlimited use of named image models for 30 days. T
 
 ## When another editor is the bill
 
-**CapCut** Pro lists at $19.99 a month or $179.99 a year in the US, as a reference price that can change after sign-in. That is an editor for footage you have. It is not 400 invideo credits.
+**[CapCut](/tools/capcut/)** Pro lists at $19.99 a month or $179.99 a year in the US, as a reference price that can change after sign-in. That is an editor for footage you have. It is not 400 invideo credits.
 
-**Descript** Hobbyist is $16 a person a month billed annually. That meter is media hours, for cutting a recording. A talking-head short belongs there or in CapCut. A prompt-to-video draft belongs on this page.
+**[Descript](/tools/descript/)** Hobbyist is $16 a person a month billed annually. That meter is media hours, for cutting a recording. A talking-head short belongs there or in CapCut. A prompt-to-video draft belongs on this page.
 
-**Runway** Standard is $12 a month billed annually, or $15 monthly, with 625 credits. A Runway credit is not an invideo credit. Do not add the balances.
+**[Runway](/tools/runway/)** Standard is $12 a month billed annually, or $15 monthly, with 625 credits. A Runway credit is not an invideo credit. Do not add the balances.
 
 ## FAQ
 

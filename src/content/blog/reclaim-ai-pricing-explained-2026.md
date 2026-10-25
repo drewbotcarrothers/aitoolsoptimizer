@@ -11,7 +11,7 @@ draft: false
 
 **Budget Reclaim on the billing toggle you will actually check out.** On the pricing page fetched October 24, 2026, the yearly toggle shows Starter at $10 per seat per month, Business at $15, and Enterprise at $22. The monthly toggle shows Starter at $12 per seat per month and Business at $18. Enterprise is marked unavailable on monthly plans. Lite is free. The page labels yearly "SAVE 20%." The FAQ on the same page says annual billing is a 29% discount versus monthly. Ten divided by twelve is neither 20% nor 29%. Do not invent a third discount to reconcile them. Pay the toggle you select.
 
-The other calendar invoice is [Motion pricing explained](/blog/motion-pricing-explained-2026/). Notes from the meetings Reclaim schedules are a different product. The bot-free option is on the Granola card below. A task tracker with its own AI add-on is [Notion AI vs ClickUp for docs](/blog/notion-ai-vs-clickup-for-docs-2026/) if the work already lives in one of those.
+The other calendar invoice is [Motion pricing explained](/blog/motion-pricing-explained-2026/). Notes from the meetings Reclaim schedules are a different product. The bot-free option is on the [Granola](/tools/granola/) card below. A task tracker with its own AI add-on is [Notion AI vs ClickUp for docs](/blog/notion-ai-vs-clickup-for-docs-2026/) if the work already lives in one of those.
 
 Prices below are US dollar figures from reclaim.ai/pricing, fetched October 24, 2026. Published October 24, 2026. We did not score how much time the product saves. The page prints productivity percentages in a calculator. Those are the vendor's calculator, not a measurement we ran.
 
@@ -43,7 +43,7 @@ The directory checked October 16, 2026 recorded Starter at $10 and Business at $
 
 The page still displays a launch promo: attendee users "100% free through July 31st," plus paid packs of extra attendee users. Today is October 24, 2026. July 31 is in the past relative to this publication date. Do not budget free attendee users from that sentence. If the page still shows it, ask support whether any attendee-user charge applies before you assume the pack prices, which differ between the yearly and monthly blocks. This article does not repeat those pack prices as a current rate. The date on the promo makes them a question, not a plan.
 
-Student, nonprofit, and startup discounts are also on the page: 50% for 12 months for students, educators, and faculty, and 20% for three years for qualified nonprofits and startups. A switching offer says 20% for six months from Clockwise, Motion, or Calendly. "Qualified" is their decision. Do not subtract 20% in a spreadsheet until the account shows the discount.
+Student, nonprofit, and startup discounts are also on the page: 50% for 12 months for students, educators, and faculty, and 20% for three years for qualified nonprofits and startups. A switching offer says 20% for six months from Clockwise, [Motion](/tools/motion/), or Calendly. "Qualified" is their decision. Do not subtract 20% in a spreadsheet until the account shows the discount.
 
 ## When the other product is the bill
 
@@ -51,7 +51,7 @@ Student, nonprofit, and startup discounts are also on the page: 50% for 12 month
 
 **Granola** Business is $14 a user a month if the gap is meeting notes without a bot. Reclaim does not become a notetaker because it found the hour.
 
-**ClickUp** Brain² starts at $9 a user a month, on top of a ClickUp plan. Unlimited is $7 a user a month billed yearly. That is a tracker. Use it when the work lives there. Do not add it to Reclaim and expect one schedule.
+**[ClickUp Brain](/tools/clickup-brain/)²** starts at $9 a user a month, on top of a ClickUp plan. Unlimited is $7 a user a month billed yearly. That is a tracker. Use it when the work lives there. Do not add it to Reclaim and expect one schedule.
 
 ## FAQ
 

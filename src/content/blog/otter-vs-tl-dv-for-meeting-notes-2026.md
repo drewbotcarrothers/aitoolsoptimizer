@@ -48,7 +48,7 @@ Words from the transcript, a decision you can timestamp, and an owner who was in
 
 **tl;dv Free** is the path when you need the recording more than the AI note, and ten AI notes are enough to test. Paid tl;dv is a checkout decision in the currency the page shows you. The directory could not confirm USD.
 
-**Fireflies** Pro is $10 a user a month billed annually, or $18 monthly, when that product is the one already in the room. The invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). It is not required to choose between Otter and tl;dv.
+**[Fireflies](/tools/fireflies-ai/)** Pro is $10 a user a month billed annually, or $18 monthly, when that product is the one already in the room. The invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). It is not required to choose between Otter and tl;dv.
 
 A prompt that holds the line:
 

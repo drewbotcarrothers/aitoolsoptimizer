@@ -50,7 +50,7 @@ The directory does not print a credits-per-question rate. Run one real workbook 
 
 **A team that must query Postgres, BigQuery, or Snowflake from this product.** Business. Confirm the connector you need is in the quote. Up to 50 members is the seat cap on the card. Past that, the conversation is Enterprise, and Enterprise has no public dollar.
 
-**Someone who wanted a notebook the company will rerun on a schedule.** That is Hex, not a Julius credit. Hex Professional is $36 an editor a month. Team is $75 when you need scheduled runs. Community is free with a Hex agent trial and small compute.
+**Someone who wanted a notebook the company will rerun on a schedule.** That is [Hex](/tools/hex/), not a Julius credit. Hex Professional is $36 an editor a month. Team is $75 when you need scheduled runs. Community is free with a Hex agent trial and small compute.
 
 ## When a chat is enough
 

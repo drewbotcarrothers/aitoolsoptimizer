@@ -11,7 +11,7 @@ draft: false
 
 **Use Leonardo when a person will click Generate and you want a monthly token pool, starting at Essential for $12 with 8,500 fast tokens. Use FLUX when a developer will call an API and you want a receipt per image, with FLUX 3 Klein at $0.008 for a 768×768 image.** Neither tool has seen your product unless you supplied a reference you have the right to use. We did not score which still looks more like the object.
 
-The subscription look, which is a different pair, is [Midjourney vs FLUX for product shots](/blog/midjourney-vs-flux-for-product-shots-2026/). The three-way with Midjourney is [Midjourney vs Leonardo vs FLUX](/blog/midjourney-vs-leonardo-vs-flux-2026/). The workflow is [how to generate product photos with AI](/blog/how-to-generate-product-photos-with-ai-2026/).
+The subscription look, which is a different pair, is [Midjourney vs FLUX for product shots](/blog/midjourney-vs-flux-for-product-shots-2026/). The three-way with [Midjourney](/tools/midjourney/) is [Midjourney vs Leonardo vs FLUX](/blog/midjourney-vs-leonardo-vs-flux-2026/). The workflow is [how to generate product photos with AI](/blog/how-to-generate-product-photos-with-ai-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Leonardo's pricing page returned HTTP 403 on October 24, 2026, so this page does not update those token figures. FLUX's table is the October 16 directory record. Published October 24, 2026. We did not score images.
 

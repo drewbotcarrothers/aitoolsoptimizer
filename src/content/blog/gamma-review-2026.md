@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from Gamma's pricing page, help center, and API docs, recorded October 16, 2026. Local tax can change the charge. We did not score visual taste, and a Gamma "card" is not the same object as a PowerPoint slide.
 
-The format comparison lives in [best AI presentation makers](/blog/best-ai-presentation-makers/) and [Gamma vs Canva](/blog/gamma-vs-canva-presentations/). This page is the credit budget. The layout-locked alternative is the [Beautiful.ai review](/blog/beautiful-ai-review-2026/).
+The format comparison lives in [best AI presentation makers](/blog/best-ai-presentation-makers/) and [Gamma vs Canva](/blog/gamma-vs-canva-presentations/). This page is the credit budget. The layout-locked alternative is [Beautiful.ai](/tools/beautiful-ai/). The write-up is the [Beautiful.ai review](/blog/beautiful-ai-review-2026/).
 
 ## Where the credits go
 

@@ -41,7 +41,7 @@ Read the draft looking only for additions. "5+ years," "CS degree," "rockstar," 
 
 **The long version.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put two postings you were proud of, with the requirements still true, in a Project, plus this role's list. Free includes up to five Projects if you are writing one role. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
-**ChatGPT, if that is the company default.** Plus is $20 and lists projects. Go at $8 is the wrong seat for a posting you will reuse, and it may include ads. Keep the draft in a Project named for the role so the next req does not inherit this one's stack. That split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
+**[ChatGPT](/tools/chatgpt/), if that is the company default.** Plus is $20 and lists projects. Go at $8 is the wrong seat for a posting you will reuse, and it may include ads. Keep the draft in a Project named for the role so the next req does not inherit this one's stack. That split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
 
 **The sentence pass.** [Grammarly](/tools/grammarly/) Pro is $12 per member per month billed annually. Run it after the requirements are locked. It will not notice a discriminatory pattern you left in the must-haves. You will. The editing article is [Grammarly vs ChatGPT for editing](/blog/grammarly-vs-chatgpt-for-editing-2026/).
 

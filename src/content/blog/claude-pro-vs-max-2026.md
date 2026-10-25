@@ -30,7 +30,7 @@ Prices and the usage rules below were read from [Claude's pricing page](https://
 
 > **Figure (limit diagram, not a product screenshot).** **Alt:** A shared tank labeled usage. Chat on the web, the desktop app, mobile, and Claude Code all draw from it. The tank refills on a rolling five-hour window. A second, slower line is the weekly cap. Max makes the tank 5 or 20 times larger than Pro. It does not add a second tank.
 
-The $8-to-$200 map across brands is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/). The product choice against ChatGPT and Gemini is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). If the other plan you are comparing is ChatGPT's own ladder, use [Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+The $8-to-$200 map across brands is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/). The product choice against [ChatGPT](/tools/chatgpt/) and [Gemini](/tools/gemini/) is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). If the other plan you are comparing is ChatGPT's own ladder, use [Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 ## How the limits work, without a fake message count
 

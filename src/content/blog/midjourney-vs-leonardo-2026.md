@@ -41,7 +41,7 @@ flowchart TD
 
 **Midjourney.** There is no free plan. Basic is $10 a month, or $96 a year ($8 a month), with about 3.3 hours of Fast GPU time. Standard is $30, or $288 a year, with 15 Fast hours and unlimited Relax images. Pro is $60, or $576 a year, with 30 Fast hours, Stealth Mode, and 12 concurrent Fast jobs. Mega is $120, or $1,152 a year, with 60 Fast hours. Extra Fast time is $4 an hour on every plan. Relax is not on Basic. In the V8 alpha note on the directory card, Relax is not supported yet, and some jobs run slower. The beginners path is [Midjourney for beginners](/blog/midjourney-for-beginners-2026/).
 
-**Leonardo.** Free exists for casual use. Essential is $12 a month with 8,500 fast tokens, and the directory says you can bank up to 25,500. Premium is $30 a month with 25,000 fast tokens and unlimited relaxed images on select models. Ultimate is $60 a month with 60,000 fast tokens. Team Starter is listed at $24 a seat and $72 a month, with a shared pool. Those are monthly figures on the card. This page does not invent an annual Leonardo discount the directory did not print. The nearby image tool, if text in the image is the job, is [Leonardo vs Ideogram](/blog/leonardo-vs-ideogram-2026/).
+**Leonardo.** Free exists for casual use. Essential is $12 a month with 8,500 fast tokens, and the directory says you can bank up to 25,500. Premium is $30 a month with 25,000 fast tokens and unlimited relaxed images on select models. Ultimate is $60 a month with 60,000 fast tokens. Team Starter is listed at $24 a seat and $72 a month, with a shared pool. Those are monthly figures on the card. This page does not invent an annual Leonardo discount the directory did not print. The nearby image tool, if text in the image is the job, is [Ideogram](/tools/ideogram/), compared in [Leonardo vs Ideogram](/blog/leonardo-vs-ideogram-2026/).
 
 Do not convert Leonardo tokens into Midjourney hours. They are different meters. A light month on Leonardo can bank tokens. A light month on Midjourney Standard still uses the subscription, and Relax is how you stop spending Fast hours.
 
@@ -51,7 +51,7 @@ If you already know you will generate every week and you want one aesthetic stud
 
 Buy Midjourney Pro when Stealth Mode is a requirement, not because the next tier "sounds professional." Buy Leonardo's team line when several people should draw from one pool and the generations should stay in that team. The directory lists private team generations on that plan.
 
-If the real constraint is commercial training data and you already live in Adobe, that is Firefly, not this pair. The card is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). If you want a chat app to draw one picture, that is a third workflow: [Midjourney vs ChatGPT Images](/blog/midjourney-vs-chatgpt-images-2026/).
+If the real constraint is commercial training data and you already live in Adobe, that is [Firefly](/tools/adobe-firefly/), not this pair. The card is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/). If you want a chat app to draw one picture, that is a third workflow: [Midjourney vs ChatGPT Images](/blog/midjourney-vs-chatgpt-images-2026/).
 
 ## FAQ
 

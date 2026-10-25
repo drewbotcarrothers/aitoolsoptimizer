@@ -57,7 +57,7 @@ Overage behavior from the October 16 directory note: on Core and Pro, usage beyo
 
 ## How to read this next to Bolt and Lovable
 
-[Bolt.new](/tools/bolt-new/) prints a cleaner token card. Pro is $25 month to month or $18 billed annually, and Free includes 1 million tokens. That invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/). [Lovable](/tools/lovable/) Pro is $25 a month for 100 credits, with unlimited members. The switch list is [Lovable alternatives](/blog/lovable-alternatives-2026/).
+[Bolt.new](/tools/bolt-new/) prints a cleaner token card. Pro is $25 month to month or $18 billed annually, and Free includes 1 million tokens. That invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/). [Lovable](/tools/lovable/) Pro is $25 a month for 100 credits, with unlimited members. A prompt-to-UI builder in this set is [v0](/tools/v0/). The switch list is [Lovable alternatives](/blog/lovable-alternatives-2026/).
 
 Replit is the one in this set that is also a cloud IDE. You pay, on this reading, $18 a month annually to leave the Starter badge and the single 30-day app, and $90 a month annually when the team approaches 15 builders and wants rollover. A Replit credit, a Bolt token, and a Lovable credit are different meters. Compare them by building the same small app on Starter and on Bolt's free plan, then look at the usage screen.
 

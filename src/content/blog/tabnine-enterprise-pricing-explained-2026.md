@@ -34,7 +34,7 @@ flowchart TD
 
 Neighboring products have numbers because their pages printed numbers. Cursor Enterprise is contact sales, while Cursor Teams is $30, $100, or $200 a seat a month, on the October 24 help page. GitHub Copilot Enterprise is $39 a user a month on the October 16 directory card, and Business is $19. Those are not Tabnine tiers. Putting $39 next to Tabnine because both words say Enterprise is how a budget gets a fictional line.
 
-Claude Code is included on Claude Pro, at $17 a month billed annually or $20 monthly, on the October 24 pricing table. That is an Anthropic seat. It does not unlock a Tabnine contract, and it does not imply what Tabnine costs.
+Claude Code is included on [Claude](/tools/claude/) Pro, at $17 a month billed annually or $20 monthly, on the October 24 pricing table. That is an Anthropic seat. It does not unlock a Tabnine contract, and it does not imply what Tabnine costs.
 
 The Tricentis notice is a ownership statement, not a price list. Logging in as an existing user may show that account's plan. This page did not log in, and it will not describe an account we did not see.
 

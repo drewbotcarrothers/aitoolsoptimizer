@@ -13,7 +13,7 @@ draft: false
 
 Prices come from Fireflies' pricing article in its knowledge base, recorded October 16, 2026, in US dollars. The live checkout can add tax or show a different currency. We did not measure transcript word-error rates, and we did not score AskFred against a test set of questions.
 
-For the wider field, use [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Otter's minute caps are spelled out in the [Otter.ai review](/blog/otter-ai-review-2026/). A bot-free notepad is the [Granola review](/blog/granola-review-2026/).
+For the wider field, use [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). [Otter](/tools/otter-ai/)'s minute caps are spelled out in the [Otter.ai review](/blog/otter-ai-review-2026/). A bot-free notepad is the [Granola review](/blog/granola-review-2026/). A bot with unlimited recordings on the free plan is [Fathom](/tools/fathom/).
 
 ## What the invoice actually changes
 

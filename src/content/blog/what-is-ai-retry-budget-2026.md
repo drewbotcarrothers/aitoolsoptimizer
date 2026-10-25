@@ -13,7 +13,7 @@ draft: false
 
 A retry that charges a card or sends an email has to perform that side effect once. That key is [what AI idempotency is](/blog/what-is-ai-idempotency-2026/). The unit you pay again is [what AI tokens are](/blog/what-are-ai-tokens-explained-2026/).
 
-Prices are US list prices excluding tax. Seat prices are from directory pages checked October 16, 2026. n8n's price stays in euros. DeepSeek's token prices are from the same directory check. Published October 24, 2026. We did not measure error rates.
+Prices are US list prices excluding tax. Seat prices are from directory pages checked October 16, 2026. n8n's price stays in euros. [DeepSeek](/tools/deepseek/)'s token prices are from the same directory check. Published October 24, 2026. We did not measure error rates.
 
 ## What the budget has to name
 

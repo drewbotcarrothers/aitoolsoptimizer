@@ -44,7 +44,7 @@ It will not quote a Plus price from memory, from a screenshot we do not have, or
 
 **Plus** is the plan for a learner who wants Practice Tests, Study Guides, Learn, and Expert Solutions and can live with monthly limits. **Plus Unlimited** is the plan that adds custom study paths, progress tracking, and smart grading. **Plus for teachers** is the annual plan with formative assessment. **Family** is the shared annual plan with no trial. **Group** is the one-year, non-renewing purchase for a class or department.
 
-A student who needs a tutor that explains a worked solution, rather than a card set, should read the Khanmigo article before paying Quizlet for a job it did not claim. A teacher who needs lesson-planning AI should read the MagicSchool article. [ChatGPT](/tools/chatgpt/) Plus at $20 a month can draft a practice set from notes you paste. It is not a substitute for a set you have checked, and it is a different bill. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
+A student who needs a tutor that explains a worked solution, rather than a card set, should read the [Khanmigo](/tools/khanmigo/) article before paying Quizlet for a job it did not claim. A teacher who needs lesson-planning AI should read the [MagicSchool](/tools/magicschool/) article. [ChatGPT](/tools/chatgpt/) Plus at $20 a month can draft a practice set from notes you paste. It is not a substitute for a set you have checked, and it is a different bill. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
 ## What not to assume
 

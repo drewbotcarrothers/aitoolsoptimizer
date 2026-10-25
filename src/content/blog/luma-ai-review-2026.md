@@ -11,7 +11,7 @@ draft: false
 
 **[Luma AI](/tools/luma-ai/) is a video generation product sold as monthly credits, with access to Luma's own models and third-party models on the same plans.** On October 24, 2026 the individual plans were Plus at **$30 a month or $300 billed yearly** for **10,000 credits**, Pro at **$90 or $900** for **40,000 credits**, and Ultra at **$300 or $3,000** for **150,000 credits**. Team and Enterprise say contact us. The page also says you can save up to 20% with yearly billing.
 
-We did not compare shots with Runway or Kling. Those comparisons live in [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/) and [best AI video generators](/blog/best-ai-video-generators-2026/). Luma's decision is mostly arithmetic: each paid step is a credit multiple, and the yearly charge is ten times the monthly price.
+We did not compare shots with Runway or [Kling](/tools/kling-ai/). Those comparisons live in [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/) and [best AI video generators](/blog/best-ai-video-generators-2026/). Luma's decision is mostly arithmetic: each paid step is a credit multiple, and the yearly charge is ten times the monthly price.
 
 ## The individual plans
 

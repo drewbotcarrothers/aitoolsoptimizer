@@ -45,7 +45,7 @@ There is a tension to keep. The Suite Team card lists "AI Agents" as a feature S
 
 **Action credits** were listed at $200 per 100,000 actions per subscription term, as an add-on, on the compare table. Included action allowances differ by plan. This article does not reprint every allowance. Read the row for the plan you are on.
 
-**Intercom Fin**, on the October 16 card, is $49 a month including 50 outcomes, then $0.99 an outcome. That is a different meter from a Zendesk seat plus resolutions. [Tidio](/tools/tidio/) Starter is $24.17 a month billed annually on that card. [Notion AI](/tools/notion-ai/) Business at $20 a seat a month is a wiki, not a help desk. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+**[Intercom Fin](/tools/intercom-fin/)**, on the October 16 card, is $49 a month including 50 outcomes, then $0.99 an outcome. That is a different meter from a Zendesk seat plus resolutions. [Tidio](/tools/tidio/) Starter is $24.17 a month billed annually on that card. [Notion AI](/tools/notion-ai/) Business at $20 a seat a month is a wiki, not a help desk. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
 The page said the default trial is Suite Professional for 14 days, with Copilot included in that trial. A trial price is not the renewal.
 

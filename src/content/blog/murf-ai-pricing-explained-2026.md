@@ -11,7 +11,7 @@ draft: false
 
 **On October 24, 2026, murf.ai/pricing showed Falcon text-to-speech at $0.01 per 1,000 characters and studio-quality text-to-speech at $0.03 per 1,000 characters.** Voice Changer was $0.10 per minute. Translation was $0.02 per 1,000 characters. The free API trial was $10 of credit. Studio subscription prices did not appear in that extract, so this article does not print a Studio seat price.
 
-The character arithmetic, from the October 16 directory record of the same API rates, is [Murf pricing explained](/blog/murf-pricing-explained-2026/). A narrated explainer compared with another voice product is [ElevenLabs vs Murf for explainers](/blog/elevenlabs-vs-murf-for-explainers-2026/). ElevenLabs' own sticker is [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained-2026/).
+The character arithmetic, from the October 16 directory record of the same API rates, is [Murf pricing explained](/blog/murf-pricing-explained-2026/). A narrated explainer compared with another voice product is [ElevenLabs vs Murf for explainers](/blog/elevenlabs-vs-murf-for-explainers-2026/). [ElevenLabs](/tools/elevenlabs/)' own sticker is [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained-2026/).
 
 Published October 24, 2026. Prices below are the USD figures on that Murf page. We did not score voices. We did not see a tax line.
 

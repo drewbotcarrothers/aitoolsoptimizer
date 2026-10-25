@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Microsoft Copilot is free with a signed-in Microsoft account. Microsoft 365 Personal is $9.99 a month, Family is $12.99 a month, and Premium is $19.99 a month. Copilot Business was listed from $18 a user a month paid yearly, shown as reduced from $21.** The free product is a chatbot. The paid consumer plans are Microsoft 365 subscriptions that raise Copilot usage and include Office apps. The business plans are a per-user work seat. GitHub Copilot, the coding product, is a different invoice.
+**Microsoft Copilot is free with a signed-in Microsoft account. Microsoft 365 Personal is $9.99 a month, Family is $12.99 a month, and Premium is $19.99 a month. Copilot Business was listed from $18 a user a month paid yearly, shown as reduced from $21.** The free product is a chatbot. The paid consumer plans are Microsoft 365 subscriptions that raise Copilot usage and include Office apps. The business plans are a per-user work seat. [GitHub Copilot](/tools/github-copilot/), the coding product, is a different invoice.
 
 That coding invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/). The assistant that sits in Gmail and Docs instead of Word and Excel is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). A general chat seat with no Office apps is [ChatGPT review](/blog/chatgpt-review-2026/).
 

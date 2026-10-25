@@ -32,15 +32,15 @@ flowchart TD
   size -->|One person| pro["Pro at 17 USD a month annual, or 20 monthly. That is not Team"]
 ```
 
-The October 24 compare table lists Claude Code on Team. The Claude Code article, from the same page, says terminal work and chat share the plan's usage. A Team seat does not mint a separate unlimited coding pool. The Team block we read also shows the line "Enterprise search across your organization" beside the seat types. Treat that as a line to confirm on the plan you buy. The seat dollars, the 2-to-150 range, mix-and-match, and the pooled credit cap are the figures this article will stand on. SSO and the "no model training on your content by default" line are recorded in the Claude pricing article from this same page. Read that article's date, then read checkout if the control is why you are buying.
+The October 24 compare table lists [Claude Code](/tools/claude-code/) on Team. The Claude Code article, from the same page, says terminal work and chat share the plan's usage. A Team seat does not mint a separate unlimited coding pool. The Team block we read also shows the line "Enterprise search across your organization" beside the seat types. Treat that as a line to confirm on the plan you buy. The seat dollars, the 2-to-150 range, mix-and-match, and the pooled credit cap are the figures this article will stand on. SSO and the "no model training on your content by default" line are recorded in the Claude pricing article from this same page. Read that article's date, then read checkout if the control is why you are buying.
 
 ## What you are not buying
 
 **A stack of Pro seats.** Pro is $17 a month with annual billing, $200 up front, or $20 monthly. Pro is one person. Team is the plan with central billing and the 2-to-150 range. Five Pro checkouts are not a Team admin console.
 
-**ChatGPT Business,** if the other workspace is the comparison, is $20 a user a month billed annually for two or more users, or $25 monthly, on learn.chatgpt.com/docs/pricing the same day. The page names it Business, not Team. The invoice is [ChatGPT Team pricing explained](/blog/chatgpt-team-pricing-explained-2026/).
+**[ChatGPT](/tools/chatgpt/) Business,** if the other workspace is the comparison, is $20 a user a month billed annually for two or more users, or $25 monthly, on learn.chatgpt.com/docs/pricing the same day. The page names it Business, not Team. The invoice is [ChatGPT Team pricing explained](/blog/chatgpt-team-pricing-explained-2026/).
 
-**Cursor**, if the work is an editor seat, is Plus at $8 a month or $80 a year on the October 16 directory card. That is not a Claude Team discount. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
+**[Cursor](/tools/cursor/)**, if the work is an editor seat, is Plus at $8 a month or $80 a year on the October 16 directory card. That is not a Claude Team discount. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
 **Max,** from $100 a month, is the individual all-day plan on the October 24 page. A premium Team seat is also $100 at the annual rate. They are different products at a similar sticker. Max is one person. Premium is a seat type inside Team. Do not swap the names on a purchase order.
 

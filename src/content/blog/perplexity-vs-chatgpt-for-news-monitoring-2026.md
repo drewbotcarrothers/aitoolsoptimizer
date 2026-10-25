@@ -42,7 +42,7 @@ A stale summary that sounds current is [a hallucination](/blog/what-is-ai-halluc
 
 **ChatGPT Plus is $20 a month**, or $240 a year at that rate. Projects and scheduled tasks are on the Plus card. **Go is $8**, and the card says it may include ads. **Business is $20 a user a month billed annually**, minimum two users, with no training on business data by default. A watchlist that includes unreleased company news belongs on the plan your admin allows. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Claude Pro at $20, or $17 billed annually**, is a reasonable place to turn a source you already opened into a brief. It is not the cited-search start. The writing seat is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**[Claude](/tools/claude/) Pro at $20, or $17 billed annually**, is a reasonable place to turn a source you already opened into a brief. It is not the cited-search start. The writing seat is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
 **Notion Business at $20 a seat** is where the log should live if more than one person will rely on it. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

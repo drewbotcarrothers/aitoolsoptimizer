@@ -42,7 +42,7 @@ flowchart TD
 
 **The wiki the team already uses.** [Notion AI](/tools/notion-ai/) Business is $20 per seat per month. The spec should live where engineering will comment. A chat transcript is a poor system of record. The notes comparison is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/).
 
-**ChatGPT, if that is the team's default.** Plus is $20 and lists projects. Use a Project for the running spec. Use a custom GPT only for the format, not for the facts. That split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
+**[ChatGPT](/tools/chatgpt/), if that is the team's default.** Plus is $20 and lists projects. Use a Project for the running spec. Use a custom GPT only for the format, not for the facts. That split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
 
 **A screen, after the paragraph.** [v0](/tools/v0/) Plus is $30 per user per month with $30 of credits, on the page read October 24, 2026. Free is a 7-message day. Label the output "prototype." Link the spec. Do not let the generated UI add a button the non-goals forbade. The invoice is [v0 pricing explained](/blog/v0-pricing-explained-2026/). [Bolt.new](/tools/bolt-new/) is the other builder if you want the larger free token pool. The comparison is [Bolt vs Lovable vs v0](/blog/bolt-vs-lovable-vs-v0-2026/).
 

@@ -34,7 +34,7 @@ flowchart TD
   q1 -->|A repository| code["A coding tool that picks files"]
 ```
 
-The retrieval pattern is [what RAG is](/blog/what-is-rag-explained-2026/). The notebook habit is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). The assistant comparison, which is about the product and not the window size, is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+The retrieval pattern is [what RAG is](/blog/what-is-rag-explained-2026/). The notebook habit is [Gemini Notebook](/tools/gemini-notebook/), in [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). The assistant comparison, which is about the product and not the window size, is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 
 ## Figures this directory has recorded
 

@@ -65,6 +65,7 @@ Plus at $8 is the correct upgrade when Free stops you in the middle of a feature
 
 - You want to stay in VS Code or JetBrains and the code is on GitHub. [GitHub Copilot](/tools/github-copilot/) Free is 2,000 completions a month. Pro is $10. The credit math is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 - You want a terminal agent and you already pay for [Claude](/tools/claude/). [Claude Code](/tools/claude-code/) rides on a Claude plan. The introduction is [Claude Code for beginners](/blog/claude-code-for-beginners-2026/).
+- You already pay for ChatGPT and want the coding agent on that subscription. That is [OpenAI Codex](/tools/openai-codex/).
 - You do not want to look at code. A site builder such as [Lovable](/tools/lovable/) or [Bolt.new](/tools/bolt-new/) is a different product. Lovable Pro is $25/month. Bolt Pro is $25/month. The comparison is [Lovable vs Bolt vs Replit](/blog/lovable-vs-bolt-vs-replit/).
 - You wanted a survey of the whole category. That is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
 

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**[Adobe Express](/tools/adobe-express/) is Adobe's quick-design app for social posts, flyers, short video, and pages, with Firefly generative tools inside it.** The decision is often not "Express versus a blank canvas." It is whether you already own Premium through another Adobe plan.
+**[Adobe Express](/tools/adobe-express/) is Adobe's quick-design app for social posts, flyers, short video, and pages, with [Firefly](/tools/adobe-firefly/) generative tools inside it.** The decision is often not "Express versus a blank canvas." It is whether you already own Premium through another Adobe plan.
 
 Adobe's US plan notes, checked October 16, 2026, list Premium at $9.99 a month, with premium templates, Adobe Stock access under Adobe's limits, brand kits, 100 GB of storage, and 250 generative credits a month. The October 24, 2026 Express help article confirms Premium as a standalone subscription and says it is included with Creative Cloud Standard, Creative Cloud Pro, and Acrobat Studio. The public pricing page is a dynamic storefront and did not return dollar cards to this check. Read the price in your country's Adobe account before you subscribe. We did not score templates against Canva.
 

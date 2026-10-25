@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Midjourney when you want one stylized scene for a social ad and you will set the type in a layout tool. Use Krea when the same approved brief has to be tried on more than one model before a designer picks a still.** A generated image is a draft creative. It is not a media buy, and it is not a claim your review process has cleared. Words that must be spelled inside the image are [Midjourney vs Ideogram for social ads](/blog/midjourney-vs-ideogram-for-social-ads-2026/). This page assumes the offer is set in layout, and the choice is one model family or a switchboard.
+**Use Midjourney when you want one stylized scene for a social ad and you will set the type in a layout tool. Use Krea when the same approved brief has to be tried on more than one model before a designer picks a still.** A generated image is a draft creative. It is not a media buy, and it is not a claim your review process has cleared. Words that must be spelled inside the image are [Midjourney vs Ideogram for social ads](/blog/midjourney-vs-ideogram-for-social-ads-2026/). This page assumes the offer is set in layout, and the choice is one model family or a switchboard. If the still has to be generated inside an Adobe file, that path is [Adobe Firefly](/tools/adobe-firefly/).
 
 The pair without this ad constraint is [Midjourney vs Krea](/blog/midjourney-vs-krea-2026/). An internal direction, not a placement, is [Midjourney vs Krea for concept art](/blog/midjourney-vs-krea-for-concept-art-2026/). A sequence of frames is [Midjourney vs Krea for storyboards](/blog/midjourney-vs-krea-for-storyboards-2026/).
 

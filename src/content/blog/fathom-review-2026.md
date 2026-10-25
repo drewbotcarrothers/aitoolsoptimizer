@@ -11,7 +11,7 @@ draft: false
 
 **[Fathom](/tools/fathom/) is an AI notetaker for Zoom, Google Meet, and Microsoft Teams.** The reason to try it before a paid seat is the free plan: unlimited recordings and transcripts. Premium is the individual upgrade, at $16 a month billed annually or $20 month to month. Team and Business are per-user plans with a two-user minimum.
 
-Those prices were read from Fathom's pricing page on October 24, 2026. The page leads with annual billing and says it saves 25% or more. Prices are in US dollars. Tax can be extra. We did not score summary quality against Otter or Fireflies. The four-way comparison is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/).
+Those prices were read from Fathom's pricing page on October 24, 2026. The page leads with annual billing and says it saves 25% or more. Prices are in US dollars. Tax can be extra. We did not score summary quality against [Otter](/tools/otter-ai/) or Fireflies. The four-way comparison is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/).
 
 ## What each plan lists
 

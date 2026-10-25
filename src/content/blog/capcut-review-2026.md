@@ -68,7 +68,7 @@ The score records what CapCut publishes. It is not a picture-quality score.
 4. If you also need generated B-roll, price those credits separately from the editor subscription.
 5. Hand a long podcast to [Descript](/tools/descript/) or a finished long video to [OpusClip](/tools/opusclip/). Bring the short back to CapCut if the last mile is captions and a template.
 
-Generators that start from a prompt are in [best AI video generators](/blog/best-ai-video-generators-2026/). [invideo AI](/tools/invideo-ai/) Starter is $10 per seat per month billed annually when the video is generated rather than edited.
+Generators that start from a prompt are in [best AI video generators](/blog/best-ai-video-generators-2026/). [Runway](/tools/runway/) is the studio when you do not have footage yet. [invideo AI](/tools/invideo-ai/) Starter is $10 per seat per month billed annually when the video is generated rather than edited.
 
 ## FAQ
 

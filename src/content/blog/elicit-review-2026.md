@@ -13,7 +13,7 @@ draft: false
 
 Those figures were read from Elicit's pricing page on October 24, 2026. The page has an Industry control and a monthly/yearly control. The yearly cards print a save percentage against monthly billing. The text we extracted did not include a separate monthly dollar amount. We did not audit extraction accuracy. Elicit says its team tests accuracy. That is their claim, not a score from us.
 
-For a cited answer without the table, use [Consensus](/tools/consensus/) and the [Consensus review](/blog/consensus-review-2026/). For the open web, use the [Perplexity review](/blog/perplexity-review-2026/).
+For a cited answer without the table, use [Consensus](/tools/consensus/) and the [Consensus review](/blog/consensus-review-2026/). For the open web, use [Perplexity](/tools/perplexity/). The write-up is the [Perplexity review](/blog/perplexity-review-2026/).
 
 ## Two grids
 

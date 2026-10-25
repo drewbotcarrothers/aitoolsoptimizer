@@ -35,7 +35,7 @@ flowchart TD
   have -->|A linked SuperGrok or a Grok Business seat| link["Access follows that grant. It does not add on top of a Cursor plan"]
 ```
 
-The pricing page says new self-serve customers choose The X Subscription, and existing Cursor, SuperGrok, and X Premium plans continue. Switching is optional. Bot usage on The X Subscription draws from the seat's shared weekly pool, which also covers Grok models across Grok and Cursor. Third-party models in Cursor are not in that included pool, on that page. They use additional-usage credits from the first use.
+The pricing page says new self-serve customers choose The X Subscription, and existing [Cursor](/tools/cursor/), SuperGrok, and X Premium plans continue. Switching is optional. Bot usage on The X Subscription draws from the seat's shared weekly pool, which also covers [Grok](/tools/grok/) models across Grok and Cursor. Third-party models in Cursor are not in that included pool, on that page. They use additional-usage credits from the first use.
 
 Team plans are Premium at $30 a seat, Super at $100, and Ultra at $200. The page says each seat includes the same usage as the matching individual tier, and that members of one team can mix tiers. Plus is not available for teams.
 
@@ -47,7 +47,7 @@ The October 16 directory card's starting price is $30 a month, which matches Pre
 
 Legacy Cursor prices on the October 16 directory card, for people who have not switched, are Pro at $20, Pro+ at $60, Ultra at $200, Teams Standard at $40 a user, and Teams Premium at $120 a user. The help page says legacy Pro, Pro+, Ultra, and self-serve Teams include the Bot, with different weekly allowances. Enterprise is "ask your account executive," on that page. This article does not invent an Enterprise dollar figure.
 
-**OpenAI Dots** sit on ChatGPT plans, not on this bill. Do not add a $30 Premium seat and a ChatGPT Pro seat and call the sum a Grok Bot price.
+**[OpenAI Dots](/tools/openai-dots/)** sit on ChatGPT plans, not on this bill. Do not add a $30 Premium seat and a ChatGPT Pro seat and call the sum a Grok Bot price.
 
 ## What not to assume
 

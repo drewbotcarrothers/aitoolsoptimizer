@@ -33,7 +33,7 @@ US prices below come from OpenAI's Help Center and plan documentation. The featu
 
 > **Figure (upgrade diagram, not a product screenshot).** **Alt:** Four steps. Free if caps are rare. Go at $8 if you want more uploads and images and accept that ads may appear. Plus at $20 if you need reasoning, research, Codex, or Office extensions. Pro at $100 or more only after Plus limits cost you finished work. Do not skip Plus to "try Pro."
 
-How these prices sit next to Claude and Gemini is in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/) and [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). The Claude-side version of this question is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+How these prices sit next to [Claude](/tools/claude/) and [Gemini](/tools/gemini/) is in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/) and [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). A cited answer, rather than a chat seat, is [Perplexity](/tools/perplexity/). The Claude-side version of this question is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 ## What OpenAI actually publishes about limits
 

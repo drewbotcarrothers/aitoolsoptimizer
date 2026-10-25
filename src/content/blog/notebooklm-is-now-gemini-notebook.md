@@ -60,7 +60,7 @@ How to use the free caps for a course is [how to use Gemini Notebook for studyin
 
 - It did not become Gemini chat. You still bring the sources. Empty notebook, thin answer.
 - It did not become unlimited because the name sounds like a flagship. Three Audio Overviews a day is the free audio cap in the table.
-- It did not pick up Claude's or ChatGPT's coding-agent job. Comparing those assistants is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+- It did not pick up [Claude](/tools/claude/)'s or [ChatGPT](/tools/chatgpt/)'s coding-agent job. Comparing those assistants is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 - A school or work policy that blocked NotebookLM still applies. The rename is not a new vendor review.
 
 ## Who should move up, and who should stay

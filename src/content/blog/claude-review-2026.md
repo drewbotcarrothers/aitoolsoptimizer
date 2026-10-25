@@ -9,9 +9,9 @@ sample: false
 draft: false
 ---
 
-**[Claude](/tools/claude/) is Anthropic's assistant for writing, analysis, files, and code, including Claude Code on the same subscription.** Pro is $20 a month, or $17 a month if you pay $200 up front. Max is not a different product. It is more of the same usage pool. The limit math is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). This review is what the assistant is for.
+**[Claude](/tools/claude/) is Anthropic's assistant for writing, analysis, files, and code, including [Claude Code](/tools/claude-code/) on the same subscription.** Pro is $20 a month, or $17 a month if you pay $200 up front. Max is not a different product. It is more of the same usage pool. The limit math is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). This review is what the assistant is for.
 
-Prices and the usage rules were read from Claude's pricing page on October 24, 2026. List prices exclude tax. App-store prices can differ from the web. We did not count messages or score essays against ChatGPT.
+Prices and the usage rules were read from Claude's pricing page on October 24, 2026. List prices exclude tax. App-store prices can differ from the web. We did not count messages or score essays against [ChatGPT](/tools/chatgpt/).
 
 The three-way choice is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). The drafting cut is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 

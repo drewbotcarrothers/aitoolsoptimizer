@@ -13,7 +13,7 @@ draft: false
 
 Prices are US dollars from ClickUp's Brain and pricing pages, recorded October 16, 2026. Do not add the $9 and the $28 together unless your checkout shows both as line items. The pages describe them as two AI tiers. Confirm the stack in billing, because a mis-added invoice is a $37 misunderstanding. Tax and currency can differ. We did not benchmark model quality inside ClickUp against the same models in their own apps.
 
-If the wiki is Notion, use the [Notion AI review](/blog/notion-ai-review-2026/). A general "what should I pay for" pass is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+If the wiki is Notion, use [Notion AI](/tools/notion-ai/). The write-up is the [Notion AI review](/blog/notion-ai-review-2026/). A general "what should I pay for" pass is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
 ## The workspace, then the AI
 

@@ -46,9 +46,9 @@ Class Central's report, as summarized in the directory, also said Duolingo's CEO
 
 **A general chatbot** can role-play a conversation. [ChatGPT](/tools/chatgpt/) Free can do a short practice. Plus is $20 a month if you want projects and higher limits. It will not keep your Duolingo streak, and it is not a substitute for the lesson path. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Khanmigo** at $4 a month or $44 a year is a tutor for Khan Academy subjects, free for teachers. It is not a language course. Compare jobs, not stickers.
+**[Khanmigo](/tools/khanmigo/)** at $4 a month or $44 a year is a tutor for Khan Academy subjects, free for teachers. It is not a language course. Compare jobs, not stickers.
 
-MagicSchool Plus at $8.33 a user a month billed annually is for teachers building lessons. A learner's Duolingo subscription does not buy that.
+[MagicSchool](/tools/magicschool/) Plus at $8.33 a user a month billed annually is for teachers building lessons. A learner's Duolingo subscription does not buy that.
 
 ## What to check before you renew
 

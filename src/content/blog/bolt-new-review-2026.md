@@ -37,7 +37,7 @@ flowchart TD
 
 ## What the builder is for
 
-Bolt is for a founder, marketer, or developer who wants a working web app in the browser and is willing to read the diff. Hosting, a database, and a custom domain are the reasons Pro exists. Free can host, with branding and a lower request cap. If the job is "a landing page I will not maintain," either Bolt or [Lovable](/tools/lovable/) can do it. Lovable's entry paid tier also starts at $25 a month. Finish in the builder you started. Running both on the same page is two bills.
+Bolt is for a founder, marketer, or developer who wants a working web app in the browser and is willing to read the diff. Hosting, a database, and a custom domain are the reasons Pro exists. Free can host, with branding and a lower request cap. If the job is "a landing page I will not maintain," either Bolt or [Lovable](/tools/lovable/) can do it. Lovable's entry paid tier also starts at $25 a month. Finish in the builder you started. Running both on the same page is two bills. A hosted IDE that keeps the app in the browser is [Replit](/tools/replit/).
 
 If a developer will own the repository for years, leave the builder. [Cursor](/tools/cursor/) and [Claude Code](/tools/claude-code/) are the editor path, compared in [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). [GitHub Copilot](/tools/github-copilot/) is the GitHub-native seat, at $10, reviewed separately. Bolt is a poor substitute for those when the code already exists.
 

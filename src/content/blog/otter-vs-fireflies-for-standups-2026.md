@@ -46,7 +46,7 @@ Otter also showed promotions when the directory was checked, including 50 percen
 
 **Granola Business at $14** is the path when the team will not accept a bot. Basic keeps 30 days of history. A standup archive you need for a quarter is the paid history, or a note you paste into the tracker the same day. The invoice is [Granola pricing explained](/blog/granola-pricing-explained-2026/).
 
-**Fathom** Free includes unlimited recordings on the directory card, with a bot. Premium is $16 a month billed annually. Use Fathom if that is already the company standard. Do not add a third bot to the same standup. One recorder, agreed in advance.
+**[Fathom](/tools/fathom/)** Free includes unlimited recordings on the directory card, with a bot. Premium is $16 a month billed annually. Use Fathom if that is already the company standard. Do not add a third bot to the same standup. One recorder, agreed in advance.
 
 A prompt that holds the line, after the transcript exists:
 

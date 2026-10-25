@@ -50,7 +50,7 @@ Five people on Business annual is 5 × $250 = $1,250 a year. Five people cannot 
 
 ## The neighbors
 
-[Adobe Express](/tools/adobe-express/) Premium is $9.99 a month with 250 Firefly generative credits. That is a different meter. A year of monthly Express at that rate is not automatically the team plan. Express teams pricing varies on the directory card. If you already pay for Creative Cloud, Express Premium is often included. Check before you add Canva. The Firefly card is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/).
+[Adobe Express](/tools/adobe-express/) Premium is $9.99 a month with 250 [Firefly](/tools/adobe-firefly/) generative credits. That is a different meter. A year of monthly Express at that rate is not automatically the team plan. Express teams pricing varies on the directory card. If you already pay for Creative Cloud, Express Premium is often included. Check before you add Canva. The Firefly card is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/).
 
 [Figma](/tools/figma/) is the interface tool. Professional Full seats start at $16 a month billed annually, with AI credits that are Figma's, not Canva's. Do not buy Canva Business to design a product UI.
 

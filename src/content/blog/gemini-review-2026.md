@@ -64,7 +64,7 @@ $19.99 a month on the United States view we read. It includes about 4× Free usa
 
 ### Does Pro include Google Flow?
 
-Pro includes 1,000 Google Flow credits a month, on top of the 50 daily credits everyone gets. Credit costs per video are in the Flow review. They are not unlimited.
+Pro includes 1,000 [Google Flow](/tools/google-flow/) credits a month, on top of the 50 daily credits everyone gets. Credit costs per video are in the Flow review. They are not unlimited.
 
 ## Last verified
 

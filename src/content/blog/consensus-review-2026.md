@@ -46,7 +46,7 @@ Pro is the plan when 10 messages is the thing that stops a weekly habit. At the 
 
 Teams is not "Pro, but cheaper per person" until you have the quote. The help center says Teams includes Pro features and 50 Deep reviews per user, which is more Deep reviews than individual Pro (15) and far fewer than individual Deep (200). Price Teams against the Deep-review count you need, not against the word Teams.
 
-Consensus is the wrong tool for a draft in your voice. Take the papers to [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) after you have opened them. It is also the wrong tool for "what does the web say this week." That is Perplexity. Students comparing a whole stack should read [best AI tools for students](/blog/best-ai-tools-for-students-2026/).
+Consensus is the wrong tool for a draft in your voice. Take the papers to [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) after you have opened them. It is also the wrong tool for "what does the web say this week." That is [Perplexity](/tools/perplexity/). Students comparing a whole stack should read [best AI tools for students](/blog/best-ai-tools-for-students-2026/).
 
 ## Who should pay
 

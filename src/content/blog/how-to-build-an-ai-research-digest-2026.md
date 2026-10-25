@@ -44,7 +44,7 @@ A digest that will be reread next quarter needs the date on every source. Models
 
 **Format the issue.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the packet. Ask for one paragraph per URL and a final "so what" that quotes your decision sentence. [Gemini Notebook](/tools/gemini-notebook/) is the better formatter when the sources are files you uploaded for one study session. The directory lists it as free, with higher limits on Google AI Plus at $4.99 a month, in the retrieval-augmented chat article's October 16 note. That notebook is [retrieval-augmented chat](/blog/what-is-retrieval-augmented-chat-2026/) over files you brought.
 
-**ChatGPT, if the team will not leave it.** Plus is $20. Put the digest in a Project so last month's sources stay attached. The container is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/). A custom GPT can hold the headings. It should not hold the facts. The facts change every issue.
+**[ChatGPT](/tools/chatgpt/), if the team will not leave it.** Plus is $20. Put the digest in a Project so last month's sources stay attached. The container is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/). A custom GPT can hold the headings. It should not hold the facts. The facts change every issue.
 
 Competitive pages are gathered the same way as [how to use AI for competitive analysis](/blog/how-to-use-ai-for-competitive-analysis-2026/). A content team that turns the digest into a calendar is [how to build an AI content calendar](/blog/how-to-build-an-ai-content-calendar-2026/).
 

@@ -33,7 +33,7 @@ flowchart TD
   plan -->|Enterprise| ent["Off until an admin enables it"]
 ```
 
-The same Dots page says you may not see dots immediately even on an eligible plan. Conversations with your dot do not count toward ChatGPT usage limits. Tasks the dot starts in Work or Codex count toward those products' limits as usual. The plan includes an allowance for deeper work, with extended limits for the first month after launch. The page does not print that allowance as a number of tasks or a dollar credit. This article does not invent one.
+The same Dots page says you may not see dots immediately even on an eligible plan. Conversations with your dot do not count toward [ChatGPT](/tools/chatgpt/) usage limits. Tasks the dot starts in Work or Codex count toward those products' limits as usual. The plan includes an allowance for deeper work, with extended limits for the first month after launch. The page does not print that allowance as a number of tasks or a dollar credit. This article does not invent one.
 
 It also says you create a dot in the ChatGPT mobile app, desktop app, or a desktop browser. Mobile web is not supported. The October 16 directory card says the same platforms in substance, and says Edu and Healthcare can try a beta when an admin enables it. The October 24 page's access section that we read names Enterprise, not Edu or Healthcare. Use the page you can open on the day you buy. The directory's "first dot included" sentence is dated October 16. The October 24 page does not print an add-on price, and it does not print "first dot" in the section we used. Absence of an add-on price is not a promise about a second dot. The directory says OpenAI planned to let you add more dots later and had not published that price.
 
@@ -43,9 +43,9 @@ It also says you create a dot in the ChatGPT mobile app, desktop app, or a deskt
 
 **Business,** the plan at $20 a user a month billed annually, is a different name from Business Premium. The October 24 Codex page prices Business. It does not, in the section we read, price Business Premium. If a workspace is on Business and not Business Premium, do not assume dots from the similar name.
 
-**Claude Pro** at $17 a month annual or $20 monthly is a different company's seat, from claude.com/pricing on October 24. It is not a discount on Dots. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**[Claude](/tools/claude/) Pro** at $17 a month annual or $20 monthly is a different company's seat, from claude.com/pricing on October 24. It is not a discount on Dots. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
-**Grok Bot** starts at X Subscription Premium, $30 a month, on docs fetched the same day. That is not an OpenAI product and it does not include a dot.
+**[Grok Bot](/tools/grok-bot/)** starts at X Subscription Premium, $30 a month, on docs fetched the same day. That is not an OpenAI product and it does not include a dot.
 
 ## What not to assume
 

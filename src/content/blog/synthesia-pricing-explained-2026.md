@@ -53,7 +53,7 @@ Personal avatars exist. Enterprise includes them without a tight cap. Do not ass
 
 ## Four buyers
 
-**Someone testing whether an avatar is acceptable.** Basic. Ten watermarked minutes is a real test. HeyGen's free plan, by comparison, is 3 videos of up to 1 minute. If the test needs a longer clip, Synthesia Basic is the more generous free file.
+**Someone testing whether an avatar is acceptable.** Basic. Ten watermarked minutes is a real test. [HeyGen](/tools/heygen/)'s free plan, by comparison, is 3 videos of up to 1 minute. If the test needs a longer clip, Synthesia Basic is the more generous free file.
 
 **One trainer publishing a short monthly module.** Starter, after you estimate minutes. Yearly at the $19-equivalent is the discount once the format sticks. Stay on monthly at $29 until the second video ships.
 

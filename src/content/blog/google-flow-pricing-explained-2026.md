@@ -59,11 +59,11 @@ A Quality clip at 100 credits spends a tenth of Pro's monthly 1,000, before the 
 
 ## What you are comparing it with
 
-**Runway** Standard is $12 a month billed annually on the October 16 directory card, with a separate credit system. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/). Do not add Flow credits and Runway credits into one balance.
+**[Runway](/tools/runway/)** Standard is $12 a month billed annually on the October 16 directory card, with a separate credit system. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/). Do not add Flow credits and Runway credits into one balance.
 
-**Synthesia** Starter is $29 a month billed monthly on the October 24 Synthesia page, for a presenter-style lesson. Flow is a generative clip studio. A policy training avatar is the Synthesia or HeyGen article, not this credit table.
+**[Synthesia](/tools/synthesia/)** Starter is $29 a month billed monthly on the October 24 Synthesia page, for a presenter-style lesson. Flow is a generative clip studio. A policy training avatar is the Synthesia or HeyGen article, not this credit table.
 
-**Gemini** itself is the subscription. Paying for Pro to get Gmail and 5 TB, which the subscriptions page lists on Pro, also buys the 1,000 Flow credits. If you only wanted the storage, the Flow credits are still part of that bill. If you only wanted Flow, you are still buying the Google AI plan.
+**[Gemini](/tools/gemini/)** itself is the subscription. Paying for Pro to get Gmail and 5 TB, which the subscriptions page lists on Pro, also buys the 1,000 Flow credits. If you only wanted the storage, the Flow credits are still part of that bill. If you only wanted Flow, you are still buying the Google AI plan.
 
 ## What not to assume
 

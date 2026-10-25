@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**New individuals choose Copilot Pro at $10 a month when the code is already in GitHub and the editor can stay, or Cursor Plus at $8 a month ($80 a year) when they want Cursor's editor on The X Subscription.** The stickers are close. The products are not interchangeable, and many people will only need one. The feature comparison is [Cursor vs GitHub Copilot](/blog/cursor-vs-github-copilot-2026/). The separate invoices are [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/) and [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
+**New individuals choose Copilot Pro at $10 a month when the code is already in GitHub and the editor can stay, or [Cursor](/tools/cursor/) Plus at $8 a month ($80 a year) when they want Cursor's editor on The X Subscription.** The stickers are close. The products are not interchangeable, and many people will only need one. The feature comparison is [Cursor vs GitHub Copilot](/blog/cursor-vs-github-copilot-2026/). The separate invoices are [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/) and [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Copilot's card lists monthly prices and does not print an annual discount. Cursor's new plans list both. Published October 24, 2026. We did not score completions.
 
@@ -38,7 +38,7 @@ A year of Copilot Pro at the printed monthly price is 12 × $10 = $120. A year o
 
 ## What the first seat includes
 
-**Copilot Pro** adds the cloud agent, code review, third-party agents including Claude Code and Codex, model selection, and $15 in monthly credits. Free stays on a completion cap and a smaller model list, including Haiku 4.5 and GPT-5 mini on the directory card. Students can get a student plan. The review is [GitHub Copilot review](/blog/github-copilot-review-2026/).
+**Copilot Pro** adds the cloud agent, code review, third-party agents including [Claude Code](/tools/claude-code/) and [Codex](/tools/openai-codex/), model selection, and $15 in monthly credits. Free stays on a completion cap and a smaller model list, including Haiku 4.5 and GPT-5 mini on the directory card. Students can get a student plan. The review is [GitHub Copilot review](/blog/github-copilot-review-2026/).
 
 **Cursor Plus** is the entry on The X Subscription, which also covers Grok and X. Premium is the plan the directory calls comparable to the legacy Pro at $20. Existing customers can keep legacy plans: Hobby, Pro at $20, Pro+ at $60, Ultra at $200, Teams Standard at $40, and Teams Premium at $120. Switching from a legacy plan to The X Subscription is optional and permanent once you switch. The review is [Cursor review](/blog/cursor-review-2026/).
 

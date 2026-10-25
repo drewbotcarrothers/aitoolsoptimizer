@@ -11,7 +11,7 @@ draft: false
 
 **Use HeyGen when the training module is a short clip a person watches beside a page you already wrote. Use Synthesia when the module has to be a lesson with a quiz, a survey, or a package your learning system accepts.** The avatar may speak the script. It may not add a step, an exception, or a passing score the script does not contain. A policy announcement, which is one page read aloud, is [HeyGen vs Synthesia for policy training](/blog/heygen-vs-synthesia-for-policy-training-2026/). The people who design the lesson are [best AI tools for learning designers](/blog/best-ai-tools-for-learning-designers-2026/).
 
-HeyGen and Synthesia list prices below are the ones recorded from their pricing pages on October 24, 2026 in the policy-training article, and they match the October 16 directory cards on the monthly stickers this page quotes. Notion and Claude prices are stated with their own dates below. Published October 24, 2026. We did not score completion or lip sync.
+HeyGen and Synthesia list prices below are the ones recorded from their pricing pages on October 24, 2026 in the policy-training article, and they match the October 16 directory cards on the monthly stickers this page quotes. Notion and [Claude](/tools/claude/) prices are stated with their own dates below. Published October 24, 2026. We did not score completion or lip sync.
 
 ## Which module you are building
 

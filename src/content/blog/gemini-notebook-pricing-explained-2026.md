@@ -43,15 +43,15 @@ Sharing a notebook does not change a collaborator's source limit, on that page. 
 
 ## What the dollars are actually buying
 
-**Plus at $4.99** doubles the notebook cap and doubles the sources per notebook, against Standard, on this table. The subscriptions page also lists 2x Gemini usage versus Free, video generation, 200 Google Flow credits, and 400 GB of storage. You are buying that bundle, not a notebook-only SKU.
+**Plus at $4.99** doubles the notebook cap and doubles the sources per notebook, against Standard, on this table. The subscriptions page also lists 2x [Gemini](/tools/gemini/) usage versus Free, video generation, 200 Google Flow credits, and 400 GB of storage. You are buying that bundle, not a notebook-only SKU.
 
 **Pro at $19.99** is the row with 500 notebooks, 300 sources, and the visible-watermark control, subject to the three-country rule. The subscriptions page lists 4x usage versus Free, Gemini 4 Argon, 1,000 Flow credits, and 5 TB. If you only needed 200 notebooks, Plus is the smaller bill.
 
 **Ultra** is the highest Gemini access on the subscriptions page, at $99.99 for 5x Pro's Gemini usage limits or $199.99 for 20x, with 10,000 or 25,000 Flow credits, and storage starting at 20 TB. The notebook help page also has a 30 TB Ultra row, with 600 sources per notebook. This fetch did not show a separate 30 TB dollar price, so match the storage label at checkout. On both Ultra rows the notebook cap stays 500 per user. The extra room in the table is sources, not notebooks.
 
-**Perplexity Pro** is $17 a month billed annually on the October 16 directory card. It searches the web. Notebook answers from sources you add. The October 24 perplexity.ai/pro fetch returned HTTP 403, so the $17 figure stays on the directory record.
+**[Perplexity](/tools/perplexity/) Pro** is $17 a month billed annually on the October 16 directory card. It searches the web. Notebook answers from sources you add. The October 24 perplexity.ai/pro fetch returned HTTP 403, so the $17 figure stays on the directory record.
 
-**Elicit** Plus is $11 a user a month billed annually on the October 16 card, for literature workflows. The invoice is [Elicit pricing explained](/blog/elicit-pricing-explained-2026/). It is not a Google Drive notebook.
+**[Elicit](/tools/elicit/)** Plus is $11 a user a month billed annually on the October 16 card, for literature workflows. The invoice is [Elicit pricing explained](/blog/elicit-pricing-explained-2026/). It is not a Google Drive notebook.
 
 ## What not to assume
 

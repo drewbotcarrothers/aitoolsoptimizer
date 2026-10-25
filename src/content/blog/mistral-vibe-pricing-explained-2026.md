@@ -41,11 +41,11 @@ The student price is not a coupon you apply to an existing account. The director
 
 ## What you are comparing it with
 
-**ChatGPT Plus** is $20 a month. Go is $8. Business is $20 a user a month billed annually, with a monthly figure of $25 on the directory card, and it wants at least two users. Vibe Pro at $14.99 is a lower individual sticker than Plus on these records. It is not the same product. Codex and ChatGPT projects are OpenAI's. Vibe for code is Mistral's CLI and IDE path. Do not quote $14.99 as if it included Plus.
+**[ChatGPT](/tools/chatgpt/) Plus** is $20 a month. Go is $8. Business is $20 a user a month billed annually, with a monthly figure of $25 on the directory card, and it wants at least two users. Vibe Pro at $14.99 is a lower individual sticker than Plus on these records. It is not the same product. Codex and ChatGPT projects are OpenAI's. Vibe for code is Mistral's CLI and IDE path. Do not quote $14.99 as if it included Plus.
 
-**Claude Pro** is $20 a month, or $17 billed annually, and includes Claude Code on the directory card. A team that already lives in Claude projects should read [Claude review](/blog/claude-review-2026/) before adding a second assistant. The $3 gap between Claude's annual Pro price and Vibe Pro is not a reason to merge the bills in one sentence.
+**[Claude](/tools/claude/) Pro** is $20 a month, or $17 billed annually, and includes Claude Code on the directory card. A team that already lives in Claude projects should read [Claude review](/blog/claude-review-2026/) before adding a second assistant. The $3 gap between Claude's annual Pro price and Vibe Pro is not a reason to merge the bills in one sentence.
 
-**Google AI Pro** is $19.99 a month and is the card that names Gemini in Gmail and Docs. If the work lives in Google's apps, the Gemini article is the one to price. Vibe's directory note is the European deployment story: Enterprise can run on-premises, in a private cloud, or on Mistral Cloud. That is a sales conversation. It is not a line on the Pro card.
+**Google AI Pro** is $19.99 a month and is the card that names [Gemini](/tools/gemini/) in Gmail and Docs. If the work lives in Google's apps, the Gemini article is the one to price. Vibe's directory note is the European deployment story: Enterprise can run on-premises, in a private cloud, or on Mistral Cloud. That is a sales conversation. It is not a line on the Pro card.
 
 ## What not to assume
 
