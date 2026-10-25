@@ -24,6 +24,8 @@ The page has a monthly/annual control marked save 20%. The figures below are the
 | Growth | $399 | Save $1,200/year | $499 | The popular card. Sentiment analysis is marked available here |
 | Enterprise | Custom | — | — | Action Center is marked available on Enterprise |
 
+The invoice is [Writesonic pricing explained](/blog/writesonic-pricing-explained-2026/).
+
 An article add-on is printed around **+20 articles for $100 a month**. Additional users show up as "up to 3" and "up to 2" depending on the card, at $50 each. Starter's included team is one user. A second login is not a rounding error. It is $50, or $600 a year, on top of a plan that already starts at $79 on the annual rate.
 
 ```mermaid

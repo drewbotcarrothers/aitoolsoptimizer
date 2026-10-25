@@ -25,6 +25,8 @@ If the team lives in ClickUp, read the [ClickUp Brain review](/blog/clickup-brai
 | Custom Agent credits | $10 per 1,000 credits | After a trial. Business and Enterprise. Recurring agents |
 | Enterprise | Sales | Admin, security, and AI controls |
 
+The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+
 A 10-person Business workspace is 10 × $20 = $200 a month before agent credits, at the list seat price. Custom Agents are extra when they keep running. A team that only chats with Notion Agent inside pages is on the seat price. A team that wants a Slack answerer overnight is on the seat price plus credits.
 
 ```mermaid

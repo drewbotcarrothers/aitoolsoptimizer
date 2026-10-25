@@ -23,6 +23,8 @@ Those dollar amounts were read from the United States view of [gemini.google/sub
 | Google AI Ultra | $99.99/month | About 5× Pro usage, 10,000 Flow credits, storage starting at 20 TB, YouTube Premium |
 | Google AI Ultra | $199.99/month | About 20× Pro usage, 25,000 Flow credits. Project Genie is listed on Ultra |
 
+The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+
 Usage limits are compute-based. Google's footnote says they depend on prompt complexity, features, and chat length, and they refresh every five hours until a weekly limit. There is no message count to quote. Flow credits are a separate meter, explained in the [Google Flow review](/blog/google-flow-review-2026/).
 
 ```mermaid

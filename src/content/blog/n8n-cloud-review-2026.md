@@ -23,6 +23,8 @@ n8n Cloud is the managed product. The free **Community Edition** is self-hosted,
 | Business | €667/month | 40,000 | No. Listed as self-hosted | 6 shared projects. A large jump, and a hosting change |
 | Enterprise | Custom | Custom | n8n-hosted or self-hosted | Unlimited projects, higher concurrency, longer insights, SLA |
 
+The invoice is [n8n Cloud pricing explained](/blog/n8n-cloud-pricing-explained-2026/).
+
 Every plan in the table includes unlimited users, unlimited workflows, and every integration. You do not pay per seat to add a teammate. You pay when executions run out, or when you need Pro's admin and history features.
 
 > **Figure (hosting diagram, not a product screenshot).** **Alt:** A workflow runs once and counts as one execution no matter how many nodes it has. Starter and Pro are n8n Cloud. Community Edition is free on your server. Business in this price table is self-hosted, not the next cloud tier. Make and Zapier sit to the side as per-credit and per-task tools.

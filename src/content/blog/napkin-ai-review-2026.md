@@ -24,6 +24,8 @@ Napkin says a credit is about **one credit per word** you select for generation,
 | Pro | $22 per person / month | 30,000 a month | Exclusive designs, unlimited custom branding, upload your own fonts, credit top-ups |
 | Enterprise | Custom | Custom | Ask sales |
 
+The credit math is [Napkin AI pricing explained](/blog/napkin-ai-pricing-explained-2026/).
+
 Yearly billing is marked 25% off. We read the $9 and $22 figures on the monthly presentation of the cards. A 25% discount would put Plus near **$6.75** and Pro near **$16.50** per person if the label applies cleanly to those prices. Open the yearly toggle and read the charge. Do not send the calculated figure as if Napkin had printed it.
 
 ```mermaid

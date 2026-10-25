@@ -26,6 +26,8 @@ Most meeting tools advertise "AI notes." Otter publishes a harder number: how lo
 | Business | $30 | $19.99 | Unlimited meetings | 4 hours | 200 per user |
 | Enterprise | Custom | Custom | Unlimited | Confirm with sales | Confirm with sales |
 
+The invoice is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/).
+
 A weekly 45-minute staff meeting does not fit Basic, even if you only have one of them. The 300-minute monthly pool would allow several short calls. The 30-minute conversation cap cuts the longer one off. That is the upgrade, before any argument about summary style.
 
 Pro billed annually is $8.33 × 12 = $99.96 a year at the list rate. The same seat left on monthly billing is $16.99 × 12 = $203.88. Business annual is $19.99 × 12 = $239.88, against $360 if you paid the $30 monthly rate all year. Those are list-price products. A promo changes them.

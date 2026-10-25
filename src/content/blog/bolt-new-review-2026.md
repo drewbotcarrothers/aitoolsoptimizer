@@ -22,6 +22,8 @@ Those figures were read from Bolt's pricing page on October 24, 2026. The Pro ca
 | Teams | $30/month, or $27/month billed annually ($324/year) | From 10 million tokens per member. Central billing, admin controls, SSO on the comparison table |
 | Enterprise | Custom | Unlimited tokens, priced by consumption. SOC 2, audit logs, a dedicated manager |
 
+The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/).
+
 Bolt's FAQ says most token use is syncing the project to the model, so a larger project spends more tokens per message. "10 million tokens" is not a count of features you can ship. Paid tokens roll over. The page says rollover is included on Pro. Use a week of Free on a real project before you treat the Pro pool as plenty.
 
 ```mermaid

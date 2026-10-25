@@ -30,6 +30,8 @@ The page presents a slider rather than four named tiers. These are amounts it pr
 | 105,000 | $599.97 |
 | Larger packs | Up to figures in the thousands of dollars |
 
+The credit math is [Lindy pricing explained](/blog/lindy-pricing-explained-2026/).
+
 The important sentence is not the first row. Lindy says **each active user** is billed, from $29.99 for 3,000 credits each. A "team plan" in the old sense, one invoice that covers five people, is not what this page describes. Five active people on the smallest pack are **$149.95 a month** and 15,000 credits split as five pools of 3,000, not one shared 15,000, unless an admin has moved everyone onto a larger shared configuration. Read the workspace billing screen. The marketing slider and the per-user sentence can be true at the same time and still surprise a buyer who multiplies once.
 
 Top-ups are $10 per 1,000 credits at any time. That is **1 cent a credit**. The $29.99 pack is 3,000 credits, which is about the same cent per credit. You are not getting a steep volume discount at the first step. Higher rows sometimes price a credit a little differently. Check the row you will sit on. The $49.99 row for 5,000 credits is also about a cent. The $99.99 row for 15,000 credits is well under a cent. Volume is where the rate moves. Do not buy the smallest pack and top up every week if a larger row is cheaper per credit.

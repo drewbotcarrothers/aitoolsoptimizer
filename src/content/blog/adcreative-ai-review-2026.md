@@ -30,6 +30,8 @@ The page labels quarterly **25% off** and yearly **50% off**. Starter's three he
 | 450 | 10 | On the higher steps | $170 |
 | 600 | 10 | On the higher steps | $200 |
 
+The invoice is [AdCreative.ai pricing explained](/blog/adcreative-ai-pricing-explained-2026/).
+
 Ultimate is a further agency card with larger credit packs. If you are an agency, read that card rather than stretching Professional's 10 brands. Users on Starter are listed as 1. Professional is the multi-user conversation.
 
 ```mermaid

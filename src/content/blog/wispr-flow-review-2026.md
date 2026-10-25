@@ -21,6 +21,8 @@ We did not measure words per minute or accuracy. The review is the cap on the fr
 | Pro | $15/user | $12/user | Individuals and teams. Unlimited dictation, longer notetaker history, centralized billing |
 | Second paid card | $23, with $33 also shown | $18, with $26 also shown | The block labeled most popular on the monthly view: unlimited notetaker, SSO, org-wide HIPAA with a BAA |
 
+The invoice is [Wispr Flow pricing explained](/blog/wispr-flow-pricing-explained-2026/).
+
 The comparison table's free column includes **2,000 words a week on desktop** and limited weekly use on mobile. That 2,000-word line is the practical free cap for people who write on a computer. Mobile is tighter. Pro is the plan that removes the dictation limit. The FAQ says free includes the notetaker with a weekly meeting limit, and that recordings under five minutes do not count toward it. Pro keeps more meetings for longer. Notetaker is Mac and Windows for now. The pricing page, on the day we read it, also said full notetaker access was available through **October 31**. That date is a week after this review. If you are reading later, check whether the promo ended and whether the $23 or $33 figure was the promo price or the standing price.
 
 ```mermaid

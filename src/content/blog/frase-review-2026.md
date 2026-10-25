@@ -22,6 +22,8 @@ Those prices were read from frase.io/pricing on October 24, 2026. The page says 
 | Scale | $299 | $239 | 5 / 10 | 100 articles, 1,000 audit pages. Claude and Gemini added. Exportable client reports |
 | Enterprise | Custom | Custom | Custom | White-label reports, a client portal, SSO |
 
+The invoice is [Frase pricing explained](/blog/frase-pricing-explained-2026/).
+
 Yearly billing is the price Frase leads with. The page says it is about 20% off the monthly rate. Starter holds at its cap, so there is no overage bill. Professional and Scale can turn on pay-as-you-go, off by default. If you turn it on, Professional lists $5 per extra article, $0.50 per extra audit page, and $0.25 per extra AI prompt. Scale lists $4, $0.40, and $0.20. Leave it off unless you mean to pay.
 
 AI Visibility tracks ChatGPT and Google AI on every plan, adds Perplexity on Professional, and adds Claude and Gemini on Scale. It monitors. It does not edit the page. Content Guard proposes a fix and republishes when you approve.

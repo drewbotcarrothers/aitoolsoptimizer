@@ -35,6 +35,8 @@ The category comparison is [best AI voice generators](/blog/best-ai-voice-genera
 | Business | $990 | 6 million | 10 seats, 10 professional clones, low-latency text to speech priced from 5¢ per minute |
 | Enterprise | Custom | Custom | Volume discounts and a sales conversation |
 
+The invoice is [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained-2026/).
+
 Yearly billing exists. Confirm the discounted monthly equivalent at checkout. This table is the monthly list.
 
 **Starter is the default paid plan** for a monetized channel that can live inside 30,000 credits and does not need a professional clone. **Creator is the default** when the voice has to be a specific person. **Pro and above** are for API products and teams. A single YouTube channel does not need Pro unless the credit math from a real script says the Creator pool is too small.

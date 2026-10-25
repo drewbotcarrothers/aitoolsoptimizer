@@ -23,6 +23,8 @@ Prices were re-read on Grammarly's support article on October 24, 2026. The defa
 | Pro, monthly | $30/member/month | The same Pro features |
 | Enterprise | Contact sales, through Superhuman Go | Unlimited prompts, roles, and data-loss prevention, in the materials we checked |
 
+The invoice is [Grammarly pricing explained](/blog/grammarly-pricing-explained-2026/).
+
 Pro allows up to 149 seats. Extra seats are prorated. There is no lifetime plan and no gift plan. Cards, PayPal, Apple Pay, and Google Pay are accepted. Personal checks are not.
 
 ```mermaid

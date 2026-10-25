@@ -25,6 +25,8 @@ Granola's free plan is usable in a way many "free" AI notetakers are not: there 
 | Business | $14/user/month | Unlimited | Zapier, Notion, Slack, Attio, and the rest of the set Granola lists | Same workspace billing |
 | Enterprise | From $35/user/month | Unlimited | Business set, plus admin | SSO, policy management, annual billing option |
 
+The invoice is [Granola pricing explained](/blog/granola-pricing-explained-2026/).
+
 ```mermaid
 flowchart TD
   q1{"Can a bot join the call?"}

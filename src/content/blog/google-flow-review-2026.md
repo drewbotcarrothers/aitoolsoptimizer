@@ -32,6 +32,8 @@ Credit rules were read from Google Flow Help on October 24, 2026. Plan prices we
 | Edit an uploaded or generated video | 40 |
 | 4K upscale | 50, Ultra only |
 
+The credit math is [Google Flow pricing explained](/blog/google-flow-pricing-explained-2026/).
+
 Costs are per generation, not per click. Google says one request can create more than one generation. Non-subscribers may be unable to generate video during peak hours, about 2 PM to 5 PM UTC. Images and the Flow Agent still work then. Monthly subscriber credits refresh with the billing cycle and do not roll over. Subscribers in supported regions, except Japan, can buy more AI credits. The plan manager is the person who can buy them.
 
 ```mermaid

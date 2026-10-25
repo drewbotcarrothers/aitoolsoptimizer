@@ -21,6 +21,8 @@ We did not benchmark generations against Lovable or Bolt. [Lovable vs Bolt vs Re
 | Plus | $30 per user / month | Everything in Free, all models, $30 of included monthly credits per user, $2 of daily credits on login, option to buy more credits |
 | Business | $100 per user / month | Everything in Plus, the same $30 monthly and $2 daily credit lines, shared credits, centralized billing on vercel.com, shared chats |
 
+The seat card is [v0 pricing explained](/blog/v0-pricing-explained-2026/).
+
 The page also lists token rates for v0 model tiers, in dollars per million tokens. We are not assigning those rates to "input" or "output" here, because the column headers did not survive the page text cleanly enough to repeat. If your forecast depends on a model rate, read the four columns on v0.app/pricing yourself. The seat price does not cap you at the included credits. Plus says you can purchase additional credits. Business says usage can be shared across the team.
 
 A digit animation on the Plus card can look like a second price near $90. The price we are quoting is the **$30 per user per month** line next to the **$30 of included credits** sentence. If Vercel changes the card, the credit sentence is the one to trust alongside the seat.

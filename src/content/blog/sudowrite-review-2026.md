@@ -21,6 +21,8 @@ We did not workshop a novel or score prose. [Best AI writing assistants](/blog/b
 | Professional | 1,000,000 | $22/month | $29/month | Same contrast: Max is the plan named for rollover |
 | Max | 2,000,000 | $44/month | $59/month | Rollover credits, as named on the plan |
 
+The invoice is [Sudowrite pricing explained](/blog/sudowrite-pricing-explained-2026/).
+
 Feedback, the critique feature, is exclusive to Professional and Max. Hobby includes the rest of the writing surface and a smaller pool. If you are buying Sudowrite to be told what is wrong with a chapter, Hobby is the wrong card even though it is the cheapest. If you are buying it to draft and you will judge the pages yourself, Hobby's 225,000 credits are the experiment.
 
 Annual Hobby is $120 a year. Monthly Hobby is $228 a year if you stay twelve months. The gap is $108, which is almost another annual plan. Take monthly until a chapter convinces you, then switch. Annual Professional is $264 a year against $348 monthly. Annual Max is $528 against $708. The discount is for writers who already know the tool fits a book, not for someone on chapter one of their first try.

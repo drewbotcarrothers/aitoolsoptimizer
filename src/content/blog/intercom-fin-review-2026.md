@@ -24,6 +24,8 @@ We did not measure resolution rate. Any percentage on Intercom's site is their n
 | Fin Voice | $1.99 per voice outcome | Sold via sales, not the self-serve card |
 | Intercom helpdesk plans | Separate | Essential, Advanced, and Expert. Seat price is a property of those plans |
 
+The invoice is [Intercom Fin pricing explained](/blog/intercom-fin-pricing-explained-2026/).
+
 Fifty outcomes at $0.99 is $49.50, and the minimum is $49. Treat $49 as the floor, not as a discount. If Fin resolves 40 issues, you still pay $49. If it resolves 200, you pay `200 × $0.99 = $198`, and the minimum no longer matters. A pricing example on the page walked through 152 outcomes at $0.99, which is about **$150**, plus a helpdesk line, as an illustration of their calculator. Use your own volume. Their example customer is not your queue.
 
 ```mermaid

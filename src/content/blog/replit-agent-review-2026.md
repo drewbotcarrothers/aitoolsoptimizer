@@ -36,6 +36,8 @@ The three-way builder comparison, with the prices we could confirm for the other
 | Core | See the pricing page. Monthly or annual exists. We do not have a confirmed USD figure | Monthly credits for Agent, publishing, databases, and AI Integrations. Full build, external connectors, Plan Mode, badge removal, up to 5 collaborators |
 | Pro | See the pricing page. Tiered. We do not have a confirmed USD figure | Tiered credits with 2-month rollover, up to 15 builders, pooled credits, no per-seat fees, 10 parallel Agent tasks, collaborative Workspaces, priority support |
 
+A later read of the pricing page, with the label caveat, is [Replit Agent pricing explained](/blog/replit-agent-pricing-explained-2026/).
+
 Credits cover Agent work, publishing, network transfer, database storage, and AI Integrations. Usage past the included credits is billed on Core and Pro. Replit's docs say those charges accumulate until they cross an invoice threshold that starts at $50 and can grow to $250. Credit packs exist, with discounts at larger sizes. A free Starter balance is not a promise that a Full-build app will stay inside a price you have not been shown.
 
 Do not quote a Core price from memory, from an ad, or from this article. Open [Replit's pricing page](https://replit.com/pricing) and read the number next to the button you are about to press.

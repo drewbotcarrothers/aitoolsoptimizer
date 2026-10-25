@@ -25,6 +25,8 @@ The head-to-head with Synthesia is in [HeyGen vs Synthesia](/blog/heygen-vs-synt
 | Business | $149 | 1,500 | 60-minute videos, 5 custom video avatars, SSO, SCORM, LMS, interactive video. Extra seats $20/month |
 | Enterprise | Custom | Custom | Security and support beyond the published Business tier |
 
+The invoice is [HeyGen pricing explained](/blog/heygen-pricing-explained-2026/).
+
 This table scores the published contract. It is a plan-fit table. We did not score avatar realism, lip sync, or translation quality in a lab.
 
 ```mermaid

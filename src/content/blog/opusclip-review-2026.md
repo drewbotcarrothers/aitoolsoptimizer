@@ -22,6 +22,8 @@ Prices are from OpusClip's pricing page, checked October 16, 2026, in US dollars
 | Pro | $29/month, or $174/year ($14.50/month) | 300 per month | Credits roll over for 2 months. 2 seats. 2 brand templates. 6 social connections. Extra credit packs |
 | Business | Custom | Custom | Priority processing, dedicated storage, API, custom brand assets |
 
+The invoice is [OpusClip pricing explained](/blog/opusclip-pricing-explained-2026/).
+
 > **Figure (clip diagram, not a product screenshot).** **Alt:** A long video goes in. OpusClip returns several vertical clips with captions and a Virality Score. A person deletes the weak ones and posts the rest. Free clips expire after 3 days. A side path shows Descript, which edits the long cut first, and CapCut, which edits a short on a timeline.
 
 The channel that uses this as the last step, after a long video exists, is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/). Generators that create footage, rather than cut it, are in [best AI video generators](/blog/best-ai-video-generators-2026/).

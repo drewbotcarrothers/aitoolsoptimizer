@@ -28,6 +28,8 @@ Annual Pro is $14.50 × 12 = $174 for the year. Monthly Pro is $45 × 12 = $540 
 | Enterprise | Custom | SAML SSO and onboarding |
 | Education | Free year | A valid .edu email |
 
+The invoice is [Beautiful.ai pricing explained](/blog/beautiful-ai-pricing-explained-2026/).
+
 ```mermaid
 flowchart TD
   q1{"How many decks, and who must edit them?"}

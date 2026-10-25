@@ -24,6 +24,8 @@ This page is the Zapier contract. The three-way choice is [Zapier vs Make vs n8n
 | Team | $69/month billed annually | Confirm the task tier on the live page. The guide we used prices the seat features here | Shared folders and connections, roles, SAML SSO |
 | Enterprise | Custom | Custom | Governance and security beyond Team |
 
+The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
+
 Filters, Paths, and Formatter steps do not count as tasks. A path that checks "country is not empty" and then creates one CRM contact is one task for the contact, not a task for the check. An AI step that completes as an action counts as a task. Zapier does not, in the guide we used, add a second multiplier on top of that action.
 
 ```mermaid

@@ -22,6 +22,8 @@ We did not benchmark Hex against a notebook you already run, and we did not time
 | Team | $75 per editor / month | Extended credits, unlimited published apps, scheduled runs and alerts, shared components, 14-day trial with no card |
 | Enterprise | Custom | Explorer seats, audit logs, SSO, premium credits, HIPAA and single-tenant add-ons |
 
+The seat card is [Hex pricing explained](/blog/hex-pricing-explained-2026/).
+
 Medium compute is included on paid plans. Larger profiles are pay-as-you-go, billed per minute, and the page prints an hourly equivalent:
 
 | Compute profile | Memory | CPU | Price per hour |

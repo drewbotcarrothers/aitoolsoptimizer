@@ -22,6 +22,8 @@ We did not compare shots with Runway or Kling. Those comparisons live in [Runway
 | Ultra | $300 | $3,000 | 150,000 | Everything in Pro, described as 15× usage with Luma Agents |
 | Team | Contact | Contact | Shared team credits | Members, projects, usage analytics, SSO on the enterprise side |
 
+The invoice is [Luma AI pricing explained](/blog/luma-ai-pricing-explained-2026/).
+
 There is no free plan on the pricing page we read. A yearly Plus purchase is $300, which is ten months at the $30 rate, or **$25 a month** if you spread it. That is about 17% off, not 20%. Pro and Ultra match the same pattern: $900 is ten times $90, and $3,000 is ten times $300. The "up to 20%" line may refer to a discount we did not see applied evenly on these three cards. Quote the charge printed for the plan, not the slogan.
 
 Credit density improves as you step up, which is the real reason to leave Plus:

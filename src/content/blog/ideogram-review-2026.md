@@ -23,6 +23,8 @@ Prices are from Ideogram's plans document, which says it was last verified Octob
 | Team | $30 per user | $20 per user ($240/year) | 3,600 per user a month. Minimum 2 users |
 | Enterprise | Custom | Custom | Custom |
 
+The invoice is [Ideogram pricing explained](/blog/ideogram-pricing-explained-2026/).
+
 Yearly plans still receive credits each month, not as a lump. Unused monthly credits do not roll over. The old Basic plan, at $8 a month or $7 billed yearly, is no longer sold. People who already have it keep 960 credits a month.
 
 On Free, generations are public. Plus and above keep new images private until you publish them. After monthly credits run out, Plus, Pro, and Team can keep using Ideogram models in a slower queue. Custom models, partner models, reference images, edits, and upscales still need credits. The run button shows the cost before you start. There is no single "one credit equals one image" rate for every model and every edit.

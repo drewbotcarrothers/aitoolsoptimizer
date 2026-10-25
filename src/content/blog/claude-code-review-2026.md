@@ -24,6 +24,8 @@ The beginner walkthrough is [Claude Code for beginners](/blog/claude-code-for-be
 | Higher Team seat | $100/seat annual, or $125 monthly | Described as 5× the usage of a standard seat |
 | Enterprise | Custom | A pooled API-credit line up to $500 a month appears near the enterprise materials |
 
+The invoice is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+
 API use is a different bill. The same pricing page lists token rates for Claude models, including cache reads and writes. If you run Claude Code against an API key instead of a subscription, you are on that meter. A subscription does not cap an API key you added yourself. Know which credential the CLI is using before you compare "$20" with a weekend of API charges.
 
 ```mermaid

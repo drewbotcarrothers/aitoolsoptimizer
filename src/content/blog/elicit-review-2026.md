@@ -25,6 +25,8 @@ For a cited answer without the table, use [Consensus](/tools/consensus/) and the
 | Scale | $89/user/month, billed as $1,068/year | $229/user/month, billed as $2,748/year | Higher usage, figure extraction, live collaboration, 30 columns, an admin panel |
 | Enterprise | Custom | Custom | 40,000-paper screening, SSO, no training on your data by default |
 
+The invoice is [Elicit pricing explained](/blog/elicit-pricing-explained-2026/).
+
 The non-Industry yearly cards print save rates of about 42% (Plus), 43% (Pro), and 40% (Scale). Set the Industry toggle to the audience that will pay before you compare Elicit with a $12 Consensus seat. A company that quotes the $11 price and then checks out on Industry Pro has not been quoted $11.
 
 ```mermaid

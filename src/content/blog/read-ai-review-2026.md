@@ -22,6 +22,8 @@ We did not score transcript accuracy. [Best AI meeting notetakers](/blog/best-ai
 | Enterprise | $22.50 | $29.75 | Unlimited transcripts | Audio and video playback, video highlights, 200 file-upload credits, premium support. Meeting length listed at 8 hours versus 4 on Free and Pro |
 | Enterprise+ | $29.75 | $39.75 | Unlimited transcripts | HIPAA, SAML and SCIM, domain capture, custom retention, 300 file-upload credits, workspace onboarding |
 
+The invoice is [Read AI pricing explained](/blog/read-ai-pricing-explained-2026/).
+
 Paid plans list unlimited meeting reports, unlimited storage, and workspace access. The page also says "30 meetings measured per month" on the plan blocks we read. That phrase sits next to plans that also say unlimited transcripts. Do not collapse those into one sentence. If a quota and an "unlimited" line both appear, ask Read which one governs your workspace before you promise a sales team there is no cap. We are not going to pretend the page said only one thing.
 
 ```mermaid

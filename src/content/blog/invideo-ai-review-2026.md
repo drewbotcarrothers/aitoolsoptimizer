@@ -21,6 +21,8 @@ Those figures were read from invideo.io/pricing on October 24, 2026. Plus and Ma
 | Plus | $30/seat/month | 2,000 | About 800 images, or about 52 Seedance 2 videos. Frontier agents on Lite, Pro, and Ultra |
 | Max | $75/seat/month | 5,000 | About 2,000 images, or about 131 Seedance 2 videos. The lowest cost per credit, on invideo's card |
 
+The credit math is [invideo AI pricing explained](/blog/invideo-ai-pricing-explained-2026/).
+
 invideo's FAQ says a credit is used for generation, not for downloading, and that model prices follow their API rates and can change without notice. The compare table's own examples: Nano Banana Pro is about 2.5 credits an image, and a 5-second Seedance 2.5 clip at 1080p is about 96 credits. Starter does not include every Seedance tier. Plus and Max do, on the cards we read. Unused credits do not roll over. Annual plans mention a promotional line about selected image models. Read the current promo before you count on "unlimited."
 
 The timeline editor, color, audio, and 3D tools are listed on every plan, including Starter. Guest seats are not on Starter. Multiplayer caps rise with the plan.
