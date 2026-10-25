@@ -69,7 +69,7 @@ ElevenLabs is also the voice layer in front of avatar video. If the face matters
 
 New API accounts get $10 in credit in the plan description we checked, with 5 concurrent requests. Purchased credit does not expire. A 1,000-character script at studio quality is about $0.03, so the $10 credit is a large number of short reads. Enterprise API adds options such as higher concurrency and professional voice cloning.
 
-Murf’s Help Center describes a free Studio workspace with 10 minutes of generation and no downloads. **We could not verify current Studio subscription prices**, because that tab did not render. Use Murf’s pricing page for Studio seats, and use the API table above only for API work. Do not treat ElevenLabs Starter ($6) and an unknown Murf Studio price as equivalent.
+Murf’s Help Center describes a free Studio workspace with 10 minutes of generation and no downloads. **We could not verify current Studio subscription prices**, because that tab did not render. Use Murf’s pricing page for Studio seats, and use the API table above only for API work. Do not treat ElevenLabs Starter ($6) and an unknown Murf Studio price as equivalent. Short IVR prompts, where Murf’s API rate is the point and neither product is your phone system, are [ElevenLabs vs Murf for IVR prompts](/blog/elevenlabs-vs-murf-for-ivr-prompts-2026/).
 
 ## Descript, when the voice is yours
 

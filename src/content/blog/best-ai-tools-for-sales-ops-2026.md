@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Sales ops should use AI to format stage rules, field definitions, and handoff clocks you already decided, inside the CRM that stays the system of record.** A rep's list and a warehouse model are other jobs. The rep stack is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/). The enrichment and routing stack is [best AI tools for RevOps](/blog/best-ai-tools-for-revops-2026/). We did not score forecast accuracy.
+**Sales ops should use AI to format stage rules, field definitions, and handoff clocks you already decided, inside the CRM that stays the system of record.** A rep's list and a warehouse model are other jobs. The rep stack is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/). The enrichment and routing stack is [best AI tools for RevOps](/blog/best-ai-tools-for-revops-2026/). We did not score forecast accuracy. The lead who drafts the note for a stage change or a forecast lock, from a decision they already made, is [best AI tools for revenue ops leads](/blog/best-ai-tools-for-revenue-ops-leads-2026/).
 
 The discovery questions the stages should match are [how to create a sales discovery script with AI](/blog/how-to-create-a-sales-discovery-script-with-ai-2026/). A required field an agent invents is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

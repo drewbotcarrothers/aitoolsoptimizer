@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**An implementation consultant should use AI to keep three things true after the contract is signed: the project log names an owner and a date, the call note matches what was said, and a configuration answer cites a doc the customer already accepted.** The pre-sales demo is a different job. The program manager's portfolio is a different job. This page is the delivery: the environment, the decision, and the thing you will not configure.
+**An implementation consultant should use AI to keep three things true after the contract is signed: the project log names an owner and a date, the call note matches what was said, and a configuration answer cites a doc the customer already accepted.** The pre-sales demo is a different job. The program manager's portfolio is a different job. This page is the delivery: the environment, the decision, and the thing you will not configure. The manager who keeps the launch gate, the migration notice, and the support swarm plan aligned, and does not say go, is [best AI tools for implementation managers](/blog/best-ai-tools-for-implementation-managers-2026/).
 
 The pre-sales shelf is [best AI tools for solutions engineers](/blog/best-ai-tools-for-solutions-engineers-2026/). The multi-project shelf is [best AI tools for program managers](/blog/best-ai-tools-for-program-managers-2026/). The spec you are implementing, and any change to it, starts at [how to draft a product spec with AI](/blog/how-to-draft-a-product-spec-with-ai-2026/) and [how to write a product spec addendum with AI](/blog/how-to-write-a-product-spec-addendum-with-ai-2026/).
 

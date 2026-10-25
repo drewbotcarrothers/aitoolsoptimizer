@@ -11,7 +11,7 @@ draft: false
 
 **These tools run a legal-ops workflow: an intake form, a playbook of positions counsel already approved, and a summary of a file with places a lawyer can check.** They do not practice law. This page is not legal advice. A model that "reviews a contract" is drafting notes a lawyer still has to read. If you need a legal conclusion, an enforceable position, or a customer-facing policy, that work belongs to counsel.
 
-The startup folder version of this idea, for a company that is still assembling templates, is [best AI tools for startup legal ops](/blog/best-ai-tools-for-startup-legal-ops-2026/). This page is the operating cadence after counsel exists: the queue, the playbook, and the handoff. The people-ops neighbor, which is a different team, is [best AI tools for people ops](/blog/best-ai-tools-for-people-ops-2026/).
+The startup folder version of this idea, for a company that is still assembling templates, is [best AI tools for startup legal ops](/blog/best-ai-tools-for-startup-legal-ops-2026/). This page is the operating cadence after counsel exists: the queue, the playbook, and the handoff. The people-ops neighbor, which is a different team, is [best AI tools for people ops](/blog/best-ai-tools-for-people-ops-2026/). The evidence row and the retention line, which counsel still signs, are [best AI tools for compliance ops](/blog/best-ai-tools-for-compliance-ops-2026/).
 
 The document habit is [what RAG is](/blog/what-is-rag-explained-2026/). The long-file habit is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/). The claim check is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 

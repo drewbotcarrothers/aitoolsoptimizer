@@ -11,7 +11,7 @@ draft: false
 
 **A data-ops owner should use AI to keep three things true: a refresh that runs when you said it would, a named owner for each dataset, and a check that today's row count is in the band you wrote down.** The model can draft the runbook note or the SQL. It cannot declare the pipeline healthy. If the count is missing, the page says the check did not run. Analysts ask questions of data that already exists. This page is the work that makes the next question possible.
 
-The question-asking shelf is [best AI tools for data analysts](/blog/best-ai-tools-for-data-analysts-2026/). The infrastructure shelf next door is [best AI tools for devops teams](/blog/best-ai-tools-for-devops-teams-2026/). Drafting a query you still run yourself is [ChatGPT vs Claude for SQL](/blog/chatgpt-vs-claude-for-sql-2026/).
+The question-asking shelf is [best AI tools for data analysts](/blog/best-ai-tools-for-data-analysts-2026/). The infrastructure shelf next door is [best AI tools for devops teams](/blog/best-ai-tools-for-devops-teams-2026/). Drafting a query you still run yourself is [ChatGPT vs Claude for SQL](/blog/chatgpt-vs-claude-for-sql-2026/). The retention rule, the access list, and the classification note are [best AI tools for data governance](/blog/best-ai-tools-for-data-governance-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score pipeline reliability. One automation tool in the wider market bills in euros. This page does not convert that price. The tools below are the USD figures the directory records.
 

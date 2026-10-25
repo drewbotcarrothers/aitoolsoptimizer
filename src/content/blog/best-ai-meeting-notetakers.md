@@ -117,6 +117,8 @@ Those seats are a real subscription. If a notetaker would be your second or thir
 
 After the notes exist, the next leak is copying action items into other tools. That is an automation problem, covered in [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). Otter’s directory page notes a Zapier integration specifically.
 
+Formatting one pasted transcript in ChatGPT, versus keeping the note in a Google Doc the meeting already produced, is [ChatGPT vs Gemini for meeting notes](/blog/chatgpt-vs-gemini-for-meeting-notes-2026/). A sales call where the prospect was told about the bot, versus notes that stay on the laptop, is [Otter vs Granola for sales calls](/blog/otter-vs-granola-for-sales-calls-2026/).
+
 ## Privacy points to read before you turn it on
 
 - Tell the other people in the meeting when a bot is recording. Several jurisdictions require consent. This article is not legal advice.

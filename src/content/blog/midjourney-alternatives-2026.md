@@ -48,7 +48,7 @@ Choose Firefly when the art director already lives in Photoshop or Express. Choo
 
 [FLUX](/tools/flux/), from Black Forest Labs, is pay as you go. One credit is $0.01. FLUX 3 Klein images run from $0.008 at 768×768 to $0.036 at 4K. The same prices apply in the API and the playground. Open weights exist for teams that will run models themselves. There is no seat fee.
 
-FLUX is the right bill for occasional images and for developers. It is a clumsy teacher if you wanted moodboards, Stealth, and a community style reference. Those are Midjourney features, described in the review. FLUX 3 also generates video with audio, priced per second. This guide does not quote a per-second rate, because the figure we are willing to print is the image card above.
+FLUX is the right bill for occasional images and for developers. It is a clumsy teacher if you wanted moodboards, Stealth, and a community style reference. Those are Midjourney features, described in the review. A hosted moodboard versus weights you run on a machine you control is [Midjourney vs Stable Diffusion for moodboards](/blog/midjourney-vs-stable-diffusion-for-moodboards-2026/). FLUX 3 also generates video with audio, priced per second. This guide does not quote a per-second rate, because the figure we are willing to print is the image card above.
 
 ## Leonardo, ChatGPT, Canva, and Krea
 
@@ -56,7 +56,7 @@ FLUX is the right bill for occasional images and for developers. It is a clumsy 
 
 ChatGPT image generation is the alternative when the next instruction is a sentence ("make the background white"). Go is $8/month. Plus is $20. Pro from $100 is the high-limit tier. If images are only one reason you would pay $20, the assistant decision is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/) and the tier decision is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-[Canva](/tools/canva/) is the alternative when the image is one object on a slide or a social post. [Krea](/tools/krea/) is the alternative when you want a daily free allowance across models and you do not want Midjourney's public gallery on Basic.
+[Canva](/tools/canva/) is the alternative when the image is one object on a slide or a social post. [Krea](/tools/krea/) is the alternative when you want a daily free allowance across models and you do not want Midjourney's public gallery on Basic. Trying one approved brief on more than one model before a designer picks a social still is [Midjourney vs Krea for social ads](/blog/midjourney-vs-krea-for-social-ads-2026/).
 
 ## Fit against Midjourney's actual gaps
 

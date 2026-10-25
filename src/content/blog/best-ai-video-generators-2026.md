@@ -38,7 +38,7 @@ These tools make new footage from a prompt, an image, or both. Credit systems di
 
 [Runway](/tools/runway/) is the pro-oriented studio. Free includes 125 one-time credits. Standard is $12/month billed annually ($15 monthly) with 625 credits. Pro is $28/month annual ($35 monthly) with 2,250 credits, voice clone, and 4K upscaling. Max is $76/month annual ($95 monthly) with 9,500 credits. Yearly billing is two months free at the rates Runway published (Standard saves $36/year).
 
-Choose Runway when a filmmaker or agency wants model choice and an editing environment, not a single “make me a video” button.
+Choose Runway when a filmmaker or agency wants model choice and an editing environment, not a single “make me a video” button. A launch trailer that starts from a small credit grant, versus a larger Luma credit pack, is [Runway vs Luma for launch trailers](/blog/runway-vs-luma-for-launch-trailers-2026/).
 
 ### Kling AI
 
@@ -60,7 +60,7 @@ If you already pay for Gemini, read [which AI subscription is worth paying for](
 
 ## Presenter and training video
 
-[HeyGen](/tools/heygen/) and [Synthesia](/tools/synthesia/) solve a different problem: a person (or an avatar) delivers a script. Use them for explainers, enablement, and localized training. Do not use them when you need original cinematography.
+[HeyGen](/tools/heygen/) and [Synthesia](/tools/synthesia/) solve a different problem: a person (or an avatar) delivers a script. Use them for explainers, enablement, and localized training. Do not use them when you need original cinematography. A demo clip that is a presenter reading a script you wrote, versus a generated shot, is [HeyGen vs Runway for demo clips](/blog/heygen-vs-runway-for-demo-clips-2026/).
 
 | | HeyGen | Synthesia |
 |---|---|---|

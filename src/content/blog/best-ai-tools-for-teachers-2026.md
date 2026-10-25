@@ -62,7 +62,7 @@ Give the tool the constraints a colleague would need:
 - Materials in the room
 - What you will not assign (a project that needs colored paper you do not have)
 
-Then ask for an exit ticket and one adaptation, not a 12-page unit. MagicSchool and Brisk are built around that shape. [Gemini Notebook](/tools/gemini-notebook/) is the better tool when the source is a chapter, a PDF, or a slide deck you want students to question. The rename from NotebookLM, and what stayed free, is covered in [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/). Study workflows for students are in [how to use Gemini Notebook for studying](/blog/gemini-notebook-study-workflows/).
+Then ask for an exit ticket and one adaptation, not a 12-page unit. MagicSchool and Brisk are built around that shape. When the plan is a reusable project versus a Google Doc the school already uses, the seat choice is [ChatGPT vs Gemini for lesson plans](/blog/chatgpt-vs-gemini-for-lesson-plans-2026/). [Gemini Notebook](/tools/gemini-notebook/) is the better tool when the source is a chapter, a PDF, or a slide deck you want students to question. The rename from NotebookLM, and what stayed free, is covered in [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/). Study workflows for students are in [how to use Gemini Notebook for studying](/blog/gemini-notebook-study-workflows/).
 
 [Canva](/tools/canva/) Free is enough for a one-page handout. Canva's education story is separate from the teacher AI tools above. Use it for layout, not for the lesson's claims.
 

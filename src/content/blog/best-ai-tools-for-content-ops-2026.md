@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Content ops should use AI to keep a board of owners and dates, turn an approved brief into a checklist, and hand a draft to the next person without changing the claim.** The writing itself is a different desk. That desk is [best AI tools for content teams](/blog/best-ai-tools-for-content-teams-2026/). This page is the system that moves a piece from assigned to shipped. We did not score throughput or rankings.
+**Content ops should use AI to keep a board of owners and dates, turn an approved brief into a checklist, and hand a draft to the next person without changing the claim.** The writing itself is a different desk. That desk is [best AI tools for content teams](/blog/best-ai-tools-for-content-teams-2026/). This page is the system that moves a piece from assigned to shipped. We did not score throughput or rankings. The lead who writes the exception, the kill note, and the weekly note from dates they already have is [best AI tools for content ops leads](/blog/best-ai-tools-for-content-ops-leads-2026/).
 
 The brief the board points at is [how to build a content brief with AI](/blog/how-to-build-a-content-brief-with-ai-2026/). The calendar the board should match is [how to build an AI content calendar](/blog/how-to-build-an-ai-content-calendar-2026/). A claim that was not in the brief is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A QA engineer should buy the tool that matches the artifact: a test in the repo, a diff to review, or a bug note a developer can reproduce.** A model that invents a passing test is not a QA tool. It is a green check you did not earn. This page is the testing week. The people who refactor the code under that test are [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/). The general shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
+**A QA engineer should buy the tool that matches the artifact: a test in the repo, a diff to review, or a bug note a developer can reproduce.** A model that invents a passing test is not a QA tool. It is a green check you did not earn. This page is the testing week. The people who refactor the code under that test are [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/). The general shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/). The lead who formats the release gate from bugs a person already filed, and does not invent a passing test, is [best AI tools for QA leads](/blog/best-ai-tools-for-qa-leads-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score defect detection.
 

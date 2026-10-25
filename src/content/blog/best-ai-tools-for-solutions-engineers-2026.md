@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A solutions engineer should use AI to keep three things true: the demo matches a branch you can review, the technical answer cites a doc you opened, and the POC note names an owner and a date.** The account executive's one-pager is a different job. The engineering manager's staffing plan is a different job. This page is the technical evaluation in a deal: the question, the proof, and the write-up.
+**A solutions engineer should use AI to keep three things true: the demo matches a branch you can review, the technical answer cites a doc you opened, and the POC note names an owner and a date.** The account executive's one-pager is a different job. The engineering manager's staffing plan is a different job. This page is the technical evaluation in a deal: the question, the proof, and the write-up. The architecture note and the decision record, which are not the demo, are [best AI tools for solutions architects](/blog/best-ai-tools-for-solutions-architects-2026/).
 
 The AE shelf is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/). The demo talk track is [how to create a demo script with AI](/blog/how-to-create-a-demo-script-with-ai-2026/). A security questionnaire or an RFP is [how to write an RFP response with AI](/blog/how-to-write-a-rfp-response-with-ai-2026/). The discovery questions before you build anything are [how to create a sales discovery script with AI](/blog/how-to-create-a-sales-discovery-script-with-ai-2026/).
 

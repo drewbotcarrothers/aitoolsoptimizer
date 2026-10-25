@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**An SRE team should use AI on the write-up, the bridge notes, and the diff a person will review. It should not use AI to close an incident because a prompt said the graph looked fine.** The pipeline shelf, which is scripts and glue before the pager, is [best AI tools for DevOps teams](/blog/best-ai-tools-for-devops-teams-2026/). This page starts when the pager has already gone off. The write-up workflow is [how to write a postmortem with AI](/blog/how-to-write-a-postmortem-with-ai-2026/).
+**An SRE team should use AI on the write-up, the bridge notes, and the diff a person will review. It should not use AI to close an incident because a prompt said the graph looked fine.** The pipeline shelf, which is scripts and glue before the pager, is [best AI tools for DevOps teams](/blog/best-ai-tools-for-devops-teams-2026/). This page starts when the pager has already gone off. The write-up workflow is [how to write a postmortem with AI](/blog/how-to-write-a-postmortem-with-ai-2026/). The pre-pager job, a runbook and a fallback matrix from rules a person already wrote, is [best AI tools for AI ops engineers](/blog/best-ai-tools-for-ai-ops-engineers-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Fathom's team price was read October 24, 2026. Published October 24, 2026. We did not score incident tools or uptime.
 

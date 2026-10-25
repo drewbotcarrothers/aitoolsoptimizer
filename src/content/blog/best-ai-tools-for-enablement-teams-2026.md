@@ -11,6 +11,8 @@ draft: false
 
 **An enablement team should use AI to keep three files true: the demo script reps can click, the battlecard with sourced claims, and the deck that matches those words.** A call library helps when you already record calls the buyer agreed to. A model that writes a ramp-time promise is not a curriculum. This page is one tool per artifact. The rep-facing shelf is [best AI tools for sales teams](/blog/best-ai-tools-for-sales-teams-2026/).
 
+The lead who formats the calendar and the seat list from dates they already set is [best AI tools for enablement leads](/blog/best-ai-tools-for-enablement-leads-2026/). The manager who drafts a coaching note from a call they are allowed to use is [best AI tools for enablement managers](/blog/best-ai-tools-for-enablement-managers-2026/).
+
 The script workflow is [how to create a demo script with AI](/blog/how-to-create-a-demo-script-with-ai-2026/). The card workflow is [how to create a competitive battlecard with AI](/blog/how-to-create-a-competitive-battlecard-with-ai-2026/). The new-hire list, which is people ops rather than sales enablement, is [how to create an onboarding checklist with AI](/blog/how-to-create-an-onboarding-checklist-with-ai-2026/).
 
 Prices are US list prices excluding tax. Most figures are from directory pages checked October 16, 2026. Fathom's prices also match the October 24, 2026 pricing article. Gong has no public price. Published October 24, 2026. We did not score ramp time.

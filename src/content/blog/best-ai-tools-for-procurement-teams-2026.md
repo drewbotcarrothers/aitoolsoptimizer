@@ -11,7 +11,7 @@ draft: false
 
 **A procurement team should use AI to keep three artifacts honest: a vendor memo with dated sources, a checklist against the RFP you actually issued, and a record of who approved the recommendation.** The model can organize pages you paste. It cannot invent a discount, a security certification, or a renewal price. If the vendor's page does not say it, the cell says Missing.
 
-The response workflow, when you are the one answering, is [how to write an RFP response with AI](/blog/how-to-write-a-rfp-response-with-ai-2026/). Counsel's neighboring shelf is [best AI tools for legal ops](/blog/best-ai-tools-for-legal-ops-2026/). The people who will live with the bill are [best AI tools for finance ops](/blog/best-ai-tools-for-finance-ops-2026/).
+The response workflow, when you are the one answering, is [how to write an RFP response with AI](/blog/how-to-write-a-rfp-response-with-ai-2026/). Counsel's neighboring shelf is [best AI tools for legal ops](/blog/best-ai-tools-for-legal-ops-2026/). The people who will live with the bill are [best AI tools for finance ops](/blog/best-ai-tools-for-finance-ops-2026/). The intake queue and the renewal row, which do not pick the vendor, are [best AI tools for procurement ops](/blog/best-ai-tools-for-procurement-ops-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score sourcing suites. A vendor's quote beats any number on this page.
 

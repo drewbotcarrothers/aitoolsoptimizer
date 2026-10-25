@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Community ops should use AI to format the queue rules, the program calendar, and reply drafts that follow a policy a person already wrote.** The daily post is the community manager's page. This page is the system: what gets escalated, what the month contains, and which replies are allowed. We did not score engagement. A model does not speak as the community.
+**Community ops should use AI to format the queue rules, the program calendar, and reply drafts that follow a policy a person already wrote.** The daily post is the community manager's page. This page is the system: what gets escalated, what the month contains, and which replies are allowed. We did not score engagement. A model does not speak as the community. A trust and safety reviewer who formats a decision note from a case a person already judged, and does not decide the case, is [best AI tools for trust and safety](/blog/best-ai-tools-for-trust-and-safety-2026/).
 
 The manager's shelf is [best AI tools for community managers](/blog/best-ai-tools-for-community-managers-2026/). The month of posts, once you are publishing, is [how to build an AI content calendar](/blog/how-to-build-an-ai-content-calendar-2026/). The voice those posts have to match is [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/).
 

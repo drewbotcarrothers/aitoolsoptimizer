@@ -109,6 +109,8 @@ Annual billing saves 20%, and there is a trial. The Action Center (on-page and o
 
 A solo writer’s honest stack is often **Frase Starter or Surfer Standard**, plus a general assistant to draft, plus Google Search Console (free, and not an AI vendor). Add Semrush when the competitive questions start. Add Writesonic or Semrush One when someone asks for an AI-visibility report every month.
 
+If the URL is a product page, the photo and the repeated support question are a different purchase from this keyword stack. That guide is [best AI tools for ecommerce](/blog/best-ai-tools-for-ecommerce-2026/). The person who has to keep the campaign name, the field, and the routing rule consistent with the report is [best AI tools for marketing ops leads](/blog/best-ai-tools-for-marketing-ops-leads-2026/).
+
 ## A page structure that is easy to cite
 
 Use this on the URL you hope an answer engine will quote. It is a writing pattern, not a ranking factor we measured.

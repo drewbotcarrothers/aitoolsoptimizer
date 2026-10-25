@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A customer-education team should use AI to draft a lesson from docs you already approved, record a short explainer you can replace when the UI changes, and answer a learner only from those materials.** This page is the academy for people who bought the product. It is not a K-12 classroom and not the support queue, though the docs should match.
+**A customer-education team should use AI to draft a lesson from docs you already approved, record a short explainer you can replace when the UI changes, and answer a learner only from those materials.** This page is the academy for people who bought the product. It is not a K-12 classroom and not the support queue, though the docs should match. The person who runs the live session from material already approved, rather than the catalog, is [best AI tools for customer educators](/blog/best-ai-tools-for-customer-educators-2026/).
 
 The help center beside the academy is [how to build a help center with AI](/blog/how-to-build-a-help-center-with-ai-2026/). The bot that should quote those articles is [how to build a knowledge base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/). A live session is [how to create a webinar script with AI](/blog/how-to-create-a-webinar-script-with-ai-2026/). The avatar split for onboarding video is [HeyGen vs Synthesia for onboarding](/blog/heygen-vs-synthesia-for-onboarding-2026/).
 

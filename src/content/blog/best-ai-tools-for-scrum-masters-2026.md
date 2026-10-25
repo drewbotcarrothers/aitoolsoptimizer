@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A scrum master should buy the tool that matches the ceremony they already run: the agenda, the notes, or the board.** An agent that writes velocity and a morale score from a transcript is not a facilitation tool. It is a rumor with a chart. This page is the sprint. The manager next to the team is [best AI tools for engineering managers](/blog/best-ai-tools-for-engineering-managers-2026/). The product partner is [best AI tools for product managers](/blog/best-ai-tools-for-product-managers-2026/).
+**A scrum master should buy the tool that matches the ceremony they already run: the agenda, the notes, or the board.** An agent that writes velocity and a morale score from a transcript is not a facilitation tool. It is a rumor with a chart. This page is the sprint. The manager next to the team is [best AI tools for engineering managers](/blog/best-ai-tools-for-engineering-managers-2026/). The product partner is [best AI tools for product managers](/blog/best-ai-tools-for-product-managers-2026/). The coach who drafts a note from what people said, and does not add a maturity score, is [best AI tools for agile coaches](/blog/best-ai-tools-for-agile-coaches-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026, with Fathom and Otter figures from their pricing explainers. Published October 24, 2026. We did not measure team throughput.
 

@@ -11,7 +11,7 @@ draft: false
 
 **A data analyst should buy the tool that matches the file they already have: a CSV in a chat, a notebook on the warehouse, or a sentence under a chart they made.** An assistant that invents a trend is not an analyst. The chart is the source. The model formats the sentence and, if you let it, the wrong total.
 
-The grid-specific shelf is [best AI for Excel and Google Sheets](/blog/best-ai-for-excel-and-google-sheets-2026/). Hex's invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/). A figure inside a PDF, rather than a table you own, is [what multimodal RAG is](/blog/what-is-multimodal-rag-2026/).
+The grid-specific shelf is [best AI for Excel and Google Sheets](/blog/best-ai-for-excel-and-google-sheets-2026/). Hex's invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/). A figure inside a PDF, rather than a table you own, is [what multimodal RAG is](/blog/what-is-multimodal-rag-2026/). The requirement and the as-is process, before anyone charts them, are [best AI tools for business analysts](/blog/best-ai-tools-for-business-analysts-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score query accuracy.
 

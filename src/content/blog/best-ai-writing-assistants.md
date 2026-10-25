@@ -69,6 +69,8 @@ If your writing is mostly slides, switch guides: [Gamma vs Beautiful.ai vs Plus 
 2. One drafter: Claude Pro **or** ChatGPT Plus, not both, until one of them fails a job you repeat. The choice is spelled out in [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 3. Nothing else until a team asks for brand control or a CMS workflow.
 
+A handbook page that must reuse locked sentences is [ChatGPT vs Claude for handbook pages](/blog/chatgpt-vs-claude-for-handbook-pages-2026/). The person who keeps the canonical copy in the wiki, and does not publish it, is [best AI tools for docs ops](/blog/best-ai-tools-for-docs-ops-2026/).
+
 ## Marketing teams
 
 [Jasper](/tools/jasper/) Pro is $69/seat/month billed monthly or $59/seat/month billed yearly, with a 7-day trial. The documented Pro bundle includes Canvas, core agents, 2 Brand Voices, 5 Knowledge assets, and 3 Audiences. Business is custom and adds an agent builder and admin controls. Jasper is worth it when several people must sound like the same company. It is expensive if you are one person writing tweets.

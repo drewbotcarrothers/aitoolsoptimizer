@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**An ops team should automate the path it can draw, and use an agent only on the step where the path changes.** The rest of the stack is a calendar, a table someone can audit, and a small internal tool. A platform demo that "runs the company" is how a three-person ops pod inherits four meters. This page is one tool per ops job.
+**An ops team should automate the path it can draw, and use an agent only on the step where the path changes.** The rest of the stack is a calendar, a table someone can audit, and a small internal tool. A platform demo that "runs the company" is how a three-person ops pod inherits four meters. This page is one tool per ops job. The coordinator who formats the checklist and the handoff, and does not mark a step done, is [best AI tools for ops coordinators](/blog/best-ai-tools-for-ops-coordinators-2026/).
 
 The workflow comparison is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/). The agent layer beside those diagrams is [Zapier alternatives for AI workflows](/blog/zapier-alternatives-for-ai-workflows-2026/). What it means to assign steps is [what AI agent orchestration is](/blog/what-is-ai-agent-orchestration-2026/).
 

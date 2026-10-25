@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**A support team should buy the tool that matches the queue it already has: the help desk, a bot that quotes the articles, or a draft a person sends.** An agent that resolves a ticket by inventing a policy is a new ticket. This page is the queue. The account plan and the QBR are [best AI tools for customer success](/blog/best-ai-tools-for-customer-success-2026/). The bot category is [best AI chatbots for business](/blog/best-ai-chatbots-for-business-2026/).
+**A support team should buy the tool that matches the queue it already has: the help desk, a bot that quotes the articles, or a draft a person sends.** An agent that resolves a ticket by inventing a policy is a new ticket. This page is the queue. The account plan and the QBR are [best AI tools for customer success](/blog/best-ai-tools-for-customer-success-2026/). The bot category is [best AI chatbots for business](/blog/best-ai-chatbots-for-business-2026/). The operating list of who owns each help article, and which articles a bot may quote, is [best AI tools for support ops](/blog/best-ai-tools-for-support-ops-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not measure deflection or handle time.
 

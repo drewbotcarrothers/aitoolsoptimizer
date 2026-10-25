@@ -9,9 +9,9 @@ sample: false
 draft: false
 ---
 
-**If you already know you want an editor agent, a terminal agent, or ChatGPT's coding agent, use the three-way comparison and stop.** This page is the rest of the shelf: GitHub-native completions, a multi-agent IDE, prompt-to-app builders, and a student-priced chat that also codes. Most people need one of these, not a stack.
+**If you already know you want an editor agent, a terminal agent, or ChatGPT's coding agent, use the three-way comparison and stop.** This page is the rest of the shelf: GitHub-native completions, a multi-agent IDE, prompt-to-app builders, and a student-priced chat that also codes. Most people need one of these, not a stack. The platform engineer who drafts a service template other teams will copy, and does not add an API field, is [best AI tools for platform engineers](/blog/best-ai-tools-for-platform-engineers-2026/).
 
-The head-to-head for [Cursor](/tools/cursor/), [Claude Code](/tools/claude-code/), and [Codex](/tools/openai-codex/) is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Prices here are US list prices checked October 16, 2026. Replit's paid prices did not load, so they are not quoted. We did not run a benchmark. "Strong" means the product is sold for that job.
+The head-to-head for [Cursor](/tools/cursor/), [Claude Code](/tools/claude-code/), and [Codex](/tools/openai-codex/) is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Practice for an interview, which you close before the interview if the company forbids it, is [ChatGPT vs Claude for coding interviews](/blog/chatgpt-vs-claude-for-coding-interviews-2026/). Prices here are US list prices checked October 16, 2026. Replit's paid prices did not load, so they are not quoted. We did not run a benchmark. "Strong" means the product is sold for that job.
 
 ## Start from where the code has to live
 
