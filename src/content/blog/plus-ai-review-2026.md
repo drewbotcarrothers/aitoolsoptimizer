@@ -22,6 +22,8 @@ We did not score decks against a human designer. [Best AI presentation makers](/
 | Team | $30 | $40 | 6,000 | Logo, colors, fonts, presets, custom instructions |
 | Max | $200 | $240 | Top card | The self-serve ceiling if the credit cap is the problem |
 
+The seat card is [Plus AI pricing explained](/blog/plus-ai-pricing-explained-2026/).
+
 Plus says a task typically uses **40 to 170 credits**, depending on complexity. That range is the only planning number on the page. A 1,500-credit Basic month is somewhere between about 9 and 37 tasks if every task lands in that band. A full deck and a one-slide insert will not cost the same. The first week of the trial is when you learn your real average. Do not annualize Basic because 1,500 looks like a lot of slides on a calculator that assumes 40 credits every time.
 
 The trial is 7 days. Use it on a deck you actually have to give, not on a "make me a presentation about teamwork" prompt. The point of Plus is that the result is a native slide you can keep editing after the AI stops. A toy prompt will not tell you whether your template survived.

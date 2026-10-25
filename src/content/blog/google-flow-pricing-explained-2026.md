@@ -11,7 +11,7 @@ draft: false
 
 **Google Flow gives every account 50 credits a day. Unused daily credits do not roll over. Google AI Plus adds 200 credits a month, Pro adds 1,000, and the Ultra tiers add 10,000 or 25,000.** Those allotments are from Google's Flow help page on October 24, 2026. The plan prices that unlock them are from gemini.google/subscriptions the same day: Plus is $4.99 a month, Pro is $19.99, and Ultra is $99.99 or $199.99. The help page labels the Ultra credit buckets "Ultra $100" and "Ultra $200," which match those two stickers rounded to the dollar.
 
-The product page is [Google Flow](/tools/google-flow/). The assistant bundle is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). An avatar video is a different product: [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/).
+The product page is [Google Flow](/tools/google-flow/). The studio, as opposed to this credit table, is the [Google Flow review](/blog/google-flow-review-2026/). The assistant bundle is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). An avatar video is a different product: [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/).
 
 Published October 24, 2026. We did not score clip quality. Credit costs can change. The help page is the table to re-read before a shoot.
 

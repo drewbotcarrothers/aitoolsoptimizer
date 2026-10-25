@@ -22,6 +22,8 @@ Prices below were read from instantly.ai/pricing on October 24, 2026. The page h
 | Light Speed | $358 | $286.30 | 500,000 emails, 100,000 contacts, plus SISR private server and IP rotation |
 | Enterprise | Custom | Custom | Higher volume and a private deliverability network |
 
+The invoice is [Instantly pricing explained](/blog/instantly-pricing-explained-2026/).
+
 ## Bundles, which add credits
 
 | Bundle | Monthly | Yearly, per month | What it adds to sending |

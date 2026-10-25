@@ -21,6 +21,8 @@ Prices are from Suno's pricing page, checked October 16, 2026. Taxes are calcula
 | Pro | $11/month, or $8/month on yearly billing | 2,500 per month | Best models, 20 song downloads a month, commercial rights, two stem-separation types, priority queue, your own voice, custom models |
 | Premier | $35/month billed monthly | 10,000 per month | The larger credit pool and every feature unlocked |
 
+The invoice is [Suno pricing explained](/blog/suno-pricing-explained-2026/).
+
 Pro and Premier can buy additional credits and downloads. The yearly Pro figure is the one to use if you will publish. Monthly Pro at $11 is the one to use if you are testing a single month.
 
 > **Figure (rights diagram, not a product screenshot).** **Alt:** A prompt becomes a song on every plan. Free stops before download-for-the-month and before commercial use. Pro and Premier continue into downloads, commercial rights, stems, and Suno Studio. A separate arrow sends voiceover scripts to ElevenLabs and recorded podcasts to Descript.

@@ -22,6 +22,8 @@ We did not score clip quality against [Runway](/tools/runway/) or [Kling](/tools
 | Creator | $35 | 3,150 a month | 8 video, 32 image plus audio | Commercial license |
 | Fancy | $95, with higher steps up to $880 | 8,550 at the $95 step | Unlimited on the card we read | Priority queue. Early access to new models from a $440 a month step |
 
+The invoice is [Pika pricing explained](/blog/pika-pricing-explained-2026/).
+
 The yearly column is labeled −20%. Starter's yearly price is printed at **$8 a month**. We are not going to multiply every higher tier in a client quote and pretend Pika printed each yearly cell. Apply the toggle. If the −20% label is uniform, Creator's $35 becomes $28 and Fancy's $95 becomes $76, and you should still read the cell.
 
 Credit packs sit beside the subscription:

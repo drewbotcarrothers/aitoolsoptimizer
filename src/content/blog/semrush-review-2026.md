@@ -24,6 +24,8 @@ The map of neighboring tools is [best AI SEO tools](/blog/best-ai-seo-tools-2026
 | Semrush One Starter | $199 | $165.17 | $1,982.04 | That SEO toolkit plus AI-search visibility |
 | Semrush One Pro+ | $299 | $248.17 | $2,978.04 | The same idea, with unlimited daily prompts |
 
+The invoice is [Semrush pricing explained](/blog/semrush-pricing-explained-2026/).
+
 The yearly column is 12 × the per-month annual rate Semrush lists. It is not a quote. A free trial on paid plans can change the first invoice.
 
 ```mermaid

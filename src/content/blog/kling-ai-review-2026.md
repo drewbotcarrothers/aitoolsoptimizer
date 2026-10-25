@@ -25,6 +25,8 @@ Compare generators in [best AI video generators](/blog/best-ai-video-generators-
 | Premier | $92 | $64.99 | $80.96 | 8,000 | About 8,000 images or 400 videos at 720p |
 | Ultra | $180 | $127.99 | $159.99 | 26,000 | About 26,000 images or 1,300 videos at 720p |
 
+The credit math is [Kling AI pricing explained](/blog/kling-ai-pricing-explained-2026/).
+
 Kling's guide also uses about 30 credits per second as a reference for 4K Kling VIDEO 3.0. On that rate, Pro's 3,000 credits are 100 seconds of 4K. Standard's 660 credits are 22 seconds of 4K. The "150 videos" line and the "100 seconds of 4K" line describe different exports. Budget the resolution you will actually download.
 
 ```mermaid

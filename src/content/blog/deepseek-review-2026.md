@@ -23,6 +23,8 @@ Prices are USD per 1 million tokens. Off-peak is half of peak. Peak hours are **
 | Input, cache miss | $0.15 | $0.30 | $0.66 | $1.32 |
 | Output | $0.60 | $1.20 | $1.98 | $3.96 |
 
+The invoice is [DeepSeek pricing explained](/blog/deepseek-pricing-explained-2026/).
+
 Flash's docs name the model id `deepseek-flash`. Older ids `deepseek-v4-flash` and `deepseek-v4-flash-vision-exp` are still accepted and are served by V4.1-Flash-1017 at the Flash price. Pro on the page is DeepSeek-V4-Pro-0813. Both list a 1 million token context and a maximum output of 384,000 tokens. Both support tools, JSON, and an Anthropic-compatible base URL at `https://api.deepseek.com/anthropic`. Vision is listed on Flash and not on Pro. Concurrency is listed at **2,500** for Flash and **500** for Pro.
 
 Search and Fetch are separate from the chat models. Each is **$0.75 per 1,000 successful requests**. DeepSeek says that when those tools are invoked through DeepSeek Harness, Claude Code, or Codex, the calls are free until **00:00 Beijing time on November 1, 2026**, and per-request billing starts then. If you are wiring DeepSeek into an agent before that date, put a reminder on the calendar. A free tool call that becomes $0.75 per thousand is a small line until an agent loops.

@@ -24,6 +24,8 @@ Slide tools that are not a design system are in [best AI presentation makers](/b
 | Organization | $55/month, annual | $25/month | $5/month | Full: 3,500 a month |
 | Enterprise | $90/month, annual | $35/month | — | Full: 4,250 a month |
 
+The seat card is [Figma pricing explained](/blog/figma-pricing-explained-2026/).
+
 Figma's FAQ says a Full seat includes Design, Make, Draw, Motion, Sites, Dev Mode, FigJam, Slides, Buzz, and Specs. A Dev seat is Dev Mode plus the collaborative products, with view and comment on Design files. A Collab seat is the collaborative products and basic inspection. Extra AI credits can be purchased. Credits are shared across Figma's AI features. The FAQ does not publish a credits-per-action rate that covers every feature. Watch one real task before you call 3,000 plenty.
 
 ```mermaid

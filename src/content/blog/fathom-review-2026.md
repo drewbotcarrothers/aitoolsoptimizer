@@ -23,6 +23,8 @@ Those prices were read from Fathom's pricing page on October 24, 2026. The page 
 | Business | $34 per user | $25 per user | CRM field sync, Deal View, coaching metrics. Minimum 2 users |
 | Enterprise | Talk to sales | Talk to sales | SSO, SCIM, custom retention, a success manager |
 
+The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
+
 Team plans include a 90-day guarantee, per the pricing page. Fathom's site says Fathom is now part of Superhuman. A Grammarly subscription does not include these seats. Grammarly's own prices are in the [Grammarly review](/blog/grammarly-review-2026/).
 
 ```mermaid

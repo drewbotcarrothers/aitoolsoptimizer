@@ -23,6 +23,8 @@ The category map is [best AI SEO tools](/blog/best-ai-seo-tools-2026/). The data
 | Standard | $99/month | $240 a year | 360 documents, 25 AI prompts tracked weekly, Content Editor, rank-drop detection, plagiarism checker |
 | Pro | $182/month | $444 a year | Standard, plus daily prompt refresh, internal linking at scale, content ideas and coverage gaps |
 
+The invoice is [Surfer SEO pricing explained](/blog/surfer-seo-pricing-explained-2026/).
+
 Standard at $99 × 12 is $1,188 a year before the saving language. The $240 saving is Surfer's comparison with its own monthly price, not a coupon against Semrush. Pro at $182 × 12 is $2,184. The step from Standard to Pro is $83 a month, or $996 a year, at those yearly rates.
 
 ```mermaid

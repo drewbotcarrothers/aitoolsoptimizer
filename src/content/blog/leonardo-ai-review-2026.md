@@ -24,6 +24,8 @@ The commercial shelf is [best AI image generators](/blog/best-ai-image-generator
 | Premium | $30 | 25,000 | Up to 3× the monthly allowance | Unlimited relaxed images for select models |
 | Ultimate | $60 | 60,000 | Up to 3× | Unlimited relaxed images and video for select models. 50 personal AI models |
 
+The invoice is [Leonardo AI pricing explained](/blog/leonardo-ai-pricing-explained-2026/).
+
 Leonardo says unused tokens can accumulate in a bank up to three times the monthly allowance. Essential's bank cap is listed as 25,500, which is 8,500 × 3. Premium's 25,000 × 3 is 75,000. Ultimate's 60,000 × 3 is 180,000. Use the published bank caps, and confirm Essential's 25,500 still matches 3× if the monthly grant changes. Tokens in the bank are not a second high-speed queue. Relaxed mode is slower. That is the trade for "unlimited" on Premium and Ultimate, and it applies to select models, not to every model in the picker.
 
 ```mermaid

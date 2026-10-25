@@ -22,6 +22,8 @@ We did not rank Krea's pictures against Midjourney. The wider map is [best AI im
 | Pro | $35 | $21 | 20,000 a month | All video models, including the ones named on the card such as Veo, Seedance, and Kling |
 | Max | $105 | $63 | 60,000 a month, with a slider for more | All video models |
 
+The invoice is [Krea pricing explained](/blog/krea-pricing-explained-2026/).
+
 Krea prints rough translations next to the packs: Basic's 5,000 units as on the order of a hundred Nano Banana 2 stills or about 15 Seedance 2.0 Fast videos, Pro's 20,000 as more stills and about 65 Seedance 2.5 videos, Max's 60,000 as about 197 of those videos. Those are Krea's estimates for named models on that day. A different model spends units at a different rate. The estimate is a budget sketch, not a quota of 15 finished videos.
 
 Forty percent off is the yearly label. It matches Pro ($35 × 0.6 = $21) and Max ($105 × 0.6 = $63). Basic's card prints **$5**, while 40% off $9 is $5.40. Quote $5 because that is the figure on the yearly card, not because the percentage lands on a clean dime. There is also a higher Max slider. One line on the page shows **$200 a month and $160 a month yearly** for a much larger unit pack. If you need that step, read the slider. Do not email "$63" for a pack you moved.

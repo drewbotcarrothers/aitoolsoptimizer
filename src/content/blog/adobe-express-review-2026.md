@@ -24,6 +24,8 @@ The Firefly side of the credit is [Adobe Firefly review](/blog/adobe-firefly-rev
 | Teams and Enterprise | Sales or the business cards | Admin Console, more storage, company control of assets. Enterprise custom Firefly models are an Enterprise feature on Adobe's FAQ |
 | K-12 Education | $0 for eligible schools | Premium tools with safe search and admin controls, on Adobe's education FAQ |
 
+The invoice is [Adobe Express pricing explained](/blog/adobe-express-pricing-explained-2026/).
+
 Monthly Premium can be canceled. Adobe's plan notes say annual prepaid plans are non-refundable after 14 days. That sentence is the one to read before you take a year up front. Generative features spend credits. Standard edits do not all spend them. Adobe's commercial-use FAQ says outputs from generative features may be used commercially unless Adobe marks a beta feature as personal-use only. "Designed to be commercially safe," in Adobe's wording, refers to how Firefly models were trained, including licensed Stock and public-domain content. It is not a promise about a specific image you generate.
 
 ```mermaid

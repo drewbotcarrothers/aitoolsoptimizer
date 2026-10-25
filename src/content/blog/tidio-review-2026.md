@@ -25,6 +25,8 @@ These figures were on the annual view. Monthly will be higher. "Two months free"
 | Premium | Contact | From 3,000 Lyro conversations on the feature list | Managed Lyro, a stated resolution guarantee, pay-per-resolution, SSO, compliance |
 | Lyro only | From $32.50/month | From 50 Lyro AI conversations | The agent without buying the full inbox, including on another helpdesk |
 
+The invoice is [Tidio pricing explained](/blog/tidio-pricing-explained-2026/).
+
 Starter's 50 Lyro conversations are marked **one-off**. They are not a monthly Lyro allowance. A shop that turns Lyro on and leaves it on will leave Starter's included AI in the first month and then pay the Lyro add-on. Budget that on day one. Growth does not, in the lines we read, magically include unlimited Lyro. AI and human conversations are priced apart, and Plus says so directly: pay separately for AI and human conversations, at lower rates as you scale.
 
 ```mermaid

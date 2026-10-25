@@ -48,6 +48,8 @@ Prices below are USD from Lovable's subscription-plan docs. The annual column is
 | 7,500 | $1,688 | $16,880 ($1,407/mo) | $3,300 | $33,000 ($2,750/mo) |
 | 10,000 | $2,250 | $22,500 ($1,875/mo) | $4,300 | $43,000 ($3,584/mo) |
 
+The ladder is [Lovable pricing explained](/blog/lovable-pricing-explained-2026/).
+
 Business is not "Pro plus a few admin buttons" at a small premium. At 100 credits it is twice the Pro price. Lovable says the higher price is for team and organization features, and that run-cost and in-app AI cost are not themselves higher on Business. Read that again before you upgrade a solo workspace "for later."
 
 ```mermaid

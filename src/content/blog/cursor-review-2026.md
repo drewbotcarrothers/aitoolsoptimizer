@@ -24,6 +24,8 @@ Prices are from Cursor's help center and the X Subscription docs, checked Octobe
 | Ultra | $200 | $2,000 | 50× Plus |
 | Teams | $30, $100, or $200 per seat | — | Matches the seat |
 
+The invoice is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
+
 Included usage is one pool for Grok models across Grok and Cursor. Third-party models inside Cursor draw extra credits. If you live on a non-Grok model, the $8 sticker is not your whole bill. Watch a week before you call Plus cheap.
 
 > **Figure (product diagram, not a product screenshot).** **Alt:** One X Subscription feeds Grok and Cursor. Inside Cursor, Tab completes a line, Chat answers questions about the repo, and Agent edits files. Cloud agents run on their own machines. A warning box says a switch off a legacy Cursor plan is permanent.

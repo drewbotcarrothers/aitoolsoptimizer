@@ -52,6 +52,8 @@ Where a $20 assistant fits instead is [ChatGPT vs Gemini vs Claude](/blog/chatgp
 | Research queries | 1/month | Monthly limits, average use | Monthly limits, advanced use |
 | Choose a model, Computer, premium data | No | Yes | Yes, with a larger credit pool |
 
+The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+
 "Average use" is Perplexity's phrase. It is not a number. Education Pro is $10/month with SheerID for students and educators. Enterprise Pro starts at $40/user/month or $400/year per seat. Those plans are in the worth-it article, including a wording clash about whether Education Pro is unlimited. This review does not resolve it.
 
 ## When to leave the desk

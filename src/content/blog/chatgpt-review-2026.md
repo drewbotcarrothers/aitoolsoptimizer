@@ -25,6 +25,8 @@ How it sits next to the other two assistants is [ChatGPT vs Gemini vs Claude](/b
 | Pro | $100, $200, or $500/month | More capacity. Ultrafast models are on the $500 tier. Monthly only |
 | Business | Per user, 2 or more | Admin controls. Confirm the live seat price. October 16 docs listed $20/user/month annual or $25 monthly |
 
+The invoice is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
+
 OpenAI does not publish a fixed message count. Context sizes are on the plans page and are approximate, because instructions and the model's own work share the window. Do not buy a tier because a screenshot named a model. Buy the row you will use next week.
 
 ```mermaid

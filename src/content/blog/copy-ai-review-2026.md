@@ -24,6 +24,8 @@ Those figures were read from Copy.ai's pricing page on October 24, 2026. The wor
 | Scale | $3,000/month, billed $36,000/year | 200 seats, 75,000 workflow credits |
 | Enterprise | Custom | API access, bulk workflow runs, a designated team, on the Enterprise card |
 
+The invoice is [Copy.ai pricing explained](/blog/copy-ai-pricing-explained-2026/).
+
 Five people on Chat annual is $288 a year for the group, not per person. One Jasper Pro seat, for a comparison that is not the same product, is $59 a month billed yearly in the [Jasper review](/blog/jasper-ai-review-2026/). Copy.ai Chat is the shared multi-model chat. Jasper is the brand-system seat. Do not pick the winner from the smaller number.
 
 ```mermaid

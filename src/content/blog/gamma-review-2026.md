@@ -27,6 +27,8 @@ Gamma's help materials put AI generation at about 1 to 3 credits per card. Image
 | Ultra | $90/seat/month, monthly only | 20,000 | All image models |
 | Business / Enterprise | Contact Gamma | Shared workspace credits | Team admin |
 
+The credit math is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/).
+
 Plus at $9 × 12 is $108, which matches the annual figure Gamma lists. Pro at $18 × 12 is $216. On those two tiers the annual price is 12 times the monthly seat price we recorded. Ultra does not offer that annual line.
 
 ```mermaid

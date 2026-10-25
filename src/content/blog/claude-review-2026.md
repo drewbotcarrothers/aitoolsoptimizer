@@ -25,6 +25,8 @@ The three-way choice is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs
 | Team | Standard and premium seats | 2 to 150 people. A different purchase from Pro |
 | Enterprise | Custom | SSO, SCIM, audit logs. Not a checkbox on Pro |
 
+The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+
 There is no fixed message count. Length, model, and features change how fast the pool drains. Chat on the web, desktop, mobile, and Claude Code draw from the same pool. A person who "hits the limit" is often running a memo and a repository on one tank.
 
 ```mermaid

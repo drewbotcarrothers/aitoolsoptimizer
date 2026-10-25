@@ -26,6 +26,8 @@ Synthesia treats credits as one currency across AI features. Its pricing materia
 | Pro | $89/month monthly, up to $676 for 48,000 credits | 6,000 on the entry tier | More of the same pool. Confirm which Pro features your tier unlocks |
 | Enterprise | Custom | Custom | Unlimited video minutes, 1-click translation in 140+ languages, 240+ avatars, unlimited personal avatars, SAML/SSO, Brand Kits, SCORM |
 
+The credit math is [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/).
+
 ```mermaid
 flowchart TD
   q1{"Is this a watermarked draft?"}

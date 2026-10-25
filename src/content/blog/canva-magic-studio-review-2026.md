@@ -24,6 +24,8 @@ Slide tools that overlap Canva are compared in [Gamma vs Canva for presentations
 | Business | $25/person/month or $250/person/year | 20× Canva Free, plus AI top-ups | Team admin, approvals, ad insights, 500 GB, 10% off print |
 | Enterprise | Custom | Contract | Security and admin |
 
+The invoice is [Canva Magic Studio pricing explained](/blog/canva-magic-studio-pricing-explained-2026/).
+
 An AI Pass add-on exists for heavier use. We did not record its price, so it is not in the table. K-12 schools and eligible nonprofits can get most premium features free. That is an organization grant. A personal Gmail account does not inherit it.
 
 ```mermaid

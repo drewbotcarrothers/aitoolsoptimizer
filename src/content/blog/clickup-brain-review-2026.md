@@ -25,6 +25,8 @@ If the wiki is Notion, use the [Notion AI review](/blog/notion-ai-review-2026/).
 | Brain² AI | From $9/user/month | Unlimited Brain² chat, premium models, 1,500 AI Super Credits |
 | Everything AI | $28/user/month | Notetaker, AI Fields, Automations, Super Agents |
 
+The invoice is [ClickUp Brain pricing explained](/blog/clickup-brain-pricing-explained-2026/).
+
 A person on Business yearly plus Brain² is $12 + $9 = $21 per user per month, if Brain² sits on top of the workspace the way the pages describe. A person who needs the notetaker should price Everything AI at $28 plus the workspace, not Brain² plus Everything, until checkout says otherwise. On Business yearly that reading is $12 + $28 = $40 per user per month.
 
 ```mermaid

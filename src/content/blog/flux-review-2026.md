@@ -23,6 +23,8 @@ Those image rates are the structured prices on [bfl.ai/pricing](https://bfl.ai/p
 | 2K | $0.014 | $0.100 |
 | 4K | $0.036 | $0.607 |
 
+The invoice is [FLUX pricing explained](/blog/flux-pricing-explained-2026/).
+
 Sixty Klein images at 768×768 are 60 × $0.008 = $0.48. Sixty FLUX 3 Image files at 4K are 60 × $0.607 = $36.42. The model name is the whole bill. "FLUX" on a screenshot is not a price.
 
 Video is a different meter. The same pricing data lists FLUX 3 text-to-video or image-to-video at standard effort from $0.15 a second at HD, $0.24 at FHD, $0.28 at QHD, and $0.41 at UHD. Draft HD text-to-video is listed at $0.06 a second. Upscale has a per-megapixel-second rate. Use the calculator for a clip. Do not multiply the still rate by frames.

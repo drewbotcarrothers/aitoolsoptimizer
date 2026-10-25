@@ -23,6 +23,8 @@ List prices were read from xAI's X Subscription pricing doc on October 24, 2026.
 | Super | $100 | $1,000 ($84/month) | 15×. Includes Grok Bot |
 | Ultra | $200 | $2,000 ($167/month) | 50×. Includes Grok Bot |
 
+The invoice is [Grok pricing explained](/blog/grok-pricing-explained-2026/).
+
 Paid individual plans include X Premium benefits when you connect an X account. The included usage pool covers Grok models in Grok and in Cursor, and Grok Bot on the tiers that include it. Bot usage draws from that seat's weekly pool. It is not a second pool. Third-party models inside Cursor are not included. They spend extra credits from the first use. Top-ups buy more usage, with spending caps available.
 
 Team seats are Premium at $30, Super at $100, and Ultra at $200 per seat. Plus is not a team seat. Members can mix tiers. Existing Cursor, SuperGrok, and X Premium plans continue unless you switch. Switching is optional. xAI says a switch cancels the old plan and refunds unused time on a prorated basis, and that a switch off a legacy plan is the new subscription immediately. App Store billing is the exception the doc calls out: xAI cannot cancel an Apple subscription for you.

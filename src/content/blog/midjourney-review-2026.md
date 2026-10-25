@@ -25,6 +25,8 @@ Figures are from Midjourney's plan comparison, checked October 16, 2026. Annual 
 | Stealth (private images) | No | No | Yes | Yes |
 | Concurrent image jobs | 3 Fast | 3 Fast or Relax | 12 Fast or 3 Relax | 12 Fast or 3 Relax |
 
+The invoice is [Midjourney pricing explained](/blog/midjourney-pricing-explained-2026/).
+
 Extra Fast GPU time is $4/hour on every plan. Rating images can earn free GPU time. That is a published perk, not a wage.
 
 > **Figure (plan diagram, not a product screenshot).** **Alt:** Basic is a small Fast-time bucket and public images. Standard adds unlimited Relax images. Pro adds Stealth and is the minimum for companies over $1 million in gross revenue. Mega adds Fast hours. A side note marks V8 alpha: some heavier settings run slower, and Relax is not available on that alpha yet.

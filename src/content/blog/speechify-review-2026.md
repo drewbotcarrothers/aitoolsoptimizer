@@ -21,6 +21,8 @@ We did not run a listening test or a dyslexia-usability study. Speechify's audie
 | Premium | $29/month on the monthly toggle | 1,000+ natural voices, 60+ on the language or dialect line, the popular card |
 | Yearly | Toggle labeled save 60% | The discounted per-month figure is on that toggle. We are not printing a calculated $11.60 as if it were the charge |
 
+The invoice is [Speechify pricing explained](/blog/speechify-pricing-explained-2026/).
+
 Sixty percent off $29 is $11.60. Speechify may round, bundle a platform, or exclude a tax. Open the yearly control and read the total for the year. If you listen every day, the yearly price is the one that matters, and it should be copied from checkout. If you need Speechify for one dense month of reading, $29 once is the honest buy and the 60% label is irrelevant.
 
 The page also announced voice typing. That is a dictation feature sitting on a product that built its name on playback. Price the plan for the feature you will use. A dictation habit and a listening habit can share an app and still be two jobs. [Wispr Flow](/tools/wispr-flow/) is the directory's dictation-first tool. Do not assume Premium's $29 includes unlimited voice typing at the same priority as listening until the feature list on your platform says so.

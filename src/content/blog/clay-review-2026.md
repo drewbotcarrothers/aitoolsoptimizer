@@ -38,6 +38,8 @@ Five hundred actions is enough to learn the sheet. It is not enough for a weekly
 | Growth | $446/month | 40,000 actions a month, or 480,000 actions a year |
 | Enterprise | Custom | Not printed as a self-serve seat |
 
+The invoice is [Clay pricing explained](/blog/clay-pricing-explained-2026/).
+
 The annual control says it saves 10%. Monthly billing is the higher figure on that same page. Do not subtract 10% yourself and email it to finance as if Clay had printed the monthly number. Open the toggle you intend to buy.
 
 The Launch card also prints action-volume lines that start near **$54 a month** for 180,000 actions a year on the annual view, and near **$60 a month** for 15,000 actions a month on the other view. Those lines are the volume control, not a second Launch plan that undercuts $167. Growth's headline is $446, and its card has the same kind of expandable lines. A quote is the slider position plus the data-credit position. Screenshot both before you compare Clay with a per-seat database.

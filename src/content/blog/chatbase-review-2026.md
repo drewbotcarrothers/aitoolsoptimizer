@@ -24,6 +24,8 @@ How to think about agents before you pick a vendor is [how to create an AI agent
 | Pro | $500 | $400 | 15,000 a month | 5 |
 | Enterprise | Custom | Custom | Custom | SSO, HIPAA-eligible, audit logs, a success manager |
 
+The invoice is [Chatbase pricing explained](/blog/chatbase-pricing-explained-2026/).
+
 The comparison table also lists test credits (200, 500, and 1,000), one agent on the self-serve cards, and 5, 8, or 12 AI actions per agent as you move up. There is a 7-day trial. Extra message credits via auto-recharge are $40 per 1,000. Those top-up credits do not expire, which is different from the monthly allotment. A month of Hobby that burns through 700 credits and then buys another 1,000 is $32 plus $40 on the yearly plan, not $32.
 
 ```mermaid

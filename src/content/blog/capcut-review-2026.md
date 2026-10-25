@@ -24,6 +24,8 @@ If the job is "one long video, many shorts," read the [OpusClip review](/blog/op
 | Ultra | Higher than Pro. Confirm in your account | More monthly AI credits and exclusive AI features on top of Pro |
 | Teams | Varies by region, seats, and billing cycle | Shared space, brand kit, Pro features for every seat. Annual often about 20% less |
 
+The invoice is [CapCut pricing explained](/blog/capcut-pricing-explained-2026/).
+
 Pro at $179.99 a year is about $15 a month, against $19.99 if you pay month to month. That comparison only holds if your account shows those US reference prices. A phone in another country can show a different pair of numbers. Check both the device you edit on and the web account before you subscribe twice.
 
 ```mermaid

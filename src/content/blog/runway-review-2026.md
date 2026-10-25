@@ -25,6 +25,8 @@ The wider set is [best AI video generators](/blog/best-ai-video-generators-2026/
 | Max | $76 | $95 | 9,500 | Unused credits roll over for 1 month. 20 parallel generations, early access, 3 Brand Kits, up to 3 voice clones |
 | Team / Enterprise | Contact sales | — | Custom | Shared production. API is separate |
 
+The credit math is [Runway pricing explained](/blog/runway-pricing-explained-2026/).
+
 A "52 second" plan can be one shot or several shorter ones. It is not a finished commercial. Retakes spend the same rate again. Third-party models inside Runway, including models Runway has listed such as Seedance, Kling, Nano Banana Pro, and Wan, can spend credits at their own rates. The Gen-4.5 equivalence is the planning number for Gen-4.5, not a promise about every model in the picker.
 
 ```mermaid

@@ -25,6 +25,8 @@ Where Firefly sits among other generators is [Midjourney alternatives](/blog/mid
 | Pro Plus | $49.99 | 10,000 | Same apps as Pro | More premium work |
 | Premium | $199.99 | 50,000 | Same apps as Pro | The pool for heavier video. If it runs out, video can queue |
 
+The invoice is [Adobe Firefly pricing explained](/blog/adobe-firefly-pricing-explained-2026/).
+
 ```mermaid
 flowchart TD
   q1{"What are you generating?"}

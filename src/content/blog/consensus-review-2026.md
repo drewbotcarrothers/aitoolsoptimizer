@@ -25,6 +25,8 @@ The web-search desk, which is a different job, is [Perplexity review](/blog/perp
 | Teams | Custom | Custom | Pro features, 50 Deep reviews per user a month, centralized billing, 500 API calls per member. Up to 200 seats, with discounts |
 | Enterprise | Custom | Custom | Over 200 users. Email sales. The help center lists 500 API calls per user |
 
+The invoice is [Consensus pricing explained](/blog/consensus-pricing-explained-2026/).
+
 Credits reset on a date you can see under profile, Settings, Subscription. "Unlimited Pro messages" is the help center's phrase for Pro and Deep. Deep reviews stay counted. Do not describe Pro as unlimited literature reviews.
 
 ```mermaid

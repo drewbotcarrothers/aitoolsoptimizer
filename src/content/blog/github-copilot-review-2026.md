@@ -24,6 +24,8 @@ Individual prices, the credit rule, and the Business and Enterprise headings wer
 | Business | $19 per user / month | 1,900 credits per user. Org controls and IP indemnity are on this tier |
 | Enterprise | $39 per user / month | Org plan. Read the credit line on the page before you quote a pool |
 
+The seat card is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+
 GitHub's FAQ says you spend credits when you chat and when you work with agents, including agent mode, code review, Copilot in the cloud, the CLI, and the Copilot app. Code completions and next-edit suggestions do not use credits, and they stay unlimited on every paid plan. A lightweight question costs a fraction of a credit. A long agent session on a frontier model costs more. There is no "one credit equals one chat" rate.
 
 The plans page also shows a flex allotment that can change, listed separately from the base credits. Do not add the flex line to the base line and call it a guarantee. If you hit the allowance, GitHub says you can set a budget for more usage, at $0.01 a credit, or switch to a cheaper model. On Business and Enterprise, admins decide whether extra paid usage is allowed.

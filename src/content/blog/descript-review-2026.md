@@ -23,6 +23,8 @@ Prices are from Descript's pricing page, checked October 16, 2026. Annual billin
 | Business | $50 | $65 | 40 | 1,500 | Brand Studio, translation and dubbing in 30+ languages, custom avatars. Scales to 5 |
 | Enterprise | Custom | Custom | Sized to the team | Sized to the team | SSO, SCIM, audit logs, SOC 2 Type II, training opt-out |
 
+The invoice is [Descript pricing explained](/blog/descript-pricing-explained-2026/).
+
 Media hours are the imported or recorded media Descript processes per editor per month. AI credits are a second meter, spent on AI tools. A long raw file can burn hours before you have made a single cut. Trim the recording you import, or record shorter.
 
 > **Figure (edit diagram, not a product screenshot).** **Alt:** A recording becomes a transcript. Deleting words deletes the matching picture. Studio Sound and filler-word removal sit on that transcript. Underlord can propose a tighter cut. Export is a file. A side path sends the finished long video to OpusClip for shorts, or starts in CapCut if the edit was never a talking-head transcript.
