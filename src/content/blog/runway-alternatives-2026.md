@@ -11,7 +11,7 @@ draft: false
 
 **Stay on Runway when you want its Gen-4.5 credits and the editing tools in that workspace. Leave when you want a different credit price, a Google Flow allowance you already pay for, a timeline editor, or a presenter.** Runway is a generation studio with a small free taste. It is a costly way to trim a webinar you already recorded.
 
-[Runway](/tools/runway/) Standard is $12 a month billed annually, or $15 month to month, for 625 credits. The company equates that pool to about 52 seconds of Gen-4.5. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/). The model comparison is [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/).
+[Runway](/tools/runway/) Standard is $12 a month billed annually, or $15 month to month, for 625 credits. The company equates that pool to about 52 seconds of Gen-4.5. The invoice is [Runway pricing explained](/blog/runway-pricing-explained-2026/). The product page is [Runway review](/blog/runway-review-2026/). The model comparison is [Runway vs Kling vs Veo](/blog/runway-vs-kling-vs-veo-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This guide does not rank clip quality.
 
