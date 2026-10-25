@@ -11,7 +11,7 @@ draft: false
 
 **Replace ChatGPT only for the job it is bad at for you: citations, a writing voice, a bundle you already pay for, or a price.** A leaderboard of model names will not tell you whether to cancel Plus. The alternatives below are the ones with directory pages, and several of them are not "another ChatGPT."
 
-Prices are US list prices excluding tax, from vendor pages checked October 16, 2026, published here on October 24, 2026. A live refetch of the pricing URLs that day did not return numbers. The head-to-head among the three biggest general assistants is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). This page exists so the shortlist is wider than those three. Plan details for OpenAI's own ladder are [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+Prices are US list prices excluding tax, from vendor pages checked October 16, 2026, published here on October 24, 2026. A live refetch of the pricing URLs that day did not return numbers. The head-to-head among the three biggest general assistants is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). This page exists so the shortlist is wider than those three. Plan details for OpenAI's own ladder are [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The product page is [ChatGPT review](/blog/chatgpt-review-2026/).
 
 ## Pick by the failure, not by the logo
 

@@ -11,7 +11,7 @@ draft: false
 
 **Leave Fireflies for Otter when you need a published minute cap. Leave it for Fathom when unlimited recordings on a free plan matter more than Fireflies' archive habits. Stay when the seat you already configured is the one the team will actually open.** A second notetaker in the same call is not a backup. It is two bots and a guest list that got worse.
 
-Fireflies' invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). The three-way with the two closest substitutes is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). The wider shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). How to use the notes after the call is [how to summarize meetings with AI](/blog/how-to-summarize-meetings-with-ai-2026/).
+Fireflies' invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). The product page is [Fireflies.ai review](/blog/fireflies-ai-review-2026/). The three-way with the two closest substitutes is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). The wider shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). How to use the notes after the call is [how to summarize meetings with AI](/blog/how-to-summarize-meetings-with-ai-2026/).
 
 Prices are US list prices excluding tax. Fireflies figures are from its knowledge-base article recorded October 16, 2026. Otter is from the same date. Fathom's annual prices match the October 24 pricing page cited in the Fireflies explainer. Published October 24, 2026. We did not score transcript accuracy.
 
