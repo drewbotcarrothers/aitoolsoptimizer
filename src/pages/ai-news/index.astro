@@ -8,41 +8,46 @@ const fmt = (d: Date) => d.toLocaleDateString('en-US', { timeZone: 'America/New_
 <Base noindex={posts.length === 0} title="AI News" description="Daily AI news roundups: the most important AI model, tool and industry updates, summarized every afternoon.">
   <link slot="head" rel="alternate" type="application/rss+xml" title="AI Tools Optimizer: AI News" href={url('/ai-news/rss.xml')} />
   <section class="container section">
-    <span class="pill">// ai news</span>
-    <h1>Daily <span class="grad">AI news</span></h1>
-    <p class="muted lead">A daily roundup of the AI news that matters: new models, tool launches and industry moves, published every weekday afternoon (around 3 PM ET). <a href={url('/ai-news/rss.xml')}>RSS feed</a></p>
-    {posts.length > 0 ? (
-      <ol class="news-list">
-        {posts.map((p, i) => (
-          <li>
-            <a class={`card news-item${i === 0 ? ' latest' : ''}`} href={url(`/blog/${p.id}/`)}>
-              <div class="meta">{i === 0 && <span class="pill new">Latest</span>}<time datetime={p.data.pubDate.toISOString()}>{fmt(p.data.pubDate)}</time></div>
-              <h2>{p.data.title}</h2>
-              <p class="muted">{p.data.description}</p>
-              <span class="more">Read roundup →</span>
-            </a>
-          </li>
-        ))}
-      </ol>
-    ) : (
-      <div class="card empty">
-        <div class="pulse" aria-hidden="true"></div>
-        <h2>First daily roundup <span class="grad">coming soon</span></h2>
-        <p class="muted">We're setting up a daily AI news digest. The first edition will appear here soon. Subscribe to the <a href={url('/ai-news/rss.xml')}>RSS feed</a> to get it as soon as it's out. In the meantime, browse the <a href={url('/tools/')}>AI tools directory</a> or compare <a href={url('/models/')}>AI models</a>.</p>
-      </div>
-    )}
+    <div class="post-col">
+      <span class="pill">// ai news</span>
+      <h1>Daily <span class="grad">AI news</span></h1>
+      <p class="muted">A daily roundup of the AI news that matters: new models, tool launches and industry moves, published every weekday afternoon (around 3 PM ET). <a href={url('/ai-news/rss.xml')}>RSS feed</a></p>
+      {posts.length > 0 ? (
+        <ol class="news-list">
+          {posts.map((p, i) => (
+            <li>
+              <a class={`card news-item${i === 0 ? ' latest' : ''}`} href={url(`/blog/${p.id}/`)}>
+                <div class="meta">{i === 0 && <span class="pill new">Latest</span>}<time datetime={p.data.pubDate.toISOString()}>{fmt(p.data.pubDate)}</time></div>
+                <h2>{p.data.title}</h2>
+                <p class="muted">{p.data.description}</p>
+                <span class="more">Read roundup →</span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      ) : (
+        <div class="card empty">
+          <div class="pulse" aria-hidden="true"></div>
+          <h2>First daily roundup <span class="grad">coming soon</span></h2>
+          <p class="muted">We're setting up a daily AI news digest. The first edition will appear here soon. Subscribe to the <a href={url('/ai-news/rss.xml')}>RSS feed</a> to get it as soon as it's out. In the meantime, browse the <a href={url('/tools/')}>AI tools directory</a> or compare <a href={url('/models/')}>AI models</a>.</p>
+        </div>
+      )}
+    </div>
   </section>
 </Base>
 <style>
-  .lead { max-width: 720px; }
-  .news-list { list-style: none; padding: 0; margin: 2rem 0 0; display: grid; gap: 1rem; max-width: 820px; }
+  /* .section's shorthand padding clears .container's side padding. Put it back, same as blog posts. */
+  section.section { padding-left: 1.25rem; padding-right: 1.25rem; }
+  /* Center the column in the wider container. Copy stays left-aligned, matching .post-col on blog posts. */
+  .post-col { max-width: 760px; margin-inline: auto; text-align: left; }
+  .news-list { list-style: none; padding: 0; margin: 2rem 0 0; display: grid; gap: 1rem; }
   .news-item { display: block; color: inherit; }
   .news-item h2 { font-size: 1.25rem; margin: .5rem 0 .4rem; }
   .news-item.latest { border-color: rgba(0,229,255,.45); box-shadow: var(--glow-cyan); }
   .meta { display: flex; align-items: center; gap: .6rem; font-family: var(--font-mono); font-size: .8rem; color: var(--color-muted); }
   .pill.new { color: var(--color-cyan); border-color: rgba(0,229,255,.45); }
   .more { color: var(--color-cyan); font-size: .9rem; }
-  .empty { margin-top: 2rem; max-width: 720px; text-align: center; padding: 2.5rem 1.5rem; }
+  .empty { margin-top: 2rem; text-align: center; padding: 2.5rem 1.5rem; }
   .empty h2 { margin: 1rem 0 .5rem; }
   .pulse { width: 14px; height: 14px; margin: 0 auto; border-radius: 50%; background: var(--color-cyan); box-shadow: 0 0 12px var(--color-cyan); animation: pulse 1.8s ease-in-out infinite; }
   @keyframes pulse { 50% { opacity: .35; transform: scale(.75); } }
