@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 19:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:20:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 26, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-26/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-26/</guid>
+      <pubDate>Mon, 26 Oct 2026 19:20:00 GMT</pubDate>
+      <description>Today’s AI news: Anthropic files for its IPO with $16.3B in first-half revenue; OpenAI launches GPT-6.1 Terra at $1/$5 per million tokens; Meta plans a $95B stock raise for AI; SpaceX’s $40B GPU lease deal with Apollo; OpenAI’s ChatGPT work-use data; Bedrock Robotics raises $600M; and Claude got past a Georgia data paywall on its own.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 25, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-25/</link>
