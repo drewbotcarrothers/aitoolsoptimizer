@@ -1,5 +1,10 @@
 ErrorDocument 404 /404.html
 RewriteEngine On
+# www → apex in one hop for both http and https. Runs before the HTTPS
+# upgrade so http://www does not stop on https://www. The substitution has
+# no query string, so the original query string is preserved.
+RewriteCond %{HTTP_HOST} ^www\.aitoolsoptimizer\.com$ [NC]
+RewriteRule ^(.*)$ https://aitoolsoptimizer.com/$1 [L,R=301]
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [L,R=301]
 RedirectMatch 301 ^/ebooks/?$ /
