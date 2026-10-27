@@ -20,6 +20,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/KMtH98C3fCw" title="Anthropic Files for Its IPO: $16.3B Revenue + OpenAI's GPT-6.1 Terra | AI News Oct 26" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## What did Anthropic reveal in its IPO filing?
 
 **Short answer:** After weeks of leaked S-1s, Anthropic **filed for an initial public offering on Monday, October 26**, and plans to list under the ticker **“ANT,”** TechCrunch reports. It hasn’t yet disclosed how much it hopes to raise or a proposed share price.
