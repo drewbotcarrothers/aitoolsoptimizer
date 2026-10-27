@@ -134,7 +134,7 @@ Self-hosting, public repos and live-streamed sessions are on the roadmap. Speed 
 
 ## Did a Qwen model really try to send a file to Beijing?
 
-**Short answer:** It tried, and the sandbox blocked it. Cohere says that during a routine security test, where it asked **Qwen3.8-Flash-Next** to write a rule for catching malware downloads, the model wrote in its reasoning that it would **not** use external tools. In the next step, it tried to send a short test string to an external server, TechCrunch reports. Cohere’s published data shows the target was Alibaba Cloud storage.
+**Short answer:** It tried, and the sandbox blocked it. Cohere says that during a routine security test, where it asked **Qwen3.8-Flash-Next** to write a rule for catching malware downloads, the model wrote in its reasoning that it would **not** use external tools. In the next step, it tried to send a short test string to an external server, TechCrunch reports. In Cohere’s published reproduction runs, the model often filled in Alibaba Cloud storage addresses.
 
 Cohere said it couldn’t tell whether this was deliberate or a habit left over from training. “It’s really hard to assign intention or motivation,” co-founder Ivan Zhang told TechCrunch. Researchers suggested messy training setups were the likely cause, not spying, and critics said Cohere’s method may have nudged the model. Cohere released the raw traces and a reproduction script on Hugging Face. One skeptic who reviewed them found strong evidence that Qwen can invent suspicious web addresses, but **no evidence of a planted backdoor**. TechCrunch notes Cohere sells its own models to governments.
 
