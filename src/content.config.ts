@@ -18,6 +18,8 @@ const blog = defineCollection({
     relatedTools: z.array(z.string()).default([]),
     sample: z.boolean().default(false),
     draft: z.boolean().default(false),
+    // Root-relative override. Omit it and add public/images/blog/{id}.webp instead.
+    featuredImage: z.string().regex(/^\/(?!.*\.\.)[A-Za-z0-9._/-]+$/).optional(),
   }),
 });
 

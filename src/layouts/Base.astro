@@ -3,8 +3,9 @@ import '../styles/global.css';
 import { SITE } from '../data/categories';
 import { url } from '../data/url';
 import { getCollection } from 'astro:content';
-interface Props { title?: string; description?: string; noindex?: boolean; }
-const { title, noindex = false, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
+interface Props { title?: string; description?: string; noindex?: boolean; image?: string; }
+const { title, noindex = false, image, description = 'AI Tools Optimizer teaches you AI and helps you pick the right AI tools, with honest reviews, tips and a curated tools directory.' } = Astro.props;
+const socialImage = new URL(url(image || '/og-image.png'), Astro.site).href;
 const fullTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} — ${SITE.tagline}`;
 const hasPosts = (await getCollection('blog', (p) => !p.data.draft)).length > 0;
 const nav = [['/tools/', 'Tools Directory'], ['/models/', 'Models'], ['/ai-news/', 'AI News'], ...(hasPosts ? [['/blog/', 'Blog']] : []), ['/about/', 'About'], ['/contact/', 'Contact']];
@@ -32,8 +33,9 @@ const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404
   <link rel="apple-touch-icon" href={url('/apple-touch-icon.png')} />
   <meta property="og:title" content={fullTitle} />
   <meta property="og:description" content={description} />
-  <meta property="og:image" content={new URL(url('/og-image.png'), Astro.site).href} />
-  <meta name="twitter:card" content="summary" />
+  <meta property="og:image" content={socialImage} />
+  <meta name="twitter:card" content={image ? 'summary_large_image' : 'summary'} />
+  <meta name="twitter:image" content={socialImage} />
   <meta name="theme-color" content="#070A13" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

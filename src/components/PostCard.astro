@@ -1,13 +1,19 @@
 ---
 import { url } from '../data/url';
+import { blogFeaturedImage } from '../lib/featuredImage';
 const { post } = Astro.props; const d = post.data;
+const image = blogFeaturedImage(post.id, d.featuredImage);
 ---
 <a class="card post-card" href={url(`/blog/${post.id}/`)}>
-  <div class="thumb"><span>{d.title.split(' ').slice(0, 2).join(' ')}</span></div>
+  {image
+    ? <img class="thumb" src={url(image)} alt="" width="1280" height="720" loading="lazy" decoding="async" />
+    : <div class="thumb placeholder"><span>{d.title.split(' ').slice(0, 2).join(' ')}</span></div>}
   <span class="muted date">{d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'short', day: 'numeric' })}</span>
   <h3>{d.title}</h3><p class="muted">{d.description}</p>
 </a>
 <style>
-  .thumb { height: 130px; border-radius: 10px; margin-bottom: .9rem; display: grid; place-items: center; background: radial-gradient(circle at 30% 30%, rgba(0,229,255,.35), transparent 60%), radial-gradient(circle at 70% 70%, rgba(139,92,246,.45), transparent 60%), var(--color-surface); border: 1px solid var(--color-border); font-family: var(--font-display); color: rgba(230,236,255,.85); text-align: center; padding: 1rem; }
+  .thumb { height: 130px; width: 100%; border-radius: 10px; margin-bottom: .9rem; border: 1px solid var(--color-border); background: var(--color-surface); }
+  img.thumb { display: block; object-fit: cover; object-position: center; }
+  .thumb.placeholder { display: grid; place-items: center; background: radial-gradient(circle at 30% 30%, rgba(0,229,255,.35), transparent 60%), radial-gradient(circle at 70% 70%, rgba(139,92,246,.45), transparent 60%), var(--color-surface); font-family: var(--font-display); color: rgba(230,236,255,.85); text-align: center; padding: 1rem; }
   h3 { margin: .4rem 0; font-size: 1.1rem; } .date { font-size: .8rem; margin-right: .5rem; }
 </style>
