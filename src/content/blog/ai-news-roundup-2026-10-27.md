@@ -20,6 +20,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/PthOq_o9ha8" title="OpenAI and Anthropic Say AI Broke a Core Computing Rule + Genie 4 | AI News Oct 27" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Did AI really disprove the Exponential Time Hypothesis?
 
 **Short answer:** Two labs say so, and the experts who proposed the hypothesis are now checking. On **October 26**, OpenAI announced three results from its internal models. The headline one: a disproof of the **Exponential Time Hypothesis**, which says some logic puzzles (like 3-SAT) need exponentially more time as they grow. OpenAI says its AI found the proof on **October 16** and it was checked in the **Lean** proof assistant on **October 17**. Both the writeup and the Lean proof are on OpenAI’s GitHub.
