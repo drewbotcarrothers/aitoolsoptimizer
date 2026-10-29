@@ -18,6 +18,10 @@ draft: false
 - **Delaware** drafted a law that would let **AI agents run entire companies**. House Oversight Chair **James Comer** is pushing back.
 - **Axiom** says swarms of AI agents produced the first complete **computer-checked proof** of the **Classification of Finite Simple Groups**, the longest proof in math, in **24 days**.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/K14PTZLOe94" title="Why OpenAI Wants Google's AI Chips | AI News" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Is OpenAI really buying Google’s AI chips?
