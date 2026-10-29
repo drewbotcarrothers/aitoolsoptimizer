@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:45:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 29, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-29/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-29/</guid>
+      <pubDate>Thu, 29 Oct 2026 19:45:00 GMT</pubDate>
+      <description>Today’s AI news: Google’s Gemini 4 Carbon goes to cyber defenders first; the Gemini app hits 1 billion users as cloud AI booms; Mistral Large 4 goes open weight; OpenAI rewrites its Model Spec; ServiceNow comes to ChatGPT; Claude Enterprise shows what AI spend buys; and agents now start 40% of GitHub pull requests.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 28, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-28/</link>
