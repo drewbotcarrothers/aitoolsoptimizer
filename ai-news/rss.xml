@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 19:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:15:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – October 30, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-30/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-30/</guid>
+      <pubDate>Fri, 30 Oct 2026 19:15:00 GMT</pubDate>
+      <description>Today’s AI news: a fake Claude Code extension slipped into Cursor’s marketplace; an open-weight model hacked six Firefox releases for about $1,000 each; OpenAI expands its AI agent monitors; Gemini now edits your files in chat; Reddit says Google’s AI search costs it 1M+ referrals a week; Canada buys into Cohere; and the Claude API takes 4x bigger requests.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 29, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-10-29/</link>
