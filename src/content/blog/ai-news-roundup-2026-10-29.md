@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** The newest frontier AI is being rationed to defenders and big customers first, while open and auto-routed models make “good enough” AI cheaper for everyone else.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/RPdCDyy8_uY" title="Google's Best AI Model Isn't for You (Yet)" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is Gemini 4 Carbon, and who can use it?
