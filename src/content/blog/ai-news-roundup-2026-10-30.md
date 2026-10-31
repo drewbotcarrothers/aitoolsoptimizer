@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** Your AI tools are now part of your attack surface. A poisoned extension, a $1,000 browser exploit and OpenAI watching its own agents all point the same way: check what your AI tools can install, touch and run.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/XurTuGhGVkQ" title="Fake Claude Code Extension Hit Cursor: Check This" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What happened with the fake Claude Code extension in Cursor?
