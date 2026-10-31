@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** The AI money machine just met its first real limit. OpenAI is asking for less money at a lower price while Anthropic hands its heaviest users more room. That pressure can reach you through plan names, limits and prices, so check what your subscription actually includes this month.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/YOFjlPdV1hI" title="Why OpenAI Is Asking for $10B Less" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Why did OpenAI cut its funding target by $10 billion?
