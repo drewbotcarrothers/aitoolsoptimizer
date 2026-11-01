@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 19:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 20:45:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 1, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-01/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-01/</guid>
+      <pubDate>Sun, 01 Nov 2026 20:45:00 GMT</pubDate>
+      <description>Today’s AI news: ChatGPT and Codex will share one token-based usage allowance from December; DeepSeek open-sources a ‘super agent’ for coding teams; Google’s PlanAssist cuts planning work by up to 58%; OpenAI’s GPT-Rosalind-6 for vetted scientists; a fixed ChatGPT share-link flaw; and more.</description>
+    </item>
     <item>
       <title>AI News Roundup – October 31, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-10-31/</link>
