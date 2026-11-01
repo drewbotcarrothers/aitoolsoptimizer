@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** Your AI subscription is turning into one shared token budget. When chat, agents and coding all draw from the same pool, the model you pick for each task decides how far your plan goes, so start watching Settings → Usage now.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/4fKykAIq53c" title="Why ChatGPT and Codex Will Share One Limit" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Will ChatGPT and Codex share one usage limit?
