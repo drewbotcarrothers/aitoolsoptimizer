@@ -20,26 +20,31 @@ draft: false
 
 **Today’s take:** The leaderboard winner isn’t automatically the best buy. On GDPx, the top three models are separated by 2.4 points, while their cost per task ranges from about $16 to $54. Pick models on cost per useful result for your own work, not on rank alone.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/NtTPpNPKaAw" title="Claude vs Gemini on GDPx: Who's Worth Paying?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## How hard is GDPx, the new AI agent benchmark?
 
 **Short answer:** Very hard. In SemiAnalysis’s words, “GDPx is a true frontier-level benchmark: even the best model scores just 12%.” Its 206 tasks cover chip design, cybersecurity, biology, finance, legal, quant trading, recursive self-improvement, hardware design, materials science, alignment and software engineering, built with 14 specialized data partners.
 
-| Model | GDPx score | Avg cost per task |
-|---|---|---|
-| Claude Opus 5.5 | 12.0 | $51.41 |
-| Gemini 4 Carbon | 10.9 | $16.29 |
-| GPT-6 Astra | 9.6 | $53.99 |
-| Muse Wonder Full | 9.0 | no public price |
-| GPT-6.1 Sol | 8.4 | $9.80 |
-| Claude Sonnet 5.5 | 8.2 | $45.27 |
-| Gemini 4 Argon | 7.3 | $12.79 |
-| DeepSeek 4.1 Flash | 5.4 | $0.94 |
-| GPT-6 Luna | 5.1 | $0.92 |
-| Grok 4.7 | 3.9 | $16.34 |
+| Model | GDPx score | Avg cost per task | Cost per GDPx point* |
+|---|---|---|---|
+| Claude Opus 5.5 | 12.0 | $51.41 | $4.28 |
+| Gemini 4 Carbon | 10.9 | $16.29 | $1.49 |
+| GPT-6 Astra | 9.6 | $53.99 | $5.62 |
+| Muse Wonder Full | 9.0 | no public price | n/a |
+| GPT-6.1 Sol | 8.4 | $9.80 | $1.17 |
+| Claude Sonnet 5.5 | 8.2 | $45.27 | $5.52 |
+| Gemini 4 Argon | 7.3 | $12.79 | $1.75 |
+| DeepSeek 4.1 Flash | 5.4 | $0.94 | $0.17 |
+| GPT-6 Luna | 5.1 | $0.92 | $0.18 |
+| Grok 4.7 | 3.9 | $16.34 | $4.19 |
 
-*Scores and costs from the [GDPx leaderboard](https://gdpx.semianalysis.com/); selected models shown.*
+*Scores and costs from the [GDPx leaderboard](https://gdpx.semianalysis.com/); selected models shown. \*Our arithmetic: average cost per task divided by GDPx score.*
 
 - Tasks run for up to **8 hours** in realistic work environments, such as a ~4,000-file private-equity deal room. Models used their own tools where available: Claude Code for Opus 5.5, Codex for GPT-6 Astra and Antigravity for Gemini 4 Carbon.
 - The headline score is single-attempt performance averaged over three runs, with every domain weighted equally.
