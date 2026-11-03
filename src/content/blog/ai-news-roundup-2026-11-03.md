@@ -39,11 +39,11 @@ draft: false
 *\*Our arithmetic: $895.4B ÷ ($17B × 4).*
 
 - Growth is still huge, but it slowed sharply in Q3 on a quarter-over-quarter basis.
-- Compute and infrastructure expenses rose **$14.4 billion** over nine months, up **329%**. Anthropic gets much of its capacity from Amazon, Google and SpaceX, plus neoclouds.
+- Compute and infrastructure expenses rose **$14.4 billion** over nine months, up **329%**. As a share of revenue, though, they fell from **172%** in the first nine months of 2025 to **57%** in 2026, per the filing. Anthropic gets much of its capacity from Amazon, Google and SpaceX, plus neoclouds.
 - The filing carries more than **90 pages** of risk factors. TechCrunch highlights new language: Anthropic’s “internal estimates and our expectations regarding future models, rather than our current models, indicate that we may imminently meet our Responsible Scaling Policy’s definition of ‘dramatically accelerated progress attributable to AI.’” It says no current model has been designated as crossing that line.
 - Anthropic also says it doesn’t expect to safely let Claude fully design and build future frontier models “without meaningful human supervision or understanding,” and is considering policy updates to keep humans in control.
 
-**Why it matters to you:** The company behind [Claude](/tools/claude/) and [Claude Code](/tools/claude-code/) is growing fast but spending far faster on compute. That pressure is one reason plan names, usage limits and features keep changing. Check what you actually pay in [Claude pricing explained](/blog/claude-pricing-explained-2026/) and the [Anthropic API pricing guide](/blog/anthropic-api-pricing-explained-2026/), and compare API prices on our [models page](/models/).
+**Why it matters to you:** The company behind [Claude](/tools/claude/) and [Claude Code](/tools/claude-code/) is growing fast but spending far faster on compute. Plans are already moving: since Oct 30, Claude’s Max 20x plan became **Ultra**, and fast mode for Claude Opus 4.8 is set to shut off on **Nov 30** (see our [Oct 31 roundup](/blog/ai-news-roundup-2026-10-31/)). Keep your prompts and workflows portable, and keep a second model you trust. Check what you actually pay in [Claude pricing explained](/blog/claude-pricing-explained-2026/) and the [Anthropic API pricing guide](/blog/anthropic-api-pricing-explained-2026/), and compare API prices on our [models page](/models/).
 
 **Sources:** [SEC (S-1/A)](https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm) · [CNBC](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html) · [TechCrunch](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/)
 
