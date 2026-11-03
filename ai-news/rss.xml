@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 20:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:15:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 3, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-03/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-03/</guid>
+      <pubDate>Tue, 03 Nov 2026 20:15:00 GMT</pubDate>
+      <description>Today’s AI news: Anthropic’s amended IPO filing shows about $17B in Q3 revenue, a $23.29B loss and $895B in compute commitments; the NYT sues Brave over AI scraping; ChatGPT search hits 20% of Google’s volume; Google turns AI off by default for K-12; Claude message threads; OpenAI’s Astra designs hardware; and chatbots flub voting questions.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 2, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-02/</link>
