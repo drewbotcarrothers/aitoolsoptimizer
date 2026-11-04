@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 4, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-04/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-04/</guid>
+      <pubDate>Wed, 04 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Reuters says OpenAI staff warned for years about lax security as OpenAI lifts bug bounties to $172K; OpenAI buys Codex tool maker Pierre; Tencent launches Hy4; an EU court adviser says Gemini answers can infringe publishers’ rights; Anthropic’s FlashProve; Claude Marketplace grows; Goldman limits Claude Code.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 3, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-03/</link>
