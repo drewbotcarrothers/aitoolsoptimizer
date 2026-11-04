@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** Claude is now a business doing about $17 billion a quarter, but its compute bill is on another scale: $895 billion committed, roughly 13 years of revenue at the Q3 pace. Expect plans, limits and prices to keep moving. Keep your workflows portable and have a second model you trust.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/mFv2WTCU67o" title="Anthropic's $23B Loss: What It Means for Claude" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What did Anthropic’s amended S-1 reveal?
