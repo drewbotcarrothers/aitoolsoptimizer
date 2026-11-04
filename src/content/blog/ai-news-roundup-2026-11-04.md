@@ -36,7 +36,7 @@ OpenAI’s public answer came in two posts on Nov 2:
 | OpenAI bug bounty example (ChatGPT) | Old award | New example payout |
 |---|---|---|
 | Medium: read-only member uploads files to a Project | $750 | $2,415 |
-| Critical: one-click account takeover | $6,500 | $51,577 |
+| Critical: zero-click account takeover | $6,500 | $51,577 |
 | Exceptional: viewing other users’ chat messages | $100,000 | $171,925 |
 
 *Source: OpenAI. New payouts include OpenAI’s example quality, loyalty and campaign bonuses; OpenAI calls all scenarios illustrative.*
