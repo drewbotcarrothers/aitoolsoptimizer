@@ -19,6 +19,10 @@ draft: false
 
 **Today’s take:** Specialized cyber agents just jumped a preparedness tier. GPT-6 Cyber is not landing in the main ChatGPT consumer app—it’s gated to authorized Daybreak Red defenders—but a **Critical** model that already helped find **81** Firefox bugs is a signal: if you ship software with AI coding tools, expect faster automated vuln discovery for verified teams, and tighter access controls as the capability rises.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/EdfCk9HCfwk" title="OpenAI's Critical Cyber Model Is Locked Away" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is OpenAI’s GPT-6 Cyber?
