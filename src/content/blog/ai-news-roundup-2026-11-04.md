@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** The AI labs’ own security is now part of what you’re buying. OpenAI just put a public price on a bug that could expose other users’ ChatGPT chats: up to about $172,000. Treat that as a reminder to keep secrets, client data and passwords out of any chatbot unless your plan’s admin and data controls cover it.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/po78pwhQCXs" title="OpenAI Will Pay $172K for This ChatGPT Bug" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What did Reuters report about OpenAI’s security?
