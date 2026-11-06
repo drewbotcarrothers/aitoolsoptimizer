@@ -20,6 +20,11 @@ draft: false
 
 **Today’s take:** If you pay for [Claude](/tools/claude/) or [Claude Code](/tools/claude-code/), METR’s outside look is the clearest public signal yet that those tools are feeding back into Anthropic’s own R&D pace. Treat the ~2x / ~80% figures as judgment under redactions—not a precise ledger—and keep workflows portable across a second model when product jumps land.
 
+
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/ng9hZu5DPkI" title="Anthropic Is Shipping Claude ~2x Faster" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Is Anthropic’s AI R&D really accelerating ~2x?
