@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** The money behind [ChatGPT](/tools/chatgpt/) and [Claude](/tools/claude/) just got more cautious. Nothing changes in your plan today, but labs with huge compute bills and cooler investors have more reason to tweak prices and usage limits. Keep a second model ready and check our [models page](/models/) before you renew.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/XTFsm3RJC84" title="Why OpenAI's $11B Raise Is a Warning Sign" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Is the AI funding boom cooling for OpenAI and Anthropic?
@@ -37,6 +41,7 @@ On the same day, CNBC reported that some Anthropic investors now expect its IPO 
 | OpenAI’s March 2026 round | **$122B at $852B** (The Verge) |
 | Anthropic IPO talk now | “$1.5T a stretch”; one investor: **$1T–$1.25T** (CNBC) |
 | Anthropic earlier target / May private value | up to **$2T** / **$965B** (CNBC) |
+| Anthropic, per Bloomberg via TechCrunch | some potential IPO buyers see as low as **$1.1T** |
 
 *Our math from the reported figures: $11B is about 37% of the $30B goal, and $1.25T is about 11% below $1.4T but about 47% above March’s $852B.*
 
