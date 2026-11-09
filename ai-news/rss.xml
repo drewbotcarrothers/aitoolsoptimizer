@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 9, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-09/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-09/</guid>
+      <pubDate>Mon, 09 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Anthropic launches Claude Fable 5.2 and Mythos 5.2 at a 20% lower $8/$40 price; Meta’s Muse Ember undercuts Haiku on cost per task; Anthropic buys $3.4B of gas generators; Google adds TPU 8tx and 8i Max; ChatGPT Enterprise lands in AWS Marketplace; NVIDIA’s GR00T 2.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 8, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-08/</link>
