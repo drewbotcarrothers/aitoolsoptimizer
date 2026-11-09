@@ -19,6 +19,10 @@ draft: false
 
 **Today’s take:** Fable 5.2 is cheaper, but it’s still **2x** the per-token price of [Claude](/tools/claude/) Opus 5.5 ($4 / $20), and Anthropic itself says most people should start with Opus 5.5. Pay for Fable only when the job is big, long and hard. Compare prices on our [models page](/models/).
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/2_6M0Hqjkdw" title="Should You Switch to Claude Fable 5.2?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What’s new in Claude Fable 5.2 and Mythos 5.2?
