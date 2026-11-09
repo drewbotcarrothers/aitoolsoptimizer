@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** The convenience click is the new security hole. If you use [Claude Code](/tools/claude-code/), [Cursor](/tools/cursor/) or any coding agent, treat its project folder like a `.env` file: never type secrets into commands, and check what your agent saved before you push.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/1JBNgn4F-vU" title="How One Claude Code Click Can Expose Passwords" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Did Claude Code leak passwords to GitHub?
