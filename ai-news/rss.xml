@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 10, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-10/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-10/</guid>
+      <pubDate>Tue, 10 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Google makes Gemini 4 Carbon available at $2/$10 until Nov 30; DeepMind’s AlphaProof Code verifies Signal’s encryption code; Businesses in ChatGPT; Australia’s new AI safety regulator; Google and Adobe team up; Gemini Robotics 2.5; Apple’s $49.99 AI usage packs.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 9, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-09/</link>
