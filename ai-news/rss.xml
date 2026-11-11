@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:45:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 11, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-11/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-11/</guid>
+      <pubDate>Wed, 11 Nov 2026 20:45:00 GMT</pubDate>
+      <description>Today’s AI news: Claude gets Sheets, Whiteboards, Claude Data and Meetings; Anthropic’s IPO roadshow at $70–$78 a share; Alibaba’s Qwen4-Max preview; Baidu’s ERNIE 5.5 Flash Preview; DeepMind’s AlphaGenome 2; Runway opens Praxis-1; New York’s RAISE Act registration.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 10, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-10/</link>
