@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** Claude is turning into an office suite. If you already pay for [Claude](/tools/claude/) (Pro is **$20 a month**, or **$17** on annual billing, per our [Claude pricing guide](/blog/claude-pricing-explained-2026/)), you just got an AI spreadsheet and a team whiteboard at no extra cost. Use them for simple trackers and planning boards before you pay for another app. But Anthropic says Sheets is basic for now, so real Excel work still belongs in Excel.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/eB-yYtGd80A" title="Claude Sheets: Do You Still Need Excel?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What are Claude Sheets, Whiteboards and Claude Data?
