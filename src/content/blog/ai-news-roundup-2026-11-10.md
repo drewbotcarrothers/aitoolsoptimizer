@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** For the next three weeks, Google’s top model costs about a **quarter** of [Claude](/tools/claude/) Fable 5.2 per token. That deal ends **November 30**, when Carbon matches Claude Opus 5.5 at $4 / $20. Test [Gemini](/tools/gemini/) 4 Carbon on your real jobs now, and judge it by cost per finished task, not token price. Compare all prices on our [models page](/models/).
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/RxF4YLs9jAM" title="Gemini 4 Carbon Is Cheap Until November 30" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is Gemini 4 Carbon, and what does it cost?
