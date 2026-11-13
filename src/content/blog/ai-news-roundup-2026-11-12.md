@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** The cheap model just caught up. If you use [Gemini](/tools/gemini/) through the API, Hydrogen costs **25% less per token** than Argon and Carbon at their intro price ($2 / $10), and **62.5% less** than the **$4 / $20** they cost from December 1. For a workload of 10 million input and 2 million output tokens a month, that’s **$30** on Hydrogen vs **$40** on Argon or Carbon now and **$80** from December. Make Hydrogen your default for everyday work and keep Carbon for the hardest jobs. Just test it first: the benchmarks are Google’s own.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/jEyyfM43Sic" title="Gemini 4 Hydrogen: Is the Cheap Model Better?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is Gemini 4 Hydrogen, and where can you use it?
