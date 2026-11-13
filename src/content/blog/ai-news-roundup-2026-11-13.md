@@ -19,6 +19,10 @@ draft: false
 
 **Today’s take:** ChatGPT just went from finding the sweater to buying it. The smart part is the design: your agent gets a one-off payment token, not your card, and nothing is bought without your fingerprint or face. The catch is the price of entry: it’s Pro-only, and [ChatGPT](/tools/chatgpt/) Pro costs **$100, $200 or $500 a month** (see our [ChatGPT pricing guide](/blog/chatgpt-pricing-explained-2026/)). If you’re on Plus, wait; this will tell us whether agent shopping actually works before it reaches cheaper plans.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/eMfmGWwH7UA" title="ChatGPT Wallet: Should You Let AI Pay?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is ChatGPT Wallet, and how does it keep your card safe?
