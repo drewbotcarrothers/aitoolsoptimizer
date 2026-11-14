@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 14, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-14/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-14/</guid>
+      <pubDate>Sat, 14 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Gemini can now read your Google Wallet and linked bank and card accounts (read-only) to help with budgets and subscriptions; DeepSeek opens search, OCR and voice in its API; Blackwell fingerprints in six Chinese models; LangChain hits $3B; banks shut China out of Anthropic’s IPO.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 13, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-13/</link>
