@@ -18,6 +18,10 @@ draft: false
 
 **Today’s take:** One day after ChatGPT’s agent learned to *spend* your money, Gemini learned to *read* it, and Google drew the line in the opposite place. ChatGPT Wallet needs ChatGPT Pro ($100 a month and up); Gemini’s Wallet connection is open to every US Gemini app user, including the free plan, and can’t make a single payment. For most people the second one is more useful today: ask it which subscriptions you’re still paying for and which ones went up.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/3CB_INGGAnI" title="Should You Let Gemini See Your Spending?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What can Gemini do with your Google Wallet and bank accounts?
