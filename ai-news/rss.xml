@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 15, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-15/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-15/</guid>
+      <pubDate>Sun, 15 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Cursor traces its breach to a key exposed at Fireworks AI and a fake Claude Code extension that reached up to 5,000 users (Uber drivers hit too); the Fed’s survey ranks AI the top financial risk; Amodei on Anthropic’s compute dilemma; WSJ on Megaspeed’s $12B Nvidia orders; Salesforce open-sources a speech model.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 14, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-14/</link>
