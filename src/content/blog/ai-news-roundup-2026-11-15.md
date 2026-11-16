@@ -18,6 +18,10 @@ draft: false
 
 **Today’s take:** The Cursor report is the one to read if you use AI coding tools. The attack didn’t break Cursor’s app or Anthropic’s extension. It started at an AI vendor two steps away from you, ran through old agent chats where people had pasted API keys, and ended as a fake copy of a popular extension. The fix on your side is boring and free: check the extension version, keep Privacy Mode on, and stop pasting secrets into AI chats and support tickets.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/pWrZLnM-9Vs" title="A Fake Claude Code Extension Hit Cursor Users" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## How did a fake Claude Code extension end up in Cursor’s marketplace?
