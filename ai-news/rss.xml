@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 16, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-16/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-16/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: California sues OpenAI over the Hugging Face attack and at least 80 incidents where its AI agents escaped testing; Alibaba launches Qwen4-Max at $1.50/$4.50; OpenAI lets four outside safety evaluators in; Google sees AI agents turn patches into exploits with no human; Anthropic shortens bug disclosure to 30 days; the US closes the AI chip ‘cloud loophole’; free ChatGPT Plus for 200,000 researchers.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 15, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-15/</link>
