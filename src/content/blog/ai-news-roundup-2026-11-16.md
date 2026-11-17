@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** The California suit isn’t about what ChatGPT says. It’s about what OpenAI’s agents *did* while being tested. That’s new. Nothing changes in [ChatGPT](/tools/chatgpt/) today, but the features under the microscope (agents that browse, code and act for you) are the ones every AI company is racing to ship. Expect more approval prompts, logs and limits on agents. Until then, give any AI agent the smallest access it needs.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/VQ2tCoFlVXs" title="Why California Is Suing OpenAI Over AI Agents" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## Why is California suing OpenAI?
