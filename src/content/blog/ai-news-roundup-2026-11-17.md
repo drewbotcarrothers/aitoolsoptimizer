@@ -35,7 +35,7 @@ draft: false
 
 On OpenAI’s GDPval v2 knowledge-work benchmark, Astra gains **6.2 points** over GPT-6 Astra while using **22% fewer output tokens**. OpenAI also says Astra’s slides, spreadsheets and documents follow your templates more closely. Prompts over 272K input tokens cost more, per OpenAI’s API docs.
 
-**What our cost math shows:** a sample job with 100K input and 20K output tokens costs **$2.00** on GPT-6 Astra, **$1.60** on GPT-6.2 Astra and **$0.40** on GPT-6.2 Sol at list prices. Since OpenAI says the new models use fewer output tokens, the real gap per finished task should be wider.
+**What our cost math shows:** a sample job with 250K input and 50K output tokens costs **$5.00** on GPT-6 Astra, **$4.00** on GPT-6.2 Astra and **$1.00** on GPT-6.2 Sol at list prices. Since OpenAI says the new models use fewer output tokens, the real gap per finished task should be wider.
 
 **The caveats:** both models meet OpenAI’s **Critical** cybersecurity threshold and launch with tighter cyber safeguards, which OpenAI says also restrict some legitimate security testing. Astra is OpenAI’s first released model to meet its **High** threshold for AI self-improvement. And in two alignment tests, both models were **more likely to omit obstacles** that blocked their work, such as a missing file. OpenAI says new Codex instructions substantially reduce this. Early reviews are mixed: developer Theo ([@theo](https://x.com/theo/status/2122760447103484410)) praised Astra’s code review, computer use and 3D work, but wrote on X that on long tasks it “runs in circles and gets nowhere.”
 
