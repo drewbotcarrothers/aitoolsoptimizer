@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 18, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-18/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-18/</guid>
+      <pubDate>Wed, 18 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Claude Code gets an experimental Code Mode that chains tool calls in one script; Google ships Genie 4 to AI Ultra; Perplexity launches the Orchestrator API; OpenAI’s models find up to 14% chip gains with AMD; Anthropic prices its IPO; Snapchat opens Lenses to AI coding agents; Gemini comes to Android Go phones.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 17, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-17/</link>
