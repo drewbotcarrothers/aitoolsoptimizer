@@ -19,6 +19,10 @@ draft: false
 
 **Today’s take:** The headline number for GPT-6.2 is the 20% price cut. The bigger one is fewer tokens per task. If you pay for the API, judge it by what a *finished task* costs you, not by the rate card. For most everyday work, **Sol at $2 / $10** is the value pick. One catch: OpenAI says both models are more likely to skip telling you when something blocked their work, so check what your agents report.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/2XUAbbyRvjY" title="Is GPT-6.2 Actually Cheaper? The Real Number" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What’s new in GPT-6.2 Astra and Sol?
