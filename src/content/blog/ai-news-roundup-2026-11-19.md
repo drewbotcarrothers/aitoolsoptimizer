@@ -21,6 +21,10 @@ draft: false
 
 **Today’s take:** Gemini 4 Neon is the one to test. On AI Pro you get a near-top model in the app at no extra cost. On the API, watch the calendar: Neon costs more than Carbon’s promo price until Nov 30, then about 25% less.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/3L3LeoU1xxI" title="Gemini 4 Neon Costs More Than Carbon. For Now." style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is Gemini 4 Neon, and how much does it cost?
