@@ -16,6 +16,8 @@ const openLabel = (o: boolean | null) => o === true ? 'Open' : o === false ? 'Cl
 const ctxNum = (c: string | null) => !c ? 0 : parseFloat(c) * (c.endsWith('M') ? 1e6 : c.endsWith('K') ? 1e3 : 1);
 const updated = fmtDate(data.lastUpdated);
 const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+const embedSnippet = `<iframe src="https://aitoolsoptimizer.com/embed/models/" title="AI model pricing tracker" style="width:100%;max-width:640px;height:480px;border:0;" loading="lazy"></iframe>
+<p>Source: <a href="https://aitoolsoptimizer.com/models/">AI Tools Optimizer</a></p>`;
 
 const faqs = [
   ['What is a frontier AI model?', 'A frontier model is one of the most capable AI models available at a given time, usually the newest flagship from a major lab such as OpenAI, Anthropic, Google DeepMind or xAI. These models set the pace on reasoning, coding and agent benchmarks.'],
@@ -83,6 +85,16 @@ const jsonLd = [
     <p id="mempty" class="muted" hidden>No models match your filters.</p>
     <p class="muted small">A dash (—) means the figure was not confirmed on an official source when we checked. Prices are standard list rates for short prompts; batch, caching, long-context and regional rates differ. Click a column header to sort.</p>
 
+    <div class="embed-box">
+      <div class="embed-bar">
+        <h2>Embed this pricing table</h2>
+        <button type="button" class="btn ghost" id="copy-embed">Copy snippet</button>
+      </div>
+      <p class="muted">Paste this on your site to show the same USD prices. The embed reads this page’s data file, so it updates with the weekly refresh. Keep the attribution link under the frame.</p>
+      <label for="embed-code">Embed code</label>
+      <textarea id="embed-code" readonly rows="4" spellcheck="false">{embedSnippet}</textarea>
+      <p class="muted small">Attribution: <a href={url('/models/')}>AI Tools Optimizer</a></p>
+    </div>
 
     <div class="prose">
       <h2>How to choose an AI model</h2>
@@ -136,6 +148,21 @@ const jsonLd = [
   });
   apply();
 </script>
+<script>
+  const copyBtn = document.getElementById('copy-embed');
+  const embedCode = document.getElementById('embed-code') as HTMLTextAreaElement | null;
+  if (copyBtn && embedCode) {
+    const label = copyBtn.textContent;
+    copyBtn.addEventListener('click', () => {
+      embedCode.focus();
+      embedCode.select();
+      try { document.execCommand('copy'); } catch { /* clipboard write below still runs */ }
+      navigator.clipboard?.writeText(embedCode.value).catch(() => {});
+      copyBtn.textContent = 'Copied';
+      window.setTimeout(() => { copyBtn.textContent = label; }, 2500);
+    });
+  }
+</script>
 <style>
   .lead { max-width: 760px; font-size: 1.05rem; }
   .meta { display: flex; flex-wrap: wrap; gap: .5rem; }
@@ -156,6 +183,12 @@ const jsonLd = [
   .note { display: block; font-size: .75rem; margin-top: .25rem; white-space: normal; max-width: 220px; }
   .links-cell a { display: block; white-space: nowrap; }
   .small { font-size: .8rem; margin-top: .75rem; }
+  .embed-box { margin-top: 2rem; padding: 1.25rem; border: 1px solid var(--color-border); border-radius: var(--radius); background: var(--color-surface); max-width: 760px; }
+  .embed-bar { display: flex; justify-content: space-between; align-items: center; gap: 1rem; flex-wrap: wrap; }
+  .embed-bar h2 { margin: 0; font-size: 1.35rem; }
+  .embed-box label { display: block; margin-top: .75rem; font-family: var(--font-mono); font-size: .72rem; letter-spacing: .06em; text-transform: uppercase; color: var(--color-muted); }
+  .embed-box textarea { font-family: var(--font-mono); font-size: .8rem; line-height: 1.45; margin-top: .4rem; resize: vertical; }
+  .embed-box .btn { padding: .45rem .9rem; font-size: .85rem; }
   .faq { margin: .75rem 0; } .faq summary { cursor: pointer; font-weight: 600; } .faq p { margin: .75rem 0 0; color: var(--color-muted); }
   [hidden] { display: none !important; }
 </style>
