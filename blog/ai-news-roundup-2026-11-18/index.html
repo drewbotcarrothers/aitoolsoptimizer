@@ -12,6 +12,9 @@ article[data-astro-cid-4sn4zg3r].section{padding-left:1.25rem;padding-right:1.25
 <li><strong>The Gemini app now runs on lower-memory Android (Go edition) phones.</strong></li>
 </ul>
 <p><strong>Today’s take:</strong> Code Mode is the one to try today. Instead of Claude asking for each command and reading every result, it writes one script that does the whole job and returns only the part it needs. Anthropic doesn’t give a token-savings number, so test it on one repetitive task before you switch it on everywhere, and keep your deny rules in place.</p>
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/7K6LP4QaeE8" title="Claude Code&#x27;s New Code Mode: The Catch" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <hr>
 <h2 id="what-is-claude-codes-new-code-mode">What is Claude Code’s new Code Mode?</h2>
 <p><strong>Short answer:</strong> An experimental, off-by-default way for <a href="/tools/claude-code/">Claude Code</a> to use its tools. Without Code Mode, Claude asks for each tool call (Bash, Read, Edit) and reads each result before deciding what’s next. With Code Mode, Claude writes a piece of <strong>JavaScript</strong> that makes the tool calls, and Claude Code runs it in your session. One script can run commands in parallel, feed one result into the next call and return only what Claude needs to read. Claude can also answer you while a long command keeps running.</p>
