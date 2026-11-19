@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** Code Mode is the one to try today. Instead of Claude asking for each command and reading every result, it writes one script that does the whole job and returns only the part it needs. Anthropic doesn’t give a token-savings number, so test it on one repetitive task before you switch it on everywhere, and keep your deny rules in place.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/7K6LP4QaeE8" title="Claude Code's New Code Mode: The Catch" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What is Claude Code’s new Code Mode?
