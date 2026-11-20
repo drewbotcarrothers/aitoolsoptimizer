@@ -6,7 +6,14 @@
     <atom:link href="https://drewbotcarrothers.github.io/aitoolsoptimizer/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 20, 2026</title>
+      <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-20/</link>
+      <guid isPermaLink="true">https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-20/</guid>
+      <pubDate>Fri, 20 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Gemini on Mac can now click and type through your apps from the $4.99 AI Plus plan; OpenAI tests dots on ChatGPT Plus; OpenAI API adds 30% and 40% discounts for jobs that can wait; Genie 4 hits the Gemini API; Tencent opens Hy4 weights; OpenAI on distillation; an unverified Riemann claim.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 19, 2026</title>
       <link>https://drewbotcarrothers.github.io/aitoolsoptimizer/blog/ai-news-roundup-2026-11-19/</link>
