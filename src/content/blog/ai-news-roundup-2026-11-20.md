@@ -20,6 +20,10 @@ draft: false
 
 **Today’s take:** Gemini’s Mac agent is the one to try, and the one to set up carefully. It’s the cheapest way yet to get a desktop agent from a big lab. But it clicks and types in your real apps, so build your Blocked apps list before you give it anything that matters.
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/mmCkzvJHJ_k" title="Gemini Now Controls Your Mac: Do This First" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ---
 
 ## What can Gemini’s computer use on Mac do?
