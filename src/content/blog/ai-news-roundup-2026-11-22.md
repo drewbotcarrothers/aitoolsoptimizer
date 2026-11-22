@@ -21,6 +21,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/ylUYKXF7I5w" title="OpenRouter Drops 3 AI Providers Over Prompt Leaks" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Did your prompts leak through an AI router like OpenRouter?
 
 **Short answer:** Maybe, if they went through certain third-party providers. On Nov 22, OpenRouter said it **off-boarded three inference providers**, removed **125 endpoints** from Zero Data Retention eligibility (the flagged providers plus some precautionary removals) and **notified every potentially affected customer**. It says the findings showed no breach of OpenRouter itself.
