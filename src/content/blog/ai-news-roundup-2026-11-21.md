@@ -22,6 +22,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/4Ttt-OpGpyo" title="Inkling 2 Mini: Free AI for Your Mac" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## What is Inkling 2 Mini, and can your laptop run it?
 
 **Short answer:** It’s a free, open model from Thinking Machines Lab (released Nov 20) that fits on one laptop. The checkpoint is about **20GB**, and the lab supports Apple silicon Macs with **32GB or more** of memory, one NVIDIA DGX Spark, or other GPUs with 32GB+ of VRAM.
