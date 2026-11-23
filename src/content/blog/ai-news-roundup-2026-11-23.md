@@ -21,6 +21,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/hLk1gXrmWNU" title="GLM-5.4 Claims 3T Power. Where Are the Scores?" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Does GLM-5.4 really match a 2–3 trillion-parameter model by running its layers twice?
 
 **Short answer:** That is Z.ai’s claim, and it hasn’t shown the scores yet. On Nov 23, Z.ai (also known as Zhipu AI) published **GLM-5.4**, its first flagship built on a **Loop Transformer**. Instead of adding parameters, it takes **28 layers** of its GLM-5 base model and runs them for **two passes**, refining its internal state the second time. Z.ai says that gives intelligence “comparable to 2T–3T parameter” models from a **750B** model. It got there by continuing to train an already pre-trained base, not by training a looped model from scratch.
