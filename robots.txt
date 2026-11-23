@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://aitoolsoptimizer.com/sitemap.xml
+Sitemap: https://drewbotcarrothers.github.io/aitoolsoptimizer/sitemap.xml
