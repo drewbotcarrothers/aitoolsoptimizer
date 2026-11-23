@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 23, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-23/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-23/</guid>
+      <pubDate>Mon, 23 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Z.ai’s GLM-5.4 runs its layers twice and claims 2–3 trillion-parameter performance; Amazon agrees to buy Decart’s optimization tech; Nvidia reinstates Jensen Huang; GPT-6.2 Astra’s Lean proof; Gemini API file slicing; two states sue over Grok images.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 22, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-22/</link>
