@@ -1,0 +1,12 @@
+{
+  "_doc": "Commits that changed post files without changing what a reader would call the content (internal-link sentences, price-token refactors). They do not count toward a post's dateModified / visible 'Updated' date. Abbreviated SHAs are fine.",
+  "commits": {
+    "b3ee44bae": "Oct 25 interlink fix (one link)",
+    "99ce4cfb7": "Oct 25 interlink batch A (review/pricing cross-links)",
+    "f4e02643b": "Oct 25 interlink batch B (hub links)",
+    "81c8512ea": "Oct 25 interlink batch C (relatedTools body links)",
+    "3c1295e7f": "Oct 25 interlink batch D (alternatives to reviews)",
+    "888762b8f": "Nov 24 zero-inbound interlinks (PR #56)",
+    "b9bd0454d": "Nov 24 price tokens, rendered text unchanged (PR #57)"
+  }
+}

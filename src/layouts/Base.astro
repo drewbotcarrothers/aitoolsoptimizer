@@ -70,10 +70,10 @@ const canonical = new URL(Astro.url.pathname.replace(/\/?$/, '/').replace(/\/404
     <div class="container foot">
       <div>
         <a href={url('/')} class="logo"><img class="mark" src={url('/logo-mark.png')} alt="" width="32" height="32" /> AI Tools <span class="grad">Optimizer</span></a>
-        <p class="muted">{SITE.tagline}<br />Made by Andrew.<br /><a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a><br /><a href="https://www.youtube.com/@aitoolsoptimizer" rel="noopener noreferrer" target="_blank">YouTube</a></p>
+        <p class="muted">{SITE.tagline}<br />Made by <a href={url('/author/andrew/')}>Andrew</a>.<br /><a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a><br /><a href="https://www.youtube.com/@aitoolsoptimizer" rel="noopener noreferrer" target="_blank">YouTube</a></p>
       </div>
       <div class="links">
-        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a><a href={url('/ai-news/')}>AI News</a>{hasPosts && <a href={url('/blog/')}>Blog</a>}<a href={url('/about/')}>About</a>
+        <a href={url('/tools/')}>Tools</a><a href={url('/models/')}>Models</a><a href={url('/ai-news/')}>AI News</a>{hasPosts && <a href={url('/blog/')}>Blog</a>}<a href={url('/about/')}>About</a><a href={url('/author/andrew/')}>Author</a><a href={url('/methodology/')}>How we research</a>
         <a href={url('/contact/')}>Contact</a><a href={url('/privacy/')}>Privacy Policy</a><a href={url('/cookies/')}>Cookie Policy</a><a href={url('/terms/')}>Terms of Use</a><a href={url('/disclaimer/')}>Disclaimer</a>
       </div>
     </div>

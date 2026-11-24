@@ -10,7 +10,7 @@ const tools = await getCollection('tools');
     <span class="pill">// about</span><h1>About <span class="grad">AI Tools Optimizer</span></h1>
     <p>AI Tools Optimizer is an independent website that helps everyday people, creators and small businesses understand AI and choose AI tools that fit their work and budget.</p>
     <h2>Who runs the site</h2>
-    <p>The site is created and run by Andrew. It is a small independent project, not affiliated with or endorsed by any of the AI companies listed here.</p>
+    <p>The site is created and run by <a href={url('/author/andrew/')}>Andrew</a>, a DIY tech enthusiast and optimizer based in Toronto. It is a small independent project, not affiliated with or endorsed by any of the AI companies listed here.</p>
     <h2>What you'll find here</h2>
     <ul class="check">
       <li><a href={url('/tools/')}>AI tools directory</a>: {tools.length} tools across {Object.keys(categories).length} categories, with pricing in US dollars, free plan details, key features, use cases and alternatives.</li>
@@ -23,6 +23,7 @@ const tools = await getCollection('tools');
       <li>We don't publish star ratings or scores unless they come from our own testing.</li>
       <li>Affiliate relationships never decide whether a tool is listed or how it is described.</li>
     </ul>
+    <p>The full process, including how AI tools are used and how dates work, is in <a href={url('/methodology/')}>how we research and update content</a>.</p>
     <h2>How the site is funded</h2>
     <p>The site is free to read. It may be supported by display advertising (Google AdSense) and affiliate links. See the <a href={url('/disclaimer/')}>Disclaimer</a> for details.</p>
     <h2>Corrections and contact</h2>

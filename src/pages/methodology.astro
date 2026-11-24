@@ -1,0 +1,41 @@
+---
+import Base from '../layouts/Base.astro';
+import { url } from '../data/url';
+---
+<Base title="How we research and update content" description="How AI Tools Optimizer researches prices and features, what we do and don't test, how AI tools are used, how dates work, and how to request a correction.">
+  <section class="container section prose">
+    <span class="pill">// methodology</span><h1>How we research and <span class="grad">update content</span></h1>
+    <p>AI Tools Optimizer is run by <a href={url('/author/andrew/')}>Andrew</a>. This page explains where the facts on the site come from and what the site does not claim.</p>
+
+    <h2>Where prices and features come from</h2>
+    <ul class="check">
+      <li>Plans, prices, credits, limits and features are taken from each company's official pricing page, help center, documentation or announcement.</li>
+      <li>Every guide says when its figures were read, usually in a "Last verified" section, and directory pages show the date they were last checked and link their sources.</li>
+      <li>Prices are list prices in US dollars, excluding tax, unless a page says otherwise. Your country, currency, promotions and checkout can differ.</li>
+      <li>If an official page did not load or did not show a figure, the article says so rather than estimating one.</li>
+      <li>Prices that appear in many articles are stored in one place on the site, so a price change is updated everywhere at once.</li>
+    </ul>
+
+    <h2>What we do and don't test</h2>
+    <ul class="check">
+      <li>Comparisons and "best for" guides match tools to jobs using documented plans and features. They are not lab benchmarks.</li>
+      <li>Unless an article describes a specific test, we have not measured output quality, speed or accuracy, and the article says so. We don't publish star ratings or scores unless they come from our own testing.</li>
+    </ul>
+
+    <h2>How AI tools are used</h2>
+    <p>We use AI tools to help research and draft articles. Facts such as prices, plan names and limits are checked against the official source and dated before they are published. Andrew is responsible for what the site publishes and for corrections.</p>
+
+    <h2>Dates</h2>
+    <ul class="check">
+      <li>"Published" is the date an article first went live.</li>
+      <li>"Updated" appears when the substance of an article changed later, for example a new price or a rewritten section. Small edits such as adding internal links don't change it.</li>
+      <li>Daily <a href={url('/ai-news/')}>AI news roundups</a> describe the news on the day they were published and are not rewritten afterwards except to add clearly labelled sections or fix errors.</li>
+    </ul>
+
+    <h2>Independence</h2>
+    <p>The site is free to read and may earn money from display ads and affiliate links. That never decides whether a tool is listed or how it is described. See the <a href={url('/disclaimer/')}>Disclaimer</a>.</p>
+
+    <h2>Corrections</h2>
+    <p>Spotted an outdated price or a mistake? Email <a href="mailto:contact@aitoolsoptimizer.com">contact@aitoolsoptimizer.com</a>. Confirmed errors are corrected and the article's Updated date changes.</p>
+  </section>
+</Base>
