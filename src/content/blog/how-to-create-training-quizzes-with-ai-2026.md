@@ -41,11 +41,11 @@ Ask for the source line under each question. If the model cannot point at a sent
 
 ## Where the draft happens
 
-**A long lesson.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the lesson in a Project. Ask for ten questions, each with one correct answer, three distractors, and the sentence it came from. Free includes Projects, with limits. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long lesson.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the lesson in a Project. Ask for ten questions, each with one correct answer, three distractors, and the sentence it came from. Free includes Projects, with limits. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A short quiz beside other work.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8. Keep the source in the thread. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**The readings, if they are files.** [Gemini Notebook](/tools/gemini-notebook/) can quiz from sources you upload. It is free with a Google account. Google AI Plus is $4.99 a month. The notebook's quiz is tied to that source set. Export the questions you will reuse, and check them. Do not leave the only copy inside a notebook you might delete.
+**The readings, if they are files.** [Gemini Notebook](/tools/gemini-notebook/) can quiz from sources you upload. It is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. The notebook's quiz is tied to that source set. Export the questions you will reuse, and check them. Do not leave the only copy inside a notebook you might delete.
 
 **A K-12 teacher.** [MagicSchool](/tools/magicschool/) is free for individual teachers. Plus is $8.33 a user a month billed annually, or $12.99 monthly. The directory says it is SOC 2 certified and FERPA/COPPA compliant, and that student and teacher data is not used to train AI. District tools are Enterprise, priced by the district. The teacher shelf is [best AI tools for teachers](/blog/best-ai-tools-for-teachers-2026/). If your district has a tool list, the list wins.
 

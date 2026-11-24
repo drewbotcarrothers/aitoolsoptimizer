@@ -37,7 +37,7 @@ A model that writes "confidence: 0.92" because you asked for a vibe is producing
 
 ## Where the label gets discussed
 
-**The eval write-up.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the definition of the score so every report uses the same words. The review is [Claude review](/blog/claude-review-2026/). The report shape is [how to create a model eval report with AI](/blog/how-to-create-a-model-eval-report-with-ai-2026/).
+**The eval write-up.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the definition of the score so every report uses the same words. The review is [Claude review](/blog/claude-review-2026/). The report shape is [how to create a model eval report with AI](/blog/how-to-create-a-model-eval-report-with-ai-2026/).
 
 **One paste of outputs.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Ask it to table the labels you already have. Discard a column of new scores it invented. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

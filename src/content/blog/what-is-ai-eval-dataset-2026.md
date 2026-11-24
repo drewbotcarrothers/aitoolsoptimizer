@@ -40,7 +40,7 @@ Deleting a failing row to make the run pass is how the dataset stops meaning any
 
 ## Where the rows live
 
-**The draft of a new row.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you paste a failing transcript and ask for a check you could apply by hand. Discard any check the model invented that you would not fail a release over. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of a new row.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you paste a failing transcript and ask for a check you could apply by hand. Discard any check the model invented that you would not fail a release over. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second formatting.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can turn a messy thread into the columns above. The input stays the text you pasted. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

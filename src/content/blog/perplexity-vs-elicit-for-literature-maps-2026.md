@@ -19,7 +19,7 @@ Perplexity and Elicit prices are from directory pages checked October 16, 2026. 
 |---|---|---|---|
 | An overview with links you will open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Every claim you keep has a source you opened |
 | A table of papers and columns | [Elicit](/tools/elicit/) | Plus is $11 a user a month billed annually | A blank cell stays blank |
-| The narrative after the table exists | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The narrative may not add a paper |
+| The narrative after the table exists | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The narrative may not add a paper |
 | The page the lab will keep | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

@@ -22,7 +22,7 @@ Notion, ChatGPT, and Otter prices are from directory pages checked October 16, 2
 | The actions must live on the team page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month, which the card ties to AI Meeting Notes | Plus at $10 is not the full AI tier. Free includes a trial of Notion AI |
 | One list, from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No task that was not in the paste |
 | A transcript you still need | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually, or $16.99 monthly | The transcript is the source. The action list is a separate pass |
-| A long set of notes that must match last week's verbs | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | Still no owner you did not paste |
+| A long set of notes that must match last week's verbs | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | Still no owner you did not paste |
 
 ```mermaid
 flowchart TD

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Travel Planning (2026): A Draft Itinerary You Still Check"
-description: "ChatGPT vs Gemini for trip planning in 2026. Plus is $20. Gemini is free, and Pro is $19.99 if the plan lives in Gmail and Docs. No itinerary scores."
+description: "ChatGPT vs Gemini for trip planning in 2026. Plus is $20. Gemini is free, and Pro is {{price:gemini.pro}} if the plan lives in Gmail and Docs. No itinerary scores."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["chatgpt", "gemini", "travel", "planning"]
@@ -20,8 +20,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | | [ChatGPT](/tools/chatgpt/) | [Gemini](/tools/gemini/) |
 |---|---|---|
 | Free | Limited tools. Enough to try a weekend outline from a paste | Free with a Google account. The card does not put Gemini in Gmail and Docs on this line |
-| The seat for a real trip | Plus, $20 a month, with Projects | Google AI Pro, $19.99 a month, lists Gemini in Gmail and Docs and 5 TB of storage |
-| A cheaper step | Go, $8 a month. The card says it may include ads | Google AI Plus, $4.99 a month, lists 2x usage versus Free and 400 GB. The Gmail line is on Pro |
+| The seat for a real trip | Plus, $20 a month, with Projects | Google AI Pro, {{price:gemini.pro}} a month, lists Gemini in Gmail and Docs and 5 TB of storage |
+| A cheaper step | Go, $8 a month. The card says it may include ads | Google AI Plus, {{price:gemini.plus}} a month, lists 2x usage versus Free and 400 GB. The Gmail line is on Pro |
 | Heavier use | Pro at $100, $200, or $500 | Ultra at $99.99 or $199.99 a month |
 | What you still do | Open the official page for every time and rule | Open the official page for every time and rule |
 | A poor use | Treating the chat as a confirmed booking | Treating a Maps-like suggestion as a ticket |
@@ -36,7 +36,7 @@ flowchart TD
   check --> book["You book. The chat does not"]
 ```
 
-ChatGPT Plus is $240 a year at $20. Google AI Pro is $19.99 a month, or $239.88 if you keep it for twelve months. The stickers match. Buy Pro if you wanted Gmail and the storage anyway. Do not buy it because a travel draft felt more official. A free Gemini account can still outline a public-city weekend if you paste the constraints and you check the pages. If the trip is a week at a rental with a kitchen, [planning meals with ChatGPT or Gemini](/blog/chatgpt-vs-gemini-for-meal-planning-2026/) uses the same paste-the-constraints approach. When the dates are fixed and you only need the day-by-day draft, [Gemini vs ChatGPT for trip itineraries](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/) goes one step further.
+ChatGPT Plus is $240 a year at $20. Google AI Pro is {{price:gemini.pro}} a month, or $239.88 if you keep it for twelve months. The stickers match. Buy Pro if you wanted Gmail and the storage anyway. Do not buy it because a travel draft felt more official. A free Gemini account can still outline a public-city weekend if you paste the constraints and you check the pages. If the trip is a week at a rental with a kitchen, [planning meals with ChatGPT or Gemini](/blog/chatgpt-vs-gemini-for-meal-planning-2026/) uses the same paste-the-constraints approach. When the dates are fixed and you only need the day-by-day draft, [Gemini vs ChatGPT for trip itineraries](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/) goes one step further.
 
 ## The tools around the draft
 
@@ -44,7 +44,7 @@ ChatGPT Plus is $240 a year at $20. Google AI Pro is $19.99 a month, or $239.88 
 
 **The packing list and the day-by-day that the group can edit.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month for the full AI tier. Free includes a trial of Notion AI. A shared page beats a chat scroll when four people are adding trains. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A careful rewrite of the note to the group.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Use it after the hours are confirmed, not before. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**A careful rewrite of the note to the group.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Use it after the hours are confirmed, not before. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
 **Mail you will actually send about the plan.** If that draft has to happen inside Gmail, the comparison is [Gemini vs ChatGPT for Gmail](/blog/gemini-vs-chatgpt-for-gmail-2026/).
 

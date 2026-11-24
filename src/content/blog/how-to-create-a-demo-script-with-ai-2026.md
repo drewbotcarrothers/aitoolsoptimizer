@@ -38,7 +38,7 @@ A rounded "customers see 30% faster onboarding" that started as a hope is [a hal
 
 ## Where the words are drafted
 
-**The long outline.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the script in a Project with the screenshots you are willing to describe. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long outline.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the script in a Project with the screenshots you are willing to describe. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The rep who already lives in chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Business is $20 a user a month billed annually, for two or more users, when the outline names a private account. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

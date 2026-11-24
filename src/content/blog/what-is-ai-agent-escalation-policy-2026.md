@@ -39,7 +39,7 @@ A support escalation matrix is a grid for human cases: severity, owner, and cloc
 
 ## Where the policy is kept
 
-**The sentence the agent must follow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the conditions in the Project. A later edit does not get to soften "stop" into "use your judgment." The review is [Claude review](/blog/claude-review-2026/).
+**The sentence the agent must follow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the conditions in the Project. A later edit does not get to soften "stop" into "use your judgment." The review is [Claude review](/blog/claude-review-2026/).
 
 **The page people can audit.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. The accepted date and the owner live on the page. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

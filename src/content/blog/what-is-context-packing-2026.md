@@ -39,11 +39,11 @@ Several calls, each with its own pack and a check between them, are [what prompt
 
 ## Where the pack is decided
 
-**A long handbook in a Project.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. The Project can hold the handbook. The request still needs a pack: the pages that matter for this question, not the entire handbook, unless the budget says the handbook fits. The review is [Claude review](/blog/claude-review-2026/).
+**A long handbook in a Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The Project can hold the handbook. The request still needs a pack: the pages that matter for this question, not the entire handbook, unless the budget says the handbook fits. The review is [Claude review](/blog/claude-review-2026/).
 
 **A reusable template.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month, when the instructions are stable and the user pastes the source. Plus includes projects on the directory card. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**Notes that already live in Google.** [Gemini](/tools/gemini/) on the Google AI Pro plan at $19.99 a month lists Gemini in Docs. Pack the doc you mean. Do not assume the plan pulls every file in the account into the request. The review is [Gemini review](/blog/gemini-review-2026/).
+**Notes that already live in Google.** [Gemini](/tools/gemini/) on the Google AI Pro plan at {{price:gemini.pro}} a month lists Gemini in Docs. Pack the doc you mean. Do not assume the plan pulls every file in the account into the request. The review is [Gemini review](/blog/gemini-review-2026/).
 
 **The source page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month when the passage should be a wiki page with an owner, not a chat scroll. The page is the record. The pack cites it.
 

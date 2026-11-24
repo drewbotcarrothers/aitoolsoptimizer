@@ -39,7 +39,7 @@ A runbook that says "verify the data" is not a check. The check names the query,
 
 ## Where the runbook is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the runbook is long and should live beside the last migration's notes. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the runbook is long and should live beside the last migration's notes. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the page is what the bridge call has open. The chat is not the runbook. The page is.
 

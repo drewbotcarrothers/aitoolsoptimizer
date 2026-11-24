@@ -37,7 +37,7 @@ Two chats that both say "use the refund prompt" are not branches. They are unlab
 
 ## Where the versions live
 
-**The project with the rules.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the parent in the Project and the child in a named note until you promote it. The review is [Claude review](/blog/claude-review-2026/).
+**The project with the rules.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the parent in the Project and the child in a named note until you promote it. The review is [Claude review](/blog/claude-review-2026/).
 
 **One experiment.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Name the chat with the branch, and do not paste the child into the production custom GPT until the owner says so. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

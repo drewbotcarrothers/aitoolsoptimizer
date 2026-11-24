@@ -43,7 +43,7 @@ All plans on the card include unlimited users, unlimited workflows, and every in
 
 **Executions, not steps.** One full run counts once, however many nodes it has. A poll every five minutes is 8,640 runs in a 30-day month. That does not fit Starter or Pro. The review walks through that arithmetic. This page's job is to keep that volume on the cloud rows, not on the €667 self-hosted line.
 
-**Assistant credits on the cloud plans.** Starter includes 1,600 a month. Pro goes up to 9,600. Agents, MCP, and AI nodes are on all plans, on the card. If you connect your own model key, that vendor bills you. [Claude](/tools/claude/) Pro at $17 a month billed annually, or $20 monthly, is a chat seat. It is not included in the €20.
+**Assistant credits on the cloud plans.** Starter includes 1,600 a month. Pro goes up to 9,600. Agents, MCP, and AI nodes are on all plans, on the card. If you connect your own model key, that vendor bills you. [Claude](/tools/claude/) Pro at {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly, is a chat seat. It is not included in the €20.
 
 ## What this page will not quote as Cloud
 

@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The requirement, from interview notes you wrote | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No requirement that was not in the notes |
+| The requirement, from interview notes you wrote | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No requirement that was not in the notes |
 | The page stakeholders will comment on | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A policy page you still have to open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | The note names the URL and the date. It is not the requirement |
 | One gap table from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | A blank cell stays blank |

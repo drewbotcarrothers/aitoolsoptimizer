@@ -38,7 +38,7 @@ A green average can hide one broken case. Report the cases that flipped, not onl
 
 ## Where the baseline is written
 
-**The long case file.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually ($200 up front). Put the frozen prompts and the score rule in a Project so a later edit cannot quietly rewrite the test. The review is [Claude review](/blog/claude-review-2026/).
+**The long case file.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front). Put the frozen prompts and the score rule in a Project so a later edit cannot quietly rewrite the test. The review is [Claude review](/blog/claude-review-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 billed monthly, when the cases include customer text. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

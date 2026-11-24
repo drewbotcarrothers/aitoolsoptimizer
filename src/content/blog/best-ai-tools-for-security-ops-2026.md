@@ -21,7 +21,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, Cursor,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The triage note and the handoff | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No severity you did not assign |
+| The triage note and the handoff | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No severity you did not assign |
 | The page the next shift opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A diff in a defensive control you already own | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year. Teams is the company seat | You review the diff. The model does not merge it |
 | The company coding seat, when IT asked for indemnity | [GitHub Copilot](/tools/github-copilot/) | Business is $19 a user a month | A personal Pro seat is a different decision |

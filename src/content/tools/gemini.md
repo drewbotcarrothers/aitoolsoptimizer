@@ -5,8 +5,8 @@ subcategory: "AI assistant"
 company: "Google"
 tagline: "Google's AI assistant for chat, research, image and video generation, built into Gmail, Docs and Android."
 description: "Gemini is Google's AI assistant, used by more than 1 billion people a month. It chats, writes, researches, generates and edits images and videos, and works inside Google apps. It's free with a Google account, with Google AI Plus, Pro and Ultra subscriptions for higher limits and advanced models."
-seoTitle: "Google Gemini Review 2026: Free vs AI Plus, Pro ($19.99) & Ultra Pricing"
-seoDescription: "Google Gemini review: free plan, Google AI Plus $4.99, Pro $19.99 and Ultra $99.99 or $199.99 per month, Gemini 4 Argon, Flow credits, pros, cons and alternatives."
+seoTitle: "Google Gemini Review 2026: Free vs AI Plus, Pro ({{price:gemini.pro}}) & Ultra Pricing"
+seoDescription: "Google Gemini review: free plan, Google AI Plus {{price:gemini.plus}}, Pro {{price:gemini.pro}} and Ultra {{price:gemini.ultra}} or {{price:gemini.ultra_top}} per month, Gemini 4 Argon, Flow credits, pros, cons and alternatives."
 pricing: "freemium"
 pricingModel: "Free + Google AI subscriptions (Plus, Pro, Ultra)"
 startingPrice: "$4.99/mo (Google AI Plus)"
@@ -15,12 +15,12 @@ platforms: "Web, Android, iOS; inside Gmail, Docs, Chrome and other Google apps"
 website: "https://gemini.google.com"
 logo: "/logos/gemini.png"
 bestFor: "Google users who want a capable assistant connected to Gmail, Docs, Drive and Android, plus image and video creation"
-verdict: "Gemini is the strongest choice if you live in Google's ecosystem: it works inside Gmail, Docs and Chrome, and Google AI Pro bundles 5 TB of storage and other perks that make $19.99 a month easy to justify. The free tier is solid for everyday help. Ultra is for developers and heavy creators. If you don't use Google services, ChatGPT or Claude may feel more focused."
+verdict: "Gemini is the strongest choice if you live in Google's ecosystem: it works inside Gmail, Docs and Chrome, and Google AI Pro bundles 5 TB of storage and other perks that make {{price:gemini.pro}} a month easy to justify. The free tier is solid for everyday help. Ultra is for developers and heavy creators. If you don't use Google services, ChatGPT or Claude may feel more focused."
 takeaways:
   - "Free with a Google account: Flash-Lite model, image generation and editing, limited Nano Banana Pro access and 15 GB storage."
-  - "Google AI Plus ($4.99/mo): 2x usage vs. Free, video generation, 200 Flow credits and 400 GB storage."
-  - "Google AI Pro ($19.99/mo): 4x usage vs. Free, Gemini 4 Argon access, 1,000 Flow credits, Gemini in Gmail and Docs and 5 TB storage."
-  - "Google AI Ultra: $99.99/mo (5x Pro limits) or $199.99/mo (20x), 20 TB+ storage and YouTube Premium."
+  - "Google AI Plus ({{price:gemini.plus}}/mo): 2x usage vs. Free, video generation, 200 Flow credits and 400 GB storage."
+  - "Google AI Pro ({{price:gemini.pro}}/mo): 4x usage vs. Free, Gemini 4 Argon access, 1,000 Flow credits, Gemini in Gmail and Docs and 5 TB storage."
+  - "Google AI Ultra: {{price:gemini.ultra}}/mo (5x Pro limits) or $199.99/mo (20x), 20 TB+ storage and YouTube Premium."
   - "More than 1 billion monthly users, according to Google."
 keyFeatures: ["Chat and writing assistant","Gemini 4 Argon model","Image generation (Nano Banana)","Video generation","Gemini in Google apps","Chrome auto browse"]
 useCases: ["Everyday questions and writing","Email and document help","Image and video creation","Coding with Google's agents"]
@@ -48,9 +48,9 @@ faq:
   - q: "Is Google Gemini free?"
     a: "Yes. The free plan includes the Flash-Lite model, image generation and editing, limited access to Nano Banana Pro and 15 GB of storage."
   - q: "How much is Google AI Pro?"
-    a: "Google AI Pro costs $19.99 per month and includes 4x higher usage than Free, Gemini 4 Argon access, 1,000 Google Flow credits, Gemini in Gmail and Docs, and 5 TB of storage."
+    a: "Google AI Pro costs {{price:gemini.pro}} per month and includes 4x higher usage than Free, Gemini 4 Argon access, 1,000 Google Flow credits, Gemini in Gmail and Docs, and 5 TB of storage."
   - q: "What is Google AI Plus?"
-    a: "Google AI Plus is a $4.99 per month plan with 2x higher usage than Free, video generation, 200 Flow credits, more Gemini Notebook use and 400 GB of storage."
+    a: "Google AI Plus is a {{price:gemini.plus}} per month plan with 2x higher usage than Free, video generation, 200 Flow credits, more Gemini Notebook use and 400 GB of storage."
   - q: "How much is Google AI Ultra?"
     a: "Ultra costs $99.99 per month for 5x the Pro usage limits or $199.99 per month for 20x, and includes 20 TB or more of storage and YouTube Premium."
   - q: "Is Gemini available in my country?"
@@ -98,10 +98,10 @@ From gemini.google/subscriptions, checked October 16, 2026 (US prices).
 | Plan | Price | Highlights |
 |---|---|---|
 | Free | $0 | Flash-Lite, image generation and editing, 15 GB storage |
-| Google AI Plus | $4.99/mo | 2x usage, video generation, 200 Flow credits, 400 GB |
-| Google AI Pro | $19.99/mo | 4x usage, Gemini 4 Argon, 1,000 Flow credits, 5 TB |
-| Google AI Ultra (5x) | $99.99/mo | 5x Pro limits, 10,000 Flow credits, 20 TB+ |
-| Google AI Ultra (20x) | $199.99/mo | 20x Pro limits, 25,000 Flow credits, YouTube Premium |
+| Google AI Plus | {{price:gemini.plus}}/mo | 2x usage, video generation, 200 Flow credits, 400 GB |
+| Google AI Pro | {{price:gemini.pro}}/mo | 4x usage, Gemini 4 Argon, 1,000 Flow credits, 5 TB |
+| Google AI Ultra (5x) | {{price:gemini.ultra}}/mo | 5x Pro limits, 10,000 Flow credits, 20 TB+ |
+| Google AI Ultra (20x) | {{price:gemini.ultra_top}}/mo | 20x Pro limits, 25,000 Flow credits, YouTube Premium |
 
 ## Best use cases
 

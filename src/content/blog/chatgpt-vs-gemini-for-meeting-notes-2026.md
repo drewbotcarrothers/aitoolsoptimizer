@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Meeting Notes (2026): One Paste, or the Google File"
-description: "ChatGPT vs Gemini for meeting notes in 2026. Plus is $20. Gemini Pro is $19.99. Format what was said. No transcript scores."
+description: "ChatGPT vs Gemini for meeting notes in 2026. Plus is $20. Gemini Pro is {{price:gemini.pro}}. Format what was said. No transcript scores."
 pubDate: "2026-10-24"
 category: "meetings-transcription"
 tags: ["chatgpt", "gemini", "meetings", "comparison"]
@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | One transcript, pasted | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No decision the paste did not contain |
-| A Google Doc or Drive file the meeting already has | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The note stays in that file. No owner who was not named |
+| A Google Doc or Drive file the meeting already has | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The note stays in that file. No owner who was not named |
 | The Notion page the team already opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. AI Meeting Notes are on Business, on the October 16 card |
 | A recording, if you do not already have a transcript | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually | 1,200 minutes and a 90-minute cap. This page does not turn a chat into a recorder |
 

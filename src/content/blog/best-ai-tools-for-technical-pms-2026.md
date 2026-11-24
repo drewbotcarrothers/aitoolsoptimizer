@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Cursor, Notion,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The RFC, with options and an open decision | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No requirement that was not in the paste |
+| The RFC, with options and an open decision | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No requirement that was not in the paste |
 | The diff the RFC mentions | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review it. The model does not merge |
 | The decision log and the train note | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A contract example in the repo | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a user a month | Business at $19 is the governance seat on that card |

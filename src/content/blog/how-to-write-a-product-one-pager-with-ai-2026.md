@@ -38,7 +38,7 @@ A page that fits everyone is a page that cannot guide a roadmap or a campaign. T
 
 ## Where the page is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the standing notes live in a Project and you are revising the page, not inventing a company. Free can format one paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the standing notes live in a Project and you are revising the page, not inventing a company. Free can format one paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if this page is the one the team opens. Plus at $10 is not the full AI seat. The page needs an owner either way. The wiki decision is [Notion AI vs ChatGPT for wikis](/blog/notion-ai-vs-chatgpt-for-wikis-2026/).
 

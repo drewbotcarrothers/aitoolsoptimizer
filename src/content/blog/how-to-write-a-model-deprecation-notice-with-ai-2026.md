@@ -41,7 +41,7 @@ If customers never see the model id, do not send them this notice. Send the migr
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the id and the date in a Project so a later edit does not "upgrade" the name. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the id and the date in a Project so a later edit does not "upgrade" the name. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short notice.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Paste the four facts. Discard a version that adds a performance claim. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

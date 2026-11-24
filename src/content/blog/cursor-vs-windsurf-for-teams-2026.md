@@ -45,7 +45,7 @@ If some people only need Tab inside an editor they already have, do not put them
 
 **People still opening a Windsurf window.** The directory says Windsurf users can import settings into Devin Desktop. Budget the Teams line, not a Windsurf renewal you can no longer point at. Pro at $20 is the individual step when you are not ready for the platform fee.
 
-**A terminal agent instead of a second IDE.** [Claude Code](/tools/claude-code/) is included with Claude Pro at $20 a month, or $17 billed annually. That is a different seat, for people who want the agent in the terminal. The three-way with Codex is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
+**A terminal agent instead of a second IDE.** [Claude Code](/tools/claude-code/) is included with Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. That is a different seat, for people who want the agent in the terminal. The three-way with Codex is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
 
 The side-project path, which often stays on Cursor Free or Plus, is [how to use Cursor for a side project](/blog/how-to-use-cursor-for-a-side-project-2026/). A team standard is the seat you can revoke.
 

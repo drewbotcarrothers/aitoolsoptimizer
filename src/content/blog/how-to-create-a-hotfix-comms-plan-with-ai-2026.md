@@ -38,7 +38,7 @@ Support should not learn the workaround from a customer who read it first. The p
 
 ## Where the plan is written
 
-**The draft, during the incident.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you need a tight note from a paste. Keep the paste to facts the incident channel already has. The review is [Claude review](/blog/claude-review-2026/).
+**The draft, during the incident.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you need a tight note from a paste. Keep the paste to facts the incident channel already has. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page on call will reuse.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the comms skeleton lives next to the runbook. Fill the skeleton. Do not ask it to decide severity.
 

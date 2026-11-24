@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A cut from footage or a transcript you can publish | [Descript](/tools/descript/) | Hobbyist is $16 a person a month billed annually, or $24 monthly | 10 media hours and 400 AI credits on that card. The words match the audio |
 | A vertical cut on a phone timeline | [CapCut](/tools/capcut/) | Pro is $19.99 a month, or $179.99 a year | Checkout can differ by region. A caption matches the words |
 | A generated shot when you cannot film the step | [Runway](/tools/runway/) | Standard is $12 a month billed annually, or $15 monthly, after 125 one-time credits | You watch every frame. A fake button comes out |
-| The client note from the approved brief | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The note may not add a deliverable |
+| The client note from the approved brief | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The note may not add a deliverable |
 | A board or a one-pager after the words are frozen | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year for one person | Real type. No generated client logo |
 
 ```mermaid

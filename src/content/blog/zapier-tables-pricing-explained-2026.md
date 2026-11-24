@@ -55,7 +55,7 @@ The card does not print a row limit, a storage limit, or a per-seat Tables price
 
 **Make's credits.** [Make](/tools/make/) Core starts at $9 a month billed annually for 10,000 credits. A credit is not a Zapier task, and Make is not Tables. The invoice is [Make pricing explained](/blog/make-pricing-explained-2026/).
 
-**A chat seat.** [Claude](/tools/claude/) Pro is $17 a month billed annually, or $20 monthly. Drafting a formula in chat does not include Zapier tasks. The task plan is still Zapier's.
+**A chat seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly. Drafting a formula in chat does not include Zapier tasks. The task plan is still Zapier's.
 
 ## FAQ
 

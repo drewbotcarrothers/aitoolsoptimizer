@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | A few bullets you wrote this week | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You keep every fact. The model only formats |
 | The same review template every cycle | ChatGPT Plus at $20 a month | Swap the notes. Do not reuse last cycle's examples |
-| A long packet: goals, peer notes you are allowed to use, your own log | Claude Pro at $20 a month, or $17 billed annually | The Project holds the packet. The draft adds nothing that is not in it |
+| A long packet: goals, peer notes you are allowed to use, your own log | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the packet. The draft adds nothing that is not in it |
 | The signed review lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The chat is the draft |
 | The 1:1 notes, captured without a bot on the call | [Granola](/tools/granola/) Business at $14 a user a month | Free history is 30 days. You still decide what enters the review |
 

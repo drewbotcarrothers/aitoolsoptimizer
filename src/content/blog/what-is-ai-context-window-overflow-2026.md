@@ -40,11 +40,11 @@ A bigger subscription sometimes raises a file-upload cap. It does not, by itself
 
 ## Seats, and what they do not fix
 
-**A long page in a project.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Pro is a seat. It is not a promise that every PDF fits. If the answer skips a section, split the file. The review is [Claude review](/blog/claude-review-2026/).
+**A long page in a project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Pro is a seat. It is not a promise that every PDF fits. If the answer skips a section, split the file. The review is [Claude review](/blog/claude-review-2026/).
 
 **A reusable paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Plus is the seat when this is weekly work. It does not raise the window to "the whole folder." The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**A file that already lives in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is $4.99 a month. Google AI Pro is $19.99 a month. Pro is the directory's row for Gemini in Gmail and Docs and 5 TB. A Drive folder that is larger than one request still needs retrieval or a split. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**A file that already lives in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}} a month. Pro is the directory's row for Gemini in Gmail and Docs and 5 TB. A Drive folder that is larger than one request still needs retrieval or a split. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **A cited answer instead of a paste.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when the job is a sourced scan, not a private corpus you must paste. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 

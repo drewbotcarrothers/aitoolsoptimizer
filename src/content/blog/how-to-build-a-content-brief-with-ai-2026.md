@@ -39,7 +39,7 @@ A brief that says "make it SEO-friendly and comprehensive" will produce a long, 
 
 ## Where it gets written
 
-**The brief itself.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the brief in a Project with the style rules. [ChatGPT](/tools/chatgpt/) Plus is $20. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+**The brief itself.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the brief in a Project with the style rules. [ChatGPT](/tools/chatgpt/) Plus is $20. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 **A source you still need to find.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when the citation is the product. Open the link before it goes on the brief. A link you did not open is not a source. The market-research habit is [how to use Perplexity for market research](/blog/how-to-use-perplexity-for-market-research-2026/). The research-seat choice is [Gemini vs Claude for research](/blog/gemini-vs-claude-for-research-2026/).
 

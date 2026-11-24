@@ -39,7 +39,7 @@ If you did not list the categories, you do not have this gate. Harassment, threa
 
 ## Where the rule is written
 
-**The definition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project can hold the categories and the line so a later edit does not replace them with "be appropriate." The review is [Claude review](/blog/claude-review-2026/).
+**The definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project can hold the categories and the line so a later edit does not replace them with "be appropriate." The review is [Claude review](/blog/claude-review-2026/).
 
 **One statement of the line.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a draft that adds a category you did not paste, or that sets a numeric line you did not write. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

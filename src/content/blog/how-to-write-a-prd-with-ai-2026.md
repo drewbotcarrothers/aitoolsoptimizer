@@ -38,7 +38,7 @@ A requirement the model invented is [a hallucination](/blog/what-is-ai-hallucina
 
 ## Where the draft happens
 
-**A long brief plus a standing template.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the template in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long brief plus a standing template.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the template in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The chat the PM already has.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 is enough for a short problem statement. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

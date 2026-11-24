@@ -34,7 +34,7 @@ Vendor safety filters exist, and they are that vendor's rules. Your layer is the
 
 ## Where the rule is written
 
-**The project that states the rule.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Team standard seats are $20 a seat a month billed annually, or $25 monthly, for 2 to 150 people, on that October 24 page. The seat does not enforce the rule by itself. The review is [Claude review](/blog/claude-review-2026/).
+**The project that states the rule.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Team standard seats are $20 a seat a month billed annually, or $25 monthly, for 2 to 150 people, on that October 24 page. The seat does not enforce the rule by itself. The review is [Claude review](/blog/claude-review-2026/).
 
 **The company coding seat.** [GitHub Copilot](/tools/github-copilot/) Business is $19 a user a month on the October 16 card, with admin controls and IP indemnity on that card. Those controls are GitHub's. Your layer is still the rule you wrote about what the agent may touch. The invoice is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/).
 

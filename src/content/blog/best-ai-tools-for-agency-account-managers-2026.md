@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| Draft the recap from notes and an export | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not upgrade a missed deliverable into a shipped one |
+| Draft the recap from notes and an export | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not upgrade a missed deliverable into a shipped one |
 | The client page and the scope | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A chat is not the SOW |
 | The call, if the client allowed notes | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually | Free lists unlimited recordings. Consent still applies |
 | A leave-behind after the words are frozen | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | A theme does not add results |

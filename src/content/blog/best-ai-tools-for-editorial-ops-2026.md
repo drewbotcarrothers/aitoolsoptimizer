@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The board: status, owner, due date | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The model may not mark a piece done |
 | The line pass in the apps where people type | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | A correct sentence can still be a new claim |
-| The edit against a long style card | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The Project holds the card. The edit adds no fact |
+| The edit against a long style card | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the card. The edit adds no fact |
 | A paste of one draft, filed by a person | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | The chat is not the board |
 | The board already lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | $9 a user a month on top of a ClickUp plan | If editors will not open ClickUp, the board is in the wrong home |
 

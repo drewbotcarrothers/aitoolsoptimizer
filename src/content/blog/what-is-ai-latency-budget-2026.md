@@ -41,7 +41,7 @@ An example you must replace: a team writes "8 seconds to a complete answer" as t
 
 ## Where the deadline is yours, and where it is theirs
 
-**A chat product.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. You do not get a hop diagram. Your budget, if the chat is the product, is the wait you will tolerate before you tell the user something failed. Their serving is [what model serving is](/blog/what-is-model-serving-2026/). A cold start, if you run your own instances, is a hop of its own: [what an AI warm pool is](/blog/what-is-ai-warm-pool-2026/).
+**A chat product.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. You do not get a hop diagram. Your budget, if the chat is the product, is the wait you will tolerate before you tell the user something failed. Their serving is [what model serving is](/blog/what-is-model-serving-2026/). A cold start, if you run your own instances, is a hop of its own: [what an AI warm pool is](/blog/what-is-ai-warm-pool-2026/).
 
 **An API inside your feature.** [DeepSeek](/tools/deepseek/) records token prices, not a latency SLO, on the October 16 card. Put the model hop in your budget with a timeout you chose. The token price does not tell you the wait. Log the wait next to the usage so the cost center and the budget can be read together. The counter is [what AI token metering is](/blog/what-is-ai-token-metering-2026/).
 

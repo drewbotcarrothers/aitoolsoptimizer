@@ -48,7 +48,7 @@ The same pricing article says you can opt out of data collection on personal Pro
 
 **Elicit, if the rows are papers.** [Elicit](/tools/elicit/) Plus is $11 a user a month billed annually on the non-industry annual card recorded October 16. A literature table is [Perplexity vs Elicit for evidence tables](/blog/perplexity-vs-elicit-for-evidence-tables-2026/).
 
-**Claude, if the work is a summary you will file.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the plan page that day. Neither is an Enterprise Perplexity seat. The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**Claude, if the work is a summary you will file.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on claude.com/pricing fetched October 24, 2026. [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the plan page that day. Neither is an Enterprise Perplexity seat. The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 ## What not to assume
 

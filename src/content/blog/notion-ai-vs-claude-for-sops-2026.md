@@ -1,6 +1,6 @@
 ---
 title: "Notion AI vs Claude for SOPs (2026): The Page People Follow, or the Exception List"
-description: "Notion AI vs Claude for SOPs in 2026. Business is $20 a seat. Pro is $17 annual or $20 monthly. The steps need an owner. No procedure scores."
+description: "Notion AI vs Claude for SOPs in 2026. Business is $20 a seat. Pro is {{price:claude.pro_annual}} annual or $20 monthly. The steps need an owner. No procedure scores."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["notion-ai", "claude", "sops", "comparison"]
@@ -20,7 +20,7 @@ Notion's prices are from the directory page checked October 16, 2026. Claude's p
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | The page people already follow | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. The help desk or the tool still has to match the page |
-| An exception list that must read the same in several SOPs | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the exceptions. A procedure may not reword them |
+| An exception list that must read the same in several SOPs | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the exceptions. A procedure may not reword them |
 | One short draft from a paste, before it has a home | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | That path is the other article. Do not treat it as the page of record |
 | A clarity pass that must not add a step | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the steps before and after |
 

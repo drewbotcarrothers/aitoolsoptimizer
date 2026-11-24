@@ -38,7 +38,7 @@ Treat the cold start as its own hop in the budget when you run the instances. If
 
 ## Seats that hide the fleet
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is $4.99 a month and Google AI Pro is $19.99 a month, on the October 16 card. None of those prices is a cold-start figure. The vendor absorbs the load, including whatever they do about idle capacity. Your job, on a seat, is the timeout you will accept in the product you wrapped around the chat.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month and Google AI Pro is {{price:gemini.pro}} a month, on the October 16 card. None of those prices is a cold-start figure. The vendor absorbs the load, including whatever they do about idle capacity. Your job, on a seat, is the timeout you will accept in the product you wrapped around the chat.
 
 [DeepSeek](/tools/deepseek/) records token prices on the October 16 card, not a statement about idle instances. If you call an API from a feature that scales to zero to save money, the first user after idle pays the cold start in waiting. That trade is real. Write it next to the dollar you saved. A warm pool is the opposite trade: you pay for idle capacity. Pick one, and put the choice where on-call can read it.
 

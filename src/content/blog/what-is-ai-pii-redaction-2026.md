@@ -41,7 +41,7 @@ A model that is asked to "remove any PII" is a draft of this step. It is not the
 
 ## Where the redacted text is handled
 
-**The policy note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the field list is a document counsel will read. Paste only examples you have already redacted. The review is [Claude review](/blog/claude-review-2026/).
+**The policy note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the field list is a document counsel will read. Paste only examples you have already redacted. The review is [Claude review](/blog/claude-review-2026/).
 
 **A one-off paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month can show you a redacted copy of text you are allowed to paste. Check every identifier yourself before you send the original anywhere. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

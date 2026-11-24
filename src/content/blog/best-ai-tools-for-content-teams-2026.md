@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | Job | Start here | First paid step | The limit |
 |---|---|---|---|
-| A draft from notes you supply | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20 | The notes are the source. The model formats them |
+| A draft from notes you supply | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | The notes are the source. The model formats them |
 | A line edit on a finished paragraph | [Grammarly](/tools/grammarly/) | Pro is $12 per member per month billed annually, or $30 monthly | It does not know your prices |
 | A search checklist on articles you write | [Surfer SEO](/tools/surfer-seo/) | Standard is $99 a month billed yearly, 360 documents | The score is a checklist, not a ranking |
 | Ten articles a month on one site | [Frase](/tools/frase/) | Starter is $39 a month billed yearly, or $49 monthly | One seat and one site on that tier |

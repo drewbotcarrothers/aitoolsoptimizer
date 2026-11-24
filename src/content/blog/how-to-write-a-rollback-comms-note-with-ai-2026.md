@@ -38,7 +38,7 @@ A comms note is not the rollback plan. The plan is how you undo the change. The 
 
 ## Where it is written
 
-**The draft, when the wording has to match the last incident.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the required lines in the Project. The review is [Claude review](/blog/claude-review-2026/).
+**The draft, when the wording has to match the last incident.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the required lines in the Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the company will keep.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the incident log. Plus at $10 is not the full AI tier on the October 16 card. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

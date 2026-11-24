@@ -52,7 +52,7 @@ Recorded credit sketch, not a meter reading: about 1–3 credits to generate a c
 
 ## Write the story before you switch vendors
 
-A new slide tool will not invent the round size, the retention number, or the ask. Draft those in [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) from a memo you wrote, then generate. Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20. The sequence is [how to create a pitch deck with AI](/blog/how-to-create-a-pitch-deck-with-ai-2026/). Regenerating cards to discover the story is how Gamma credits disappear, and the same mistake will follow you to Plus AI.
+A new slide tool will not invent the round size, the retention number, or the ask. Draft those in [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) from a memo you wrote, then generate. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. The sequence is [how to create a pitch deck with AI](/blog/how-to-create-a-pitch-deck-with-ai-2026/). Regenerating cards to discover the story is how Gamma credits disappear, and the same mistake will follow you to Plus AI.
 
 ## FAQ
 

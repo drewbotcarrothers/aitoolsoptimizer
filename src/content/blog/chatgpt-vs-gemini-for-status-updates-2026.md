@@ -18,8 +18,8 @@ ChatGPT Plus and Business prices are from learn.chatgpt.com/docs/pricing on Octo
 | The source in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | Bullets in a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No status that was not in the paste |
-| A Google Doc or thread you may use | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month on the October 16 card | The Doc stays the source |
-| Rules that must match last week's update | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the headings |
+| A Google Doc or thread you may use | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month on the October 16 card | The Doc stays the source |
+| Rules that must match last week's update | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the headings |
 | The page the team will reread | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid
@@ -39,7 +39,7 @@ A status update that "keeps leadership calm" has edited the week. If the source 
 
 **ChatGPT Plus** is the one-paste path. Go is $8 a month on the October 24 page. Business is $20 a user a month billed annually for two or more users, or $25 monthly, when a personal seat is the wrong place for the notes. The page says Business does not train on business data by default. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**Gemini** Free exists with a Google account on the October 16 card. Google AI Plus is $4.99 a month. Google AI Pro is $19.99. Use Pro when you are already hitting the limits of the Google apps the update depends on. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Gemini** Free exists with a Google account on the October 16 card. Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}}. Use Pro when you are already hitting the limits of the Google apps the update depends on. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **Claude Pro** is the shared-headings path when every update must use the same three sections. That is a writing rule, not a Google file. The review is [Claude review](/blog/claude-review-2026/).
 

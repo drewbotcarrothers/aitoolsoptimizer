@@ -38,7 +38,7 @@ A script that says "and then the AI magically builds the dashboard" will strand 
 
 ## Where the draft happens
 
-**The words.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the outline and one transcript you liked, with names removed, in a Project. [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 can format a short outline. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+**The words.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the outline and one transcript you liked, with names removed, in a Project. [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 can format a short outline. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 **The slides.** [Gamma](/tools/gamma/) Plus is $9 a seat a month, or $108 a year, with 1,000 credits. Free credits do not refresh. Build the deck from the approved outline, not from a vaguer prompt than the script. The card is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/). If the deck should match a template library you already use, [Canva](/tools/canva/) Pro is $180 a year for one person. The comparison is [Gamma vs Canva for presentations](/blog/gamma-vs-canva-presentations/).
 

@@ -39,7 +39,7 @@ If the email needs a feature that is not on the changelog, the changelog is wron
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the changelog page should sit in a Project so the model cannot wander. Free can tighten one email from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the changelog page should sit in a Project so the model cannot wander. Free can tighten one email from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second wording.** [ChatGPT](/tools/chatgpt/) Plus at $20 can offer a shorter subject line from the same list. Keep the items. Discard a clever subject that names a feature you did not ship. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

@@ -44,7 +44,7 @@ Lint wraps the file. These seats are where teams edit the file. They do not repl
 
 | Where you edit | Price the directory recorded | How lint fits |
 |---|---|---|
-| [Claude](/tools/claude/) Projects | Pro is $20 a month, or $17 billed annually. Free includes Projects, with usage limits | Keep the template in the Project. Run the checklist before you save a new version |
+| [Claude](/tools/claude/) Projects | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Free includes Projects, with usage limits | Keep the template in the Project. Run the checklist before you save a new version |
 | [ChatGPT](/tools/chatgpt/) projects | Plus is $20 a month and lists projects | Same. Business at $20 a user a month billed annually, minimum two, when the template has customer procedures |
 | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | The prompt lives in the repo. Lint can be a check on the file, the way other repo checks run |
 | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a user a month | Completions can draft a rule. The rule still has an owner |

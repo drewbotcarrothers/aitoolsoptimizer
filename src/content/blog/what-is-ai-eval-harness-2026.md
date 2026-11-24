@@ -39,7 +39,7 @@ An average of 92% can hide a broken refund case. Keep the failing ids. The mista
 
 ## What can play the role of a harness
 
-**A file in the repo, plus a person.** Twenty cases in a spreadsheet and a short script are a harness. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Claude Code. [ChatGPT](/tools/chatgpt/) Plus is $20 and includes expanded Codex usage. Either can help you format the file. The model that wrote the answer should not be the only thing that marks it correct. The coding seat, if the runner is code, is a different choice: [ChatGPT vs Gemini for coding](/blog/chatgpt-vs-gemini-for-coding-2026/).
+**A file in the repo, plus a person.** Twenty cases in a spreadsheet and a short script are a harness. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and includes Claude Code. [ChatGPT](/tools/chatgpt/) Plus is $20 and includes expanded Codex usage. Either can help you format the file. The model that wrote the answer should not be the only thing that marks it correct. The coding seat, if the runner is code, is a different choice: [ChatGPT vs Gemini for coding](/blog/chatgpt-vs-gemini-for-coding-2026/).
 
 **A notebook your data team already opens.** [Hex](/tools/hex/) Professional is $36 per editor per month on the directory card checked October 16, 2026. Put the scores there when they are rows you will chart. A twelve-row prompt check does not need a warehouse.
 

@@ -40,7 +40,7 @@ A checklist item with no owner will be everyone's job, which means it will slip.
 
 **The page that will be reused.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the checklist lives in Notion. A database with the columns above beats a prose essay. Plus at $10 is not the full AI tier. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The record, once you agree the list is real, is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**The first formatting pass.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the messy list from the last hire. Ask for a table. [ChatGPT](/tools/chatgpt/) Plus at $20 does the same job if that is the team's habit. Business is $20 a user a month billed annually, for two or more users, when the notes include personal data you should not put on a consumer seat. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The first formatting pass.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the messy list from the last hire. Ask for a table. [ChatGPT](/tools/chatgpt/) Plus at $20 does the same job if that is the team's habit. Business is $20 a user a month billed annually, for two or more users, when the notes include personal data you should not put on a consumer seat. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The line edit.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually. It will not know the name of your IT owner.
 

@@ -39,7 +39,7 @@ A QBR that "finds" pipeline the CRM does not have is a script, not a review. If 
 
 ## Where the page is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the partner brief and the quarter's exports should sit in a Project. Free can format one short QBR from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the partner brief and the quarter's exports should sit in a Project. Free can format one short QBR from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the QBR archive lives in Notion. Last quarter's page stays. The new page does not overwrite the old commitments.
 

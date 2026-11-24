@@ -39,7 +39,7 @@ If the email needs a fact that is not confirmed, the incident note is unfinished
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the incident facts sit in a Project and the email has to stay inside them. Free can tighten one note from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the incident facts sit in a Project and the email has to stay inside them. Free can tighten one note from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **A plainer second wording.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can offer a shorter version of the same facts. Discard a version that sounds warmer by adding a promise. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

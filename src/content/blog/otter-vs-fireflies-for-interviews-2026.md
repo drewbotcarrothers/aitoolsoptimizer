@@ -23,7 +23,7 @@ Prices are US list prices excluding tax. Otter's caps and the $16.99, $8.33, $30
 | One research interview that can run past 30 minutes and under 90 | Otter Pro at $8.33 a user a month billed annually, or $16.99 monthly | 1,200 minutes and 90 minutes per conversation |
 | A session that can run for hours | Otter Business at $19.99 annually or $30 monthly | Unlimited meetings on the card, 4 hours per conversation, and up to 25 billed users |
 | Search across many interviews | [Fireflies](/tools/fireflies-ai/) Pro at $10 a seat a month billed annually, or $18 monthly | The October 24 page lists unlimited transcription and does not print a per-conversation cap. Storage on that read is 8,000 minutes per seat |
-| The quote, in words that were said | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly. No finding that was not in the transcript |
+| The quote, in words that were said | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly. No finding that was not in the transcript |
 | The page that holds the accepted quotes | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month |
 
 ```mermaid

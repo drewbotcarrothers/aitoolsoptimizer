@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | Job | Start here | First paid step | The limit |
 |---|---|---|---|
-| A reply, a welcome, a weekly note | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | Plus or Pro is $20. Claude Pro is also $17 billed annually | You paste the policy. You send |
+| A reply, a welcome, a weekly note | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | Plus or Pro is $20. Claude Pro is also {{price:claude.pro_annual}} billed annually | You paste the policy. You send |
 | The page the community guidelines live on | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | One home for the rules |
 | A visual for an announcement | [Canva](/tools/canva/) | Pro is $18 a month, or $180 a year | Templates are not a brand system by themselves |
 | A short deck for an event or an AMA | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, or $108 a year | A deck is not the community itself |

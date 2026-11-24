@@ -21,7 +21,7 @@ Perplexity's Pro price is the figure in [Perplexity pricing explained](/blog/per
 |---|---|---|---|
 | You still need a page you can open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | The note names the URL and the date you wrote down |
 | You already pasted the policy text | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No requirement that was not in the paste |
-| The same clause must stay word for word in the note | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A paraphrase is not the clause |
+| The same clause must stay word for word in the note | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A paraphrase is not the clause |
 | The page the company will keep | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

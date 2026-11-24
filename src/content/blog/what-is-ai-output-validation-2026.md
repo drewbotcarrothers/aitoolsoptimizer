@@ -39,7 +39,7 @@ A validator that "fixes" a response by filling a missing price has become a seco
 
 ## Where people actually run the check
 
-**The rule list.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the rules live in a Project next to two passing examples and one failing example. The seat does not enforce the schema. Your gate does. The review is [Claude review](/blog/claude-review-2026/).
+**The rule list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the rules live in a Project next to two passing examples and one failing example. The seat does not enforce the schema. Your gate does. The review is [Claude review](/blog/claude-review-2026/).
 
 **A saved check you paste into.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the habit is a project that reads "check this JSON against these fields." Plus is the seat for that habit. Pro, from $100 a month, is a different bill. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

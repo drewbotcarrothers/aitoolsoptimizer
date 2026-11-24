@@ -37,7 +37,7 @@ A cache hit does not mean the answer was checked. It means the prefix was not re
 
 ## Where teams meet this, without a made-up cache price
 
-**A long Project.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually ($200 up front). A Project that repeats the same instructions is the shape a prefix cache is built for, when the API or the product offers it. The seat price is not an API cache rate. The directory records Team as a per-seat plan and does not print a Team price. The review is [Claude review](/blog/claude-review-2026/). The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front). A Project that repeats the same instructions is the shape a prefix cache is built for, when the API or the product offers it. The seat price is not an API cache rate. The directory records Team as a per-seat plan and does not print a Team price. The review is [Claude review](/blog/claude-review-2026/). The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A repeating custom GPT or Project.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, or $25 monthly, for two or more users, and does not train on business data by default. Put the stable instructions in the Project. Put the variable question after them. A date stamp at the top of the prompt will defeat a prefix match on purpose. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

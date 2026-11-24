@@ -39,7 +39,7 @@ If the source does not exist, the FAQ is the wrong document. Write the policy, t
 
 ## Which tool does which pass
 
-**Cluster the questions.** Paste a month of ticket subjects into [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/). Ask for groups, a count, and the original wording of one example per group. Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20. Do not ask for answers in this pass. Answers without sources are how the page drifts.
+**Cluster the questions.** Paste a month of ticket subjects into [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/). Ask for groups, a count, and the original wording of one example per group. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Do not ask for answers in this pass. Answers without sources are how the page drifts.
 
 **Draft from the source.** Paste one policy and one question. Ask for an answer a support agent could send, with a sentence you will delete if it is not in the policy. The editing pass can be [Grammarly vs ChatGPT for editing](/blog/grammarly-vs-chatgpt-for-editing-2026/) if the tone is the remaining problem. Grammarly will not verify the refund window.
 

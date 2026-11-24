@@ -20,8 +20,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | | [ChatGPT](/tools/chatgpt/) | [Google Gemini](/tools/gemini/) |
 |---|---|---|
 | Free | Unlimited text chats with GPT-6, plus limited uploads, images, voice, and deep research | Flash-Lite, image generation and editing, limited Nano Banana Pro, 15 GB storage |
-| First paid step | Go at $8 a month. OpenAI says Go may include ads | Google AI Plus at $4.99 a month: 2× Free usage, video generation, 200 Flow credits, 400 GB storage |
-| The seat people mean | Plus at $20 a month: projects, scheduled tasks, custom GPTs, expanded Codex | Google AI Pro at $19.99 a month: 4× Free usage, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
+| First paid step | Go at $8 a month. OpenAI says Go may include ads | Google AI Plus at {{price:gemini.plus}} a month: 2× Free usage, video generation, 200 Flow credits, 400 GB storage |
+| The seat people mean | Plus at $20 a month: projects, scheduled tasks, custom GPTs, expanded Codex | Google AI Pro at {{price:gemini.pro}} a month: 4× Free usage, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
 | Heavy tier | Pro at $100, $200, or $500 a month | Ultra at $99.99 a month (5× Pro limits) or $199.99 (20×), with 20 TB or more and YouTube Premium |
 | A recorded student price | None on the directory card | None on the directory card |
 
@@ -37,11 +37,11 @@ flowchart TD
 
 Go at $8 is the cheap ChatGPT step, with the ads caveat the directory records. Plus at $20 is the step that adds projects. Five months of Plus is 5 × $20 = $100, the same sticker as one month of the lowest Pro tier. Pro is a usage band for heavy work, not a student default. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-Google AI Plus at $4.99 is 12 × $4.99 = $59.88 a year if you stay month to month. Google AI Pro at $19.99 is 12 × $19.99 = $239.88 a year. Buy Pro when you want Gemini inside Gmail and Docs and the larger storage, not because a forum ranked the model. The product page is [Gemini review](/blog/gemini-review-2026/). The coding angle, which is a different decision, is [ChatGPT vs Gemini for coding](/blog/chatgpt-vs-gemini-for-coding-2026/).
+Google AI Plus at {{price:gemini.plus}} is 12 × {{price:gemini.plus}} = $59.88 a year if you stay month to month. Google AI Pro at {{price:gemini.pro}} is 12 × {{price:gemini.pro}} = $239.88 a year. Buy Pro when you want Gemini inside Gmail and Docs and the larger storage, not because a forum ranked the model. The product page is [Gemini review](/blog/gemini-review-2026/). The coding angle, which is a different decision, is [ChatGPT vs Gemini for coding](/blog/chatgpt-vs-gemini-for-coding-2026/).
 
 ## What to use around the chatbot
 
-**Assigned readings.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account in supported countries. Google AI Plus at $4.99 adds more Audio Overviews and notebooks. Pro offers 5× more, on the directory card. Start on Free. The notebook cites your sources. A general chat does not replace the PDF you were given.
+**Assigned readings.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account in supported countries. Google AI Plus at {{price:gemini.plus}} adds more Audio Overviews and notebooks. Pro offers 5× more, on the directory card. Start on Free. The notebook cites your sources. A general chat does not replace the PDF you were given.
 
 **A tutor that withholds the answer.** [Khanmigo](/tools/khanmigo/) is $4 a month or $44 a year for learners and families, sales tax excluded. Teachers are free. Parents can add up to 10 children. If hints are forbidden too, $4 does not help. If hints are allowed, it is a closer fit than a chatbot that will dump the solution when asked.
 

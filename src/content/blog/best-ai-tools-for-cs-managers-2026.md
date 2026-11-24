@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The portfolio page: accounts, owners, next dates | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page matches the CRM. One of them is a copy |
-| A plan or a QBR outline from notes you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model formats. It does not forecast |
+| A plan or a QBR outline from notes you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model formats. It does not forecast |
 | The account record | [HubSpot](/tools/hubspot/) | Free CRM. Starter was $7 or $10 a seat on a promo | Professional and Enterprise are a quote |
 | Notes when the customer expects a bot | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually | Free includes unlimited recordings. Business syncs CRM fields at $25 a user annually |
 | Notes when the room should not see a bot | [Granola](/tools/granola/) | Business is $14 a user a month | Free history is 30 days |

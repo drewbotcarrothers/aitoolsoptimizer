@@ -36,7 +36,7 @@ A schema that "usually" matches is not locked. A lock has a version, an owner, a
 
 ## Where you keep the version
 
-**The contract in a Project.** [Claude](/tools/claude/) Pro is $17 a month with annual billing, $200 up front, or $20 monthly, on the October 24 page. Put the schema at the top of the Project. A response that adds a key is a failed draft, not a better draft. The review is [Claude review](/blog/claude-review-2026/).
+**The contract in a Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month with annual billing, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 page. Put the schema at the top of the Project. A response that adds a key is a failed draft, not a better draft. The review is [Claude review](/blog/claude-review-2026/).
 
 **One payload, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. Ask it to emit the object. If a key is missing, the draft says the key is missing. Plus does not sit in your API and reject traffic.
 

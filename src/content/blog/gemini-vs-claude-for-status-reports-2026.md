@@ -19,8 +19,8 @@ Gemini's prices are the October 16, 2026 directory card recorded in [Gemini pric
 
 | The report | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Doc or Sheet the team already updates | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month, with Gemini in Docs on that card | Free is a Google account. It does not add a status you did not write |
-| A sentence that must match the decision log | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A paraphrase is a new status |
+| A Doc or Sheet the team already updates | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month, with Gemini in Docs on that card | Free is a Google account. It does not add a status you did not write |
+| A sentence that must match the decision log | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A paraphrase is a new status |
 | The page that holds the log | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A one-off paragraph you will paste back | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Use it when the file is not in Google and the sentence is not locked |
 
@@ -35,7 +35,7 @@ flowchart TD
   added -->|No| owner["The person who owns the workstream accepts the report"]
 ```
 
-Google AI Pro at $19.99 is the card that lists Gemini in Gmail and Docs, plus 5 TB of storage, on the October 16 record. Plus at $4.99 is the 2x-usage row. Ultra at $99.99 or $199.99 is a larger usage multiple. You do not need Ultra to format a status sentence. You need the file, and the sentence a person already accepted. If the Doc is empty of facts, Gemini will still write. That paragraph is not a status. Status reports look back; for the forward-looking note where a date must not appear unless you locked it, see [Claude vs Gemini for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/). For a brief that rests on sources rather than project status, see [our research brief comparison](/blog/gemini-vs-claude-for-research-briefs-2026/).
+Google AI Pro at {{price:gemini.pro}} is the card that lists Gemini in Gmail and Docs, plus 5 TB of storage, on the October 16 record. Plus at {{price:gemini.plus}} is the 2x-usage row. Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}} is a larger usage multiple. You do not need Ultra to format a status sentence. You need the file, and the sentence a person already accepted. If the Doc is empty of facts, Gemini will still write. That paragraph is not a status. Status reports look back; for the forward-looking note where a date must not appear unless you locked it, see [Claude vs Gemini for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/). For a brief that rests on sources rather than project status, see [our research brief comparison](/blog/gemini-vs-claude-for-research-briefs-2026/).
 
 Claude is the seat when last week's sentence said "blocked on the vendor" and this week's report is not allowed to say "moving ahead" unless you pasted that change. Put the locked sentence in a Project. If the new fact is missing, the line says Status not set.
 

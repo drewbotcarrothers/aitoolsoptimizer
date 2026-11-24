@@ -44,7 +44,7 @@ Coverage without a written denominator is a vibe. Write what a claim is before y
 
 **A paper set.** [Elicit](/tools/elicit/) is the seat when the sources are papers. Coverage is still your count of which findings point at which paper. The directory card is the October 16 price record.
 
-**The rule, kept stable.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the definition of a claim in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**The rule, kept stable.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the definition of a claim in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **A one-page tally.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Paste the claims and the links. Discard a tally that marks a claim covered because the prose was confident.
 

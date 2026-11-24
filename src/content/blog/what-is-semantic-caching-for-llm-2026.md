@@ -40,7 +40,7 @@ Similarity is not truth. A cached answer can be stale, over-broad, or from a dif
 
 **The model call you hope to skip.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month for a person. An API bill is separate. Business is $20 a user a month billed annually for two or more users. A semantic cache in front of a support bot saves API calls only if you run one. A Plus seat does not become cheaper because two employees asked similar questions. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A second drafting seat.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Use it to write the approved answer you will store. Do not ask it to decide the similarity threshold. That number is an engineering choice you can explain. The review is [Claude review](/blog/claude-review-2026/).
+**A second drafting seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Use it to write the approved answer you will store. Do not ask it to decide the similarity threshold. That number is an engineering choice you can explain. The review is [Claude review](/blog/claude-review-2026/).
 
 **A cited lookup that should stay fresh.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually. A news question should not be served from last month's cache. The research choice is [Claude vs Perplexity for research](/blog/claude-vs-perplexity-for-research-2026/).
 

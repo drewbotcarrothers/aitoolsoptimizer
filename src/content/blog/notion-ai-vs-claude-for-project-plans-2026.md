@@ -1,6 +1,6 @@
 ---
 title: "Notion AI vs Claude for Project Plans (2026): The Page People Open, or the Dependency List"
-description: "Notion AI vs Claude for project plans in 2026. Business is $20 a seat. Pro is $17 annual or $20 monthly. Dates stay the ones a person wrote. No schedule scores."
+description: "Notion AI vs Claude for project plans in 2026. Business is $20 a seat. Pro is {{price:claude.pro_annual}} annual or $20 monthly. Dates stay the ones a person wrote. No schedule scores."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["notion-ai", "claude", "plans", "comparison"]
@@ -20,9 +20,9 @@ Notion's prices are from the directory page checked October 16, 2026. Claude's p
 | The plan | Start here | First paid step | The limit |
 |---|---|---|---|
 | The page the team already opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. A date you did not write stays out |
-| One dependency list copied across several plans | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | A page may not reword a dependency you marked shared |
+| One dependency list copied across several plans | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | A page may not reword a dependency you marked shared |
 | One paste you will move onto the page | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | The paste is the source. The chat is not the plan |
-| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | That choice is the other project-plan page |
+| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | That choice is the other project-plan page |
 
 ```mermaid
 flowchart TD

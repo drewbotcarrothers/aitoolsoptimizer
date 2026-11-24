@@ -39,7 +39,7 @@ When the vendor replies, a person records what they sent. Unknown stays unknown.
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the required certifications, if you have any, in a Project so a later edit does not add one. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the required certifications, if you have any, in a Project so a later edit does not add one. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file you send from.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per question, the topic, and an empty answer cell. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

@@ -44,9 +44,9 @@ A year of Perplexity Pro at the recorded annual rate is 12 × $17 = $204. A year
 
 **A spreadsheet of constraints you already wrote.** Price ceiling, size, and the feature you will not compromise. [ChatGPT](/tools/chatgpt/) Plus can hold that list in a Project. It may not add a discount that was not on the page. The project comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
-**A second opinion on a long buyer's guide you paste.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the guide. Ask for claims that lack a source in the paste. That is editing, not a new search. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**A second opinion on a long buyer's guide you paste.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the guide. Ask for claims that lack a source in the paste. That is editing, not a new search. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
-**You already pay for Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is $4.99 a month. That can be enough for a casual comparison inside mail and docs, and it is a different article: [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/).
+**You already pay for Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. That can be enough for a casual comparison inside mail and docs, and it is a different article: [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/).
 
 Write down the date you checked the price. Shopping pages change. A citation from last week is a stale shelf.
 

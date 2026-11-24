@@ -38,7 +38,7 @@ A prompt that says "Allow tools?" with no arguments is a blanket. A blanket is h
 
 **The editor.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 directory card. Agent runs are the place a permission prompt matters, because the call can edit files. You still read the diff. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The project.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 pricing page. Pro includes Claude Code on that page's feature list as part of the paid plan the directory also describes. A connector that can read mail or files needs the same yes as a shell command. The review is [Claude review](/blog/claude-review-2026/).
+**The project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 pricing page. Pro includes Claude Code on that page's feature list as part of the paid plan the directory also describes. A connector that can read mail or files needs the same yes as a shell command. The review is [Claude review](/blog/claude-review-2026/).
 
 **The IDE assistant.** [GitHub Copilot](/tools/github-copilot/) Pro is $10 a user a month on the October 16 card. Business is $19 a user a month and is the card that lists access controls and IP indemnity. A personal Pro seat does not answer your company's question about who may approve a tool call. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

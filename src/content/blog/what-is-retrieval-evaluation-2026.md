@@ -39,7 +39,7 @@ Twenty labeled questions from real tickets will teach you more than a leaderboar
 
 **Open-web citations you can click.** [Perplexity](/tools/perplexity/) Free cites sources with a weekly cap. Pro is $17 a month billed annually. The card does not print the month-to-month dollar. A retrieval check here is simple: open the citation and see if it says what the answer said. The product page is [Perplexity review](/blog/perplexity-review-2026/). The drafting alternative, when you already hold the file, is [Claude vs Perplexity for research](/blog/claude-vs-perplexity-for-research-2026/).
 
-**A file with page numbers.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Ask for the page, then open the page. If the page does not contain the claim, the failure is the answer, not the index. The long-file habit is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
+**A file with page numbers.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Ask for the page, then open the page. If the page does not contain the claim, the failure is the answer, not the index. The long-file habit is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
 
 **A handbook the team edits.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. If the right page exists and search does not surface it, the title and the headings are part of the system. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

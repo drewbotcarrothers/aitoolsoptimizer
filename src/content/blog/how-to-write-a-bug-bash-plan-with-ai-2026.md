@@ -39,7 +39,7 @@ If the plan needs an area that is not in the build you will point people at, the
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the area list and the severity scale sit in a Project. Free can format one plan from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the area list and the severity scale sit in a Project. Free can format one plan from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page people open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the plan should live next to the build notes. The sent page is the plan. A chat draft is not.
 

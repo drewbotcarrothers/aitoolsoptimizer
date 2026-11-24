@@ -41,7 +41,7 @@ One source can feed several assets. Each asset still gets an owner. A map that s
 
 **The page of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The map lives next to the calendar. Free includes a trial of Notion AI. The record rule is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**The draft of the map.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the source is long and should stay in a Project. Free can map one short source. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of the map.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the source is long and should stay in a Project. Free can map one short source. The review is [Claude review](/blog/claude-review-2026/).
 
 **The clip, after the map says clip.** [Opus Clip](/tools/opusclip/) Free includes 60 credits a month, and free clips cannot be exported after 3 days. Starter is $15 a month for 150 credits. Pro is $29 a month, or $14.50 billed annually. Use it when a row on the map says "short video," not to decide that every webinar needs twelve clips. The invoice is [Opus Clip pricing explained](/blog/opusclip-pricing-explained-2026/).
 

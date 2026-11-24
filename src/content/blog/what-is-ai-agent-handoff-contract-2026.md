@@ -38,7 +38,7 @@ The escalation policy says when the run must stop. The contract says the stop is
 
 ## Where you would keep it
 
-**The text of the contract.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the field list in a Project so a later edit cannot drop a required line without a person noticing. The review is [Claude review](/blog/claude-review-2026/).
+**The text of the contract.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the field list in a Project so a later edit cannot drop a required line without a person noticing. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the next owner opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. Link the contract version and the date. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

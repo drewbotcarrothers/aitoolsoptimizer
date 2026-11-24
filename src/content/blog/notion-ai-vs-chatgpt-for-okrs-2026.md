@@ -21,7 +21,7 @@ Notion is the October 16, 2026 directory card. ChatGPT's Plus price is the Octob
 |---|---|---|---|
 | The page the team will open all quarter | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. A target you did not write stays out |
 | One quarter, formatted from targets already written | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Paste the result into the page. The chat is not the system of record |
-| A sentence that must stay identical across teams | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | Use the Claude comparison when drift is the risk |
+| A sentence that must stay identical across teams | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | Use the Claude comparison when drift is the risk |
 | The sentence that leaves the company | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Tone is not a new key result |
 
 ```mermaid

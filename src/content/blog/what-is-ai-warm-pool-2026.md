@@ -40,7 +40,7 @@ A KV cache speeds a prefix you have already seen on a running instance. It does 
 
 ## What you buy when you do not operate one
 
-**A chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [Gemini](/tools/gemini/) on Google AI Pro is $19.99 a month. The vendor may keep capacity warm. Your contract is the seat and the usage cap. You do not set a minimum instance count, and this directory does not list one. Treat a fast reply as their serving. Treat a timeout as your product's problem to show the user. The deadline you publish is [what an AI SLO is](/blog/what-is-ai-slo-2026/).
+**A chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [Gemini](/tools/gemini/) on Google AI Pro is {{price:gemini.pro}} a month. The vendor may keep capacity warm. Your contract is the seat and the usage cap. You do not set a minimum instance count, and this directory does not list one. Treat a fast reply as their serving. Treat a timeout as your product's problem to show the user. The deadline you publish is [what an AI SLO is](/blog/what-is-ai-slo-2026/).
 
 **An API you call.** [DeepSeek](/tools/deepseek/) meters tokens, including a cheaper cache-hit input rate, recorded October 16, 2026: $0.003 per 1 million tokens off-peak and $0.006 at peak. That row is a cache. It is not a warm-pool control. If you need a minimum number of instances, you need a serving setup that exposes one. This page does not invent that switch on DeepSeek's card.
 

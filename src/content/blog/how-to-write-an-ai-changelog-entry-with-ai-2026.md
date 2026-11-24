@@ -41,7 +41,7 @@ The product changelog is what a customer reads. This entry is what the team that
 
 **The log.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. One entry per change, the date, and the owner. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The sentence.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the id so a later edit does not rename it. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**The sentence.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the id so a later edit does not rename it. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 **One entry from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. Discard a version that adds a benefit. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

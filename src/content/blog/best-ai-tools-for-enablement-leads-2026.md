@@ -20,7 +20,7 @@ Notion, Gamma, and Synthesia prices are from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The calendar and the seat list | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| The quarterly note, from numbers you paste | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No completion rate you did not paste |
+| The quarterly note, from numbers you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No completion rate you did not paste |
 | The readout deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, $108 a year | No metric that was not in the note |
 | A module the field will be assigned | [Synthesia](/tools/synthesia/) | Starter is $29 a month billed monthly | The script is approved first. SCORM is a higher row |
 

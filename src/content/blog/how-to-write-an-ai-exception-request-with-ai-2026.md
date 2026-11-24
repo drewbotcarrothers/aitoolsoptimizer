@@ -39,7 +39,7 @@ The allowlist still blocks the tool until the approver changes the row. A well-w
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the field names so the next request matches this one. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the field names so the next request matches this one. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the approver opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Status stays Requested until a person changes it. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

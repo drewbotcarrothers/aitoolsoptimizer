@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | Client job | Start here | First paid step | The agency limit |
 |---|---|---|---|
-| A draft a strategist will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month or $17 annual. ChatGPT Plus $20 | One seat does not become a brand vault |
+| A draft a strategist will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus $20 | One seat does not become a brand vault |
 | A voice that must stay put across writers | [Jasper](/tools/jasper/) | Pro $59/seat/month yearly, or $69 monthly | Two Brand Voices, five Knowledge assets, three Audiences on Pro |
 | Search data you will put in a report | [Semrush](/tools/semrush/) | SEO plan $117.33/month yearly, or $139 monthly | Free is one project and 10 reports a day |
 | Ad sizes from a product image | [AdCreative.ai](/tools/adcreative-ai/) | Starter $39/month, or $20 billed yearly | Credits spend on download |

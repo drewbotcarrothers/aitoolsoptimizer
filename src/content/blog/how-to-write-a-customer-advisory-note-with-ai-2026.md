@@ -38,7 +38,7 @@ If you do not yet know the blast radius, the note says what you know and when yo
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the facts live in a Project next to the last advisory you sent, so the shape stays stable. Free can draft one note from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the facts live in a Project next to the last advisory you sent, so the shape stays stable. Free can draft one note from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The line edit.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually. A clean sentence can still contain a wrong date. Read the date out loud against the change record.
 

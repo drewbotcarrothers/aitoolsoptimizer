@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| A variance memo from a table you paste | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | Every figure in the memo must be in the paste |
+| A variance memo from a table you paste | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | Every figure in the memo must be in the paste |
 | The close checklist the team reopens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | The checklist does not post a journal entry |
 | A notebook on data you already trust | [Hex](/tools/hex/) | Professional is $36 an editor a month. Team is $75 | The agent writes queries. You still own the table |
 | A narrative inside Excel, if that is where the sheet lives | [Microsoft Copilot](/tools/microsoft-copilot/) | Copilot Business was listed from $18 a user a month paid yearly, promotional, originally $21 | A promotional price is not a contract until checkout shows it |

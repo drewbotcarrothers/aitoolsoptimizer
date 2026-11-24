@@ -39,7 +39,7 @@ Treat retrieved text as data the model may quote. Treat your policy as the only 
 
 ## What to buy, and what stays a policy
 
-**A seat that drafts the policy, and does not enforce it.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, and does not train on business data by default. Use a business seat when the policy text is confidential. The seat will not install a defense. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+**A seat that drafts the policy, and does not enforce it.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, and does not train on business data by default. Use a business seat when the policy text is confidential. The seat will not install a defense. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 **A bot on articles you maintain.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly for 700 message credits. The directory says you can set guardrails and test before going live. Those settings are yours to configure against your policy. They are not a certificate that untrusted text is harmless. The build steps for the corpus are [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/).
 

@@ -38,7 +38,7 @@ A persona named "Marketing Mary, 34, Austin" with no interviews behind the city 
 
 ## Where the notes and the page happen
 
-**The cluster.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the notes are long. The directory lists a context window up to 1 million tokens depending on the model. That is capacity, not insight. [ChatGPT](/tools/chatgpt/) Plus at $20 holds the notes in a Project if that is your team's habit. Business is $20 a user a month billed annually, minimum two, when the notes are confidential. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The cluster.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the notes are long. The directory lists a context window up to 1 million tokens depending on the model. That is capacity, not insight. [ChatGPT](/tools/chatgpt/) Plus at $20 holds the notes in a Project if that is your team's habit. Business is $20 a user a month billed annually, minimum two, when the notes are confidential. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The page the team will cite.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link each pattern to interview ids. A persona that cannot be clicked back to a note will be embellished in the next meeting. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

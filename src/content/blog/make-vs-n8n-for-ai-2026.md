@@ -41,7 +41,7 @@ On **Make**, modules spend credits. Free is 1,000 credits a month. Core starts a
 
 On **n8n**, you pay for a workflow execution, not for each node. That is why a fat scenario with several model calls is often cheaper to reason about here, if you can staff it. Community Edition is free if you self-host. You pay in Docker, upgrades, and backups. Cloud Starter was €20 a month billed annually for 2,500 executions, 5 concurrent executions, and 1,600 Assistant credits. Pro was €50 a month annually for 10,000 executions. Business was €667 a month annually for 40,000 executions on the self-hosted commercial tier the directory recorded. Annual billing saves 17% off the monthly euro price. Do not "upgrade to be safe." Forecast executions.
 
-The model is a second invoice if you bring an API key. [Claude](/tools/claude/) Pro at $20 a month is a person using chat. It is not an API allowance inside Make's $9. The split is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/). A scheduled pile of calls that can wait is [what batch inference is](/blog/what-is-ai-batch-inference-2026/).
+The model is a second invoice if you bring an API key. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month is a person using chat. It is not an API allowance inside Make's $9. The split is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/). A scheduled pile of calls that can wait is [what batch inference is](/blog/what-is-ai-batch-inference-2026/).
 
 n8n's review of the hosted product is [n8n cloud review](/blog/n8n-cloud-review-2026/).
 

@@ -36,7 +36,7 @@ A plan that says the rollout "will save time" has added a metric you did not app
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the group names in a Project so a later edit does not widen the list. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the group names in a Project so a later edit does not widen the list. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the date the owner accepted the scope. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

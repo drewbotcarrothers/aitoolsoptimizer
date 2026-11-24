@@ -45,7 +45,7 @@ A write-back is the dangerous direction. Reading the CRM to draft a recap is use
 
 **The task system, when the fact is work status.** [ClickUp Brain](/tools/clickup-brain/) is an add-on from $9 a user a month for Brain². The task is the record. A weekly summary is a view. The comparison with the docs tool is [Notion AI vs ClickUp Brain](/blog/notion-ai-vs-clickup-brain-2026/).
 
-**The assistant, almost never.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. It can read a long file and draft. The file you maintain is the record. The chat is a scratch pad. Teams that paste the scratch pad into the CRM without checking are skipping the only step that matters.
+**The assistant, almost never.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. It can read a long file and draft. The file you maintain is the record. The chat is a scratch pad. Teams that paste the scratch pad into the CRM without checking are skipping the only step that matters.
 
 **The glue, which must name the direction.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually for 750 tasks. A Zap that copies an approved field into a sheet is fine. A Zap that copies a model paragraph into the CRM on every run needs an approval. The map is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/).
 

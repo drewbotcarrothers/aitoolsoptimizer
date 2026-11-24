@@ -18,7 +18,7 @@ Cursor and GitHub Copilot prices are from directory pages checked October 16, 20
 | The move | Start here | First paid step | Done when |
 |---|---|---|---|
 | A known set of files, one branch, a diff a person can read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You read the diff. The checks you named pass |
-| A multi-step move that has to run commands and stop on a budget | [Claude Code](/tools/claude-code/) | Included with Claude Pro at $17 a month annual, $200 up front, or $20 monthly. No free Claude Code on the October 24 table | The same checks pass, and the call count stayed inside the cap you wrote |
+| A multi-step move that has to run commands and stop on a budget | [Claude Code](/tools/claude-code/) | Included with Claude Pro at {{price:claude.pro_annual}} a month annual, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. No free Claude Code on the October 24 table | The same checks pass, and the call count stayed inside the cap you wrote |
 | Completions beside a migration you are typing | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a user a month | You still own the branch |
 | The note other teams will read | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The note matches the diff, not a plan the model invented |
 

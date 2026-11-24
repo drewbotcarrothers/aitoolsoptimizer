@@ -1,6 +1,6 @@
 ---
 title: "Perplexity vs Gemini for Literature Reviews (2026): The Papers You Can Open"
-description: "Perplexity vs Gemini for literature reviews in 2026. Pro is $17 a month billed annually. Gemini Pro is $19.99. You open the paper. No recall scores."
+description: "Perplexity vs Gemini for literature reviews in 2026. Pro is $17 a month billed annually. Gemini Pro is {{price:gemini.pro}}. You open the paper. No recall scores."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["perplexity", "gemini", "literature-review", "research", "comparison"]
@@ -21,7 +21,7 @@ Prices are US list prices excluding tax. Perplexity's annual figures are the one
 |---|---|---|
 | A question, and you need links | [Perplexity](/tools/perplexity/) Free | You open the citation before you keep the sentence |
 | Cited search most workdays | Perplexity Pro at $17 a month billed annually | Monthly Pro was not a single number we could quote |
-| Papers you uploaded, in Google | [Gemini](/tools/gemini/) Free, or Pro at $19.99 a month | The packet is the population |
+| Papers you uploaded, in Google | [Gemini](/tools/gemini/) Free, or Pro at {{price:gemini.pro}} a month | The packet is the population |
 | A notebook of files you hold | [Gemini Notebook](/tools/gemini-notebook/), free with a Google account | Higher limits follow the Google AI plans. Do not add the multiples |
 | A table across many papers | [Elicit](/tools/elicit/) Plus at $11 a user a month billed annually | You still open the source quote |
 | A consensus-style pass over papers | [Consensus](/tools/consensus/) Pro at $20 a month, or $144 a year | Deep is $65 a month, or $540 a year |
@@ -38,7 +38,7 @@ flowchart TD
   table -->|No| draft["A person writes the review from the notes"]
 ```
 
-Perplexity Max is $167 a month billed annually. Buy it when Computer limits on Pro are the bottleneck you can show, not because a literature review sounds serious. Enterprise Pro is $40 a user a month. Gemini Ultra is $99.99 or $199.99. A review of files you have does not require Ultra. Google AI Plus is $4.99. The ladders are the pricing articles above and [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Perplexity Max is $167 a month billed annually. Buy it when Computer limits on Pro are the bottleneck you can show, not because a literature review sounds serious. Enterprise Pro is $40 a user a month. Gemini Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}}. A review of files you have does not require Ultra. Google AI Plus is {{price:gemini.plus}}. The ladders are the pricing articles above and [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What the note may claim
 

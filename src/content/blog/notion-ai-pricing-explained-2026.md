@@ -57,7 +57,7 @@ Enterprise is the plan for the security review: admin controls, and the contract
 
 ## Who should not buy Business yet
 
-- A solo user who wants a writing partner. [Claude](/tools/claude/) Pro is $20 a month, or $17 on annual billing, and it is a better blank page. Notion Business is $20 and it is a workspace.
+- A solo user who wants a writing partner. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} on annual billing, and it is a better blank page. Notion Business is $20 and it is a workspace.
 - A team that lives in ClickUp. [ClickUp Brain](/tools/clickup-brain/) starts at $9 per user on top of a ClickUp plan. Moving wikis to reach Notion's agent is the expensive part.
 - A company on Microsoft 365 that wanted [Microsoft Copilot](/tools/microsoft-copilot/) in the Office apps. That product is the one in that window, including a free signed-in tier.
 - Anyone who has not put the docs in Notion. The agent is only as useful as the pages it can see.

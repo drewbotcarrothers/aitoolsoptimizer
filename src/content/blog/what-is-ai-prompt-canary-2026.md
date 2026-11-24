@@ -36,7 +36,7 @@ A canary that uses a fresh customer question is a sample, not a canary. The poin
 
 ## Where the probe is kept
 
-**The expected line.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the probe in a Project so a later edit does not "improve" the expected text. The review is [Claude review](/blog/claude-review-2026/).
+**The expected line.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the probe in a Project so a later edit does not "improve" the expected text. The review is [Claude review](/blog/claude-review-2026/).
 
 **The prompt file.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. A diff to the prompt is still a diff you review. The canary does not merge it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

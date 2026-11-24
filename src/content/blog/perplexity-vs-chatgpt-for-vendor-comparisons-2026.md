@@ -19,7 +19,7 @@ Perplexity's Pro price is the October 16 directory card. ChatGPT's Plus price is
 |---|---|---|---|
 | A public page for one cell | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the page. Copy only the fact you can point at |
 | The grid, from pastes | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No column you did not name. No winner |
-| The same column names next quarter | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project keeps names. It does not pick a vendor |
+| The same column names next quarter | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project keeps names. It does not pick a vendor |
 | The matrix the buyer reopens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page is the record |
 
 ```mermaid

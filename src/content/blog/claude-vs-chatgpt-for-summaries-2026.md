@@ -39,11 +39,11 @@ flowchart TD
 
 ## The seats, without a quality crown
 
-**Claude Free** includes file upload and up to five Projects, with usage limits. That is enough to learn whether you like the way it compresses a document. **Pro is $20 a month, or $17 billed annually.** Max from $100 is 5× or 20× Pro usage. Buy Max when a summary-heavy day hits the cap, not because the PDF is long. A long file on a quiet week can fit on Pro. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The ceiling this directory has recorded for Claude is context windows of up to 1 million tokens, depending on the model. That is not a promise your PDF fits. The practical limit is [what a context window is](/blog/what-is-a-context-window-2026/).
+**Claude Free** includes file upload and up to five Projects, with usage limits. That is enough to learn whether you like the way it compresses a document. **Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.** Max from $100 is 5× or 20× Pro usage. Buy Max when a summary-heavy day hits the cap, not because the PDF is long. A long file on a quiet week can fit on Pro. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The ceiling this directory has recorded for Claude is context windows of up to 1 million tokens, depending on the model. That is not a promise your PDF fits. The practical limit is [what a context window is](/blog/what-is-a-context-window-2026/).
 
 **ChatGPT Free** exists. **Plus is $20. Go is $8.** Pro from $100 is the capacity step after Plus runs out. Use a Project for a recurring summary, such as a weekly customer thread. Do not use a custom GPT as a hidden source of facts. The split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/). The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Gemini Notebook** is the third option when the rule is "every sentence comes from these files." Google AI Plus at $4.99 adds notebook room. That workflow is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). It is a better summary tool than either chatbot when you do not want the model to leave the packet.
+**Gemini Notebook** is the third option when the rule is "every sentence comes from these files." Google AI Plus at {{price:gemini.plus}} adds notebook room. That workflow is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). It is a better summary tool than either chatbot when you do not want the model to leave the packet.
 
 ## The prompt that keeps a summary honest
 

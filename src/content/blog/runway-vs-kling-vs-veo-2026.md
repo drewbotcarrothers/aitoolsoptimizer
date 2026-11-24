@@ -20,9 +20,9 @@ Individual plan notes are the [Runway review](/blog/runway-review-2026/) and the
 | | Runway | Kling AI | Google Flow (Veo 3.1) |
 |---|---|---|---|
 | Free | 125 credits, once | Basic, no monthly credits | 50 credits every day |
-| Entry paid | Standard $12/month annual, or $15 monthly. 625 credits | Standard $6.99 first month, then $8.80. 660 credits | Google AI Plus $4.99/month adds 200 credits on top of the daily 50 |
+| Entry paid | Standard $12/month annual, or $15 monthly. 625 credits | Standard $6.99 first month, then $8.80. 660 credits | Google AI Plus {{price:gemini.plus}}/month adds 200 credits on top of the daily 50 |
 | What the vendor equates that to | About 52 seconds of Gen-4.5, or 104 seconds of Gen-4 Turbo | About 33 videos at 720p, or 22 seconds of 4K at the guide's 30 credits/second | Veo 3.1 Lite is 10 credits a clip, Fast is 20, Quality is 100 |
-| Next tier | Pro $28/month annual, 2,250 credits, about 187 seconds of Gen-4.5 | Pro renews at $32.56, 3,000 credits | Google AI Pro $19.99/month, 1,000 monthly credits |
+| Next tier | Pro $28/month annual, 2,250 credits, about 187 seconds of Gen-4.5 | Pro renews at $32.56, 3,000 credits | Google AI Pro {{price:gemini.pro}}/month, 1,000 monthly credits |
 | Commercial posture | Read the plan you buy. We are not restating a license we did not quote | Same | Same, plus SynthID on Veo outputs |
 | Watermark we can cite | Not stated on the pricing facts we stored | Not stated | Invisible SynthID on Veo. Visible watermark control is a Pro and Ultra feature, with country exceptions |
 
@@ -47,7 +47,7 @@ Use a concrete slate: eight 5-second shots, which is 40 seconds, plus two retake
 
 Veo 3.1 Lite is 10 credits and Fast is 20, for non-Ultra subscribers. Eight Lite clips are 80 credits, which fits inside a few days of the free 50, or inside Plus's 200 monthly credits plus the daily grant. Lite is not Quality. Price the tier you will actually download.
 
-Google AI Plus is $4.99/month for 200 monthly Flow credits. Ultra is $99.99 or $199.99/month, with 10,000 or 25,000 monthly credits, and Ultra subscribers get Veo 3.1 Lite clips at 0 credits on the rate card we stored. Non-subscribers may be unable to generate video during peak hours, about 2 to 5 PM UTC. Free is a real daily test. It is a poor way to deliver a Friday deadline in that window.
+Google AI Plus is {{price:gemini.plus}}/month for 200 monthly Flow credits. Ultra is $99.99 or $199.99/month, with 10,000 or 25,000 monthly credits, and Ultra subscribers get Veo 3.1 Lite clips at 0 credits on the rate card we stored. Non-subscribers may be unable to generate video during peak hours, about 2 to 5 PM UTC. Free is a real daily test. It is a poor way to deliver a Friday deadline in that window.
 
 ## Which bill is smaller depends on the export
 
@@ -57,7 +57,7 @@ Google AI Plus is $4.99/month for 200 monthly Flow credits. Ultra is $99.99 or $
 | A handful of 720p Kling clips | Kling Standard at $8.80 renewal | The 33-video sketch is the vendor's own 720p line for 660 credits |
 | A minute of 4K Kling VIDEO 3.0 | Kling Pro at $32.56 renewal | 30 credits/second times 60 seconds is 1,800 credits |
 | A few Veo tests | Flow free, 50 credits/day | Lite clips are 10 credits. Quality clips are 100 and will not fit a single day |
-| Veo Quality on a slate | Google AI Pro at $19.99 | 1,000 monthly credits is ten Quality clips, plus the daily 50 |
+| Veo Quality on a slate | Google AI Pro at {{price:gemini.pro}} | 1,000 monthly credits is ten Quality clips, plus the daily 50 |
 | You already pay for Google AI Pro | Flow, not a second subscription | The credits are a feature of the plan you have. See [which subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/) |
 
 A presenter who speaks a script is not in this table. That is [HeyGen](/tools/heygen/), compared in [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). [Pika](/tools/pika/) Starter is $10/month and is the free-account tool that states it has no watermark, with no commercial license on Free. [Luma](/tools/luma-ai/) Plus is $30/month. Both are alternatives when none of the three meters fit, not tie-breakers inside this comparison.

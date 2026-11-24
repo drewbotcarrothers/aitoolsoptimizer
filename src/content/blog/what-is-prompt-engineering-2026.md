@@ -40,8 +40,8 @@ A longer prompt is not a better prompt. Extra adjectives ("be world-class," "thi
 
 | Job | Tool | What you are prompting | Price to know |
 |---|---|---|---|
-| A draft you will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The instruction plus your notes | Claude Pro is $20/month, or $17 billed annually. ChatGPT Plus is $20 |
-| A draft inside Google's apps | [Gemini](/tools/gemini/) | The same instruction, with Drive or Docs in reach | Google AI Plus is $4.99/month. Free needs a Google account |
+| A draft you will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The instruction plus your notes | Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 |
+| A draft inside Google's apps | [Gemini](/tools/gemini/) | The same instruction, with Drive or Docs in reach | Google AI Plus is {{price:gemini.plus}}/month. Free needs a Google account |
 | A claim that needs a link | [Perplexity](/tools/perplexity/) | A specific question, then you open the citation | Pro is $17/month billed annually |
 | A proofread of a draft you already wrote | [Grammarly](/tools/grammarly/) | The surface: grammar, tone, a rewrite | Pro is $12/member/month billed annually, or $30 monthly |
 

@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| Objectives and an outline from a source you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The objective is yours. The model formats the sequence |
+| Objectives and an outline from a source you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The objective is yours. The model formats the sequence |
 | The curriculum map and the version of the outline | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A module the model added does not enter the map |
 | A packet of SME docs the outline must follow | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. AI Plus is $4.99 a month | The outline may use only the uploads |
 | A lesson deck for a review meeting | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, 1,000 credits | The deck quotes the outline. It does not add a topic |
@@ -42,7 +42,7 @@ If you are the teacher writing tomorrow's lesson for your own class, start with 
 
 **Notion Business** is the map: outcome, modules, source links, and the owner of each module. A pretty outline in a chat is not the curriculum. The record rule is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**Gemini Notebook** is the seat when the SME handed you PDFs. Free comes with a personal Google account. Google AI Plus at $4.99 a month raises the limits on that card. Google AI Pro at $19.99 is the 5x row. Do not paste learner personal data into a notebook your policy forbids.
+**Gemini Notebook** is the seat when the SME handed you PDFs. Free comes with a personal Google account. Google AI Plus at {{price:gemini.plus}} a month raises the limits on that card. Google AI Pro at {{price:gemini.pro}} is the 5x row. Do not paste learner personal data into a notebook your policy forbids.
 
 **Gamma Plus** is the review deck for stakeholders who will open a link. The slides may not introduce a module the map does not contain. The ladder is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/). If the review has to be PowerPoint, the file-format pair is [Plus AI vs Gamma](/blog/plus-ai-vs-gamma-2026/).
 

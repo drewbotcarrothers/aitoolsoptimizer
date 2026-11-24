@@ -59,8 +59,8 @@ A subscription does not open a circuit for you. These prices are context for the
 | Call you might wrap | Price the directory recorded | What you still build |
 |---|---|---|
 | [ChatGPT](/tools/chatgpt/) as a product seat | Plus is $20 a month. The API is a different contract. This page does not invent an API rate | A breaker in your app, if you call an API |
-| [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The same. A seat timeout is not a logged breaker |
-| [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The same |
+| [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The same. A seat timeout is not a logged breaker |
+| [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The same |
 | [DeepSeek](/tools/deepseek/) API | Input from $0.15 per 1 million tokens off-peak on a cache miss. Output $0.60 off-peak | A breaker is more useful here, because you own the client |
 | A workflow that calls a model | [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually | Zapier's retries are Zapier's. Confirm they match the cool-down you want. Do not assume they do |
 

@@ -20,7 +20,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, ClickUp
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The gate the launch owner opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A row stays "not yet" until a person changes it |
-| Notices that must use the same verbs | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No step the customer was not given |
+| Notices that must use the same verbs | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No step the customer was not given |
 | The tracker status | [ClickUp Brain](/tools/clickup-brain/) | Brain² from $9 a user a month, on top of a ClickUp plan | The tracker status wins if the prose disagrees |
 | The call where a date moved | [Granola](/tools/granola/) | Business is $14 a user a month. Basic is $0 with 30 days of history | The note is not the gate. A person updates the row |
 

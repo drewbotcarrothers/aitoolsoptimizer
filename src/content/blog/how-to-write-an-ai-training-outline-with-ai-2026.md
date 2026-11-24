@@ -39,7 +39,7 @@ The duration is the one you set. If a module has no minutes, the cell says Time 
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the module list in a Project so a later session does not grow it. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the module list in a Project so a later session does not grow it. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the trainers share.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the audience, the owner, and the date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

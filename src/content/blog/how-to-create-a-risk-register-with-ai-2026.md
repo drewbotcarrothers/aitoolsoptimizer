@@ -42,7 +42,7 @@ Pick a scale before you draft. A 1 to 5 scale you did not define will be filled 
 
 **The page of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The register is a database with the columns above, not a chat log. Plus at $10 is not the full AI tier. The record rule is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**The draft from a messy list.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the risks as bullets. Ask for a table and for Missing wherever you did not score. The review is [Claude review](/blog/claude-review-2026/).
+**The draft from a messy list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the risks as bullets. Ask for a table and for Missing wherever you did not score. The review is [Claude review](/blog/claude-review-2026/).
 
 **A shorter read for a steering meeting.** [ChatGPT](/tools/chatgpt/) Plus at $20 can list the open rows you already scored. It should not re-rank them. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

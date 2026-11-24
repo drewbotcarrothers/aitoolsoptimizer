@@ -41,7 +41,7 @@ The checklist sits in front of send. It does not replace a format gate or a sche
 
 **The list people open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One checklist per output type, the reviewer, and the record. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the ship rule so a later edit does not soften it into a suggestion. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the ship rule so a later edit does not soften it into a suggestion. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 **One checklist from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds a reviewer. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

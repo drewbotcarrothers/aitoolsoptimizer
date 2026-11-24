@@ -38,7 +38,7 @@ An audit that deletes rows "to keep the page short" has hidden toggles. Every na
 
 ## Where it is built
 
-**The table, when the columns must match last quarter.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the column list in the Project. The review is [Claude review](/blog/claude-review-2026/).
+**The table, when the columns must match last quarter.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the column list in the Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **The code that defines one toggle.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. Read the diff if you go look. The audit does not authorize an edit. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

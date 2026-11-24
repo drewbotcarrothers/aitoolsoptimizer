@@ -32,10 +32,10 @@ flowchart TD
   rules -->|Yes, and they said which tool| theirs["Use the tool they named"]
   rules -->|Practice only, on your own time| pick{"Do you want Codex in the chat seat?"}
   pick -->|Yes| gpt["ChatGPT Plus at $20"]
-  pick -->|You want Artifacts and Claude Code| claude["Claude Pro at $20 or $17 annual"]
+  pick -->|You want Artifacts and Claude Code| claude["Claude Pro at {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} annual"]
 ```
 
-A year of Claude Pro on the annual card is $200. A year of ChatGPT Plus is 12 × $20 = $240. The $40 difference is not a reason to pick a model for a loop interview. Pick the surface you will actually practice in. Go, at $8, can draft an explanation, and the directory says it may include ads. Ads are a poor fit next to a resume. The ChatGPT ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The Claude page is [Claude review](/blog/claude-review-2026/).
+A year of Claude Pro on the annual card is {{price:claude.pro_upfront}}. A year of ChatGPT Plus is 12 × $20 = $240. The $40 difference is not a reason to pick a model for a loop interview. Pick the surface you will actually practice in. Go, at $8, can draft an explanation, and the directory says it may include ads. Ads are a poor fit next to a resume. The ChatGPT ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The Claude page is [Claude review](/blog/claude-review-2026/).
 
 ## How to practice without fooling yourself
 

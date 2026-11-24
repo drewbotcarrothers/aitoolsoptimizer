@@ -42,7 +42,7 @@ The line is yours. If you did not write "this case must still pass" or "this cou
 
 ## Where the notice is defined
 
-**The definition of the line.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the case id, the line, and the recipient so a later edit does not soften them. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the line.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the case id, the line, and the recipient so a later edit does not soften them. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the alert lives next to the suite.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. You review a diff that deletes a recipient. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

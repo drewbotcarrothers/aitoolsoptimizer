@@ -40,7 +40,7 @@ A silent queue is an outage. The caller should see a wait, a retry time, or a cl
 
 **A seat that is not the shaper.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 billed monthly. A Business admin can turn a seat off. That is an account control. It is not a per-minute queue in front of your own API key. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A second drafting seat.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Use it to write the policy in plain language. The gateway, not the chat, enforces the wait. The review is [Claude review](/blog/claude-review-2026/).
+**A second drafting seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Use it to write the policy in plain language. The gateway, not the chat, enforces the wait. The review is [Claude review](/blog/claude-review-2026/).
 
 **A workflow that can wait.** [Make](/tools/make/) Core is $9 a month billed annually for 10,000 credits. A scenario that summarizes yesterday's tickets can run off-peak. Make's credit plan is not a model-rate limiter. The invoice is [Make pricing explained](/blog/make-pricing-explained-2026/).
 

@@ -41,7 +41,7 @@ The note of what changed in the wording is [how to create a prompt library chang
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the checks in a Project so a later edit does not add one. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the checks in a Project so a later edit does not add one. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the reviewer completes.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The row stores the version id, the sample, and the blanks. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

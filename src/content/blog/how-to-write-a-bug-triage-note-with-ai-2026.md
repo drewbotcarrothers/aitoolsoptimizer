@@ -40,7 +40,7 @@ A root cause the model guessed will be copied into the postmortem later if you a
 
 ## Where the note is drafted
 
-**The paragraph.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the severity scale in a Project so the model stops inventing P0. The review is [Claude review](/blog/claude-review-2026/).
+**The paragraph.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the severity scale in a Project so the model stops inventing P0. The review is [Claude review](/blog/claude-review-2026/).
 
 **The chat next to the ticket.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two, when the paste includes a customer name. Strip the name if the ticket does not need it. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

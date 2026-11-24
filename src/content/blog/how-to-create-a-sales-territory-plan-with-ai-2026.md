@@ -39,7 +39,7 @@ An account the model found on the web is not in the territory until someone adds
 
 ## Where the map is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the rules live in a Project and the export is the only new paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the rules live in a Project and the export is the only new paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [HubSpot](/tools/hubspot/) has a free CRM. A limited-time Starter from $7 or $10 per seat a month was on the October 16 card. Confirm the offer before you quote it. The territory field in the CRM is the plan that reps see. The invoice context is [HubSpot pricing explained](/blog/hubspot-pricing-explained-2026/).
 

@@ -49,7 +49,7 @@ A slide that says "be safe" is a wish. A policy names the action and the check. 
 
 [n8n](/tools/n8n/) can place an AI step in a workflow you draw. Starter cloud is €20 a month billed annually for 2,500 executions, on the October 16 card. This page does not convert euros. A human node before a send is a check your policy can require. The drawing is the evidence.
 
-[Claude](/tools/claude/) will refuse some requests from its own training. Your refund rule is not that training. The policy says which project files hold the rule, and which replies a person must read. Pro is $20 a month, or $17 billed annually.
+[Claude](/tools/claude/) will refuse some requests from its own training. Your refund rule is not that training. The policy says which project files hold the rule, and which replies a person must read. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.
 
 ## What the policy should refuse to be
 

@@ -38,7 +38,7 @@ Four weeks on one channel is a calendar. Ninety generated titles is a backlog. T
 
 | Column | Tool | Price to know |
 |---|---|---|
-| The questions and the first table | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month or $17 annual. ChatGPT Plus is $20. Free tiers can draft the table |
+| The questions and the first table | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus is $20. Free tiers can draft the table |
 | Where the table lives, if the team is already in Notion | [Notion](/tools/notion-ai/) | The full agent is Business at $20/seat/month. A database does not require the agent |
 | A keyword you will actually target | [Semrush](/tools/semrush/) | SEO plan $117.33/month billed annually, or $139 monthly. Free is one project and 10 reports a day |
 | A page quota, if the row is an article | [Frase](/tools/frase/) | Starter $39/month billed yearly, 10 articles. No permanent free plan. A 7-day trial |

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Meeting Agendas (2026): Decisions You Paste, or a Doc You Already Have"
-description: "ChatGPT vs Gemini for meeting agendas in 2026. Plus is $20. Google AI Pro is $19.99 when the pre-read is a Doc. No meeting scores."
+description: "ChatGPT vs Gemini for meeting agendas in 2026. Plus is $20. Google AI Pro is {{price:gemini.pro}} when the pre-read is a Doc. No meeting scores."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["chatgpt", "gemini", "meetings", "agendas"]
@@ -18,8 +18,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The material you have | Start here | First paid step | The limit |
 |---|---|---|---|
 | A paste of decisions, owners, and a clock | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No decision that was not in the paste |
-| A Google Doc or a Gmail thread | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month for Gemini in Gmail and Docs | The Doc is the source. The chat does not add a topic |
-| A long agenda you will reuse in a Project | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The other article |
+| A Google Doc or a Gmail thread | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month for Gemini in Gmail and Docs | The Doc is the source. The chat does not add a topic |
+| A long agenda you will reuse in a Project | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The other article |
 | The agenda page the team already opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Publish the page. The chat is not the invite |
 
 ```mermaid
@@ -32,7 +32,7 @@ flowchart TD
   check --> send["You send the agenda"]
 ```
 
-Google AI Plus is $4.99 a month on the directory card and lists higher usage than Free. The Gmail and Docs line is on Pro, on that card. If the agenda must sit inside the Doc, Plus is the wrong quote. Free Gemini can still draft from a paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Plus is {{price:gemini.plus}} a month on the directory card and lists higher usage than Free. The Gmail and Docs line is on Pro, on that card. If the agenda must sit inside the Doc, Plus is the wrong quote. Free Gemini can still draft from a paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ChatGPT Go is $8 a month. Plus is the seat when the agenda lives in a Project with last week's decisions. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

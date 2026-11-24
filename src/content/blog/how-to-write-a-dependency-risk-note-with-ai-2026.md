@@ -38,7 +38,7 @@ An empty advisory block stays empty. "No known issues" is a sentence only a pers
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the note has to sit beside a policy paragraph. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the note has to sit beside a policy paragraph. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff that proves where it is used.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when you ask for the call sites in a branch and you read them. A list of files the agent did not open is not evidence. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

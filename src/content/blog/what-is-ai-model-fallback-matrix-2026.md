@@ -36,7 +36,7 @@ A matrix that says "use whatever is up" is a wish. The row has a name. If gpt-6-
 
 ## Where the matrix is used
 
-**The policy in a project.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Store the matrix in the Project so the on-call note and the agent read the same table. The review is [Claude review](/blog/claude-review-2026/).
+**The policy in a project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Store the matrix in the Project so the on-call note and the agent read the same table. The review is [Claude review](/blog/claude-review-2026/).
 
 **One workflow in a chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 monthly, on that October 24 page, when the matrix is company data. The seat ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

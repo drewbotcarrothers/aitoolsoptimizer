@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | Find the vendor's own pricing page | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the link. A citation is not the contract |
-| Draft the comparison from excerpts | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually | It may not fill a blank price |
+| Draft the comparison from excerpts | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | It may not fill a blank price |
 | The record and the approval | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A chat thread is not the system of record |
 | A readout for the steering meeting | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | Only after the memo is signed |
 | The line edit | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually | It will not know your policy |

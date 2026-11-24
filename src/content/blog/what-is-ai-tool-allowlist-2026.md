@@ -38,7 +38,7 @@ Read and send are different tools even when they share a logo. A help-center sea
 
 ## Where the list is kept
 
-**The policy.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the allowlist is a page a second person reviews. The model may format rows you paste. It may not add a tool. The review is [Claude review](/blog/claude-review-2026/).
+**The policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the allowlist is a page a second person reviews. The model may format rows you paste. It may not add a tool. The review is [Claude review](/blog/claude-review-2026/).
 
 **The code.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the list is a file in the repo. You read the diff. A generated import that connects a tool you did not name is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

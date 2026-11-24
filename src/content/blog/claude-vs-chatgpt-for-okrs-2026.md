@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One objective and one number, no long memo | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You type the number. The model only formats it |
 | The same OKR template every quarter | ChatGPT Plus at $20 a month, projects included | Swap the objective and the target. Do not reuse last quarter's metric |
-| A strategy memo, a board note, or a pile of constraints | Claude Pro at $20 a month, or $17 billed annually | The Project holds the memo. The OKR does not add a goal the memo does not contain |
+| A strategy memo, a board note, or a pile of constraints | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the memo. The OKR does not add a goal the memo does not contain |
 | The signed OKR lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The chat is the draft |
 | The work already lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) from $9 per user a month | Brain formats. The number is still one you typed |
 

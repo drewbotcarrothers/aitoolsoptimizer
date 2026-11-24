@@ -39,7 +39,7 @@ The charter points at the risk register, the permission matrix, and the approval
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the purpose sentence in a Project so a later edit does not soften it. Team standard seats are $20 a seat a month billed annually, or $25 monthly, when the charter is a company record, as recorded in [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/). The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the purpose sentence in a Project so a later edit does not soften it. Team standard seats are $20 a seat a month billed annually, or $25 monthly, when the charter is a company record, as recorded in [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/). The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the owner, the date, and the documents. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | A change in the demo repo | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You still read the diff |
-| A written answer from docs you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not invent a limit or an SLA |
+| A written answer from docs you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not invent a limit or an SLA |
 | Notes from the technical call | [Granola](/tools/granola/) | Business is $14 a user a month | Basic is free, with 30 days of history |
 | The POC log | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A short technical deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | The architecture must match the doc |

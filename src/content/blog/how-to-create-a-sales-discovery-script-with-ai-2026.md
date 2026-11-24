@@ -37,7 +37,7 @@ A script that answers its own questions is a pitch. Delete any line that tells t
 
 ## Where it is drafted and where the call lives
 
-**The question list.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the "do not say" box in a Project with the current pricing page, so the script cannot drift ahead of what you sell. The pricing page workflow is [how to write a pricing page with AI](/blog/how-to-write-a-pricing-page-with-ai-2026/).
+**The question list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the "do not say" box in a Project with the current pricing page, so the script cannot drift ahead of what you sell. The pricing page workflow is [how to write a pricing page with AI](/blog/how-to-write-a-pricing-page-with-ai-2026/).
 
 **The shared script.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One page, one owner, a date. Reps duplicate it per account only to add the account's name, not to rewrite the questions into a pitch. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

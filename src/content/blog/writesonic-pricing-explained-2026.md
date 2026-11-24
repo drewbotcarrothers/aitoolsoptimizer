@@ -46,7 +46,7 @@ The meter is prompts and answers tracked, not chat messages. Starter's 50 prompt
 
 Growth is where sentiment shows up. The Action Center is the Enterprise line on the October 24 read. Buy Growth when sentiment or the larger prompt set is the reason. Do not buy it because $399 sounds like the serious plan, and do not expect the Action Center on it.
 
-A writing seat is a different invoice. [ChatGPT](/tools/chatgpt/) Plus is $20. [Claude](/tools/claude/) Pro is $20, or $17 billed annually. [Jasper](/tools/jasper/) Pro is $59 a seat billed yearly, or $69 monthly, and the directory puts Jasper's own GEO features on Business, which is custom. [Copy.ai](/tools/copy-ai/) Chat is $24 billed annually for 5 seats, then workflow plans from $1,000. That card is [Copy.ai pricing explained](/blog/copy-ai-pricing-explained-2026/). Use Writesonic when the question is whether AI answers mention you. Use the writing seats when the question is the draft.
+A writing seat is a different invoice. [ChatGPT](/tools/chatgpt/) Plus is $20. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. [Jasper](/tools/jasper/) Pro is $59 a seat billed yearly, or $69 monthly, and the directory puts Jasper's own GEO features on Business, which is custom. [Copy.ai](/tools/copy-ai/) Chat is $24 billed annually for 5 seats, then workflow plans from $1,000. That card is [Copy.ai pricing explained](/blog/copy-ai-pricing-explained-2026/). Use Writesonic when the question is whether AI answers mention you. Use the writing seats when the question is the draft.
 
 ## Writesonic next to an SEO suite
 
@@ -64,7 +64,7 @@ $79 a month billed annually, on the October 24 pricing page, with 50 prompts, 15
 
 ### Is there a cheaper Writesonic plan for writers?
 
-Not on this card. The product is priced as AI search visibility. For a writing seat, compare ChatGPT Plus at $20, Claude Pro at $20 or $17 annually, or Jasper Pro at $59 yearly. Those are not lite versions of Starter. They are a different job.
+Not on this card. The product is priced as AI search visibility. For a writing seat, compare ChatGPT Plus at $20, Claude Pro at {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} annually, or Jasper Pro at $59 yearly. Those are not lite versions of Starter. They are a different job.
 
 ### Does annual billing save 20%?
 

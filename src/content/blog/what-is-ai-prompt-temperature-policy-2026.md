@@ -40,7 +40,7 @@ If the product hides the number, the policy names the control you can see: the m
 
 ## Where the rule is kept
 
-**The policy text.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the job list so a later prompt does not quietly raise the setting. The review is [Claude review](/blog/claude-review-2026/).
+**The policy text.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the job list so a later prompt does not quietly raise the setting. The review is [Claude review](/blog/claude-review-2026/).
 
 **One job from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. Go is $8 a month on that same page. Plus is the seat for a saved policy line. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

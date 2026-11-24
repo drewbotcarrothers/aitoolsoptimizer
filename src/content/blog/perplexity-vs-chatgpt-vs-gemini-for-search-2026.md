@@ -21,7 +21,7 @@ Prices are US list prices excluding tax. Perplexity's ladder is the one recorded
 |---|---|---|---|
 | What a company published, with a link | [Perplexity](/tools/perplexity/) | The product is built to attach sources. You still open them | Pro is $17/month billed annually. Max is $167 billed annually |
 | A rewrite of sources you pasted | [ChatGPT](/tools/chatgpt/) | The thread is the workspace. Search is optional and easy to skip | Go is $8. Plus is $20. Pro starts at $100 |
-| A file in Drive, or a draft that should become a Doc | [Gemini](/tools/gemini/) | Higher Google AI plans put Gemini in Gmail and Docs | Plus is $4.99/month. Pro is $19.99/month |
+| A file in Drive, or a draft that should become a Doc | [Gemini](/tools/gemini/) | Higher Google AI plans put Gemini in Gmail and Docs | Plus is {{price:gemini.plus}}/month. Pro is {{price:gemini.pro}}/month |
 | A packet of files you uploaded for one project | [Gemini Notebook](/tools/gemini-notebook/) | The corpus is the upload, and the chat stays on it | Free, with higher limits from $4.99/month |
 | A scholarly claim | [Consensus](/tools/consensus/) | The corpus is papers | Pro is $12/month billed annually, or $20 monthly |
 
@@ -44,11 +44,11 @@ Perplexity's plan math is [Perplexity pricing explained](/blog/perplexity-pricin
 
 **ChatGPT** will answer a search-shaped question inside the same thread you use for drafting. That convenience is the risk. The reply can mix a remembered fact, a pasted note, and a looked-up line. Plus at $20 adds projects, which is the right place to keep a set of sources for one topic. Go at $8 is the cheaper entry, and the directory page notes that Go may include ads. For a search you will quote, require links and open them, or start in Perplexity and paste the kept sources into ChatGPT for the draft.
 
-**Gemini** is the search that should meet you inside Google. Free covers the Gemini app with the limits on that plan. Google AI Plus at $4.99 is the small step up, including more usage and 200 Flow credits. Google AI Pro at $19.99 lists Gemini in Gmail and Docs on the directory card checked October 16, 2026. Buy Pro when the search result has to become a Doc or an email in that suite. Buy Perplexity when the result is a link your reader must be able to audit outside Google. Gemini Notebook is the upload case: a syllabus, a packet, a folder. It is a weak tool for "what is the live price on a vendor site," because the corpus is what you uploaded.
+**Gemini** is the search that should meet you inside Google. Free covers the Gemini app with the limits on that plan. Google AI Plus at {{price:gemini.plus}} is the small step up, including more usage and 200 Flow credits. Google AI Pro at {{price:gemini.pro}} lists Gemini in Gmail and Docs on the directory card checked October 16, 2026. Buy Pro when the search result has to become a Doc or an email in that suite. Buy Perplexity when the result is a link your reader must be able to audit outside Google. Gemini Notebook is the upload case: a syllabus, a packet, a folder. It is a weak tool for "what is the live price on a vendor site," because the corpus is what you uploaded.
 
 ## A week of search, without three paid seats
 
-Most people need one paid search habit. If your output is a memo with links, pay for Perplexity Pro and use a free chat to draft from the links you kept. If your output is a Google Doc built from files you already have, pay for Google AI Pro and use Perplexity's free tier for the occasional public page. If your output is a draft and the facts came from a call or a brief, pay for ChatGPT Plus and paste the source. A stack of Pro plus Plus plus Google AI Pro is $17 + $20 + $19.99, about $57 before tax, for three windows onto work one window could hold.
+Most people need one paid search habit. If your output is a memo with links, pay for Perplexity Pro and use a free chat to draft from the links you kept. If your output is a Google Doc built from files you already have, pay for Google AI Pro and use Perplexity's free tier for the occasional public page. If your output is a draft and the facts came from a call or a brief, pay for ChatGPT Plus and paste the source. A stack of Pro plus Plus plus Google AI Pro is $17 + $20 + {{price:gemini.pro}}, about $57 before tax, for three windows onto work one window could hold.
 
 Papers are the exception. Consensus is the search over studies. The paired workflow is [how to research with Elicit and Consensus](/blog/how-to-research-with-elicit-and-consensus-2026/).
 

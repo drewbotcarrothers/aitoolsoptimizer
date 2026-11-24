@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The metric dictionary: name, formula, owner, source | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A metric the model invented does not enter the dictionary |
 | The warehouse query and a published chart | [Hex](/tools/hex/) | Professional is $36 per editor a month | Medium compute is included. Larger profiles are hourly |
 | A CSV extract, when you do not have the warehouse | [Julius AI](/tools/julius-ai/) | Plus is $20 a month, or $16 billed annually, for 2,000 credits | The file is the population. It is not the CRM |
-| The sentence under a chart you already trust | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | Paste the numbers. The model does not remember last quarter |
+| The sentence under a chart you already trust | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Paste the numbers. The model does not remember last quarter |
 | The opportunity record you are explaining | [HubSpot](/tools/hubspot/) | Free CRM. A limited-time Starter from $7 or $10 per seat a month was on the card | Confirm the offer. The CRM is the record, not the narrative |
 
 ```mermaid

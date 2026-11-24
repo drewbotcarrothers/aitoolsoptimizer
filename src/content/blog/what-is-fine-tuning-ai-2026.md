@@ -33,7 +33,7 @@ flowchart TD
   tune --> rights["You have rights to the training examples"]
 ```
 
-A coding model you steer with a repository is still mostly context, not fine-tuning. The tool choice is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually, and [ChatGPT](/tools/chatgpt/) Plus at $20 a month are the everyday seats. Neither price is a fine-tuning product.
+A coding model you steer with a repository is still mostly context, not fine-tuning. The tool choice is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and [ChatGPT](/tools/chatgpt/) Plus at $20 a month are the everyday seats. Neither price is a fine-tuning product.
 
 ## Where this directory already sells a custom model
 

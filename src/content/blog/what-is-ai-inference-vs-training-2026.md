@@ -37,7 +37,7 @@ A prompt does not train the model. Writing a better instruction is [what prompt 
 
 | Way you use a model | What the invoice is | A published price |
 |---|---|---|
-| Chat in an app | Inference, capped by the plan | [Claude](/tools/claude/) Pro is $20/month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8 |
+| Chat in an app | Inference, capped by the plan | [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8 |
 | A developer API | Inference, metered in tokens | [DeepSeek](/tools/deepseek/) chat is free. API input is from $0.15 per 1 million tokens off-peak on a cache miss. Output is $0.60 off-peak |
 | A coding agent in a repo | Inference against your code, plus the editor seat | [OpenAI Codex](/tools/openai-codex/) sits on the coding side of the same split. The editor comparison is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/) |
 | "Train it on our wiki" | Usually retrieval, sometimes fine-tuning | Retrieval is [what RAG is](/blog/what-is-rag-explained-2026/). It does not update the weights |

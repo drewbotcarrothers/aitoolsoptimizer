@@ -38,7 +38,7 @@ A one-pager that says "better together" and does not say what each company does 
 
 ## Where the page is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the approved claims are long and should stay in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the approved claims are long and should stay in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short card.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the offer is a few sentences. Go at $8 may include ads, which is a poor fit next to a partner logo. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

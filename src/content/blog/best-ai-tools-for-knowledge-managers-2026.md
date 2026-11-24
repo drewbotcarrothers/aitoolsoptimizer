@@ -20,10 +20,10 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The wiki of record, with an owner and a review date | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month, the tier with the agent. Plus is $10 and is not that full AI tier | One home. Do not also edit the policy in a chat |
-| A long file people must cite, not chat about | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Higher limits from Google AI Plus at $4.99 | The notebook knows the file you uploaded, not the web |
+| A long file people must cite, not chat about | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Higher limits from Google AI Plus at {{price:gemini.plus}} | The notebook knows the file you uploaded, not the web |
 | A public page you still have to open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the link. Write the date. A snippet is not the page |
 | An employee bot on the approved articles | [Chatbase](/tools/chatbase/) | Hobby is $32 a month billed yearly, 700 message credits | The bot is as fresh as the last upload |
-| A draft of a page from notes you supply | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The notes are the source. The wiki is the record |
+| A draft of a page from notes you supply | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The notes are the source. The wiki is the record |
 
 ```mermaid
 flowchart TD

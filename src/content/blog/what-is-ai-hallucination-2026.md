@@ -42,8 +42,8 @@ The pattern of "retrieve, then write" is [what RAG is](/blog/what-is-rag-explain
 | A public-web claim with a link | [Perplexity](/tools/perplexity/) | Free includes limited Pro Searches. The October 24, 2026 help-center read lists 3 Pro Searches a day. Pro is $17/month billed annually |
 | A peer-reviewed paper | [Consensus](/tools/consensus/) | Pro is $12/month on a $144 year, or $20 monthly |
 | A table of fields pulled from papers | [Elicit](/tools/elicit/) | Plus is $11/user/month billed annually on the non-Industry card |
-| Files you uploaded | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is $4.99/month |
-| A draft from notes you paste, which you will line-edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month or $17 annual. ChatGPT Plus $20 |
+| Files you uploaded | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
+| A draft from notes you paste, which you will line-edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus $20 |
 
 The bill for Perplexity's ladder is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). The paper workflow is [how to research with Elicit and Consensus](/blog/how-to-research-with-elicit-and-consensus-2026/). A general chat is the wrong tool for "cite a real paper" unless you paste the paper.
 

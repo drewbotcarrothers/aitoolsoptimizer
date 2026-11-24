@@ -41,7 +41,7 @@ Granola Business is $14 a user a month, with unlimited history. Enterprise start
 
 ## What the hiring committee still does
 
-**The scorecard.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, can turn notes you paste into a draft against a rubric you paste. It may not invent a quote or a skill the notes do not contain. [ChatGPT](/tools/chatgpt/) Plus at $20 is the same rule in the other chat. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**The scorecard.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, can turn notes you paste into a draft against a rubric you paste. It may not invent a quote or a skill the notes do not contain. [ChatGPT](/tools/chatgpt/) Plus at $20 is the same rule in the other chat. The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
 **The file the loop can reopen.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Put the scorecard there, with the interviewer as the author. A transcript link is an attachment. It is not the decision. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

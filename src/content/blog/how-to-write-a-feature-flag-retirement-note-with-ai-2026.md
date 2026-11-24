@@ -38,7 +38,7 @@ The rollout plan said who the flag was for. The retirement note says that experi
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, when the flag's history is long and the note should sit beside the rollout plan. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, when the flag's history is long and the note should sit beside the rollout plan. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff that deletes the flag.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review every caller the note listed. A generated change that deletes the flag and leaves a caller is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

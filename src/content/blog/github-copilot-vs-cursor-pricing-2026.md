@@ -52,7 +52,7 @@ Use Cursor alone when you want the agent inside that editor and you are willing 
 
 Pay for both only when you can name the hour each one covers. A person who accepts completions in VS Code and also runs Cursor on the same repo is paying $10 + $8 = $18 a month at the first paid tiers, or $120 + $80 = $200 a year. That is reasonable if both get used. It is a habit tax if one window stays closed.
 
-A terminal agent on a Claude seat is a third bill. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Claude Code. There is no Claude Code on Free. The map is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). A refactor-sized choice is [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/). The shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
+A terminal agent on a Claude seat is a third bill. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and includes Claude Code. There is no Claude Code on Free. The map is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). A refactor-sized choice is [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/). The shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
 
 ## FAQ
 

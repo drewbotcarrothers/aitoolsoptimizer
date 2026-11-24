@@ -41,7 +41,7 @@ A grounding score is a metric. It can be high while the one claim you care about
 
 **A public-web answer.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 24 read. The product attaches sources. Your rule still says a person opens them before the sentence goes into an RFP or a handbook. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**A closed corpus you pasted.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. If the paste has no passage for the claim, the line says Citation not met. The model does not fetch a substitute. The review is [Claude review](/blog/claude-review-2026/).
+**A closed corpus you pasted.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. If the paste has no passage for the claim, the line says Citation not met. The model does not fetch a substitute. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft you will check by hand.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. A confident paragraph is not a citation. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

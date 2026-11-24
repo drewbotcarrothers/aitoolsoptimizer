@@ -38,7 +38,7 @@ flowchart TD
 
 ## Where the draft lives
 
-**A long document.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, on the October 16 card. Put the interview excerpts and the decision table in a Project. Free includes up to five Projects on that card. Ask for the spec in your headings, and for a final section titled "claims not in the source." Delete that section or go get the source. The project comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long document.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, on the October 16 card. Put the interview excerpts and the decision table in a Project. Free includes up to five Projects on that card. Ask for the spec in your headings, and for a final section titled "claims not in the source." Delete that section or go get the source. The project comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The wiki the team already uses.** [Notion AI](/tools/notion-ai/) Business is $20 per seat per month. The spec should live where engineering will comment. A chat transcript is a poor system of record. The notes comparison is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/).
 

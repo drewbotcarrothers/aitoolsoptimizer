@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Layer | What you experience | A directory example |
 |---|---|---|
 | The model | Text in, text out | The assistant behind [ChatGPT](/tools/chatgpt/), [Claude](/tools/claude/), or [Gemini](/tools/gemini/) |
-| The chat plan | A seat, a usage cap, apps and files | ChatGPT Plus $20/month. Claude Pro $20, or $17 billed annually. Google AI Plus $4.99 |
+| The chat plan | A seat, a usage cap, apps and files | ChatGPT Plus $20/month. Claude Pro {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. Google AI Plus {{price:gemini.plus}} |
 | Tools | The model can call search, code, or an action | See [what function calling is](/blog/what-is-function-calling-in-ai-2026/) |
 | Retrieval | The answer is supposed to come from passages | [Perplexity](/tools/perplexity/) Pro is $17/month billed annually |
 | An API | You pay for [tokens](/blog/what-are-ai-tokens-explained-2026/) | [DeepSeek](/tools/deepseek/) publishes a per-million-token rate. The chat app is free |
@@ -65,7 +65,7 @@ ChatGPT is a product. An LLM is the kind of model behind the reply. The product 
 
 ### Is Gemini an LLM?
 
-Gemini is Google's assistant, built on Google's models, with a free tier and paid Google AI plans. Plus is $4.99/month. Calling it an LLM describes the text model. The product also generates images and, on paid plans, video.
+Gemini is Google's assistant, built on Google's models, with a free tier and paid Google AI plans. Plus is {{price:gemini.plus}}/month. Calling it an LLM describes the text model. The product also generates images and, on paid plans, video.
 
 ### Do I need to know the model name?
 

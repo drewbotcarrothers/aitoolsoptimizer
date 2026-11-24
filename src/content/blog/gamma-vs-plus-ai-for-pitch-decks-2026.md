@@ -38,7 +38,7 @@ A chart titled "growing fast" with no series is [a hallucination](/blog/what-is-
 
 ## Which seat, after the outline is true
 
-**The outline.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the facts in a Project so the next draft cannot drift the ask. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat if that is where the notes already live. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The outline.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the facts in a Project so the next draft cannot drift the ask. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat if that is where the notes already live. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A link the investor can open.** [Gamma](/tools/gamma/) Plus is $9 a seat a month, or $108 a year, with 1,000 monthly credits. Pro is $18 a seat, or $216 a year, with 4,000 credits. Free credits do not refresh. Generating with AI is about 1 to 3 credits a card on the card. A 12-slide pitch is a small credit event if you are not regenerating images all afternoon. The invoice is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/).
 

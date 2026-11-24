@@ -41,7 +41,7 @@ The label has to be something you can check: a menu choice, a keyword list you m
 
 ## Where the table is kept
 
-**The table in prose.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the router table is long enough to live in a Project and you want a change reviewed against the old rows. The review is [Claude review](/blog/claude-review-2026/).
+**The table in prose.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the router table is long enough to live in a Project and you want a change reviewed against the old rows. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short table you paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the router is a dozen rows and the habit is a project. The model may format a new row. It may not add a label you did not name. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

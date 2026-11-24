@@ -21,7 +21,7 @@ HeyGen and Synthesia prices below are the October 16 directory cards, matching t
 |---|---|---|---|
 | A short recorded segment the host will play | [HeyGen](/tools/heygen/) | Creator is $29 a month | The approved script, inside the minute cap you can spare |
 | A follow-up lesson with a survey or a quiz | [Synthesia](/tools/synthesia/) | Starter is $29 a month billed monthly | Only the questions you already wrote |
-| The outline the host will say live | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No claim that was not in the brief |
+| The outline the host will say live | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No claim that was not in the brief |
 | The page that lists the segment and the follow-up | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

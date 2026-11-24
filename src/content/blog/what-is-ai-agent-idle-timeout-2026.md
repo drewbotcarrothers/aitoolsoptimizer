@@ -38,7 +38,7 @@ If you did not write the minutes, you do not have an idle timeout. You have a ru
 
 **The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. Teams seats are $30, $100, or $200 a seat a month on that page. A cloud agent that can sit quietly is the run this clock is for. The company-seat article is [Cursor business pricing explained](/blog/cursor-business-pricing-explained-2026/). The opposite signal is an [AI agent heartbeat](/blog/what-is-ai-agent-heartbeat-2026/), a pulse the run must emit on a clock you set.
 
-**A scheduled Claude task.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Scheduling is on that Pro list. A schedule without an idle clock can leave a task open. The review is [Claude review](/blog/claude-review-2026/).
+**A scheduled Claude task.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Scheduling is on that Pro list. A schedule without an idle clock can leave a task open. The review is [Claude review](/blog/claude-review-2026/).
 
 **The sentence that states the minutes.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Use it to phrase the rule. It does not sit on the agent. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

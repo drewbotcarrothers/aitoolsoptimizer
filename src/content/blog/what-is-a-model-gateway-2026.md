@@ -38,7 +38,7 @@ A chatbot tab is not a gateway. [ChatGPT](/tools/chatgpt/) Plus at $20 a month i
 
 **The editor's model picker.** [Cursor](/tools/cursor/) can choose models with Cost, Balance, or Intelligence modes. The directory says Cursor Router is launching for Teams and Enterprise and does not print a separate router price. New individual Plus is $8 a month, or $80 a year, on The X Subscription. A picker inside one product is a door for that product's users. Your own app still needs its own door if customers hit your backend. The invoice is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**Two seats and a habit.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Using Claude for long documents and another seat for short replies is a person routing by hand. Useful. It is not a gateway your service can call. The review is [Claude review](/blog/claude-review-2026/).
+**Two seats and a habit.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Using Claude for long documents and another seat for short replies is a person routing by hand. Useful. It is not a gateway your service can call. The review is [Claude review](/blog/claude-review-2026/).
 
 **A raw vendor key.** [DeepSeek](/tools/deepseek/) Flash is $0.30 per million input tokens and $1.20 per million output tokens at peak, and half of that off-peak, on the directory card. Peak hours recorded there are 01:00–04:00 and 06:00–10:00 UTC on weekdays. Calling that API from the app is a direct line, not a gateway, until you put auth and a log in front of it. DeepSeek is a China-based company. Check the docs before customer data takes that path. The review is [DeepSeek review](/blog/deepseek-review-2026/).
 

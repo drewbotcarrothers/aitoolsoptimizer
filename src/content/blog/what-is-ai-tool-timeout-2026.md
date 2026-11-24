@@ -43,7 +43,7 @@ A timeout that is longer than the latency budget cannot help. The budget is the 
 
 **The workflow clock.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, with 750 tasks a month on that card. A task is a successful action. A timeout you never log still may have completed on the other side. Count the task, and write the limit next to the zap. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 
-**The rule in prose.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the on-call note lists each tool and its limit. The model can format the note. It cannot enforce the clock. The review is [Claude review](/blog/claude-review-2026/).
+**The rule in prose.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the on-call note lists each tool and its limit. The model can format the note. It cannot enforce the clock. The review is [Claude review](/blog/claude-review-2026/).
 
 **The code path.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the timeout is a setting in the repo you are editing. You still review the value. A generated "120 seconds" is a guess until a person accepts it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

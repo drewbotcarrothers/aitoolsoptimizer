@@ -38,7 +38,7 @@ A restored time the model guessed is [a hallucination](/blog/what-is-ai-hallucin
 
 ## Where the sentence is drafted
 
-**The tight public paragraph.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the last three updates in a Project so the wording does not drift between "degraded" and "outage" without a decision. The review is [Claude review](/blog/claude-review-2026/).
+**The tight public paragraph.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the last three updates in a Project so the wording does not drift between "degraded" and "outage" without a decision. The review is [Claude review](/blog/claude-review-2026/).
 
 **The default chat if that is where the incident notes already are.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, for two or more users, when the paste includes customer names. Strip names before a public draft. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

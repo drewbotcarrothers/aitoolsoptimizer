@@ -38,7 +38,7 @@ A fake email at a domain you own is a rule. A fake email at a real customer's do
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the field list is long. Use a business-appropriate account if the rules themselves describe sensitive fields. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the field list is long. Use a business-appropriate account if the rules themselves describe sensitive fields. The review is [Claude review](/blog/claude-review-2026/).
 
 **The fixture in the repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the rows become a file. You read the diff. A generated row that includes a phone number you did not ask for comes out. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

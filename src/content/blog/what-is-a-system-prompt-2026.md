@@ -53,7 +53,7 @@ Chatbase's instructions are the system prompt for a site agent. Hobby is $40 a m
 
 Lindy is the case where the system prompt is the job description of an agent that runs while you are away. The October 24, 2026 pricing page read for [Lindy review](/blog/lindy-review-2026/) starts paid use at $29.99 per user per month for 3,000 credits. A vague job description spends those credits on the wrong work. Name the trigger, the source, and the handoff.
 
-Claude Pro at $20 a month, or $17 billed annually, and ChatGPT Plus at $20, are where an individual saves standing rules. Free tiers accept the same structure. Pay when the cap blocks the work.
+Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and ChatGPT Plus at $20, are where an individual saves standing rules. Free tiers accept the same structure. Pay when the cap blocks the work.
 
 When the model must call a calculator, a CRM, or a search tool, that permission is [what function calling is](/blog/what-is-function-calling-in-ai-2026/). The system prompt can name the rule. The tool definition is a separate object in the API.
 

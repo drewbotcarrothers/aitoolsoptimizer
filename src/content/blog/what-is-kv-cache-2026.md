@@ -39,7 +39,7 @@ If the cache is dropped, the answer can still be right. It costs the full prefix
 
 ## How this shows up on an invoice
 
-**A chat plan hides the cache.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Gemini](/tools/gemini/) on Google AI Pro is $19.99 a month. You pay the seat. You do not see keys and values. A long thread can still hit a limit, and the product may shorten it. Shortening on purpose, with a list of what you dropped, is [what prompt compaction is](/blog/what-is-prompt-compaction-2026/).
+**A chat plan hides the cache.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Gemini](/tools/gemini/) on Google AI Pro is {{price:gemini.pro}} a month. You pay the seat. You do not see keys and values. A long thread can still hit a limit, and the product may shorten it. Shortening on purpose, with a list of what you dropped, is [what prompt compaction is](/blog/what-is-prompt-compaction-2026/).
 
 **An API may bill the miss.** The directory records [DeepSeek](/tools/deepseek/) input from $0.15 per 1 million tokens off-peak on a cache miss, checked October 16, 2026. The phrase "cache miss" is the vendor's meter. Read their current card before you forecast. A hit on their cache is not the same object as a context cache you configured, and it is not the KV cache inside a paper. Three names, three scopes.
 

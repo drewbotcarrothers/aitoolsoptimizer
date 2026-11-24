@@ -31,7 +31,7 @@ Annual prices are shown only when the vendor publishes them. Tax is excluded whe
 
 | Tool | Plan | Published price | Pay for it when |
 |---|---|---|---|
-| [Gemini](/tools/gemini/) | Google AI Plus | $4.99/month | You want video generation and 400 GB without a $20 plan |
+| [Gemini](/tools/gemini/) | Google AI Plus | {{price:gemini.plus}}/month | You want video generation and 400 GB without a $20 plan |
 | [Poe](/tools/poe/) | Subscription entry | From $4.99/month | You want one login for many models. Higher tiers were not price-confirmed |
 | [ChatGPT](/tools/chatgpt/) | Go | $8/month | You want more images, uploads, and memory. OpenAI says this plan may include ads |
 | [Grok](/tools/grok/) / [Cursor](/tools/cursor/) | X Subscription Plus | $8/month or $80/year | You want a low-cost paid assistant, or light Cursor usage bundled with Grok |
@@ -39,9 +39,9 @@ Annual prices are shown only when the vendor publishes them. Tax is excluded whe
 | [GitHub Copilot](/tools/github-copilot/) | Pro | $10/user/month | You code in GitHub and want completions, chat, and a cloud agent |
 | [Microsoft Copilot](/tools/microsoft-copilot/) | Microsoft 365 Family | $12.99/month | Up to 6 people, but AI features are for the subscription owner only |
 | [Perplexity](/tools/perplexity/) | Pro | $17/month billed annually | You want cited answers, model choice, and Perplexity Computer. Monthly billing costs more; that monthly rate was not confirmed here |
-| [Claude](/tools/claude/) | Pro | $17/month annual ($200 up front) or $20 monthly | Writing, long documents, and Claude Code |
+| [Claude](/tools/claude/) | Pro | {{price:claude.pro_annual}}/month annual ({{price:claude.pro_upfront}} up front) or {{price:claude.pro_monthly}} monthly | Writing, long documents, and Claude Code |
 | [ChatGPT](/tools/chatgpt/) | Plus | $20/month | Your default all-rounder: reasoning, projects, GPTs, images, Codex |
-| [Gemini](/tools/gemini/) | Google AI Pro | $19.99/month | Gemini in Gmail and Docs, Gemini 4 Argon access, 5 TB storage |
+| [Gemini](/tools/gemini/) | Google AI Pro | {{price:gemini.pro}}/month | Gemini in Gmail and Docs, Gemini 4 Argon access, 5 TB storage |
 | [Microsoft Copilot](/tools/microsoft-copilot/) | Microsoft 365 Premium | $19.99/month | Heavy personal Copilot use inside Microsoft 365 |
 | [Microsoft Copilot](/tools/microsoft-copilot/) | Copilot Business | From $18/user/month paid yearly (shown as reduced from $21) | A business needs Copilot with admin controls. Confirm the promo is still live |
 | [Grok](/tools/grok/) / [Cursor](/tools/cursor/) | Premium | $30/month or $300/year | 4× Plus usage, and Grok Bot. The comparable new plan if you used to buy Cursor Pro |
@@ -49,10 +49,10 @@ Annual prices are shown only when the vendor publishes them. Tax is excluded whe
 | [Claude](/tools/claude/) | Max 5x | $100/month | You hit Pro limits most days. Includes $100/month in API credits |
 | [ChatGPT](/tools/chatgpt/) | Pro | $100, $200, or $500/month | Heavy deep research or Codex. Ultrafast is the $500 tier |
 | [Grok](/tools/grok/) / [Cursor](/tools/cursor/) | Super | $100/month or $1,000/year | 15× Plus usage across Grok and Cursor |
-| [Gemini](/tools/gemini/) | Ultra | $99.99 or $199.99/month | 5× or 20× Pro limits, large storage, YouTube Premium on the $199.99 tier |
+| [Gemini](/tools/gemini/) | Ultra | {{price:gemini.ultra}} or {{price:gemini.ultra_top}}/month | 5× or 20× Pro limits, large storage, YouTube Premium on the $199.99 tier |
 | [GitHub Copilot](/tools/github-copilot/) | Max | $100/user/month | Priority access to new coding models and $200 in monthly credits |
 | [Perplexity](/tools/perplexity/) | Max | $167/month billed annually | Sustained research, maximum Computer usage, and a large credit pool |
-| [Claude](/tools/claude/) | Max 20x | $200/month | 20× Pro usage and $200/month in API credits |
+| [Claude](/tools/claude/) | Max 20x | $200/month | 20× Pro usage and {{price:claude.pro_upfront}}/month in API credits |
 | [Grok](/tools/grok/) / [Cursor](/tools/cursor/) | Ultra | $200/month or $2,000/year | 50× Plus usage |
 
 [DeepSeek](/tools/deepseek/) does not need a subscription for chat. Its API is billed per million tokens (for deepseek-flash, an off-peak cache miss is $0.15 per 1M input tokens and output is $0.60, as of the September 10, 2026 price sheet). That is a developer bill, not a consumer plan.
@@ -63,7 +63,7 @@ The same $8–$200 question for specialists is covered in [best AI video generat
 
 ### Students and light users
 
-Stay free until a cap stops a real assignment. If you pay, the smallest useful upgrades are **Google AI Plus ($4.99)**, **ChatGPT Go ($8)**, or **Poe from $4.99**. Skip $100+ tiers. For writing-specific tools, see [best AI writing assistants for students and professionals](/blog/best-ai-writing-assistants/).
+Stay free until a cap stops a real assignment. If you pay, the smallest useful upgrades are **Google AI Plus ({{price:gemini.plus}})**, **ChatGPT Go ($8)**, or **Poe from $4.99**. Skip $100+ tiers. For writing-specific tools, see [best AI writing assistants for students and professionals](/blog/best-ai-writing-assistants/).
 
 ### One professional, one bill
 
@@ -103,7 +103,7 @@ This is a buying checklist, scored 0 or 1 by you. It is not our test result.
 
 Some plans are worth it because of what is attached:
 
-- **Google AI Pro ($19.99)** includes 5 TB of storage. If you already pay for Google storage, subtract that from the AI price in your own budget.
+- **Google AI Pro ({{price:gemini.pro}})** includes 5 TB of storage. If you already pay for Google storage, subtract that from the AI price in your own budget.
 - **The X Subscription** is one pool for Grok and Cursor. Plus at $8 is cheap if you use both lightly. It is a poor deal if you use neither X nor Cursor. Switching off a legacy Cursor plan is permanent, per Cursor’s help center.
 - **Claude Pro** includes Claude Code. You may not need a separate coding subscription.
 - **ChatGPT Plus** includes expanded Codex. Same logic.
@@ -121,7 +121,7 @@ Some plans are worth it because of what is attached:
 
 ### What is the best AI subscription under $10?
 
-Google AI Plus at $4.99, ChatGPT Go at $8, and X Subscription Plus at $8 are the confirmed sub-$10 plans with a clear feature step up from free. Poe’s entry price starts at $4.99, but we did not confirm the higher Poe tiers.
+Google AI Plus at {{price:gemini.plus}}, ChatGPT Go at $8, and X Subscription Plus at $8 are the confirmed sub-$10 plans with a clear feature step up from free. Poe’s entry price starts at $4.99, but we did not confirm the higher Poe tiers.
 
 ### Is ChatGPT Plus still the default $20 plan?
 

@@ -21,9 +21,9 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | Notion, and you want the agent and meeting notes | Stay on [Notion](/tools/notion-ai/) | Business $20/seat/month |
 | ClickUp tasks, docs, and chat | [ClickUp Brain](/tools/clickup-brain/) | Brain² from $9/user/month, on top of a ClickUp plan |
-| Google Docs, Gmail, and Drive | [Gemini](/tools/gemini/) | Google AI Plus is $4.99/month. Free needs a Google account |
+| Google Docs, Gmail, and Drive | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}}/month. Free needs a Google account |
 | Microsoft 365 | [Microsoft Copilot](/tools/microsoft-copilot/) | Free with a Microsoft account. Microsoft 365 Personal is $9.99/month |
-| A blank page, with the source pasted in | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month or $17 annual. ChatGPT Plus is $20. Go is $8 |
+| A blank page, with the source pasted in | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus is $20. Go is $8 |
 | A slide, from notes you already trust | [Gamma](/tools/gamma/) | Plus is $9/seat/month |
 
 ```mermaid
@@ -42,7 +42,7 @@ The head-to-head with the ClickUp add-on is [Notion AI vs ClickUp Brain](/blog/n
 
 **ClickUp Brain sees ClickUp.** Brain² starts at $9 per user per month and includes unlimited Brain² conversations plus 1,500 AI Super Credits. Everything AI at $28 per user per month adds Notetaker, AI Fields, Automations, and Super Agents. ClickUp Unlimited is $7 per user per month billed yearly, and Business is $12. The Brain line sits on top of one of those plans. Buy it when the tasks are already there. Moving a wiki in order to reach a $9 add-on is the expensive part.
 
-**Gemini is the Google-suite switch.** Plus at $4.99 adds usage. Pro at $19.99 is the step when Plus limits block a workday, on the directory page. A team that drafts in Docs can stay in that window. Notion's agent will not see those Docs unless someone connects or copies them.
+**Gemini is the Google-suite switch.** Plus at {{price:gemini.plus}} adds usage. Pro at {{price:gemini.pro}} is the step when Plus limits block a workday, on the directory page. A team that drafts in Docs can stay in that window. Notion's agent will not see those Docs unless someone connects or copies them.
 
 **Copilot is the Microsoft switch.** The free Copilot tier covers chat with usage limits. Personal at $9.99 a month is the Office-app step for an individual. Premium is $19.99. A company admin may list a different business SKU. Price the SKU your tenant actually shows before you buy Notion Business for a Word shop.
 

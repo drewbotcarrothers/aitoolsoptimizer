@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | One new page from an outline you already wrote | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No rule that was not in the outline |
-| A page that must match sentences locked elsewhere | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A paraphrase of a locked sentence is a new policy |
+| A page that must match sentences locked elsewhere | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A paraphrase of a locked sentence is a new policy |
 | The page employees will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The sentence that leaves the company, if any | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Tone is not a rule change |
 

@@ -40,7 +40,7 @@ Untrusted text in a document is a product risk to write down in the runbook, not
 
 **The runbook and the timeline.** [Notion AI](/tools/notion-ai/) on Notion Business is $20 a seat a month. That is the seat if the on-call page lives in Notion. Plus at $10 is not the full AI tier on the directory card. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A first draft of the customer note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the approved facts. Delete any cause the timeline does not contain. The review is [Claude review](/blog/claude-review-2026/).
+**A first draft of the customer note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the approved facts. Delete any cause the timeline does not contain. The review is [Claude review](/blog/claude-review-2026/).
 
 **The team seat, when the notes are confidential.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually for two or more users, or $25 monthly. Plus at $20 is a personal seat and a poor system of record for an incident. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

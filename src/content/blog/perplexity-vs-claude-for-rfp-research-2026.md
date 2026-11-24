@@ -20,7 +20,7 @@ Perplexity's prices are the October 24, 2026 pricing-page read recorded in [Perp
 | The question | Start here | First paid step | The limit |
 |---|---|---|---|
 | A public fact the response may cite | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the source. A citation you did not open is not support |
-| A requirement that must come from the RFP or your corpus | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No web substitute for a missing passage |
+| A requirement that must come from the RFP or your corpus | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No web substitute for a missing passage |
 | The response page, with the source linked | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page does not invent the requirement |
 | A draft paragraph after the source is accepted | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | It is not the research step on this page |
 

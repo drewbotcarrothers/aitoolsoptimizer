@@ -37,7 +37,7 @@ A score the model reports about its own answer is not this score. It did not use
 
 ## Where the formula is applied
 
-**The formula text.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the sentence in a Project so a later draft does not soften the fail line. The review is [Claude review](/blog/claude-review-2026/).
+**The formula text.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the sentence in a Project so a later draft does not soften the fail line. The review is [Claude review](/blog/claude-review-2026/).
 
 **A cited first pass, which is not the score.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 16 card. Open the citation. The score still uses sources you accepted, not every link in the answer. The review is [Perplexity review](/blog/perplexity-review-2026/).
 

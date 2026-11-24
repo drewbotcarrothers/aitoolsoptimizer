@@ -39,13 +39,13 @@ Overlap is a copy of the boundary, not a second document. If you overlap so much
 
 ## Where the rule is drafted
 
-**The cutting note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the chunking rule is a long note: unit, overlap, what stays whole, and a sample of three chunks a person will read. The review is [Claude review](/blog/claude-review-2026/).
+**The cutting note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the chunking rule is a long note: unit, overlap, what stays whole, and a sample of three chunks a person will read. The review is [Claude review](/blog/claude-review-2026/).
 
 **The source, when it already lives in the workspace.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the pages you would chunk are the wiki. Chunk the page you are willing to cite. A chat answer is not an index. The wiki decision is [Notion AI vs ChatGPT for wikis](/blog/notion-ai-vs-chatgpt-for-wikis-2026/).
 
 **A cited scan, which is not your index.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when you need sources on the public web. That is a search product. It does not apply your chunking rule to your private corpus. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**Files you already hold in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Pro is $19.99 a month when the packet lives in Drive and you want Gemini in Docs. Uploading a packet is not the same as choosing a chunk size for your own index. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Files you already hold in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Pro is {{price:gemini.pro}} a month when the packet lives in Drive and you want Gemini in Docs. Uploading a packet is not the same as choosing a chunk size for your own index. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 A prompt that holds the line:
 

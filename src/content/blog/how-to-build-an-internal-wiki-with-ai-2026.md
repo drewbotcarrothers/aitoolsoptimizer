@@ -44,7 +44,7 @@ Two wikis is how the model becomes a third opinion. If sales has a Notion and en
 
 **ClickUp, if the work and the doc should not diverge.** [ClickUp Brain](/tools/clickup-brain/) is an add-on from $9 per user a month. Unlimited is $7 per user billed yearly, or $10 monthly. Business is $12 yearly, or $19 monthly. Put the process next to the task. A wiki page that restates a task status will rot. The review is [ClickUp Brain review](/blog/clickup-brain-review-2026/).
 
-**A long rewrite of a policy.** [Claude](/tools/claude/) Pro is $20, or $17 billed annually, with Projects on Free up to five. Paste the old page and the decision that changed it. Ask for a revised page and a list of sentences that were not in either source. Then the owner pastes the keeper into the wiki. The writing seat, if the team prefers it, is [ChatGPT](/tools/chatgpt/) Plus at $20. The comparison is [ChatGPT vs Notion AI for writing](/blog/chatgpt-vs-notion-ai-for-writing-2026/).
+**A long rewrite of a policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually, with Projects on Free up to five. Paste the old page and the decision that changed it. Ask for a revised page and a list of sentences that were not in either source. Then the owner pastes the keeper into the wiki. The writing seat, if the team prefers it, is [ChatGPT](/tools/chatgpt/) Plus at $20. The comparison is [ChatGPT vs Notion AI for writing](/blog/chatgpt-vs-notion-ai-for-writing-2026/).
 
 A prompt that holds the line:
 

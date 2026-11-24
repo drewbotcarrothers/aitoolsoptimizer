@@ -41,7 +41,7 @@ A budget cap can stop a run that has a valid checkpoint. The checkpoint does not
 
 ## Where the row is kept
 
-**The definition of what a checkpoint must contain.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the field list for this agent. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of what a checkpoint must contain.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the field list for this agent. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the resume logic lives in a repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff. The model does not merge it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

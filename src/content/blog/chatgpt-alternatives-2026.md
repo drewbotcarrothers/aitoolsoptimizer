@@ -18,8 +18,8 @@ Prices are US list prices excluding tax, from vendor pages checked October 16, 2
 | The failure | Try | First paid step |
 |---|---|---|
 | Answers with no sources you can open | [Perplexity](/tools/perplexity/) | Free for limited weekly use of top models. Pro is $17/month billed annually |
-| Long writing that has to stay in a voice | [Claude](/tools/claude/) | Pro is $20/month, or $17 on annual billing. Max starts at $100 |
-| You live in Google's apps | [Gemini](/tools/gemini/) | Google AI Plus is $4.99/month. The free plan needs a Google account |
+| Long writing that has to stay in a voice | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} on annual billing. Max starts at $100 |
+| You live in Google's apps | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}}/month. The free plan needs a Google account |
 | You want GPT, Claude, Gemini, and Grok in one login | [Poe](/tools/poe/) | Subscriptions start at $4.99/month. Higher tiers were not fully priced on the public pages we checked |
 | You want a very cheap or free chat, and an API with a posted token price | [DeepSeek](/tools/deepseek/) | The chat app is free. API input from $0.15 per million tokens off-peak on a cache miss |
 | You already pay for X, or you code in [Cursor](/tools/cursor/) | [Grok](/tools/grok/) | Plus is $8/month, or $80/year, on The X Subscription |
@@ -50,7 +50,7 @@ flowchart TD
 
 **Grok is the bundle alternative.** Plus at $8 is cheaper than ChatGPT Plus and shares a usage pool with Cursor. Premium at $30 is 4x Plus usage and includes [Grok Bot](/tools/grok-bot/). Buy it when the bundle is real. Skip it when you do not use X or Cursor and you wanted citations. See [Grok review](/blog/grok-review-2026/).
 
-**Gemini and the two free assistants** are distribution, not a second brain. Gemini is the one that belongs next to Google's apps, and Google AI Plus at $4.99 is the cheapest paid step in this table. Microsoft Copilot belongs next to Microsoft 365. Meta AI belongs next to Meta's apps. Use the one that is already in the window where you work. Do not pay for a fourth general chatbot on top of all three. Readers comparing the other big seat can use [our Gemini alternatives guide](/blog/gemini-alternatives-2026/), sorted by the job you need done. If you are leaving Claude rather than ChatGPT, see [Claude alternatives by job](/blog/claude-alternatives-2026/), including citation tools and coding agents.
+**Gemini and the two free assistants** are distribution, not a second brain. Gemini is the one that belongs next to Google's apps, and Google AI Plus at {{price:gemini.plus}} is the cheapest paid step in this table. Microsoft Copilot belongs next to Microsoft 365. Meta AI belongs next to Meta's apps. Use the one that is already in the window where you work. Do not pay for a fourth general chatbot on top of all three. Readers comparing the other big seat can use [our Gemini alternatives guide](/blog/gemini-alternatives-2026/), sorted by the job you need done. If you are leaving Claude rather than ChatGPT, see [Claude alternatives by job](/blog/claude-alternatives-2026/), including citation tools and coding agents.
 
 ## A sane stack, not a collection
 

@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The doc, the wiki, and the database are in Notion | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month for the full AI tier | Grammarly, as the place the page lives |
 | You need a cleaner sentence in Gmail, Docs, and Slack | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | A $20 workspace seat for a comma |
-| You are drafting from notes, and the page can live anywhere | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Pro or Plus is $20. Claude Pro is $17 billed annually | Grammarly, as the drafter |
+| You are drafting from notes, and the page can live anywhere | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Pro or Plus is $20. Claude Pro is {{price:claude.pro_annual}} billed annually | Grammarly, as the drafter |
 | You mainly need a paraphrase | [QuillBot](/tools/quillbot/) | Premium is $8.33 a month billed annually | Notion Business |
 | Notion Free's AI trial was enough to see the button | Stay on Free until the trial blocks a real page | Plus at $10 is not the full AI tier | Pro Grammarly, if the blocker was the database |
 

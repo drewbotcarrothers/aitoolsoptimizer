@@ -39,7 +39,7 @@ A preamble is a container change if you said so. If the allow list is "JSON only
 
 ## Where the list is kept
 
-**The definition of the containers.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the allow list so a later task does not add prose. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the containers.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the allow list so a later task does not add prose. The review is [Claude review](/blog/claude-review-2026/).
 
 **One answer, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that wraps the object in a paragraph when the list forbids it. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

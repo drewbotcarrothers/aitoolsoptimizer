@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The artifact | Start here | First paid step | The limit |
 |---|---|---|---|
-| The brief and the draft | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20. Go is $8 | You approve the claim before it ships |
+| The brief and the draft | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Go is $8 | You approve the claim before it ships |
 | A cited scan of a market | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | You open the links |
 | The landing page or the social set | [Canva](/tools/canva/) | Pro is $180 a year for one person. Business is $250 a person a year | A template still needs your offer |
 | A list built from data you are allowed to use | [Clay](/tools/clay/) or [Apollo](/tools/apollo-io/) | Clay Launch is $167 a month billed annually. Apollo Basic is $49 a seat a month annually | The directory's price is not a license to scrape |

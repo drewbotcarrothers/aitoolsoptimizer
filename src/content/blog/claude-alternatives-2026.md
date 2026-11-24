@@ -11,7 +11,7 @@ draft: false
 
 **Leave Claude when the job is a citation you can open, a suite you already pay for, a lower published seat, or a coding agent in the terminal.** Stay when the job is a long draft you will edit. A leaderboard will not tell you whether to cancel Pro.
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually ($200 a year). Max starts at $100 a month. Free includes chat, files, and artifacts. The tier above Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The product page is [Claude review](/blog/claude-review-2026/).
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} a year). Max starts at $100 a month. Free includes chat, files, and artifacts. The tier above Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The product page is [Claude review](/blog/claude-review-2026/).
 
 Prices are US list prices excluding tax. Most figures are from directory pages checked October 16, 2026. Perplexity's $17 annual price matches that page and the October 24, 2026 pricing article. We did not score writing quality.
 
@@ -20,7 +20,7 @@ Prices are US list prices excluding tax. Most figures are from directory pages c
 | The miss | Try | First paid step |
 |---|---|---|
 | You wanted links, and Claude drafted from memory | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually |
-| You live in Docs, Gmail, and Drive | [Gemini](/tools/gemini/) | Google AI Plus is $4.99/month. Free needs a Google account |
+| You live in Docs, Gmail, and Drive | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}}/month. Free needs a Google account |
 | You want the other general assistant | [ChatGPT](/tools/chatgpt/) | Plus is $20/month. Go is $8. Pro starts at $100 |
 | You want a lower published assistant price | [Mistral Vibe](/tools/mistral-vibe/) | Pro is $14.99/month excluding tax. Students are listed at $5.99 |
 | You write inside Microsoft 365 | [Microsoft Copilot](/tools/microsoft-copilot/) | Free with a Microsoft account. Microsoft 365 Personal is $9.99/month |
@@ -44,7 +44,7 @@ The three-way among the large assistants is [ChatGPT vs Gemini vs Claude](/blog/
 
 **Perplexity is the research switch.** Answers are supposed to ship with sources. Open them. Pro adds higher limits, model choice, and Computer. Max at $167 a month billed annually is a heavy-research plan. The ladder is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). If your complaint was a made-up citation, start on Free before you buy Max. That failure mode is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 
-**Gemini is the Google-suite switch.** The free plan includes the assistant with a Google account. Plus at $4.99 adds usage and video generation. Pro at $19.99 is the step when Plus limits block a workday. It is a different draft voice. Try one real memo before you cancel Claude. If Google's assistant is the one you are leaving, the matching list is [the best Gemini alternatives](/blog/gemini-alternatives-2026/).
+**Gemini is the Google-suite switch.** The free plan includes the assistant with a Google account. Plus at {{price:gemini.plus}} adds usage and video generation. Pro at {{price:gemini.pro}} is the step when Plus limits block a workday. It is a different draft voice. Try one real memo before you cancel Claude. If Google's assistant is the one you are leaving, the matching list is [the best Gemini alternatives](/blog/gemini-alternatives-2026/).
 
 **ChatGPT is the default other seat, not a discount.** Plus is the same $20 monthly number as Claude Pro. Go at $8 is the cheaper ChatGPT step, with the directory note that it may include ads. Move if you need a ChatGPT-specific surface, such as a particular project setup your team already uses. The plan names are [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
@@ -68,7 +68,7 @@ ChatGPT Plus, at the same $20 monthly price, is the usual comparison. Gemini is 
 
 ### Is there a cheaper paid plan than Claude Pro?
 
-Mistral Vibe Pro is $14.99 a month on the directory page. Google AI Plus is $4.99. Grok Plus is $8. DeepSeek's chat app is free. Each is a different product. Cheaper is the seat price, not a quality rank.
+Mistral Vibe Pro is $14.99 a month on the directory page. Google AI Plus is {{price:gemini.plus}}. Grok Plus is $8. DeepSeek's chat app is free. Each is a different product. Cheaper is the seat price, not a quality rank.
 
 ### Should I switch if Claude hallucinated a citation?
 

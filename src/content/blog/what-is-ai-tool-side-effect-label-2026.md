@@ -39,7 +39,7 @@ The label does not contain a quality rating of the vendor. It does not say the t
 
 ## Where the label is kept
 
-**The definition of the labels you allow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on that October 24 read. The Project holds the words you use: read, send, charge, delete. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the labels you allow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on that October 24 read. The Project holds the words you use: read, send, charge, delete. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the label lives next to the tool in a repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. You review the diff that changes a label from read to send. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

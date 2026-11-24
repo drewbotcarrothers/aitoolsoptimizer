@@ -38,7 +38,7 @@ A plan that says "export everything and move on" is not a plan. Name the objects
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the plan is long and should sit beside the contract notes you are allowed to paste. Paste clause text you are allowed to share. Do not paste a full agreement into a personal account your company forbids. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the plan is long and should sit beside the contract notes you are allowed to paste. Paste clause text you are allowed to share. Do not paste a full agreement into a personal account your company forbids. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page procurement already uses.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the system of record. The chat is not the plan.
 

@@ -38,7 +38,7 @@ A box that says "verify the system" is not a check. The check names what you loo
 
 ## Where the checklist is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the list is long and should sit beside the last incident's notes. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the list is long and should sit beside the last incident's notes. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page on call opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the wiki. The chat is not the checklist. The page is.
 

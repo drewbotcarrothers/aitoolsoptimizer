@@ -53,8 +53,8 @@ These products do not sell you an embedding version you can pin in the way a dat
 
 | What you run | The limit this directory recorded | Why it is not the index |
 |---|---|---|
-| A file in a Project | [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually | You attached a file. You did not version a vector model |
-| A notebook of sources | [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Google AI Pro at $19.99 a month is the 5x limit on that card | Citations follow the sources you uploaded. They are not a dated embedding id |
+| A file in a Project | [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | You attached a file. You did not version a vector model |
+| A notebook of sources | [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Google AI Pro at {{price:gemini.pro}} a month is the 5x limit on that card | Citations follow the sources you uploaded. They are not a dated embedding id |
 | A literature table | [Elicit](/tools/elicit/) Pro is $39 a user a month billed annually | Extraction columns are a table, not your production index |
 | A place to chart a retrieval export | [Hex](/tools/hex/) Team is $75 an editor a month when you need a schedule | The notebook can count neighbors you exported. It does not embed them |
 | A chat you paste into | [ChatGPT](/tools/chatgpt/) Plus is $20 a month | A paste has no index version |

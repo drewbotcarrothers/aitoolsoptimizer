@@ -38,7 +38,7 @@ The page also lists a custom domain add-on, $8 a month per domain paid annually,
 
 ## What the Business seat is for
 
-**The agent on pages you already have.** If the work is not in Notion, Business at $20 does not become a general chatbot. [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026, and it is a blank page. The review is [Claude review](/blog/claude-review-2026/).
+**The agent on pages you already have.** If the work is not in Notion, Business at $20 does not become a general chatbot. [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on claude.com/pricing fetched October 24, 2026, and it is a blank page. The review is [Claude review](/blog/claude-review-2026/).
 
 **SAML SSO without pretending you bought Enterprise.** The October 24 pricing page lists SAML SSO, domain verification, private teamspaces, and granular database permissions on Business. An older summary that put every security control on Enterprise is too coarse for this page. SCIM, the audit log, zero data retention, and DLP or SIEM connections are the Enterprise lines on the fetch we used. A questionnaire that asks for SCIM is not answered by a $20 seat.
 

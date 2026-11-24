@@ -38,7 +38,7 @@ The count has to add up. If you pasted 40 bugs, the groups have to contain 40 id
 
 ## Where it is written
 
-**The grouping.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, when the paste is long and the summary should sit beside the last bash. The review is [Claude review](/blog/claude-review-2026/).
+**The grouping.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, when the paste is long and the summary should sit beside the last bash. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the lead will link.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is where bash notes live. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

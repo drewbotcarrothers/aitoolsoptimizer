@@ -37,7 +37,7 @@ A summary paragraph is not a protocol. "I looked into it and the customer seems 
 
 ## Where the payload is written
 
-**The draft of the message.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Paste the actions and the open items. Ask for the fields, not a story. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of the message.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Paste the actions and the open items. Ask for the fields, not a story. The review is [Claude review](/blog/claude-review-2026/).
 
 **A support queue.** [Zendesk AI](/tools/zendesk-ai/) Suite Team is $55 an agent a month paid yearly on the October 24 pricing page, and Support Team is $19 on that same yearly view. The handoff inside a ticket still needs the fields. A macro is not the protocol. The invoice is [Zendesk AI pricing explained](/blog/zendesk-ai-pricing-explained-2026/).
 

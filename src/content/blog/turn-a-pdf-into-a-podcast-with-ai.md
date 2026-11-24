@@ -17,7 +17,7 @@ Audio Overviews can be inaccurate. Google says so. A generated host can misstate
 
 | You want | Use | Free limit | Pay when |
 |---|---|---|---|
-| Two hosts discussing the sources, grounded in the file | [Gemini Notebook](/tools/gemini-notebook/) Audio Overview | 3 a day on the free Standard plan | Google AI Plus is $4.99/month (6 a day). Pro is $19.99/month (20 a day) |
+| Two hosts discussing the sources, grounded in the file | [Gemini Notebook](/tools/gemini-notebook/) Audio Overview | 3 a day on the free Standard plan | Google AI Plus is {{price:gemini.plus}}/month (6 a day). Pro is {{price:gemini.pro}}/month (20 a day) |
 | The PDF read in order, so you can follow the sentences | [Speechify](/tools/speechify/) | 10 voices, up to 1.5x, text-to-speech only | Premium is $29/month billed monthly. Speechify says yearly billing saves 60% |
 | A narration in a chosen voice, from a script you edited | [ElevenLabs](/tools/elevenlabs/) | 10,000 credits, no commercial license | Starter is $6/month for the commercial license |
 | An edit after you have audio | [Descript](/tools/descript/) | 60 media minutes, no card | Hobbyist is $16/person/month annual for watermark-free 1080p |

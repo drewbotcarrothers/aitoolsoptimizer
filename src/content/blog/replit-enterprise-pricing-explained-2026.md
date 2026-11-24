@@ -45,7 +45,7 @@ The October 16 directory recorded that Core and Pro overage can accumulate until
 
 **A different builder's published price.** [Bolt.new](/tools/bolt-new/) Pro is $25 month to month or $18 billed annually, on its own pricing article. The invoice is [Bolt.new pricing explained](/blog/bolt-new-pricing-explained-2026/). A Bolt token is not a Replit credit, and Bolt's Pro price is not Replit Enterprise.
 
-**The sentence that lists the controls.** [Claude](/tools/claude/) Pro is $17 a month billed annually, or $20 monthly. The sentence is not the contract.
+**The sentence that lists the controls.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly. The sentence is not the contract.
 
 Agent modes and credit packs stay in the Agent article. "$100 towards most powerful models" on the Pro card is not a description of Enterprise usage. Read the Agent article before you treat a custom contract as an unlimited model pool.
 

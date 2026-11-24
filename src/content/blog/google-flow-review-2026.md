@@ -18,10 +18,10 @@ Credit rules were read from Google Flow Help on October 24, 2026. Plan prices we
 | Access | US plan price | Flow credits |
 |---|---|---|
 | No subscription | $0 | 50 a day. Unused daily credits do not roll over |
-| Google AI Plus | $4.99/month | 50 a day, plus 200 a month |
-| Google AI Pro | $19.99/month | 50 a day, plus 1,000 a month |
-| Google AI Ultra | $99.99/month | 50 a day, plus 10,000 a month |
-| Google AI Ultra | $199.99/month | 50 a day, plus 25,000 a month |
+| Google AI Plus | {{price:gemini.plus}}/month | 50 a day, plus 200 a month |
+| Google AI Pro | {{price:gemini.pro}}/month | 50 a day, plus 1,000 a month |
+| Google AI Ultra | {{price:gemini.ultra}}/month | 50 a day, plus 10,000 a month |
+| Google AI Ultra | {{price:gemini.ultra_top}}/month | 50 a day, plus 25,000 a month |
 
 | Generation | Credits, from Flow Help |
 |---|---|

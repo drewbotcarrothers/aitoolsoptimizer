@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | PM job | Start here | First paid step | Leave it for |
 |---|---|---|---|
-| A PRD or a decision memo from notes you paste | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month or $17 annual. ChatGPT Plus $20. Go is $8 | A wiki the team does not use |
+| A PRD or a decision memo from notes you paste | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus $20. Go is $8 | A wiki the team does not use |
 | The spec lives in Notion | [Notion AI](/tools/notion-ai/) | Business $20/seat/month for the agent | A team that lives in ClickUp |
 | The spec lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain² from $9/user/month, on a ClickUp plan | A team that lives in Notion |
 | A question that needs a link | [Perplexity](/tools/perplexity/) | Pro $17/month billed annually | A private metric in your warehouse |

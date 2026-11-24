@@ -9,7 +9,7 @@ seoTitle: "Google Flow Review 2026: Veo Video, Credits, Pricing (Free & Google A
 seoDescription: "Google Flow review: 50 free daily credits, Google AI Plus (200), Pro (1,000) and Ultra (10,000 or 25,000) monthly credits, Veo 3.1 and Gemini Omni Flash costs, pros, cons and alternatives."
 pricing: "freemium"
 pricingModel: "Free daily credits + Google AI subscriptions (Plus, Pro, Ultra) + purchasable AI credits"
-startingPrice: "Free (50 credits/day); Google AI Plus $4.99/mo"
+startingPrice: "Free (50 credits/day); Google AI Plus {{price:gemini.plus}}/mo"
 freePlan: "Yes — 50 Google Flow credits per day"
 platforms: "Web (labs.google/flow)"
 website: "https://labs.google/flow"
@@ -54,7 +54,7 @@ faq:
   - q: "Do Flow credits roll over?"
     a: "No. Unused daily and monthly Google Flow credits don't roll over. Purchased AI credits may expire after a set period."
   - q: "How much are Google AI plans?"
-    a: "Google AI Plus is $4.99 per month, Pro is $19.99 and Ultra is $99.99 or $199.99 per month in the US."
+    a: "Google AI Plus is {{price:gemini.plus}} per month, Pro is {{price:gemini.pro}} and Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}} per month in the US."
 sources:
   - title: "Manage your Google Flow credits (Google Flow Help)"
     url: "https://support.google.com/flow/answer/16526234"
@@ -98,10 +98,10 @@ From Google Flow Help and gemini.google/subscriptions, checked October 16, 2026.
 | Access | Price | Google Flow credits |
 |---|---|---|
 | Free | $0 | 50 per day |
-| Google AI Plus | $4.99/mo | 50/day + 200/month |
-| Google AI Pro | $19.99/mo | 50/day + 1,000/month |
-| Google AI Ultra | $99.99/mo | 50/day + 10,000/month |
-| Google AI Ultra | $199.99/mo | 50/day + 25,000/month |
+| Google AI Plus | {{price:gemini.plus}}/mo | 50/day + 200/month |
+| Google AI Pro | {{price:gemini.pro}}/mo | 50/day + 1,000/month |
+| Google AI Ultra | {{price:gemini.ultra}}/mo | 50/day + 10,000/month |
+| Google AI Ultra | {{price:gemini.ultra_top}}/mo | 50/day + 25,000/month |
 
 | Model (per generation) | Credits |
 |---|---|

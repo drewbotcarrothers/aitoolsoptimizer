@@ -40,7 +40,7 @@ A battlecard without a date is a rumor with headings. The person who publishes i
 
 **The public page.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when you need citations beyond the free weekly cap. Open the link and paste the sentence you are willing to stand behind. Do not paste Perplexity's summary onto the card as if it were the competitor's words. The research pair is [Claude vs Perplexity for research](/blog/claude-vs-perplexity-for-research-2026/).
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. One Project per competitor, with the sources attached. [ChatGPT](/tools/chatgpt/) Plus at $20 works if that is where the team already writes. Business is $20 a user a month billed annually for two or more users when the notes include private deal context. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. One Project per competitor, with the sources attached. [ChatGPT](/tools/chatgpt/) Plus at $20 works if that is where the team already writes. Business is $20 a user a month billed annually for two or more users when the notes include private deal context. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The page reps open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Name an owner and a review date. A card from last year that still lists a retired feature is worse than no card. Plus at $10 is not the full AI tier.
 

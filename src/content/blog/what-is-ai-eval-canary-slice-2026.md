@@ -40,7 +40,7 @@ A pass on the slice is not a pass on the suite. The threshold still applies to w
 
 ## Where the cases live
 
-**The outcomes, in words.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the expected outcome in a Project so a later edit does not soften a miss into a partial. The review is [Claude review](/blog/claude-review-2026/).
+**The outcomes, in words.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the expected outcome in a Project so a later edit does not soften a miss into a partial. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff that should trigger the slice.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review a change to the prompt or the grader. The slice runs before you treat the diff as done. The individual ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

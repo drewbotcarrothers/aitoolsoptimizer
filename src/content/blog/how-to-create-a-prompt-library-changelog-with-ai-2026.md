@@ -40,7 +40,7 @@ The entry is not the approval. The change request is the approval, when you use 
 
 **The library page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The changelog sits on the same page as the prompt, or one link away. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). For the history of a single production prompt, use [a per-prompt changelog](/blog/how-to-create-an-ai-prompt-changelog-with-ai-2026/) instead of the library-wide list.
 
-**A set of entries that must use the same fields.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the field list in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**A set of entries that must use the same fields.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the field list in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **One entry from a short diff.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Paste the diff. Discard a summary that adds a benefit. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

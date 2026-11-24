@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The need | Start here | First paid step |
 |---|---|---|
 | One marketer, many kinds of tasks, images in the same month | [ChatGPT](/tools/chatgpt/) | Plus is $20. Go is $8. Free is the test |
-| A long landing page you will revise from a brief | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually |
+| A long landing page you will revise from a brief | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually |
 | Brand Voices, Knowledge, Audiences, and marketing agents | [Jasper](/tools/jasper/) | Pro is $69 a seat monthly, or $59 billed yearly. 7-day trial. No free plan |
 | A shared multi-model chat for up to five people | [Copy.ai](/tools/copy-ai/) | Chat is $24 a month billed annually, 5 seats |
 | Tracking whether AI answers mention you | [Writesonic](/tools/writesonic/) | Starter is $79 a month billed annually |

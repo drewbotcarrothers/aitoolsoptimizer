@@ -39,7 +39,7 @@ A deprecation note that reads like a launch will create angry tickets. Customers
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the note has to stay honest about the gap. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the note has to stay honest about the gap. The review is [Claude review](/blog/claude-review-2026/).
 
 **The help page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the article lives in the wiki. Update the article in the same change as the email. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

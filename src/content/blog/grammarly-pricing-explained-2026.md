@@ -40,7 +40,7 @@ Grammarly Pro replaces the old Business plan and supports up to 149 seats. A tea
 
 ## What the 2,000 prompts are not
 
-Two thousand generative AI prompts is the Pro cap the directory records. It is not "unlimited writing." If you are drafting a blog, a case study, or a spec from notes, a chat seat is the tool. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8. Grammarly is the pass after the draft exists. The method is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). The fact pass is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
+Two thousand generative AI prompts is the Pro cap the directory records. It is not "unlimited writing." If you are drafting a blog, a case study, or a spec from notes, a chat seat is the tool. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8. Grammarly is the pass after the draft exists. The method is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). The fact pass is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 
 Grammarly will not notice a wrong price, a wrong name, or a policy you did not mean. It will notice a comma. Run it after the facts are stable. Suggestions can also flatten a voice you wanted to keep. Reject those. The house style, if you need one stored, is [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/).
 

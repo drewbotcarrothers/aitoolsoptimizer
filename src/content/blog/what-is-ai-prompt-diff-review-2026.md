@@ -42,7 +42,7 @@ Grammarly can flag a wording change after the meaning is stable. It does not dec
 
 **The file, if the prompt lives in a repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. You read the diff. The model does not merge it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**A summary of the change, from the two pastes.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Ask for the added and removed lines only. The review is [Claude review](/blog/claude-review-2026/).
+**A summary of the change, from the two pastes.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Ask for the added and removed lines only. The review is [Claude review](/blog/claude-review-2026/).
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The row stores the old version id, the new version id, the reviewer, and the date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

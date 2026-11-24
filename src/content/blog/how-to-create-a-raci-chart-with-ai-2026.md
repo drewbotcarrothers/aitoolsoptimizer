@@ -38,7 +38,7 @@ A chart with every cell filled by a model is a chart nobody agreed to. The value
 
 ## Where the chart lives
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. A Project can hold the role list so the next version does not rename "Support lead" to "Customer hero." Free works for one grid. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. A Project can hold the role list so the next version does not rename "Support lead" to "Customer hero." Free works for one grid. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the wiki is Notion. Plus at $10 is not the full AI tier. Put the review date on the page. A RACI from last year's launch is a hazard. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The docs choice, if the team argues Notion versus ClickUp, is [Notion AI vs ClickUp for docs](/blog/notion-ai-vs-clickup-for-docs-2026/).
 

@@ -19,7 +19,7 @@ Midjourney and Krea prices are from directory pages checked October 16, 2026. Cl
 |---|---|---|---|
 | Stills that must share a look | [Midjourney](/tools/midjourney/) | Basic is $10 a month, or $8 billed annually | No free plan on the October 16 card |
 | A sequence you adjust as you watch | [Krea](/tools/krea/) | Basic is $9 a month, or $5 a month billed yearly | Free is 100 compute units a day on that card |
-| The shot list, in words | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The list comes from you |
+| The shot list, in words | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The list comes from you |
 | The page that holds the order | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page does not generate the frames |
 
 ```mermaid

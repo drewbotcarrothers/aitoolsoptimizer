@@ -40,7 +40,7 @@ A checklist that says "all teams aligned" is [a hallucination](/blog/what-is-ai-
 
 **The page people will tick.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month and includes Notion Agent. Free includes a trial of Notion AI. The checklist is a database with an owner property, not a chat bullet list. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The first draft of the rows.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the brief is long. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat. Business is $20 a user a month billed annually, minimum two, when the brief is confidential. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The first draft of the rows.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the brief is long. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat. Business is $20 a user a month billed annually, minimum two, when the brief is confidential. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The list, if the work already lives in ClickUp.** [ClickUp Brain](/tools/clickup-brain/) starts at $9 a user a month for Brain², on top of a ClickUp plan. ClickUp Unlimited is $7 a user a month billed yearly on the card, and Business is $12 billed yearly. Brain can see tasks you already track. It still cannot close a task you did not finish. The comparison with a notes tool is [Notion AI vs ClickUp Brain](/blog/notion-ai-vs-clickup-brain-2026/).
 

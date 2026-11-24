@@ -19,10 +19,10 @@ Gemini, ChatGPT, and Notion prices are from directory pages checked October 16, 
 
 | The draft in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
-| The outcomes already live in a Google Doc or Sheet | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month. Pro is $19.99 | The file is the source. The chat does not set the target |
+| The outcomes already live in a Google Doc or Sheet | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The file is the source. The chat does not set the target |
 | One objective, from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No metric that was not in the paste |
 | The page the quarter will be read from | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A long set that must use one definition | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | Still no target you did not write |
+| A long set that must use one definition | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | Still no target you did not write |
 
 ```mermaid
 flowchart TD
@@ -35,7 +35,7 @@ flowchart TD
   gap -->|No| owner["The owner of the objective reads it"]
 ```
 
-Gemini's free plan is $0 with a Google account, on the October 16 card. Plus at $4.99 adds usage. Pro at $19.99 is the seat the card ties to higher limits and Gemini in the Google apps. Confirm the current subscription page before you assume a Doc is in the context. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Gemini's free plan is $0 with a Google account, on the October 16 card. Plus at {{price:gemini.plus}} adds usage. Pro at {{price:gemini.pro}} is the seat the card ties to higher limits and Gemini in the Google apps. Confirm the current subscription page before you assume a Doc is in the context. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ChatGPT Go is $8 a month and may include ads, on the October 16 card. Plus is the seat for a saved outline. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

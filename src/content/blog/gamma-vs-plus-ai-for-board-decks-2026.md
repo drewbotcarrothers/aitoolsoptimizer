@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The file must be Slides or PowerPoint | [Plus AI](/tools/plus-ai/) Basic at $10 a user a month billed annually, or $15 monthly, 1,500 credits | Same rule. The file format is the reason, not the prose |
 | Several people drafting against one credit pool | Plus AI Team at $30 a user a month billed annually, 6,000 credits | Basic is a smaller pool. Read the current sharing rules |
 | More Gamma room, still a link | Gamma Pro at $18 a seat a month, 4,000 credits | Ultra is $90 a seat a month and is monthly only, on the card |
-| The narrative under a chart you trust | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | Claude writes from the packet. It does not become the slide file |
+| The narrative under a chart you trust | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Claude writes from the packet. It does not become the slide file |
 | The appendix lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The wiki holds the source. The deck points at it |
 
 ```mermaid

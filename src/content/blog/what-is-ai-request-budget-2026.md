@@ -39,7 +39,7 @@ A seat price is not the budget. [ChatGPT](/tools/chatgpt/) Plus at $20 a month c
 
 ## Where the number is kept
 
-**The policy note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the budget is a page: who, how many, and what happens at the ceiling. The review is [Claude review](/blog/claude-review-2026/).
+**The policy note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the budget is a page: who, how many, and what happens at the ceiling. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short card in a project.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 billed monthly, and does not train on business data by default. Use Business when the budget names customers. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

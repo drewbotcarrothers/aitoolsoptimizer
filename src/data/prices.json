@@ -1,0 +1,69 @@
+{
+  "_doc": "Single source for prices repeated across posts. Markdown and frontmatter use {{price:KEY}}; see src/lib/prices.mjs. A key's optional 'next' block is a scheduled change: run `node scripts/apply-scheduled-prices.mjs` on or after its date, then deploy.",
+  "gemini.plus": {
+    "value": "$4.99",
+    "label": "Google AI Plus, per month (US)",
+    "verified": "2026-10-16",
+    "source": "https://gemini.google/subscriptions/"
+  },
+  "gemini.pro": {
+    "value": "$19.99",
+    "label": "Google AI Pro, per month (US)",
+    "verified": "2026-10-16",
+    "source": "https://gemini.google/subscriptions/"
+  },
+  "gemini.ultra": {
+    "value": "$99.99",
+    "label": "Google AI Ultra, lower tier, per month (US)",
+    "verified": "2026-10-16",
+    "source": "https://gemini.google/subscriptions/"
+  },
+  "gemini.ultra_top": {
+    "value": "$199.99",
+    "label": "Google AI Ultra, higher tier, per month (US)",
+    "verified": "2026-10-16",
+    "source": "https://gemini.google/subscriptions/"
+  },
+  "gemini.api.argon": {
+    "value": "$2 / $10",
+    "label": "Gemini 4 Argon API, standard paid tier, input / output per 1M tokens",
+    "verified": "2026-11-24",
+    "source": "https://ai.google.dev/gemini-api/docs/pricing",
+    "next": {
+      "from": "2026-12-01",
+      "value": "$4 / $20",
+      "modelPriceNote": "Standard paid tier from Dec 1, 2026 (was $2 / $10 introductory through Nov 30)"
+    },
+    "modelApiId": "gemini-4-argon"
+  },
+  "gemini.api.carbon": {
+    "value": "$2 / $10",
+    "label": "Gemini 4 Carbon API, standard paid tier, input / output per 1M tokens",
+    "verified": "2026-11-24",
+    "source": "https://ai.google.dev/gemini-api/docs/pricing",
+    "next": {
+      "from": "2026-12-01",
+      "value": "$4 / $20",
+      "modelPriceNote": "Standard paid tier from Dec 1, 2026 (was $2 / $10 introductory through Nov 30). Paid tier only"
+    },
+    "modelApiId": "gemini-4-carbon"
+  },
+  "claude.pro_annual": {
+    "value": "$17",
+    "label": "Claude Pro, per month billed annually",
+    "verified": "2026-10-24",
+    "source": "https://claude.com/pricing"
+  },
+  "claude.pro_upfront": {
+    "value": "$200",
+    "label": "Claude Pro, annual up-front total",
+    "verified": "2026-10-24",
+    "source": "https://claude.com/pricing"
+  },
+  "claude.pro_monthly": {
+    "value": "$20",
+    "label": "Claude Pro, billed monthly",
+    "verified": "2026-10-24",
+    "source": "https://claude.com/pricing"
+  }
+}

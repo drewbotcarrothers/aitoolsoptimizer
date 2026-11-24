@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Lesson Plans (2026): The Objective You Already Wrote"
-description: "ChatGPT vs Gemini for lesson plans in 2026. Plus is $20. Gemini Pro is $19.99. The plan follows objectives and a rubric you supply. No classroom scores."
+description: "ChatGPT vs Gemini for lesson plans in 2026. Plus is $20. Gemini Pro is {{price:gemini.pro}}. The plan follows objectives and a rubric you supply. No classroom scores."
 pubDate: "2026-10-24"
 category: "education"
 tags: ["chatgpt", "gemini", "lesson-plans", "education", "comparison"]
@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One paste, one lesson | [ChatGPT](/tools/chatgpt/) Free or [Gemini](/tools/gemini/) Free | You accept or reject each step |
 | The same planning card every week | ChatGPT Plus at $20 a month | Swap the objective. Keep the card |
-| The file must live in Google Docs | Gemini, free, or Google AI Pro at $19.99 a month | Pro is the card's row for Gemini in Docs |
+| The file must live in Google Docs | Gemini, free, or Google AI Pro at {{price:gemini.pro}} a month | Pro is the card's row for Gemini in Docs |
 | A teacher-specific planner with a published seat | [MagicSchool](/tools/magicschool/) Plus at $8.33 a user a month billed annually, or $12.99 monthly | You still teach the lesson |
 | A student tutor, not a plan | [Khanmigo](/tools/khanmigo/) free for teachers | Learners and families are $4 a month or $44 a year |
 
@@ -35,7 +35,7 @@ flowchart TD
   check --> teach["You teach it. The model does not"]
 ```
 
-ChatGPT Go is $8 a month and may include ads, on the directory card. A plan you will hand a student is a poor place for an ad you did not choose. Plus at $20 is the seat when this is weekly work. ChatGPT Pro starts at $100. A weekly plan does not need it. Google AI Plus is $4.99 a month. Buy Plus when you need that card's video generation and storage, not because a lesson plan requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs and 5 TB. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+ChatGPT Go is $8 a month and may include ads, on the directory card. A plan you will hand a student is a poor place for an ad you did not choose. Plus at $20 is the seat when this is weekly work. ChatGPT Pro starts at $100. A weekly plan does not need it. Google AI Plus is {{price:gemini.plus}} a month. Buy Plus when you need that card's video generation and storage, not because a lesson plan requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs and 5 TB. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ChatGPT for Teachers is recorded on the teacher roundup as free for verified U.S. K–12 educators through June 2027. That window is a U.S. educator program. A teacher outside it prices the consumer seats on this page. This article is not a country guide.
 

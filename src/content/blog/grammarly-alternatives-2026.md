@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The miss | Try | First paid step |
 |---|---|---|
 | You want a lower published price for paraphrase and grammar | [QuillBot](/tools/quillbot/) | Premium is $8.33/month billed annually. The directory row does not list a month-to-month price |
-| You are writing the piece, not polishing a sentence | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month or $17 annual. ChatGPT Plus is $20. Go is $8 |
+| You are writing the piece, not polishing a sentence | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus is $20. Go is $8 |
 | You live in Word and Outlook | [Microsoft Copilot](/tools/microsoft-copilot/) | Free with a Microsoft account. Microsoft 365 Personal is $9.99/month. Premium is $19.99 |
 | You speak, and the draft should appear as text | [Wispr Flow](/tools/wispr-flow/) | $12 per user per month billed annually, from the October 24, 2026 review |
 | You want Grammarly's browser overlay | Stay | Pro annual at $12, if you will use more than the free corrections |

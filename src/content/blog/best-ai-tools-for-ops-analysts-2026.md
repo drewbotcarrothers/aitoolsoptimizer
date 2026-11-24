@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The definition: name, formula, owner, source | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A metric the model renamed does not enter the dictionary |
 | The warehouse query | [Hex](/tools/hex/) | Professional is $36 per editor a month | You read the query. Medium compute is included. Larger profiles are hourly |
 | A CSV someone already exported | [Julius AI](/tools/julius-ai/) | Plus is $20 a month, or $16 billed annually | The file is the population. It is not the live queue |
-| The sentence under a figure you trust | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | Paste the number. The model does not remember last week |
+| The sentence under a figure you trust | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Paste the number. The model does not remember last week |
 | The tasks already live in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain is $9 a user a month, on top of a ClickUp plan | Brain can see ClickUp. It cannot see a warehouse you did not connect |
 
 ```mermaid

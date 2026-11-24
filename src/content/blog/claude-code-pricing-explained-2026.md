@@ -56,7 +56,7 @@ Do not tell a Free user that Claude Code is included. The table says No. Do not 
 
 ### How much is Claude Code?
 
-There is no separate Claude Code sticker on the October 24 pricing page. It is included with paid Claude plans. Pro is $20 a month, or $17 a month with annual billing, $200 up front. Max is from $100 a month. Usage is shared with the rest of the plan.
+There is no separate Claude Code sticker on the October 24 pricing page. It is included with paid Claude plans. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} a month with annual billing, $200 up front. Max is from $100 a month. Usage is shared with the rest of the plan.
 
 ### Is there a free Claude Code plan?
 

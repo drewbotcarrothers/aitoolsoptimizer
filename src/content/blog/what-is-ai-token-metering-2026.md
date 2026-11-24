@@ -45,7 +45,7 @@ A repeated prefix the vendor caches can be a cheaper row on the same meter. That
 
 **A token allowance as the plan.** [Bolt.new](/tools/bolt-new/) Free includes 1 million tokens a month, with a 300,000 daily limit. Pro starts at $25 a month for 10 million tokens. Paid tokens roll over for one additional month, on the October 16 card. That allowance is the meter and the product.
 
-**A seat that hides the count.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Max starts at $100. The directory says paid plans include more usage, and context windows up to 1 million tokens depending on the model. There is no consumer per-token price on that card. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8. The limit is messages, uploads, and tools. You are still metered. You cannot reconcile tokens you were never shown. The split inside one call, when you do have a count, is the budgeting article.
+**A seat that hides the count.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Max starts at $100. The directory says paid plans include more usage, and context windows up to 1 million tokens depending on the model. There is no consumer per-token price on that card. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8. The limit is messages, uploads, and tools. You are still metered. You cannot reconcile tokens you were never shown. The split inside one call, when you do have a count, is the budgeting article.
 
 ## What to reconcile
 

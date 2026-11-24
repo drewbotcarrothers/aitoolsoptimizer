@@ -40,7 +40,7 @@ Permission is earlier. A tool that is not on the allowlist does not get a retry.
 
 ## Where the counter lives
 
-**The definition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project names the tool id, the try count, and the stop action. The review is [Claude review](/blog/claude-review-2026/).
+**The definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project names the tool id, the try count, and the stop action. The review is [Claude review](/blog/claude-review-2026/).
 
 **A Zap that tells a person when the counter hits zero.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, with 750 tasks a month, on the October 16 card. The Zap does not decide the count. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

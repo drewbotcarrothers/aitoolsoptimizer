@@ -40,7 +40,7 @@ Two rules that both match are a bug in the table, not a vote. Put a priority on 
 
 ## Where the row is kept
 
-**The wording of the condition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the approved verbs in a Project: task label, context size, budget still left. The review is [Claude review](/blog/claude-review-2026/).
+**The wording of the condition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the approved verbs in a Project: task label, context size, budget still left. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft row from fields you paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a row that adds a model id you did not paste. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

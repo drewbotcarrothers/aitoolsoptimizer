@@ -19,7 +19,7 @@ This page is workflow. It is not legal advice. Claude's prices are from claude.c
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The rule text and the classification note | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No window you did not approve |
+| The rule text and the classification note | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No window you did not approve |
 | The page the steward opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | One note from a short paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No data type that was not in the paste |
 | A diff in a check you already own | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review the diff. The note does not merge it |

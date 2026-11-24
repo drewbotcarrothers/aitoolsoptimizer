@@ -52,9 +52,9 @@ Consumer plans in this directory bill the seat, then enforce a usage cap:
 
 | Product | What you pay | What the page says about the meter |
 |---|---|---|
-| [Claude](/tools/claude/) | Pro is $20/month, or $17 billed annually. Max starts at $100 | More usage on paid plans. Context windows of up to 1 million tokens, depending on the model |
+| [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Max starts at $100 | More usage on paid plans. Context windows of up to 1 million tokens, depending on the model |
 | [ChatGPT](/tools/chatgpt/) | Plus is $20/month. Go is $8. Pro starts at $100 | Plan limits on messages, uploads, and tools. No per-token consumer price on the directory page |
-| [Gemini](/tools/gemini/) | Google AI Plus is $4.99/month. Pro is $19.99 | "2x" and "4x" usage versus the free plan. The page does not list a token price |
+| [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}}/month. Pro is {{price:gemini.pro}} | "2x" and "4x" usage versus the free plan. The page does not list a token price |
 | [Bolt.new](/tools/bolt-new/) | Free includes 1 million tokens a month, with a 300,000 daily limit. Pro starts at $25/month | A token allowance is the plan, not a chat seat |
 
 Claude's million-token figure is a ceiling that depends on the model. It is explained in [what a context window is](/blog/what-is-a-context-window-2026/). Max is a usage tier. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
@@ -75,7 +75,7 @@ Often it is a piece of a word, a word, or punctuation. English prose is not a fi
 
 ### Do ChatGPT Plus and Claude Pro charge per token?
 
-The directory prices are monthly seats: Plus at $20, Claude Pro at $20 or $17 on annual billing. Usage limits still apply. Per-token billing is an API product. DeepSeek publishes those rates. OpenAI and Anthropic API cards are separate from the chat plans on these pages.
+The directory prices are monthly seats: Plus at $20, Claude Pro at {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} on annual billing. Usage limits still apply. Per-token billing is an API product. DeepSeek publishes those rates. OpenAI and Anthropic API cards are separate from the chat plans on these pages.
 
 ### Why did a short question cost so much?
 

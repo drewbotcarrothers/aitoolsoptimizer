@@ -39,7 +39,7 @@ flowchart TD
 
 ## Where the plan is written
 
-**The draft from the spec.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the spec in a Project. Ask for cases only from the lines you mark in scope. Free can do a short spec. The review is [Claude review](/blog/claude-review-2026/).
+**The draft from the spec.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the spec in a Project. Ask for cases only from the lines you mark in scope. Free can do a short spec. The review is [Claude review](/blog/claude-review-2026/).
 
 **The test in the repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. [GitHub Copilot](/tools/github-copilot/) Pro is $10 a user a month. Either can draft a test file. You run it. A test that the model says will pass, and that you did not run, is not a result. The invoices are [Cursor pricing explained](/blog/cursor-pricing-explained-2026/) and [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/). The QA shelf is [best AI tools for QA engineers](/blog/best-ai-tools-for-qa-engineers-2026/).
 

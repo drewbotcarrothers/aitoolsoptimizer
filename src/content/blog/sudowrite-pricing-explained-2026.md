@@ -47,7 +47,7 @@ The 1,000,000 on Professional was styled as a rotated callout. The 450,000 used 
 
 Sudowrite's FAQ on that page says it claims no rights over what you put in or what it generates. That is their statement. Your publisher or your school can still have a policy. Read that policy before you submit the work.
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, if you only needed a chat to outline. [ChatGPT](/tools/chatgpt/) Plus is $20. Neither is a Story Bible. [Jasper](/tools/jasper/) Pro is $59 a seat a month billed yearly. Jasper is a marketing seat. Do not buy it to get Sudowrite's credit pool.
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, if you only needed a chat to outline. [ChatGPT](/tools/chatgpt/) Plus is $20. Neither is a Story Bible. [Jasper](/tools/jasper/) Pro is $59 a seat a month billed yearly. Jasper is a marketing seat. Do not buy it to get Sudowrite's credit pool.
 
 ## What not to assume
 

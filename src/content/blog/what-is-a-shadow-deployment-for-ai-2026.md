@@ -46,7 +46,7 @@ Do not send customer content to a second vendor because a shadow run seemed like
 
 ## Seats that help you read the comparison, not seats that are the shadow
 
-**The long comparison.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the rubric in a Project and paste pairs you are allowed to review. The model can mark gaps. You decide the promotion. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long comparison.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the rubric in a Project and paste pairs you are allowed to review. The model can mark gaps. You decide the promotion. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Business is $20 a user a month billed annually, for two or more users, and does not train on business data by default. A personal Plus seat is a different promise from Business. Do not paste a shadow log of customer text into a consumer plan your security review rejected. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

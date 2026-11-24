@@ -38,7 +38,7 @@ The expected shape, when you need fields rather than a paragraph, is [what an AI
 
 ## Where the case is written
 
-**The prompt under test.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the prompt and the fixture live in a Project so a later edit is a diff. Free can hold one case while you learn the habit. The review is [Claude review](/blog/claude-review-2026/).
+**The prompt under test.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the prompt and the fixture live in a Project so a later edit is a diff. Free can hold one case while you learn the habit. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second wording of the same check.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can turn a messy note into a single assertion. Keep the assertion. Discard a second fixture the model invented. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

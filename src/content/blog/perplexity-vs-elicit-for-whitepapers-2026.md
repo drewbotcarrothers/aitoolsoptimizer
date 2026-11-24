@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A narrative with web sources | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open each page before you keep the sentence |
 | A table of papers and extracted fields | [Elicit](/tools/elicit/) | Plus is $11 a user a month billed annually | Read the paper behind any row you will quote |
 | A systematic screen of a large set | Elicit Pro | $39 a user a month billed annually, up to 5,000 papers on the directory card | The screen is not the prose |
-| The long draft, after the sources are frozen | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not add a source |
+| The long draft, after the sources are frozen | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not add a source |
 | The page the draft lives on | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page is not a citation |
 
 ```mermaid

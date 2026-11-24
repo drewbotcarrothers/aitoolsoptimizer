@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Newsletter Edits (2026): The Issue You Already Wrote"
-description: "ChatGPT vs Claude for newsletter edits in 2026. Plus is $20. Claude Pro is $20 or $17 annual. The edit follows a style card you supply. No open-rate scores."
+description: "ChatGPT vs Claude for newsletter edits in 2026. Plus is $20. Claude Pro is {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} annual. The edit follows a style card you supply. No open-rate scores."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "newsletter", "editing", "comparison"]
@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One paste, one issue | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You accept or reject each change |
 | The same edit rules every week | ChatGPT Plus at $20 a month | Swap the draft. Keep the rules |
-| A long style doc the edit must quote | Claude Pro at $20 a month, or $17 billed annually | The Project holds the style doc. The edit adds no rule it does not contain |
+| A long style doc the edit must quote | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the style doc. The edit adds no rule it does not contain |
 | A line pass inside the inbox and the doc | [Grammarly](/tools/grammarly/) Pro at $12 a member a month billed annually, or $30 monthly | Grammarly does not own the issue. It flags the sentence |
 | The archive lives in the workspace | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The chat is not |
 

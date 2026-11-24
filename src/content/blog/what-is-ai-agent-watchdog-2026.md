@@ -38,7 +38,7 @@ A watchdog with no named condition is a log. A log does not stop a loop. Write t
 
 **The editor agent.** [Cursor](/tools/cursor/) Teams seats are $30, $100, or $200 a seat a month on the October 24 help page, matching the usage tier. A cloud agent that can keep editing is the run a watchdog is for. Plus at $8 a month, or $80 a year, is an individual plan and the same page says it does not include Cloud Agents. The individual ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). A watchdog often listens for [an agent heartbeat](/blog/what-is-ai-agent-heartbeat-2026/) to decide whether the run is still alive.
 
-**A long Claude task.** [Claude](/tools/claude/) Pro is $17 a month with annual billing, $200 up front, or $20 monthly, on the October 24 pricing page. Scheduling a task is on that Pro list. A schedule without a stop condition is how a task runs again. The review is [Claude review](/blog/claude-review-2026/).
+**A long Claude task.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month with annual billing, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 pricing page. Scheduling a task is on that Pro list. A schedule without a stop condition is how a task runs again. The review is [Claude review](/blog/claude-review-2026/).
 
 **The company coding seat.** [GitHub Copilot](/tools/github-copilot/) Business is $19 a user a month on the October 16 card. The watchdog is still your rule. The seat does not ship one with a number filled in. The invoice is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/).
 

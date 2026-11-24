@@ -42,7 +42,7 @@ A batch is not a smarter model. It is the same model, or a model you chose, with
 
 **A cheaper clock that is not a batch product.** [DeepSeek](/tools/deepseek/) Flash is $0.30 input and $1.20 output per million tokens at peak, and half of that off-peak, on the directory card. The chat app is free. Off-peak is a schedule. It is not the same sentence as "submit a batch file." The directory records peak hours as 01:00–04:00 and 06:00–10:00 UTC on weekdays. A job that runs inside that window by accident pays peak. The review is [DeepSeek review](/blog/deepseek-review-2026/). Data governance is part of the choice: DeepSeek is a China-based company, and the directory says to check the docs before you build.
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. That seat is interactive chat and, on Pro, Claude Code. It is not a batch discount. If a vendor's docs mention a batch endpoint, the docs win. This page will not invent one for Claude.
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. That seat is interactive chat and, on Pro, Claude Code. It is not a batch discount. If a vendor's docs mention a batch endpoint, the docs win. This page will not invent one for Claude.
 
 A repeated prefix is a third trick. Caching the prefix does not make the job a batch. The definition is [what a context cache is](/blog/what-is-a-context-cache-2026/).
 

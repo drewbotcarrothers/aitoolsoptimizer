@@ -47,7 +47,7 @@ Filters, Paths, and Formatter steps do not count as tasks, on the card. An agent
 
 **A different meter.** [Make](/tools/make/) Core starts at $9 a month billed annually for 10,000 credits, on the October 16 card. A credit is not a Zapier task. Compare them when the workflow is the same and you can explain the unit.
 
-**The instructions the agent must follow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. The Project holds the steps a person wrote. It does not mint Zapier tasks. [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card, if the runbook lives in the wiki. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
+**The instructions the agent must follow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on claude.com/pricing fetched October 24, 2026. The Project holds the steps a person wrote. It does not mint Zapier tasks. [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card, if the runbook lives in the wiki. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
 ## What not to assume
 

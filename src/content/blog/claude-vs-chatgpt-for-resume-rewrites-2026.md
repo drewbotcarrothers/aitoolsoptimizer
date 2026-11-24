@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The file you have | Start here | What you still do |
 |---|---|---|
 | One resume and one job post, pasted | [Claude](/tools/claude/) Free or [ChatGPT](/tools/chatgpt/) Free | Delete any bullet you cannot say out loud with a real example |
-| You will revise the same master resume for several posts | Claude Pro, $20 a month or $17 billed annually, in a Project. Or ChatGPT Plus at $20, in a project | The master file stays the source. Each rewrite is a copy |
+| You will revise the same master resume for several posts | Claude Pro, {{price:claude.pro_monthly}} a month or {{price:claude.pro_annual}} billed annually, in a Project. Or ChatGPT Plus at $20, in a project | The master file stays the source. Each rewrite is a copy |
 | The master resume lives in a team wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | Plus at $10 is not the full AI tier. The page in Notion wins over the chat |
 | You want a grammar pass after the facts are frozen | [Grammarly](/tools/grammarly/) Pro at $12 a member a month billed annually | Grammarly will not know whether the promotion date is real |
 | The paste includes someone else's performance review | The work plan your policy allows. ChatGPT Business is $20 a user a month billed annually, minimum two | A personal free account is the wrong place for another person's review |

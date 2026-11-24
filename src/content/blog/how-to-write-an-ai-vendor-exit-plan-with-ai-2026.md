@@ -39,7 +39,7 @@ If customers see the vendor's name in your product, the customer line has to mat
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the dates in a Project so a later edit does not "helpfully" extend them. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the dates in a Project so a later edit does not "helpfully" extend them. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page procurement will reread.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the contract date and the person who read it. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

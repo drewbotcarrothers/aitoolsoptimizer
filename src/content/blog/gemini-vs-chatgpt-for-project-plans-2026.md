@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs ChatGPT for Project Plans (2026): The Doc You Have, or the Paste"
-description: "Gemini vs ChatGPT for project plans in 2026. Dates stay the ones a person wrote. Google AI Pro is $19.99. ChatGPT Plus is $20. No schedule scores."
+description: "Gemini vs ChatGPT for project plans in 2026. Dates stay the ones a person wrote. Google AI Pro is {{price:gemini.pro}}. ChatGPT Plus is $20. No schedule scores."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["gemini", "chatgpt", "plans", "comparison"]
@@ -17,10 +17,10 @@ Gemini's prices are from the directory page checked October 16, 2026. ChatGPT's 
 
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | No date that was not in the doc |
+| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | No date that was not in the doc |
 | One paste of milestones | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No owner you did not name |
 | The register the next lead opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A second draft when the plan is a company record | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the dates. It does not move them |
+| A second draft when the plan is a company record | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the dates. It does not move them |
 
 ```mermaid
 flowchart TD
@@ -35,7 +35,7 @@ flowchart TD
 
 A plan that says a milestone is "on track" has added a status. If the date is missing, the row says Date not set. It does not propose a Friday. Put proposals in a note labeled Not in the plan.
 
-Google AI Plus is $4.99 a month on the October 16 card. Pro at $19.99 is the seat the directory describes as including Gemini in Gmail and Docs, plus 5 TB of storage. Ultra is $99.99 or $199.99 a month on that card. This page does not need Ultra to format a plan. The directory is [Gemini](/tools/gemini/).
+Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Pro at {{price:gemini.pro}} is the seat the directory describes as including Gemini in Gmail and Docs, plus 5 TB of storage. Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}} a month on that card. This page does not need Ultra to format a plan. The directory is [Gemini](/tools/gemini/).
 
 ChatGPT Go is $8 a month on the October 24 plan page. Plus is the seat for a saved plan. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
@@ -43,7 +43,7 @@ ChatGPT Go is $8 a month on the October 24 plan page. Plus is the seat for a sav
 
 The milestone names you wrote, the owners you named, and the dates you supplied. A risk that was not in the source stays out. A dependency that was not in the source says Dependency not in the source. An OKR can name the outcome this plan serves. It does not replace the dates.
 
-**Gemini on a Doc** is the path when the file is already the source of truth. A draft that adds a phase the doc did not have is the draft you discard. Pro is the paid step on the October 16 card when you want the Doc seat the directory describes. Confirm the current Google plan page before you put $19.99 in a new forecast. This article did not refetch it on October 24.
+**Gemini on a Doc** is the path when the file is already the source of truth. A draft that adds a phase the doc did not have is the draft you discard. Pro is the paid step on the October 16 card when you want the Doc seat the directory describes. Confirm the current Google plan page before you put {{price:gemini.pro}} in a new forecast. This article did not refetch it on October 24.
 
 **ChatGPT Plus** is the one-paste path. The milestones stay in your words. A version that sequences them into weeks you did not write is the version you delete.
 

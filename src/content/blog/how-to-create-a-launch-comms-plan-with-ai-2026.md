@@ -40,7 +40,7 @@ Employees and customers should not receive the same paragraph unless you decided
 
 **The table.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the plan is a database the launch team will update. The status field starts as Not sent. The model does not flip it. The seat article is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The draft of a missing message.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you paste the approved claim and ask for a version for one audience. A version that adds a metric is discarded. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of a missing message.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you paste the approved claim and ask for a version for one audience. A version that adds a metric is discarded. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second formatting.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can turn a messy thread into the columns. Discard an audience it added to make the plan "feel complete."
 

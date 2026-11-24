@@ -46,7 +46,7 @@ Quotas only work if the unit matches the bill. These are the units on the cards,
 | Meter | Where it shows up | A number you can put in a quota |
 |---|---|---|
 | A chat seat | [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, minimum two users. Plus is $20 for one person | Seats, plus whatever usage cap the plan screen shows. This page does not invent a message cap |
-| A second chat seat | [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Team is the admin plan. The directory does not print a Team dollar | Do not invent a Team price. Read checkout |
+| A second chat seat | [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Team is the admin plan. The directory does not print a Team dollar | Do not invent a Team price. Read checkout |
 | An API token rate | [DeepSeek](/tools/deepseek/) API input from $0.15 per 1 million tokens off-peak on a cache miss, output $0.60 off-peak | Tokens, split by feature. The chat app being free is not an API quota |
 | Workflow credits | [Make](/tools/make/) Core is $9 a month billed annually for 10,000 credits. Free is 1,000 credits a month | Make credits. They are not model tokens |
 | Message credits on a bot | [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly for 700 credits | Bot credits, separate from the model invoice underneath |

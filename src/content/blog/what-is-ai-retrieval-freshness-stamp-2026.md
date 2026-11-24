@@ -40,7 +40,7 @@ A sentence in the answer that says "updated recently" is not a stamp. The stamp 
 
 **A public page you still date yourself.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on that card. A citation is a link. The stamp is the date you write down for the clock you named. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**The line that copies the stamp into a note.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Paste the page id and the date. Ask for the stamp line. Do not ask whether the page is "probably current." The review is [Claude review](/blog/claude-review-2026/).
+**The line that copies the stamp into a note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Paste the page id and the date. Ask for the stamp line. Do not ask whether the page is "probably current." The review is [Claude review](/blog/claude-review-2026/).
 
 **The reminder when a date is missing.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, 750 tasks, on the October 16 card. A task that flags a page with no review date is a clock. It does not decide the text is true. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

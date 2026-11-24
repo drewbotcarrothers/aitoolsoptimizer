@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A first pass with links you will click | [Perplexity](/tools/perplexity/) Free, within the weekly limit | Open the page. Record the date. Drop any claim whose page you did not open |
 | You will do this every week | Perplexity Pro at $17 a month billed annually | The invoice is the seat. The source is still the page |
 | You already captured the page and want a tight note | [ChatGPT](/tools/chatgpt/) Free, or Plus at $20 a month | The paste is the source. The model may not add a fact from memory |
-| The note has to follow a long battlecard template | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | Same rule. Template fields with no source stay Missing |
+| The note has to follow a long battlecard template | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Same rule. Template fields with no source stay Missing |
 | The running log lives in a wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page in Notion is the record. The chat is the draft |
 
 ```mermaid

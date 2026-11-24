@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Excel Analysis (2026): Upload the Sheet, Check the Total"
-description: "ChatGPT vs Claude for spreadsheet questions in 2026. Plus at $20 or Pro at $17 annual. The total still has to match the file. No accuracy scores."
+description: "ChatGPT vs Claude for spreadsheet questions in 2026. Plus at $20 or Pro at {{price:claude.pro_annual}} annual. The total still has to match the file. No accuracy scores."
 pubDate: "2026-10-24"
 category: "data-analytics"
 tags: ["chatgpt", "claude", "excel", "spreadsheets"]
@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use ChatGPT Plus at $20 a month or Claude Pro at $20 a month ($17 billed annually) to ask questions of a workbook you upload, then recompute any total in the sheet before you share it.** Pick ChatGPT if the file already lives in a Project your team reuses. Pick Claude if you want the long written read of the same file and you will paste the columns you care about. If the formula has to stay inside Excel, the Microsoft seat is the other product, and it is not a winner of this pair.
+**Use ChatGPT Plus at $20 a month or Claude Pro at {{price:claude.pro_monthly}} a month ({{price:claude.pro_annual}} billed annually) to ask questions of a workbook you upload, then recompute any total in the sheet before you share it.** Pick ChatGPT if the file already lives in a Project your team reuses. Pick Claude if you want the long written read of the same file and you will paste the columns you care about. If the formula has to stay inside Excel, the Microsoft seat is the other product, and it is not a winner of this pair.
 
 The coding pair is [ChatGPT vs Claude for coding](/blog/chatgpt-vs-claude-for-coding-2026/). The writing pair is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). A number the model stated without the cell is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/). The analyst shelf is [best AI tools for data analysts](/blog/best-ai-tools-for-data-analysts-2026/).
 
@@ -36,7 +36,7 @@ flowchart TD
   check --> share["Share the note only after it matches"]
 ```
 
-Five people on ChatGPT Plus are 5 × $20 = $100 a month, with no shared admin. The same five on Business annual are also 5 × $20, with a two-user minimum and admin controls. Claude Pro annual for one analyst is $200 a year. A second analyst is another seat. Claude Team's dollar is not on the card, so a team budget should come from checkout.
+Five people on ChatGPT Plus are 5 × $20 = $100 a month, with no shared admin. The same five on Business annual are also 5 × $20, with a two-user minimum and admin controls. Claude Pro annual for one analyst is {{price:claude.pro_upfront}} a year. A second analyst is another seat. Claude Team's dollar is not on the card, so a team budget should come from checkout.
 
 ## When the chat is the wrong surface
 

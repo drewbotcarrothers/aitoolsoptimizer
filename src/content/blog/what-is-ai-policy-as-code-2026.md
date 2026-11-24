@@ -38,7 +38,7 @@ An exception list without an owner becomes the real policy. Name the owner. The 
 
 ## Where the draft of the rule is written
 
-**The long policy in plain language.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the signed rules in a Project so the next draft cannot drift them. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long policy in plain language.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the signed rules in a Project so the next draft cannot drift them. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team default.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually for two or more users, or $25 monthly, with admin controls and no training on business data by default. Plus at $20 is a personal seat. A company policy does not live only in one person's Plus account.
 

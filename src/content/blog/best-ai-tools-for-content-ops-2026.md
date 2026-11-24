@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The board: status, owner, due date, link to the brief | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month. Plus is $10 and is not the full AI tier | One board. A second tracker will lie |
-| A checklist from a brief you already approved | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The brief is the source. The checklist does not add a promise |
+| A checklist from a brief you already approved | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The brief is the source. The checklist does not add a promise |
 | A one-pager or a deck the calendar already planned | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | The deck repeats the brief. It does not invent an offer |
 | A notice when a status changes | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | A status ping is a task. Read the meter |
 | Many writers, one voice card, on a paid seat | [Jasper](/tools/jasper/) | Pro is $59 a seat a month billed yearly, or $69 monthly. Business is custom | A 7-day Pro trial is on the card. The voice card still has an owner |

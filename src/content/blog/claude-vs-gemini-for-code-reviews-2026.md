@@ -1,6 +1,6 @@
 ---
 title: "Claude vs Gemini for Code Reviews (2026): Comments on a Diff You Pasted"
-description: "Claude vs Gemini for code review notes in 2026. Pro is $20. Gemini Pro is $19.99. You paste the diff and the standard. No review scores."
+description: "Claude vs Gemini for code review notes in 2026. Pro is $20. Gemini Pro is {{price:gemini.pro}}. You paste the diff and the standard. No review scores."
 pubDate: "2026-10-24"
 category: "coding"
 tags: ["claude", "gemini", "code-review", "comparison"]
@@ -20,8 +20,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The review you actually have | Start here | What you still do |
 |---|---|---|
 | A short diff you can paste once | [Claude](/tools/claude/) Free or [Gemini](/tools/gemini/) Free | You keep, edit, or delete each comment |
-| The same review standard every week | Claude Pro at $20 a month, or $17 billed annually | The Project holds the standard. Comments that are not in the standard come out |
-| The note must live in a Google Doc | Gemini, free, or Google AI Pro at $19.99 a month | Pro is the directory's row for Gemini in Docs |
+| The same review standard every week | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the standard. Comments that are not in the standard come out |
+| The note must live in a Google Doc | Gemini, free, or Google AI Pro at {{price:gemini.pro}} a month | Pro is the directory's row for Gemini in Docs |
 | The comment should sit on the lines in the editor | [Cursor](/tools/cursor/) Plus at $8 a month, or $80 a year | This pair is the wrong tool for an inline edit. Use the editor |
 | The comment should sit in GitHub's review box from Copilot | [GitHub Copilot](/tools/github-copilot/) Pro at $10 a user a month | Again, a different product. The invoice is its own page |
 
@@ -35,7 +35,7 @@ flowchart TD
   cut --> human["A person who can run the code approves or requests changes"]
 ```
 
-Claude Max starts at $100. A review note does not need it. Google AI Plus is $4.99 a month. Buy Plus when you need that card's video and storage, not because a diff requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs. Chat is not a substitute for running the tests. For writing code rather than reviewing it, see [Claude vs Gemini for coding](/blog/claude-vs-gemini-for-coding-2026/): Claude Code in the terminal, or the Google seat.
+Claude Max starts at $100. A review note does not need it. Google AI Plus is {{price:gemini.plus}} a month. Buy Plus when you need that card's video and storage, not because a diff requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs. Chat is not a substitute for running the tests. For writing code rather than reviewing it, see [Claude vs Gemini for coding](/blog/claude-vs-gemini-for-coding-2026/): Claude Code in the terminal, or the Google seat.
 
 ## What the comment may say
 

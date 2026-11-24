@@ -43,7 +43,7 @@ If you only keep the vector list, you do not have a hybrid rerank. You have one 
 
 **A paper list.** [Elicit](/tools/elicit/) is the research seat when the corpus is papers. The October 16 card is the price record. This explainer does not add a dollar the card did not print in the sentence you are reading. The comparison is the literature-map article above.
 
-**The instruction that names the cutoff.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Use a Project to hold the cutoff and the index rules. The review is [Claude review](/blog/claude-review-2026/).
+**The instruction that names the cutoff.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Use a Project to hold the cutoff and the index rules. The review is [Claude review](/blog/claude-review-2026/).
 
 **One query's expected sources.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Paste the two lists if you are checking an order by hand. The chat is not the index.
 

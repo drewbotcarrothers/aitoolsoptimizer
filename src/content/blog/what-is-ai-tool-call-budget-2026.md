@@ -38,7 +38,7 @@ A budget of "as many as it needs" is not a budget. Write the integer on the task
 
 **The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. Agent mode is where a missing cap turns one ticket into a pile of edits. You still read the diff. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 page. The October 24 page says Claude Code shares the plan's usage with chat. That shared pool is not a tool-call count. You still set the count. The review is [Claude Code review](/blog/claude-code-review-2026/).
+**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or $20 monthly, on the October 24 page. The October 24 page says Claude Code shares the plan's usage with chat. That shared pool is not a tool-call count. You still set the count. The review is [Claude Code review](/blog/claude-code-review-2026/).
 
 **The IDE assistant.** [GitHub Copilot](/tools/github-copilot/) Pro is $10 a user a month on the October 16 card. Business is $19 a user a month. A personal seat does not set your company's call cap. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

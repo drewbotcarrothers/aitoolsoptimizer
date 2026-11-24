@@ -39,7 +39,7 @@ Tell the candidate the interview is being noted or recorded, the same way you wo
 
 **The template the hiring team reuses.** [Notion AI](/tools/notion-ai/) Business is $20 a seat. Duplicate the database row per candidate. Plus at $10 is not the full AI tier. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The page is the record. The chat is not. That distinction is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**A long transcript plus the rubric.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the blank scorecard in a Project. Ask for quotes only. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long transcript plus the rubric.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the blank scorecard in a Project. Ask for quotes only. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The chat, for a short debrief you will paste back.** [ChatGPT](/tools/chatgpt/) Plus is $20. If the notes include candidate data, use a plan your review allows. Business is $20 a user a month billed annually, for two or more users, and does not train on business data by default. A personal Plus seat is a different promise. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

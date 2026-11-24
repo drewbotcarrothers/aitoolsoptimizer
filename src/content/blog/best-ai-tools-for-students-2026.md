@@ -17,7 +17,7 @@ Prices are US list prices from vendor pages checked October 16, 2026, except Gem
 
 | Job this week | Tool | What is free | Pay when |
 |---|---|---|---|
-| Quiz yourself on a chapter or lecture PDF | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. 3 Audio Overviews a day on the standard plan | Google AI Plus is $4.99/month and raises the caps |
+| Quiz yourself on a chapter or lecture PDF | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. 3 Audio Overviews a day on the standard plan | Google AI Plus is {{price:gemini.plus}}/month and raises the caps |
 | Practice a skill without being handed the solution | [Khanmigo](/tools/khanmigo/) | Free for teachers. Learners and families: $4/month or $44/year | You want the tutor on more than a teacher's account |
 | Fix grammar in a draft you wrote | [Grammarly](/tools/grammarly/) | Free correctness checks | Pro is $12/member/month billed annually if rewrites are the bottleneck. See [is Grammarly Pro worth it](/blog/is-grammarly-pro-worth-it-2026/) |
 | A question that needs a cited web answer | [Perplexity](/tools/perplexity/) | Free, with limited weekly use of top models | Pro is $17/month billed annually. See [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/) |
@@ -65,7 +65,7 @@ Grammarly Free checks spelling and grammar where you type. Pro is $12/member/mon
 
 QuillBot's free plan paraphrases up to 100 words. Premium showed $8.33/month on annual billing when we checked, and QuillBot says the checkout can change with location and currency. Paraphrase a sentence you understand. Do not run a whole reading through it and submit the output.
 
-[ChatGPT](/tools/chatgpt/) Free includes unlimited GPT-6 text chats, with limits on uploads and tools. [Claude](/tools/claude/) Free includes chat, file creation, and Artifacts, with usage limits and up to 5 Projects. Go is $8/month and OpenAI says it may include ads. Plus and Claude Pro are both $20/month. Claude Pro is $17/month if you pay $200 for the year. Either paid plan is optional for a student who uses the notebook and a grammar checker.
+[ChatGPT](/tools/chatgpt/) Free includes unlimited GPT-6 text chats, with limits on uploads and tools. [Claude](/tools/claude/) Free includes chat, file creation, and Artifacts, with usage limits and up to 5 Projects. Go is $8/month and OpenAI says it may include ads. Plus and Claude Pro are both {{price:claude.pro_monthly}}/month. Claude Pro is {{price:claude.pro_annual}}/month if you pay {{price:claude.pro_upfront}} for the year. Either paid plan is optional for a student who uses the notebook and a grammar checker.
 
 ## Coding, dictation, and design, if the course needs them
 

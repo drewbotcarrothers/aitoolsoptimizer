@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A first pass from a memo, shared as a link | [Gamma](/tools/gamma/) | Plus is $9 a seat a month. Annual is $108 a seat a year on the directory card | Every figure comes from the memo |
 | One founder, a reusable template, PPTX export | [Pitch](/tools/pitch/) Free for up to 5 members, 100 AI credits that do not renew | Plus is $10 a seat a month billed yearly, and the directory says Plus is one member | The same rule |
 | A team editing one deck, with tracked links | Pitch | Team is $15 a seat a month billed yearly | Commenters are not charged, on the directory card |
-| The narrative in sentences before slides | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The memo is the source |
+| The narrative in sentences before slides | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The memo is the source |
 
 ```mermaid
 flowchart TD

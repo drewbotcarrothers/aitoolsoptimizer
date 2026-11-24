@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The brief and the messaging | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | It may not add a segment or a feature |
+| The brief and the messaging | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | It may not add a segment or a feature |
 | A dated public page | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the citation |
 | The record | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | After the brief is signed |

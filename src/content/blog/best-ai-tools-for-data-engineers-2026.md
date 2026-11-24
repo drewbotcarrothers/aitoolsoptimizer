@@ -20,7 +20,7 @@ Cursor's Plus price is the October 24, 2026 help-center figure recorded in [Curs
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | A diff in the transform, which you will read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You still run the checks you trust. Plus omits Cloud Agents on the October 24 help page |
-| The schema contract, from fields you named | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A new column is not a clarification |
+| The schema contract, from fields you named | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A new column is not a clarification |
 | The contract page and the freshness line | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A timestamp you did not measure stays out |
 | Completions in the editor you already use on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month | Business is $19. Enterprise is $39. Neither is a grain |
 

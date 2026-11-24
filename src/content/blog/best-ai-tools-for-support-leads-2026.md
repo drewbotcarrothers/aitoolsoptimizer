@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The coaching note, from observations you wrote | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No score, no adjective you did not paste |
+| The coaching note, from observations you wrote | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No score, no adjective you did not paste |
 | The shift handoff the next lead will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The customer update, after you decided the remedy | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | The remedy sentence does not move |
 | One short handoff from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No ticket the paste did not name |

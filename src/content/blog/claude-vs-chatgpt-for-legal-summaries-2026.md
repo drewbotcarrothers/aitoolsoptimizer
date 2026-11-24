@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use Claude or [ChatGPT](/tools/chatgpt/) to summarize a document you have the right to upload, then have a qualified person read both the summary and the source before anyone relies on it.** This is document summarization. It is not legal advice, not a prediction of how a dispute comes out, and not a substitute for counsel. Pick Claude Pro at $20 a month ($17 billed annually) when the file is long and you want the summary to stay tied to sections you can point at. Pick ChatGPT Plus at $20 a month when the memo should live in a Project your team reopens. If a clause is not in the file, the summary says Missing.
+**Use Claude or [ChatGPT](/tools/chatgpt/) to summarize a document you have the right to upload, then have a qualified person read both the summary and the source before anyone relies on it.** This is document summarization. It is not legal advice, not a prediction of how a dispute comes out, and not a substitute for counsel. Pick Claude Pro at {{price:claude.pro_monthly}} a month ({{price:claude.pro_annual}} billed annually) when the file is long and you want the summary to stay tied to sections you can point at. Pick ChatGPT Plus at $20 a month when the memo should live in a Project your team reopens. If a clause is not in the file, the summary says Missing.
 
 The ops shelf around intake and playbooks, which is a different job, is [best AI tools for legal ops](/blog/best-ai-tools-for-legal-ops-2026/). A wrong sentence that was not in the file is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/). The check is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 
@@ -43,7 +43,7 @@ Claude Team is per seat for 2 to 150 people. The directory does not list a publi
 
 **The page that holds the summary and the source link.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Name the person who checked it and the date. A chat thread is not the file. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). That habit is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**A notebook grounded in files you upload.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account in supported countries. Google AI Plus at $4.99 a month adds more notebooks and Audio Overviews. Google AI Pro at $19.99 a month offers 5x more, on the card. Citations point at your sources. You still open them. The notebook is a reading aid, not advice.
+**A notebook grounded in files you upload.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account in supported countries. Google AI Plus at {{price:gemini.plus}} a month adds more notebooks and Audio Overviews. Google AI Pro at {{price:gemini.pro}} a month offers 5x more, on the card. Citations point at your sources. You still open them. The notebook is a reading aid, not advice.
 
 **The line edit after the facts are checked.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually. It will not know whether a notice period was omitted.
 

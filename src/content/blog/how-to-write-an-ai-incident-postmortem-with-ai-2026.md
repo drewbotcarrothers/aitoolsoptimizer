@@ -38,7 +38,7 @@ The customer note, if one goes out, uses the impact line from this document and 
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the timeline in a Project so a later edit does not smooth a minute. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the timeline in a Project so a later edit does not smooth a minute. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the timeline and the date the owner accepted the cause line. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

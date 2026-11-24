@@ -20,7 +20,7 @@ Perplexity and ChatGPT prices are from directory pages checked October 16, 2026.
 | A public price, date, or feature, with a link | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | You open the citation. A dead link empties the cell |
 | The one-page layout, from rows you already checked | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No new fact in the layout pass |
 | The page sales will reuse | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The tearsheet in chat is not the page they open |
-| A paragraph under the table | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The paragraph may not add a row |
+| A paragraph under the table | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The paragraph may not add a row |
 
 ```mermaid
 flowchart TD

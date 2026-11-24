@@ -53,7 +53,7 @@ Context on the card is 1 million tokens, with up to 384K output tokens. A long p
 
 ## What a seat costs somewhere else
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [Gemini](/tools/gemini/) on Google AI Plus is $4.99 a month. Those are seats with usage limits, not a published per-million price you can set next to $0.15. Compare them when the job is a person chatting. Compare the table above when the job is your own application. Data governance is a separate decision: the directory identifies DeepSeek as a Hangzhou-based company. A policy that restricts where prompts may be processed can rule the cheap token out. The policy list is [what an AI data retention policy is](/blog/what-is-ai-data-retention-policy-2026/).
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [Gemini](/tools/gemini/) on Google AI Plus is {{price:gemini.plus}} a month. Those are seats with usage limits, not a published per-million price you can set next to $0.15. Compare them when the job is a person chatting. Compare the table above when the job is your own application. Data governance is a separate decision: the directory identifies DeepSeek as a Hangzhou-based company. A policy that restricts where prompts may be processed can rule the cheap token out. The policy list is [what an AI data retention policy is](/blog/what-is-ai-data-retention-policy-2026/).
 
 ## What not to assume
 

@@ -46,11 +46,11 @@ If you need one answer for a draft, pick the seat that matches the job and say a
 
 **A product feature that compares models.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 16 card. That card says Pro and Max include Model Council, which compares answers across models. Max is $167 a month billed annually on the same card. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**A second reading you paste.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Paste two answers. Ask for sentences that contradict. The review is [Claude review](/blog/claude-review-2026/).
+**A second reading you paste.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Paste two answers. Ask for sentences that contradict. The review is [Claude review](/blog/claude-review-2026/).
 
 **One prompt, one seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Plus is not a multi-model vote. If you only have one answer, say so. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**Another single seat.** [Gemini](/tools/gemini/) Google AI Plus is $4.99 a month on the October 16 card. Pro is $19.99. A second product is a second answer only if you sent the same prompt and kept both. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Another single seat.** [Gemini](/tools/gemini/) Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Pro is {{price:gemini.pro}}. A second product is a second answer only if you sent the same prompt and kept both. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 A prompt that holds the line:
 

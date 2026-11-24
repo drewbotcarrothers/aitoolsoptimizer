@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The stage map: name, entry rule, message allowed | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A stage the model renamed is a second program |
-| The email from a fact you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No discount, no usage number, no "we noticed" |
+| The email from a fact you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No discount, no usage number, no "we noticed" |
 | Who is actually in the stage | [HubSpot](/tools/hubspot/) | Free CRM. Starter was a promo at $7 or $10 a seat | Do not treat the promo as the lasting price |
 | The line edit | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | A correct sentence can still be a false promise |
 | A short reusable skeleton | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Swap the fact. Keep the skeleton. Go at $8 may include ads |

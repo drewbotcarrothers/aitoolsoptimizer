@@ -41,7 +41,7 @@ A support macro that is going away is [how to write a support macro retirement n
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. One row per id, the date, the replacement, and the owner. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The draft of the notice.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the id so a later edit does not swap it. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**The draft of the notice.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the id so a later edit does not swap it. The review is [Claude review](/blog/claude-review-2026/). The ladder is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 **One row from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds a replacement. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

@@ -42,7 +42,7 @@ It is the annual Premium rate the directory recorded from QuillBot's Premium pag
 
 It is not [Grammarly](/tools/grammarly/) Pro. Grammarly Pro is $12 a member a month billed annually, or $30 monthly, on the October 16 Grammarly card. Grammarly's job on that card is grammar and tone across apps, with 2,000 AI prompts on Pro. QuillBot's job on its card is paraphrasing modes plus the other tools in the Premium list. Buying both because the prices look small is two subscriptions. Pick the job.
 
-It is not a drafting seat. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those draft from a brief. QuillBot rewrites text you already wrote. A paraphrase can change the meaning. Read it. A changed meaning in a citation or a policy is your error, not a style choice.
+It is not a drafting seat. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Those draft from a brief. QuillBot rewrites text you already wrote. A paraphrase can change the meaning. Read it. A changed meaning in a citation or a policy is your error, not a style choice.
 
 ## The Team plan
 

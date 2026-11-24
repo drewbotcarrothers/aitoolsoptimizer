@@ -39,7 +39,7 @@ The set does not contain the project plan's dates, and it does not contain the u
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the pass sentence in a Project so a later edit does not soften it. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the pass sentence in a Project so a later edit does not soften it. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the build will open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the owner and the test, if you named one. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

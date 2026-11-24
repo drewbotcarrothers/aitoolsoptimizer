@@ -39,7 +39,7 @@ The style guide can be required reading in the review state. The workflow does n
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the state names in a Project so a later edit does not rename Approved to Ready. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the state names in a Project so a later edit does not rename Approved to Ready. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One database of prompt versions, with the state and the approver as properties a person edits. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

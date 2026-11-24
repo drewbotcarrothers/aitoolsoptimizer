@@ -39,7 +39,7 @@ A pipeline forecast the model typed because the brief "felt thin" is [a hallucin
 
 ## Where the brief is drafted
 
-**The long version.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the PRD excerpt in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long version.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the PRD excerpt in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The marketer's chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Business is $20 a user a month billed annually, minimum two, when the launch is still confidential. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

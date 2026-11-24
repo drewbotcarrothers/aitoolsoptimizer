@@ -38,7 +38,7 @@ A year of monthly Pro is 12 × $30 = $360. A year of annual Pro is $144. Four qu
 
 ## What Pro is, once Business is off the form
 
-**The seat.** [Grammarly](/tools/grammarly/) Pro is the plan the card tells you to buy for a team up to 149. It adds full-sentence rewrites, tone adjustment, and 2,000 AI prompts on top of Free. It does not follow a draft into a long-form studio. [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026, when the job is the draft. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**The seat.** [Grammarly](/tools/grammarly/) Pro is the plan the card tells you to buy for a team up to 149. It adds full-sentence rewrites, tone adjustment, and 2,000 AI prompts on top of Free. It does not follow a draft into a long-form studio. [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on claude.com/pricing fetched October 24, 2026, when the job is the draft. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 **The page the style guide lives on.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. That is Notion's Business plan. It is not Grammarly Business. The names collide. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

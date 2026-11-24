@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Job Descriptions (2026): One Role, or a Family"
-description: "ChatGPT vs Claude for job descriptions in 2026. The requirements stay the ones a hiring manager wrote. Plus is $20. Claude Pro is $17 billed annually or $20 monthly."
+description: "ChatGPT vs Claude for job descriptions in 2026. The requirements stay the ones a hiring manager wrote. Plus is $20. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "hiring", "comparison"]
@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in that s
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
 | One role, from a signed list | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No requirement that was not on the list |
-| Several roles that must share must-have sentences | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the shared lines. It does not retell them |
+| Several roles that must share must-have sentences | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the shared lines. It does not retell them |
 | The file the next recruiter will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not touch the requirements | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the must-have lines before and after |
 

@@ -40,7 +40,7 @@ If you write the anchors after you have a favorite candidate, the rubric will de
 
 **The page the loop reuses.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One database template. Duplicate the scorecard per candidate later. Do not let the rubric page become a scratch chat. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The record habit is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-**The long edit.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the job description and the draft anchors in a Project. Ask for clearer anchors, not for new traits. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long edit.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the job description and the draft anchors in a Project. Ask for clearer anchors, not for new traits. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A short pass, if that is where the manager already writes.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. If the paste includes employee or candidate data, use a plan your process allows. Business is $20 a user a month billed annually, minimum two users, and does not train on business data by default. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

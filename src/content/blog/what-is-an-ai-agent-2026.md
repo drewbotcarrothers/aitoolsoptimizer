@@ -19,7 +19,7 @@ Prices below are US list prices excluding tax, from vendor pages recorded Octobe
 
 | Shape | What it does | A directory example | Price to know |
 |---|---|---|---|
-| Chat, one turn | Answers from the prompt and the files you paste | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | ChatGPT Plus $20/month. Claude Pro $20/month, or $17 billed annually |
+| Chat, one turn | Answers from the prompt and the files you paste | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | ChatGPT Plus $20/month. Claude Pro {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
 | Workflow | Runs a path you drew: trigger, steps, stop | [Zapier](/tools/zapier/) or [Make](/tools/make/) | Zapier Free is 100 tasks/month. Professional is $19.99/month billed annually. Make Free is 1,000 credits/month. Core is from $9/month billed annually |
 | Agent | Pursues a role or a goal and can pick among tools | [Lindy](/tools/lindy/), [Manus](/tools/manus/), or [Relevance AI](/tools/relevance-ai/) | Lindy's trial is $50 in credits for 7 days. Team starts at $49.99/month for 5,000 credits. Manus Free includes 300 refresh credits a day. Pro starts at $20/month for 4,000 credits. Relevance Pro is $19/month billed annually. The free plan is retired |
 | Agent on a corpus you own | Answers customers from your docs, with handoff | [Chatbase](/tools/chatbase/) | Hobby is $32/month billed yearly, or $40 monthly, read October 24, 2026 |

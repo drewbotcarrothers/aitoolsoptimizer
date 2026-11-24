@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Granola's price
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The weekly ops note and the exception | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No risk score you did not compute |
+| The weekly ops note and the exception | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No risk score you did not compute |
 | The queue the next owner opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | Notes from an internal ops review, with no bot in a customer call | [Granola](/tools/granola/) | Business is $14 a user a month | A customer call is a different capture decision |
 | One note from a short paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No account that was not on your list |

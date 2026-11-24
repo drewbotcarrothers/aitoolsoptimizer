@@ -38,7 +38,7 @@ A rubric that says "be helpful" will pass almost everything. A rubric that says 
 
 ## Who grades
 
-**You, on a small set.** Twenty tasks you wrote from real tickets will teach you more than a public benchmark. [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) can format the table. The same model should not be the only judge of its own reply. Use it to draft the rubric, then mark the rows yourself. Claude Pro is $20 a month, or $17 billed annually, on the directory card checked October 16, 2026. ChatGPT Plus is $20. Those seats buy drafting time. They do not buy a passing score.
+**You, on a small set.** Twenty tasks you wrote from real tickets will teach you more than a public benchmark. [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) can format the table. The same model should not be the only judge of its own reply. Use it to draft the rubric, then mark the rows yourself. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, on the directory card checked October 16, 2026. ChatGPT Plus is $20. Those seats buy drafting time. They do not buy a passing score.
 
 **A second model, as a first pass.** A model can flag rows that disagree with the source. A person still opens the disagreements. The habit of opening the source is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 

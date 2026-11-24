@@ -38,7 +38,7 @@ The filter still runs after a passing recall check. A relevant passage can be fo
 
 ## Where the target is kept
 
-**The definition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the count and the miss path in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**The definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the count and the miss path in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **A cited public source you will open, when the labels are on the web.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 16 card. Enterprise Pro is $40 a user a month, or $400 a year, when the target is a company record. Open the citation. A citation is not a labeled relevant set. The ladder is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 

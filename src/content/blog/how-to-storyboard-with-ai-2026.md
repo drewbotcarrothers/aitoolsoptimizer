@@ -59,7 +59,7 @@ Generate two frames per shot, not twenty. Pick one. A storyboard that keeps ever
 
 ## Step 3: Move one frame, and price it
 
-[Google Flow](/tools/google-flow/) is the motion test that has a published credit cost in this directory. Everyone gets 50 credits a day, and unused daily credits do not roll over. Veo 3.1 Lite is 10 credits a clip, Fast is 20, and Quality is 100. A Quality clip is two days of the free daily grant. Google AI Plus at $4.99 a month adds 200 monthly Flow credits. Pro at $19.99 adds 1,000. The review is [Google Flow review](/blog/google-flow-review-2026/).
+[Google Flow](/tools/google-flow/) is the motion test that has a published credit cost in this directory. Everyone gets 50 credits a day, and unused daily credits do not roll over. Veo 3.1 Lite is 10 credits a clip, Fast is 20, and Quality is 100. A Quality clip is two days of the free daily grant. Google AI Plus at {{price:gemini.plus}} a month adds 200 monthly Flow credits. Pro at $19.99 adds 1,000. The review is [Google Flow review](/blog/google-flow-review-2026/).
 
 Test the one shot where motion changes the idea: a door opening, a product turn, a face turning. A static frame does not need a clip. [Runway](/tools/runway/) Standard is $12 a month billed annually for 625 credits if the motion work moves out of Flow. Do not run the same shot in three video products "to compare" until you have a frame you would actually use. That habit is how storyboards become invoices.
 

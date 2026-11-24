@@ -41,7 +41,7 @@ Anonymous means anonymous. Do not paste a transcript with names and ask for "who
 
 **A bot, if the team already consents to one.** [Fireflies](/tools/fireflies-ai/) Pro is $10 per user per month billed annually, or $18 monthly. Use the transcript as backup. Do not let AskFred write the retro. The invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). Alternatives, if the bot is the problem, are [Fireflies alternatives](/blog/fireflies-alternatives-2026/).
 
-**The cluster.** [Claude](/tools/claude/) Pro is $20, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Paste the notes. Ask for five themes, a count of notes under each, and zero suggested owners. Then delete themes the room does not recognize. A theme with one spicy note is not a theme. The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**The cluster.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Paste the notes. Ask for five themes, a count of notes under each, and zero suggested owners. Then delete themes the room does not recognize. A theme with one spicy note is not a theme. The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
 **The system of record.** [Notion AI](/tools/notion-ai/) Business is $20 per seat. [ClickUp Brain](/tools/clickup-brain/) starts at $9 per user on top of ClickUp. Put the action where the work already lives. A beautiful recap in chat that nobody opens is how the same retro repeats. The notes split is [Notion AI vs ClickUp Brain](/blog/notion-ai-vs-clickup-brain-2026/).
 

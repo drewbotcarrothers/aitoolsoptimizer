@@ -20,7 +20,7 @@ Otter and Fathom prices are from directory pages checked October 16, 2026. The O
 | A workspace of up to 25 billed users, longer conversations | [Otter](/tools/otter-ai/) | Business is $30 a user a month, or $19.99 billed annually | Pro caps the workspace at 5 billed users, on that card |
 | A recording you can start without a seat | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually, or $20 monthly | Free lists unlimited recordings. Confirm the bot is allowed on the partner's bridge |
 | CRM fields after the call | Fathom | Business is $25 a user a month billed annually, or $34 monthly | Team at $15 annually does not list that field sync |
-| The follow-up you will actually send | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No promise that was not in the transcript |
+| The follow-up you will actually send | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No promise that was not in the transcript |
 
 ```mermaid
 flowchart TD

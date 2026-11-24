@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Stakeholder Updates (2026): One Audience, Then the Ask"
-description: "ChatGPT vs Claude for stakeholder updates in 2026. The decision and the ask stay the ones a person wrote. Plus is $20. Claude Pro is $17 billed annually or $20 monthly."
+description: "ChatGPT vs Claude for stakeholder updates in 2026. The decision and the ask stay the ones a person wrote. Plus is $20. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "stakeholders", "comparison"]
@@ -20,7 +20,7 @@ ChatGPT's Plus price is from learn.chatgpt.com/docs/pricing on October 24, 2026.
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
 | One audience, from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No benefit that was not in the paste |
-| Several audiences, one decision sentence | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the decision. It does not retell it differently |
+| Several audiences, one decision sentence | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the decision. It does not retell it differently |
 | The page the next sender will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not touch the ask | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the ask before and after |
 

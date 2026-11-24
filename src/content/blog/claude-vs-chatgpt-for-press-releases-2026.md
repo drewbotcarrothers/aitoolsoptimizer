@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The draft you actually have | Start here | What you still do |
 |---|---|---|
 | One approved fact sheet | [Claude](/tools/claude/) Free or [ChatGPT](/tools/chatgpt/) Free | You send it, or you do not |
-| A long fact sheet plus a style doc | Claude Pro at $20 a month, or $17 billed annually | The Project holds both. The release adds no fact |
+| A long fact sheet plus a style doc | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds both. The release adds no fact |
 | The same release skeleton every announcement | ChatGPT Plus at $20 a month | Swap the sheet. Keep the skeleton |
 | A line pass before counsel or comms | [Grammarly](/tools/grammarly/) Pro at $12 a member a month billed annually, or $30 monthly | Grammarly does not approve a quote |
 | The archive of what you have said | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record of approved lines |

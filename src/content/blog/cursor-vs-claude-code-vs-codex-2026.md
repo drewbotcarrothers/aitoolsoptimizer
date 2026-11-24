@@ -18,7 +18,7 @@ These are documented product differences, last verified October 16, 2026. We did
 | Your situation | Start with | Price that matters |
 |---|---|---|
 | You live in an editor and want Tab plus an agent | [Cursor](/tools/cursor/) | Free tier exists. New Plus is $8/month ($80/year) on The X Subscription. Premium is $30 |
-| You want Claude’s agent in the terminal, IDE, Slack, or web | [Claude Code](/tools/claude-code/) | Included with Claude Pro: $20/month or $17/month billed annually |
+| You want Claude’s agent in the terminal, IDE, Slack, or web | [Claude Code](/tools/claude-code/) | Included with Claude Pro: {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}}/month billed annually |
 | You want coding inside the ChatGPT plan you already discuss buying | [Codex](/tools/openai-codex/) | Meaningful access on Plus ($20). Free and Go are for short tasks |
 | You want the cheapest dedicated coding seat in GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro $10/user/month, with $15 of monthly credits |
 | You want one IDE that routes across several model vendors | [Devin Desktop](/tools/devin-desktop/) (formerly Windsurf) | Pro $20/month |

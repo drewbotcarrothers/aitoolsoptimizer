@@ -20,7 +20,7 @@ Gamma's prices are from the directory page checked October 16, 2026, because gam
 | A first pass from an outline, shared as a link | [Gamma](/tools/gamma/) | Plus is $9 a seat a month. Annual is $108 a seat a year on the directory card | Every figure comes from the outline |
 | One presenter, Smart Slides, a PowerPoint export | [Beautiful.ai](/tools/beautiful-ai/) | Pro is $14.50 a month billed annually, or $45 billed monthly | The same rule |
 | A team of 2 to 20 sharing a theme | Beautiful.ai | Team is $40 a user a month billed annually, or $50 billed monthly | Comment history is not a source of new facts |
-| The outline in sentences, before slides | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The outline is the source |
+| The outline in sentences, before slides | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The outline is the source |
 
 ```mermaid
 flowchart TD

@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Use either ChatGPT Plus or Claude Pro to read a Python traceback you paste. Then run the test yourself.** Plus is $20 a month. Claude Pro is $20 a month, or $17 billed annually. The debugging difference on this page is not a leaderboard. It is whether the failing test stays in a chat, or whether you hand the repo to an agent. An agent that "fixes" five files you did not mean to open is a second bug.
+**Use either ChatGPT Plus or Claude Pro to read a Python traceback you paste. Then run the test yourself.** Plus is $20 a month. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The debugging difference on this page is not a leaderboard. It is whether the failing test stays in a chat, or whether you hand the repo to an agent. An agent that "fixes" five files you did not mean to open is a second bug.
 
 The agent choice, when you do want the repo edited, is [ChatGPT vs Claude for coding](/blog/chatgpt-vs-claude-for-coding-2026/). The editor comparison is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). This page stops at the failure in front of you: a stack trace, a wrong assert, a version you can name.
 
@@ -41,7 +41,7 @@ A green test you did not run is not a fix. A green test on a different Python ve
 
 **ChatGPT Plus at $20 a month** adds projects, higher upload limits, and expanded Codex, on the directory card. Free includes limited tools. Go at $8 a month is more room than Free, and the card says Go may include ads. Business is $20 a user a month billed annually, for two or more users, with no training on business data by default. A private repo's traceback belongs on a plan your company allows. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Claude Pro is $20 a month, or $17 billed annually ($200 a year).** The annual figure is the directory's. Pro includes Claude Code and Projects. Free can already take files and code, with usage limits. Max at $100 or $200 is 5× or 20× Pro usage. A single traceback does not require Max. Buy Max when the cap is the constraint, which is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). After the fix passes, a comment that records why the edge case exists helps the next reader; [Claude vs ChatGPT for code comments](/blog/claude-vs-chatgpt-for-code-comments-2026/) covers that step.
+**Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} a year).** The annual figure is the directory's. Pro includes Claude Code and Projects. Free can already take files and code, with usage limits. Max at $100 or $200 is 5× or 20× Pro usage. A single traceback does not require Max. Buy Max when the cap is the constraint, which is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). After the fix passes, a comment that records why the edge case exists helps the next reader; [Claude vs ChatGPT for code comments](/blog/claude-vs-chatgpt-for-code-comments-2026/) covers that step.
 
 **Cursor Plus at $8 a month** is the smaller seat if you are already in that editor and the bug is a few lines. Teams seats on that card are $30, $100, or $200. The invoice is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

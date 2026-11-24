@@ -40,7 +40,7 @@ The alert's line for "worse" can differ from the pass line. A case can still pas
 
 ## Where the line is written
 
-**The sentence.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the metric name and the line in a Project so a later edit does not round it. The review is [Claude review](/blog/claude-review-2026/).
+**The sentence.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the metric name and the line in a Project so a later edit does not round it. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the line lives next to the suite.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. You review a diff that changes the number. The individual ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

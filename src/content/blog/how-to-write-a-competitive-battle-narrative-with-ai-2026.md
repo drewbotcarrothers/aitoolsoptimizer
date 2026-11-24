@@ -39,7 +39,7 @@ The narrative and the battlecard have to match. If the card says "we do not have
 
 ## Where the draft is written
 
-**The long version.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the approved narrative in a Project with the sources. Free can hold a Project, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
+**The long version.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the approved narrative in a Project with the sources. Free can hold a Project, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
 
 **The default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two users, when the paste includes an unreleased roadmap or a private loss review. Do not paste a customer's confidential loss notes into a personal account your policy forbids. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The talk track, from the clicks you listed | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No click, limit, or SLA you did not paste |
+| The talk track, from the clicks you listed | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No click, limit, or SLA you did not paste |
 | A short leave-behind | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | The architecture has to match the doc |
 | The recap of what the buyer said | [Fathom](/tools/fathom/) | Free includes unlimited recordings and instant summaries | Premium is $16 a month billed annually, or $20 monthly, for advanced summaries and AI action items |
 | The battlecard and the script the next SE inherits | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |

@@ -1,6 +1,6 @@
 ---
-title: "Gemini Pricing Explained (2026): Plus at $4.99, Pro at $19.99"
-description: "Google Gemini pricing in 2026. Free with a Google account. AI Plus is $4.99. AI Pro is $19.99. Ultra is $99.99 or $199.99. The Notebook meter is a different page."
+title: "Gemini Pricing Explained (2026): Plus at {{price:gemini.plus}}, Pro at {{price:gemini.pro}}"
+description: "Google Gemini pricing in 2026. Free with a Google account. AI Plus is {{price:gemini.plus}}. AI Pro is {{price:gemini.pro}}. Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}}. The Notebook meter is a different page."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["gemini", "pricing", "google", "subscriptions"]
@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Google Gemini is free with a Google account. Google AI Plus is $4.99 a month. Google AI Pro is $19.99 a month. Google AI Ultra is $99.99 a month or $199.99 a month.** Plus is the card's 2x usage row against Free. Pro is the card's 4x usage row against Free, with Gemini 4 Argon and 5 TB of storage. Ultra's two prices are 5x and 20x Pro's limits, on the same card. Those multiples describe the Gemini app plan. They are not a score, and they are not automatically the notebook's limits.
+**Google Gemini is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}} a month. Google AI Ultra is {{price:gemini.ultra}} a month or {{price:gemini.ultra_top}} a month.** Plus is the card's 2x usage row against Free. Pro is the card's 4x usage row against Free, with Gemini 4 Argon and 5 TB of storage. Ultra's two prices are 5x and 20x Pro's limits, on the same card. Those multiples describe the Gemini app plan. They are not a score, and they are not automatically the notebook's limits.
 
 The product page is [Gemini review](/blog/gemini-review-2026/). The outline job inside a Google Doc is [Gemini vs Claude for slide outlines](/blog/gemini-vs-claude-for-slide-outlines-2026/). The Microsoft suite, when the files are in Word and Excel, is [Microsoft Copilot pricing explained](/blog/microsoft-copilot-pricing-explained-2026/).
 
@@ -20,10 +20,10 @@ Prices are US list prices from the Gemini subscriptions page as recorded in the 
 | Plan | Price | What the card highlights |
 |---|---|---|
 | Free | $0 | Flash-Lite, image generation and editing, 15 GB storage |
-| Google AI Plus | $4.99 a month | 2x usage versus Free, video generation, 200 Flow credits, 400 GB |
-| Google AI Pro | $19.99 a month | 4x usage versus Free, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
-| Google AI Ultra | $99.99 a month | 5x Pro limits, 10,000 Flow credits, 20 TB or more |
-| Google AI Ultra | $199.99 a month | 20x Pro limits, 25,000 Flow credits, YouTube Premium |
+| Google AI Plus | {{price:gemini.plus}} a month | 2x usage versus Free, video generation, 200 Flow credits, 400 GB |
+| Google AI Pro | {{price:gemini.pro}} a month | 4x usage versus Free, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
+| Google AI Ultra | {{price:gemini.ultra}} a month | 5x Pro limits, 10,000 Flow credits, 20 TB or more |
+| Google AI Ultra | {{price:gemini.ultra_top}} a month | 20x Pro limits, 25,000 Flow credits, YouTube Premium |
 
 ```mermaid
 flowchart TD
@@ -49,11 +49,11 @@ A year of Plus at the monthly rate on the card is 12 × $4.99 = $59.88. A year o
 
 **Notebook is a different meter.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account, and its directory page describes higher limits on the same Google AI plans, including a Pro multiple for notebooks that is not the "4x versus Free" line in the table above. Use the Notebook page when the job is a packet you uploaded. Use this page for the Gemini app subscription. Do not add the multiples together. The business side is a different bill; [Gemini Enterprise pricing](/blog/gemini-enterprise-pricing-explained-2026/) covers what the Cloud page lists and what it leaves out.
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those are the seats to price when the work is not inside Google. Pro at $19.99 is in the same band and includes the storage and the app integration. It is not the same product. Meta's assistant is free with a Meta account; [Meta AI pricing](/blog/meta-ai-pricing-explained-2026/) explains why the paid Muse tiers are a separate product.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Those are the seats to price when the work is not inside Google. Pro at $19.99 is in the same band and includes the storage and the app integration. It is not the same product. Meta's assistant is free with a Meta account; [Meta AI pricing](/blog/meta-ai-pricing-explained-2026/) explains why the paid Muse tiers are a separate product.
 
 ## What not to assume
 
-Do not call Plus "half of Pro" and stop. The 2x and 4x lines are usage multiples against Free, not a feature checklist. Gmail and Docs, 5 TB, and Gemini 4 Argon are why Pro exists. Do not quote Ultra as $99.99 if the cart is the 20x tier. Do not assume every feature on the US card is offered in every country. The directory says Plus is listed in more than 160 countries and territories, and Pro and Ultra in more than 150, with some features limited by country.
+Do not call Plus "half of Pro" and stop. The 2x and 4x lines are usage multiples against Free, not a feature checklist. Gmail and Docs, 5 TB, and Gemini 4 Argon are why Pro exists. Do not quote Ultra as {{price:gemini.ultra}} if the cart is the 20x tier. Do not assume every feature on the US card is offered in every country. The directory says Plus is listed in more than 160 countries and territories, and Pro and Ultra in more than 150, with some features limited by country.
 
 ## FAQ
 

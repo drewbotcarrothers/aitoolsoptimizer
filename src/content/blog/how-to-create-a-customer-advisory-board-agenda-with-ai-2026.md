@@ -39,7 +39,7 @@ A fake customer quote in the pre-read is [a hallucination](/blog/what-is-ai-hall
 
 ## Where the agenda is drafted
 
-**The hour.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the out-of-scope box in a Project so every CAB starts from the same rules. The review is [Claude review](/blog/claude-review-2026/).
+**The hour.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the out-of-scope box in a Project so every CAB starts from the same rules. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page members can open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the board's materials live there. The agenda is a page with a date, not a chat. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

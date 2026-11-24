@@ -48,7 +48,7 @@ A sentence with a link you opened, the date you opened it, and the question it a
 
 **ChatGPT Plus** is the formatting seat once the links are real. The card lists deep research on Plus. Deep research is still a stack of pages you open before a sentence is final. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-A long internal policy the answers must not contradict can sit with [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually. Claude formats. It does not fetch a public fact you have not pasted. The review is [Claude review](/blog/claude-review-2026/). If your team uses Claude for long documents, read [Perplexity vs Claude for RFP research](/blog/perplexity-vs-claude-for-rfp-research-2026/), where answers stay inside the corpus you pasted.
+A long internal policy the answers must not contradict can sit with [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Claude formats. It does not fetch a public fact you have not pasted. The review is [Claude review](/blog/claude-review-2026/). If your team uses Claude for long documents, read [Perplexity vs Claude for RFP research](/blog/perplexity-vs-claude-for-rfp-research-2026/), where answers stay inside the corpus you pasted.
 
 A prompt that holds the line:
 

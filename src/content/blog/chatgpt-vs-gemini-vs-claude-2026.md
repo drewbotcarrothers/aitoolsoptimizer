@@ -18,8 +18,8 @@ This comparison covers [ChatGPT](/tools/chatgpt/) (OpenAI), [Google Gemini](/too
 | If this is your main job | Start here | Paid plan most people buy |
 |---|---|---|
 | Mixed work: writing, images, voice, and some coding | [ChatGPT](/tools/chatgpt/) | Plus, $20/month |
-| Long documents, careful writing, and analysis | [Claude](/tools/claude/) | Pro, $20/month or $17/month billed annually |
-| Gmail, Docs, Drive, and Android, plus image and video | [Gemini](/tools/gemini/) | Google AI Pro, $19.99/month |
+| Long documents, careful writing, and analysis | [Claude](/tools/claude/) | Pro, {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}}/month billed annually |
+| Gmail, Docs, Drive, and Android, plus image and video | [Gemini](/tools/gemini/) | Google AI Pro, {{price:gemini.pro}}/month |
 | Answers you can click through to a source | [Perplexity](/tools/perplexity/) | Pro, $17/month billed annually |
 | Word, Excel, PowerPoint, and Outlook | [Microsoft Copilot](/tools/microsoft-copilot/) | Microsoft 365 Premium, $19.99/month |
 
@@ -50,7 +50,7 @@ Labels mean: **Strong** — the product is built for this and the relevant featu
 | Video generation | Limited | Limited | Strong on paid plans |
 | Coding agent in the same subscription | Strong (Codex) | Strong (Claude Code on Pro) | Partial |
 | Works inside the apps you already use | Partial | Partial (Microsoft 365 on Pro) | Strong for Google apps |
-| Lowest useful paid price | Go, $8/month | Pro, $17/month annual | Google AI Plus, $4.99/month |
+| Lowest useful paid price | Go, $8/month | Pro, $17/month annual | Google AI Plus, {{price:gemini.plus}}/month |
 
 Browse the full [chatbots and assistants](/tools/category/chatbots-assistants/) directory if you also want [Grok](/tools/grok/) or [Microsoft Copilot](/tools/microsoft-copilot/).
 
@@ -83,15 +83,15 @@ US prices, excluding tax where vendors say so. Annual figures are the billed-up-
 | Plan | Price | What you are paying for |
 |---|---|---|
 | Free | $0 | Flash-Lite, image generation and editing, 15 GB storage |
-| Google AI Plus | $4.99/month | 2× free usage, video generation, 200 Flow credits, 400 GB |
-| Google AI Pro | $19.99/month | 4× free usage, Gemini 4 Argon access, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
-| Google AI Ultra | $99.99 or $199.99/month | 5× or 20× Pro limits, 20 TB or more, YouTube Premium on the higher tier |
+| Google AI Plus | {{price:gemini.plus}}/month | 2× free usage, video generation, 200 Flow credits, 400 GB |
+| Google AI Pro | {{price:gemini.pro}}/month | 4× free usage, Gemini 4 Argon access, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
+| Google AI Ultra | {{price:gemini.ultra}} or {{price:gemini.ultra_top}}/month | 5× or 20× Pro limits, 20 TB or more, YouTube Premium on the higher tier |
 
 Google AI Plus is listed in more than 160 countries and territories, and Pro and Ultra in more than 150. Some features are limited by country. Mobile app-store prices can differ from these web prices.
 
 ## Which $20 plan is the default?
 
-For a single professional subscription, the three plans that compete directly are **ChatGPT Plus ($20)**, **Claude Pro ($20, or $17 annual)**, and **Google AI Pro ($19.99)**.
+For a single professional subscription, the three plans that compete directly are **ChatGPT Plus ($20)**, **Claude Pro ({{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} annual)**, and **Google AI Pro ({{price:gemini.pro}})**.
 
 - Choose **ChatGPT Plus** when you want images, voice, custom GPTs, and Codex without a second subscription. See [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/) if coding is the main reason you would upgrade.
 - Choose **Claude Pro** when you live in long documents, want Artifacts and Projects, and like that Claude Code is included. Usage limits are the trade-off heavy users report hitting on Pro; Max exists for that, at $100 or $200.

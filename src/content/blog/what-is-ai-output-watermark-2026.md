@@ -39,7 +39,7 @@ Google's Gemini Notebook help page, fetched October 24, 2026, says all outputs g
 
 ## Where you meet the mark
 
-**A research notebook.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Higher limits follow Google AI plans. On October 24, 2026, Google AI Plus was $4.99 a month, Pro was $19.99, and Ultra started at $99.99 or $199.99, on gemini.google/subscriptions. The notebook caps are [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/).
+**A research notebook.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Higher limits follow Google AI plans. On October 24, 2026, Google AI Plus was {{price:gemini.plus}} a month, Pro was {{price:gemini.pro}}, and Ultra started at $99.99 or $199.99, on gemini.google/subscriptions. The notebook caps are [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/).
 
 **A free avatar test.** [HeyGen](/tools/heygen/) Free is $0, with 3 videos a month, watermarked, up to 1 minute, on the October 24 pricing page. Creator is $29 a month and lists 1080p and removal of HeyGen branding. The invoice is [HeyGen pricing explained](/blog/heygen-pricing-explained-2026/).
 

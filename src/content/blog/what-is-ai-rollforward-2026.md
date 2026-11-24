@@ -40,7 +40,7 @@ The version id is [what prompt versioning is](/blog/what-is-prompt-versioning-20
 
 ## Where the decision is recorded
 
-**The prompt text.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the known-good prompt and the fix sit in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**The prompt text.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the known-good prompt and the fix sit in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short incident note.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can format the rollback reason, the check, and the slice size from notes you paste. It may not declare the fix ready. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

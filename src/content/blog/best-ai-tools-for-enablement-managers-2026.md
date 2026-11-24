@@ -17,7 +17,7 @@ The score a hiring loop uses is a different job. Do not turn a coaching note int
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| A coaching note from a transcript you may use | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The note may not add a critique the transcript does not support |
+| A coaching note from a transcript you may use | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The note may not add a critique the transcript does not support |
 | A deck you will present | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | The slides quote the approved script. They do not add a claim |
 | A call you will coach, if a bot is allowed | [Fathom](/tools/fathom/) | Free lists unlimited recordings. Premium is $16 a month billed annually | Say so before the call. The note still needs a person |
 | A quiz from that script | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Every question maps to a line in the script |
@@ -37,7 +37,7 @@ The team page owns the battlecard and the call library. Use it when you are desi
 
 ## What you are paying for
 
-**Claude Pro at $20** holds the transcript in a project and drafts the note: what the rep said, what the script says, and the gap, only where both texts support it. The review is [Claude review](/blog/claude-review-2026/).
+**Claude Pro at {{price:claude.pro_monthly}}** holds the transcript in a project and drafts the note: what the rep said, what the script says, and the gap, only where both texts support it. The review is [Claude review](/blog/claude-review-2026/).
 
 **Gamma Plus at $9** is the deck. Pro is $18 a seat a month if you need the larger credit pool. The invoice is [Gamma pricing explained](/blog/gamma-pricing-explained-2026/). A generated chart with a number you did not paste is the slide you delete.
 

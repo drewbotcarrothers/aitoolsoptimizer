@@ -50,7 +50,7 @@ None of those products replaces the work of deciding which relationships are tru
 
 ## When the graph is the wrong project
 
-Build one when the questions are about relationships you will ask again: which customers are on which plan, which articles cite which feature, which vendors feed which workflow. Skip it when the questions are "summarize this PDF." That is a document and a chat. [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually, is enough for the PDF. The directory recorded those prices on October 16, 2026.
+Build one when the questions are about relationships you will ask again: which customers are on which plan, which articles cite which feature, which vendors feed which workflow. Skip it when the questions are "summarize this PDF." That is a document and a chat. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, is enough for the PDF. The directory recorded those prices on October 16, 2026.
 
 If the relationship already lives in a CRM or a warehouse, query that system. Copying it into a second graph creates two sources of truth. The model will answer from the one you connected, including the stale one.
 

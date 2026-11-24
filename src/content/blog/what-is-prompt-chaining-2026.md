@@ -38,7 +38,7 @@ The check is the product. A chain that always continues is a long prompt with ex
 
 ## Where a chain is worth the calls
 
-**A document with a decision in the middle.** Extract the numbers. A person confirms them. Then draft the paragraph. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Projects, which is a place to keep the source next to the steps. Free can run a short chain until the limit. The review is [Claude review](/blog/claude-review-2026/).
+**A document with a decision in the middle.** Extract the numbers. A person confirms them. Then draft the paragraph. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and includes Projects, which is a place to keep the source next to the steps. Free can run a short chain until the limit. The review is [Claude review](/blog/claude-review-2026/).
 
 **A chat you already pay for.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month and includes projects. You can paste step 2 only after you have read step 1. That is a chain even when you click Send yourself. Plus is the seat. It is not a workflow engine.
 

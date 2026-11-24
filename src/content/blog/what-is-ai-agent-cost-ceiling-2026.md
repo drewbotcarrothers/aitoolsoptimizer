@@ -41,7 +41,7 @@ Opening a second run to finish the same task is a way around the ceiling. The ow
 
 **The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. A cloud agent can spend while you are not watching the diff. The ceiling is the number on that run. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly. The October 24 page says Claude Code shares the plan's usage with chat. That shared pool is not a per-run dollar stop. You still write the ceiling. The review is [Claude Code review](/blog/claude-code-review-2026/).
+**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or $20 monthly. The October 24 page says Claude Code shares the plan's usage with chat. That shared pool is not a per-run dollar stop. You still write the ceiling. The review is [Claude Code review](/blog/claude-code-review-2026/).
 
 **The sentence that states the number.** [Claude](/tools/claude/) Pro is the same seat when you only need the policy sentence. The sentence is not the enforcer.
 

@@ -43,7 +43,7 @@ The cases you run before a prompt is the one people call are a different artifac
 
 **The page new authors open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The owner and the required fields live there. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The rules, kept stable.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project holds the sentence about who may publish, so a later edit does not widen it. The review is [Claude review](/blog/claude-review-2026/).
+**The rules, kept stable.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project holds the sentence about who may publish, so a later edit does not widen it. The review is [Claude review](/blog/claude-review-2026/).
 
 **One README from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds a code-style section you did not ask for. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

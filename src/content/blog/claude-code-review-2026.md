@@ -1,6 +1,6 @@
 ---
 title: "Claude Code Review (2026): Included with Pro at $20"
-description: "A 2026 Claude Code review: the coding agent is included with Claude Pro at $17 a month annual or $20 monthly, Max from $100, and Team seats from $20."
+description: "A 2026 Claude Code review: the coding agent is included with Claude Pro at {{price:claude.pro_annual}} a month annual or {{price:claude.pro_monthly}} monthly, Max from $100, and Team seats from $20."
 pubDate: "2026-10-24"
 category: "coding"
 tags: ["claude-code", "coding", "review", "pricing"]
@@ -59,7 +59,7 @@ Claude Code can also show up inside other tools' subscriptions. That does not ma
 
 ### How much does Claude Code cost?
 
-It is included with paid Claude plans. Pro is $17 a month billed annually or $20 monthly. Max starts at $100 a month. Team standard seats are $20 a month billed annually or $25 monthly. Checked October 24, 2026 on claude.com/pricing.
+It is included with paid Claude plans. Pro is {{price:claude.pro_annual}} a month billed annually or {{price:claude.pro_monthly}} monthly. Max starts at $100 a month. Team standard seats are $20 a month billed annually or $25 monthly. Checked October 24, 2026 on claude.com/pricing.
 
 ### Is there a separate Claude Code subscription?
 

@@ -1,6 +1,6 @@
 ---
 title: "Google Flow Pricing Explained (2026): 50 Credits a Day, Then a Google AI Plan"
-description: "Google Flow pricing in 2026. 50 credits a day are free. Google AI Plus is $4.99, Pro is $19.99, Ultra is $99.99 or $199.99. Credit costs are from the October 24 help page."
+description: "Google Flow pricing in 2026. 50 credits a day are free. Google AI Plus is {{price:gemini.plus}}, Pro is {{price:gemini.pro}}, Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}}. Credit costs are from the October 24 help page."
 pubDate: "2026-10-24"
 category: "video"
 tags: ["google-flow", "pricing", "veo", "credits"]
@@ -20,10 +20,10 @@ Published October 24, 2026. We did not score clip quality. Credit costs can chan
 | Plan on October 24 | Price | Flow credits the help page lists |
 |---|---|---|
 | No subscription | $0 | 50 a day. They do not roll over. Video generation may be unavailable in peak hours, about 2 PM to 5 PM UTC |
-| Google AI Plus | $4.99 a month | 200 extra a month, on top of the daily 50 |
-| Google AI Pro | $19.99 a month | 1,000 extra a month |
-| Google AI Ultra | $99.99 a month | 10,000 extra a month. The help page calls this the $100 tier |
-| Google AI Ultra | $199.99 a month | 25,000 extra a month. The help page calls this the $200 tier |
+| Google AI Plus | {{price:gemini.plus}} a month | 200 extra a month, on top of the daily 50 |
+| Google AI Pro | {{price:gemini.pro}} a month | 1,000 extra a month |
+| Google AI Ultra | {{price:gemini.ultra}} a month | 10,000 extra a month. The help page calls this the $100 tier |
+| Google AI Ultra | {{price:gemini.ultra_top}} a month | 25,000 extra a month. The help page calls this the $200 tier |
 
 Monthly Flow credits refresh at the start of the billing cycle and do not roll over, on that help page. Subscribers in supported regions, except Japan, can buy more AI credits. The plan manager is who can buy credits or change the subscription. Family sharing of AI credits is described on the page. This article does not restate every family rule.
 
@@ -73,7 +73,7 @@ Do not treat 50 daily credits as a balance you can save for a Friday shoot. They
 
 ### How much does Google Flow cost?
 
-The studio is available with 50 credits a day at no Flow subscription of its own. More monthly credits come with Google AI Plus at $4.99, Pro at $19.99, or Ultra at $99.99 or $199.99, on the October 24 pages. You can also buy AI credits in supported regions if you already subscribe.
+The studio is available with 50 credits a day at no Flow subscription of its own. More monthly credits come with Google AI Plus at {{price:gemini.plus}}, Pro at {{price:gemini.pro}}, or Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}}, on the October 24 pages. You can also buy AI credits in supported regions if you already subscribe.
 
 ### Do credits roll over?
 

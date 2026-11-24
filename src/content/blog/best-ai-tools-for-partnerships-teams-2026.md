@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | A brief with sources you will click | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually. Monthly costs more. The card does not print that monthly dollar | You still open the citations |
-| The narrative and the mutual offer | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | It may not invent economics |
+| The narrative and the mutual offer | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | It may not invent economics |
 | The page the team reopens next quarter | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | The CRM, if you have one, stays the record of the deal |
 | The partner in the CRM | [HubSpot](/tools/hubspot/) | Free CRM. Starter was listed at $7 or $10 a seat a month, a limited-time offer | Confirm the promo. Credits are extra at $10 per 1,000 |
 | The joint deck | [Gamma](/tools/gamma/) or [Plus AI](/tools/plus-ai/) | Gamma Plus is $9 a seat. Plus AI Basic is $10 a user a month billed annually | The file format decides the tool |

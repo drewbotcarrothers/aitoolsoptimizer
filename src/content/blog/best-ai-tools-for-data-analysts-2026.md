@@ -21,8 +21,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | A CSV or a small extract, with a chart | [Julius AI](/tools/julius-ai/) | Plus is $20/month, or $16 billed annually, for 2,000 credits | The file you uploaded is the population. It is not the warehouse |
 | A notebook, SQL, and a published app | [Hex](/tools/hex/) | Professional is $36 per editor per month | Compute is a second meter. Community is the free trial of the agent |
-| A narrative under a chart you already trust | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | Paste the numbers. Do not ask it to remember last quarter |
-| The sheet lives in Google or Excel | [Gemini](/tools/gemini/) on the plan that reaches your files, or the sheet tools in the linked guide | Google AI Pro is $19.99 and lists Gemini in Gmail and Docs. Sheets are a separate check | Do not assume the Docs line covers a financial model |
+| A narrative under a chart you already trust | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | Paste the numbers. Do not ask it to remember last quarter |
+| The sheet lives in Google or Excel | [Gemini](/tools/gemini/) on the plan that reaches your files, or the sheet tools in the linked guide | Google AI Pro is {{price:gemini.pro}} and lists Gemini in Gmail and Docs. Sheets are a separate check | Do not assume the Docs line covers a financial model |
 | A method question, with a link | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually | Open the citation. A formula explained from memory can be wrong |
 | The write-up has to live in the wiki | [Notion AI](/tools/notion-ai/) | Business is $20/seat | The wiki is not the query layer |
 
@@ -53,7 +53,7 @@ Paste the table. Ask for three sentences and a list of figures used. Delete any 
 
 [Perplexity](/tools/perplexity/) Pro at $17 billed annually is how you check a definition or a public dataset, with a link. It is not how you query your orders table. The research split is [ChatGPT vs Perplexity for research](/blog/chatgpt-vs-perplexity-for-research-2026/).
 
-[Gemini](/tools/gemini/) belongs when the analyst already works in Google. Pro at $19.99 lists Gemini in Gmail and Docs and Gemini 4 Argon. Notebook, free with a Google account, is the right surface for a folder of exported reports you want cited. The Workspace seating is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/). The sheet article remains the one to read before you buy Pro "for Excel."
+[Gemini](/tools/gemini/) belongs when the analyst already works in Google. Pro at {{price:gemini.pro}} lists Gemini in Gmail and Docs and Gemini 4 Argon. Notebook, free with a Google account, is the right surface for a folder of exported reports you want cited. The Workspace seating is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/). The sheet article remains the one to read before you buy Pro "for Excel."
 
 [Notion AI](/tools/notion-ai/) Business at $20 a seat is where the weekly readout lives after the chart is done. Generate the paragraph there so the number and the commentary cannot drift across tools. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

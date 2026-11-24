@@ -77,7 +77,7 @@ Then ask for an exit ticket and one adaptation, not a 12-page unit. MagicSchool 
 | Student-facing tutor | Partial, with school controls | Brisk Boost on school plans | Strong | Only under a school agreement | No. It is a source notebook |
 | Feedback on writing | Strong as a draft | Strong as a draft | Partial | Only if policy allows the account | Partial, from sources you upload |
 | District admin and rostering | Enterprise | Premium and Intelligence | District tools | School and district features on the teacher plan | Workspace and Cloud editions |
-| Lowest confirmed paid price | $8.33/user/month annual | Custom | $4/month for families | $0 through the published window | Google AI Plus $4.99/month raises Notebook limits |
+| Lowest confirmed paid price | $8.33/user/month annual | Custom | $4/month for families | $0 through the published window | Google AI Plus {{price:gemini.plus}}/month raises Notebook limits |
 
 ## What to skip
 

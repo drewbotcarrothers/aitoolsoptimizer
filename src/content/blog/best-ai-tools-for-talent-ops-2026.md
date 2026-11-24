@@ -20,7 +20,7 @@ Prices are US list prices excluding tax. Notion, Claude, Granola, ClickUp, and G
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The scorecard library and the stage names | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A stage the model invented does not enter the library |
-| A clean draft of a grid you already use | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model formats. It does not rank people |
+| A clean draft of a grid you already use | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model formats. It does not rank people |
 | The interview loop on a calendar | [Reclaim.ai](/tools/reclaim-ai/) | Starter is $10 a seat a month on the yearly toggle, or $12 monthly | Scheduling is not a score |
 | Debrief notes without a bot on the call | [Granola](/tools/granola/) | Business is $14 a user a month | Free history is 30 days. The note is not a rating |
 | The tracker, if reqs live in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | From $9 per user a month, on a ClickUp plan | Unlimited is $7 a user yearly. Brain does not decide advance |

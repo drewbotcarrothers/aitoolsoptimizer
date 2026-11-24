@@ -18,7 +18,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, Grammar
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The canonical page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A long rewrite against a source | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No step that was not in the source |
+| A long rewrite against a source | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No step that was not in the source |
 | A last pass on the words | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | A warning stays a warning |
 | One page from a short paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No procedure the paste did not contain |
 

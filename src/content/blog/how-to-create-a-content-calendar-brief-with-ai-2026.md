@@ -38,7 +38,7 @@ A brief that says "thought leadership on AI" is not a brief. The claim is a sent
 
 ## Where the brief is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the voice card and the last briefs live in a Project. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the voice card and the last briefs live in a Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **The calendar page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the slot and the brief are the same database the team already opens. The model may fill a property from the brief. It may not create a row you did not ask for.
 

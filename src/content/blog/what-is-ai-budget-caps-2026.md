@@ -42,7 +42,7 @@ Raising a cap in the moment without a note will train the team to ignore the nex
 
 **A personal chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8, and the directory says it may include ads. Pro is $100, $200, or $500. None of those prices is a cap on your own API account. They are seats. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A writing and coding seat.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually ($200 up front). Max is $100 or $200. A Max plan raises usage. It does not set a company budget. The review is [Claude review](/blog/claude-review-2026/).
+**A writing and coding seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front). Max is $100 or $200. A Max plan raises usage. It does not set a company budget. The review is [Claude review](/blog/claude-review-2026/).
 
 **An editor pool.** [Cursor](/tools/cursor/) prices new team seats at $30, $100, or $200 a month. Plus at $8 is an individual plan with a weekly pool, and the help page describes it as a ratio, not a dollar cap you can paste into finance. Read the usage screen. The invoice is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

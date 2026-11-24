@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The note, from what people said in the session | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No theme that nobody said |
+| The note, from what people said in the session | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No theme that nobody said |
 | The working agreement the team already wrote | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. A rule you did not paste stays out |
 | A recording of a long coaching session | [Fathom](/tools/fathom/) | Free lists unlimited recordings and transcripts | Business, at $25 annual, is CRM field sync. A coaching session is not a deal |
 | The sentence that goes to leadership | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | It may not add a score or soften a quote |

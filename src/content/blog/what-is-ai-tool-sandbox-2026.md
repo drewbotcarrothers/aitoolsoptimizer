@@ -40,7 +40,7 @@ A sandbox that can send the real email is a production path with a hopeful name.
 
 ## Where people actually run one
 
-**A project that is not the live prompt.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. A Project can hold a test prompt next to sample text you are allowed to use. The seat is not a promise that the vendor's logs are isolated from your production account. The review is [Claude review](/blog/claude-review-2026/).
+**A project that is not the live prompt.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. A Project can hold a test prompt next to sample text you are allowed to use. The seat is not a promise that the vendor's logs are isolated from your production account. The review is [Claude review](/blog/claude-review-2026/).
 
 **A repo that is not the production branch.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the experiment is a branch you can throw away. The editor does not know which branch is production. You do. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

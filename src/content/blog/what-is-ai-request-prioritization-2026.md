@@ -40,7 +40,7 @@ A cold start on the worker you just added is a separate wait: [what an AI cold s
 
 ## What a seat price does not tell you
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Neither card is a queue diagram. If the chat is the product, your priority rule is the order of your own jobs around that seat: a live customer before a nightly digest. You do not get to reorder the vendor's other customers.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Neither card is a queue diagram. If the chat is the product, your priority rule is the order of your own jobs around that seat: a live customer before a nightly digest. You do not get to reorder the vendor's other customers.
 
 [DeepSeek](/tools/deepseek/) records token prices, not a queue class, on the October 16 card. If you call the API from your feature, the priority rule is yours. Put interactive calls and batch calls in different workers or different limits so a backfill cannot occupy the path a person is waiting on. The meter beside that choice is [what AI token metering is](/blog/what-is-ai-token-metering-2026/).
 

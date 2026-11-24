@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The piece | Start here | First paid step | The limit |
 |---|---|---|---|
-| The draft of a note or a speech | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | A leader approves the facts |
+| The draft of a note or a speech | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | A leader approves the facts |
 | The wiki people will search next month | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | The page has an owner |
 | The edit, after the facts are frozen | [Grammarly](/tools/grammarly/) | Free for grammar. Pro is $12 a member a month billed annually | It will not catch a wrong policy |
 | You already live in Microsoft 365 | [Microsoft Copilot](/tools/microsoft-copilot/) | Copilot Business from $18 a user a month paid yearly, recorded as promotional. The directory says it had been $21 | Confirm the renewal price |

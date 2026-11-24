@@ -41,7 +41,7 @@ Grounding is not a tone. A model can sound careful and still invent a date. It c
 
 ## Products that already attach a source
 
-**Files you own.** [Gemini Notebook](/tools/gemini-notebook/) answers from sources you upload. It is free with a Google account. Google AI Plus is $4.99 a month and Pro is $19.99, which raise limits. They do not change the rule: an empty notebook is not grounded. The study use is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). The long-document comparison is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
+**Files you own.** [Gemini Notebook](/tools/gemini-notebook/) answers from sources you upload. It is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month and Pro is {{price:gemini.pro}}, which raise limits. They do not change the rule: an empty notebook is not grounded. The study use is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). The long-document comparison is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
 
 **The web.** [Perplexity](/tools/perplexity/) answers with citations. Free covers top models with a weekly cap. Pro is $17 a month billed annually. Max is $167 a month billed annually. A citation to a page is grounding only after you open the page. The buying note is [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/). When the source is not the open web, the map is [Perplexity alternatives](/blog/perplexity-alternatives-2026/).
 
@@ -49,7 +49,7 @@ Grounding is not a tone. A model can sound careful and still invent a date. It c
 
 **A corpus you operate.** [Chatbase](/tools/chatbase/) trains an agent on sources you upload. Hobby is $32 a month billed yearly, or $40 monthly, with 700 message credits. If the source is wrong, the bot is grounded in the wrong thing. That is still a failure. The build is [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/).
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the source, or put it in a Project. The model can still add a sentence that is not in the paste. Ask it to mark gaps. Then you delete them. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the source, or put it in a Project. The model can still add a sentence that is not in the paste. Ask it to mark gaps. Then you delete them. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 ## Grounding versus a prompt that says "only use the file"
 

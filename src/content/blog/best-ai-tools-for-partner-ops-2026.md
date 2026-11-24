@@ -20,7 +20,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, HubSpot
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The page the next exception will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page stores the decision. The chat does not approve it |
-| A notice that must match the last one | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No date that was not in the paste |
+| A notice that must match the last one | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No date that was not in the paste |
 | The partner record | [HubSpot](/tools/hubspot/) | Free tools are $0. Confirm Starter before you cite $7 or $10 | The row is the record. A generated brief does not edit the tier |
 | A public claim you must open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the citation. A second model's agreement is not the page |
 

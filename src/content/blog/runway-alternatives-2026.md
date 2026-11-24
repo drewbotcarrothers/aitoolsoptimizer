@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A lower entry subscription for generated clips | [Kling](/tools/kling-ai/) | Standard is $6.99 the first month, then $8.80, for 660 credits. The card also showed a $10 figure |
 | A commercial Luma plan with a large credit pool | [Luma](/tools/luma-ai/) | Plus is $30/month or $300/year for 10,000 credits |
 | Every model in one app, priced only by credits | [Pika](/tools/pika/) | Starter is $10/month for 900 credits. Commercial use starts on Creator at $35 |
-| Clips inside a Google AI plan you may already have | [Google Flow](/tools/google-flow/) | 50 credits a day on the free allowance. Google AI Plus is $4.99/month and adds 200 monthly Flow credits |
+| Clips inside a Google AI plan you may already have | [Google Flow](/tools/google-flow/) | 50 credits a day on the free allowance. Google AI Plus is {{price:gemini.plus}}/month and adds 200 monthly Flow credits |
 | Cutting footage you shot | [CapCut](/tools/capcut/) | Pro lists at $19.99/month or $179.99/year in the US |
 | A person on camera who is an avatar | [HeyGen](/tools/heygen/) | Creator is $29/month |
 
@@ -46,7 +46,7 @@ Luma Plus at $30 a month, or $300 a year, includes commercial use and 10,000 cre
 
 Pika's plans differ by credits and concurrency, and every plan can reach the models. Free has no monthly credits and no commercial license. Starter at $10 does not list the commercial license. Creator at $35 does. If the clip will ship in an ad, Creator is the first Pika card that says so. The review is [Pika review](/blog/pika-review-2026/).
 
-Google Flow gives everyone 50 credits a day, and unused daily credits do not roll over. Veo 3.1 Lite is 10 credits a clip on the card we recorded, Fast is 20, and Quality is 100. Google AI Plus at $4.99 adds 200 monthly bonus credits on top of the daily grant. Flow is the alternative when you already pay Google and the clip budget is small. It is a weak alternative when you need Runway's editing workspace and a monthly pool you can spend in one afternoon. Non-subscribers may be blocked from generating video at peak hours, about 2 to 5 PM UTC, on the note recorded October 16, 2026.
+Google Flow gives everyone 50 credits a day, and unused daily credits do not roll over. Veo 3.1 Lite is 10 credits a clip on the card we recorded, Fast is 20, and Quality is 100. Google AI Plus at {{price:gemini.plus}} adds 200 monthly bonus credits on top of the daily grant. Flow is the alternative when you already pay Google and the clip budget is small. It is a weak alternative when you need Runway's editing workspace and a monthly pool you can spend in one afternoon. Non-subscribers may be blocked from generating video at peak hours, about 2 to 5 PM UTC, on the note recorded October 16, 2026.
 
 ## Editors and avatars are not Runway discounts
 

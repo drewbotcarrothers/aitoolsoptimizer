@@ -43,7 +43,7 @@ Chat at $24 times 12 is $288 a year for five seats. The step from that Chat pric
 
 **A general seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. It does not include 20,000 Copy.ai workflow credits. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 
-**A Project for the brief the workflow must follow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The brief is not a Copy.ai seat. The review is [Claude review](/blog/claude-review-2026/).
+**A Project for the brief the workflow must follow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The brief is not a Copy.ai seat. The review is [Claude review](/blog/claude-review-2026/).
 
 ## What not to assume
 

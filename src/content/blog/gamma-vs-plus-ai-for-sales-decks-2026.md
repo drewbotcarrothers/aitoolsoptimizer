@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | A link the buyer can open | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | No price that was not in the notes |
 | A native Slides or PowerPoint file in the company template | [Plus AI](/tools/plus-ai/) | Basic is $10 a user a month billed annually, or $15 monthly | The template's locked slides stay locked |
-| The sentence the rep must not reword | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the price and the next step |
+| The sentence the rep must not reword | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the price and the next step |
 | The page that stores the accepted deck | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

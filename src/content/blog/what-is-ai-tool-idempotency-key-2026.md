@@ -39,7 +39,7 @@ A cache key allows a second request to reuse a prefix. An idempotency key refuse
 
 ## Where the string is written
 
-**The sentence that names the key.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project can hold the rule: new action, new key. The review is [Claude review](/blog/claude-review-2026/).
+**The sentence that names the key.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project can hold the rule: new action, new key. The review is [Claude review](/blog/claude-review-2026/).
 
 **The automation that must honor it.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, 750 tasks, on the October 16 card. A task that creates a row still needs the tool on the other side to store the key. Zapier remembering the Zap ran is not the same string. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

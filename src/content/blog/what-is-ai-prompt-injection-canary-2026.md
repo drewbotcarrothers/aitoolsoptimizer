@@ -40,7 +40,7 @@ The marker is not an instruction you paste into a customer document so you can "
 
 ## Where you would keep it
 
-**The private note.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the marker in a Project the customer content never enters. The review is [Claude review](/blog/claude-review-2026/).
+**The private note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the marker in a Project the customer content never enters. The review is [Claude review](/blog/claude-review-2026/).
 
 **One check on a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Use it to format the runbook sentence a person already wrote: if the marker appears, stop. Do not ask it to invent the marker, and do not paste the marker into the chat you use for documents. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

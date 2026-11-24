@@ -50,7 +50,7 @@ A year of Plus at the monthly rate is 12 × $8 = $96, against $80 billed annuall
 
 **Existing plans.** The directory says existing Cursor, SuperGrok, and X Premium plans continue unless you change or cancel them, and that switching cancels eligible plans with a prorated refund. Read that sentence before you click a migration. Cursor's own help text says a switch off a legacy Cursor plan is permanent.
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those seats do not include this X and Cursor bundle. Compare them when you do not want the bundle. Do not compare a $8 Plus seat with a $20 seat as if the products were the same list of apps.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Those seats do not include this X and Cursor bundle. Compare them when you do not want the bundle. Do not compare a $8 Plus seat with a $20 seat as if the products were the same list of apps.
 
 ## What not to assume
 

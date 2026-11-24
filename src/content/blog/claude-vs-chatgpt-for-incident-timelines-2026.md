@@ -18,7 +18,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. ChatGPT Plus an
 | The log in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | One paste, one incident | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No event that was not in the paste |
-| The same columns on every incident | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the columns |
+| The same columns on every incident | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the columns |
 | The page the company will keep | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A last pass on the words | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | A rewrite may not add a cause |
 

@@ -19,8 +19,8 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The note | Start here | First paid step | The limit |
 |---|---|---|---|
-| Dates and commitments that must match what you locked | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A new date is a new promise |
-| The note already lives in a Google Doc | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month. Pro is $19.99 | The Doc's dates stay. A blank date stays blank |
+| Dates and commitments that must match what you locked | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A new date is a new promise |
+| The note already lives in a Google Doc | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The Doc's dates stay. A blank date stays blank |
 | The page leadership will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | One theme, from a paste, with no locked set yet | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No date that was not in the paste |
 

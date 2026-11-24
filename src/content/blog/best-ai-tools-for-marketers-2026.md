@@ -19,7 +19,7 @@ Browse the aisles if you want the full catalogs: [marketing and SEO](/tools/cate
 
 | Marketing job | Start here | First paid step | Leave it for |
 |---|---|---|---|
-| A draft you will fact-check yourself | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month ($17 annual) or ChatGPT Plus $20 | A brand vault |
+| A draft you will fact-check yourself | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual) or ChatGPT Plus $20 | A brand vault |
 | On-brand copy with a saved voice | [Jasper](/tools/jasper/) | Pro $59/seat/month yearly, or $69 monthly | A single blog post |
 | Optimize a draft for search | [Surfer SEO](/tools/surfer-seo/) | Standard $99/month yearly, 360 documents | Finding the keywords in the first place |
 | A topic-to-publish loop for one site | [Frase](/tools/frase/) | Starter $39/month yearly, 10 articles | A full backlink suite |
@@ -69,7 +69,7 @@ Automation between these tools, when a lead should move without a person copying
 
 ## A small-team stack that stays under a few hundred dollars
 
-One writer: Claude Pro at $20 and Canva Free. Add Frase Starter at $39 when the blog is weekly. Add Semrush when someone is paid to do research, not before. Add Jasper when a second writer is drifting off the voice guide. Add AdCreative when you are spending on ads and the bottleneck is sizes, not the offer.
+One writer: Claude Pro at {{price:claude.pro_monthly}} and Canva Free. Add Frase Starter at $39 when the blog is weekly. Add Semrush when someone is paid to do research, not before. Add Jasper when a second writer is drifting off the voice guide. Add AdCreative when you are spending on ads and the bottleneck is sizes, not the offer.
 
 That sequence is the point. The suite demo is how a two-person team ends up with four seats and no published page.
 

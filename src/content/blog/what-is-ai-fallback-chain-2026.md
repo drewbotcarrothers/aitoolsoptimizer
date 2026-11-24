@@ -45,7 +45,7 @@ The cache is not a backup model. It is a previous result. If the request must be
 
 ## Where the list is kept
 
-**The note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the chain is a short document a second person will read. The review is [Claude review](/blog/claude-review-2026/).
+**The note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the chain is a short document a second person will read. The review is [Claude review](/blog/claude-review-2026/).
 
 **A paste you reuse.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the chain is a dozen lines in a project. The model may format the hops. It may not add a model you did not name. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

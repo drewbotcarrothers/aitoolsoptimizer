@@ -45,7 +45,7 @@ That is few-shot. "Write it like a friendly brand" is a mood. The example is the
 
 | Where the example lives | When to put it there | Price to know |
 |---|---|---|
-| In the prompt, once | A format you will use a few times | [Claude](/tools/claude/) Pro is $20/month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. [Gemini](/tools/gemini/) on Google AI Plus is $4.99 |
+| In the prompt, once | A format you will use a few times | [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. [Gemini](/tools/gemini/) on Google AI Plus is {{price:gemini.plus}} |
 | In a saved prompt or a project | The same format every week | ChatGPT Plus lists projects. You still paste the new source each time |
 | In a brand product | Two writers must match a stored voice | [Jasper](/tools/jasper/) Pro is $59/seat/month billed yearly, with two Brand Voices |
 

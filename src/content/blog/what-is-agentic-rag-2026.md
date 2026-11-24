@@ -40,7 +40,7 @@ A second search is useful when the first corpus was the wrong folder. A second s
 
 **Cited web search, with a cap.** [Perplexity](/tools/perplexity/) Free uses top models with a weekly limit. Pro is $17 a month billed annually and adds Computer, files, and model choice. The card does not print the month-to-month Pro dollar. Max is $167 a month billed annually. A research question that needs one cited pass does not need an open-ended loop. The sibling choice against a drafting seat is [Claude vs Perplexity for research](/blog/claude-vs-perplexity-for-research-2026/). The review is [Perplexity review](/blog/perplexity-review-2026/).
 
-**A long file you already have.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the file in a Project and ask for page cites. That is closer to one-pass reading than to an agent that wanders. The long-document habit is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
+**A long file you already have.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the file in a Project and ask for page cites. That is closer to one-pass reading than to an agent that wanders. The long-document habit is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
 
 **A Project with tools.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, and does not train on business data by default. Turn on only the tools the task needs. A research draft does not need a send-email action. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 

@@ -11,7 +11,7 @@ draft: false
 
 **Yes. Gemini Notebook is still free with a personal Google account.** It is the same kind of product NotebookLM was: a notebook grounded in sources you add, with citations, Audio Overviews, and study artifacts. The name matches Google's Gemini brand. The free tier did not disappear. Paid Google AI plans, Workspace, and Google Cloud raise the caps and, on some plans, add sharing and watermark controls.
 
-Limits in the table were read from Google's Gemini Notebook plan help page on October 24, 2026. Google AI Plus at $4.99/month and Pro at $19.99/month are the subscription prices we checked October 16, 2026. Google says the usage numbers can change. We are describing the published plan table, not a hands-on score.
+Limits in the table were read from Google's Gemini Notebook plan help page on October 24, 2026. Google AI Plus at {{price:gemini.plus}}/month and Pro at {{price:gemini.pro}}/month are the subscription prices we checked October 16, 2026. Google says the usage numbers can change. We are describing the published plan table, not a hands-on score.
 
 ## What stayed the same
 
@@ -48,7 +48,7 @@ How to use the free caps for a course is [how to use Gemini Notebook for studyin
 
 **The name and the help center.** Documentation now lives under Gemini Notebook. Old NotebookLM links and articles redirect or sit beside the new name. If a tutorial says NotebookLM and the buttons say Gemini Notebook, you are in the same product.
 
-**Plan names that match Google AI subscriptions.** Standard is the free Gmail (or qualifying Workspace) experience. Plus maps to Google AI Plus. Pro maps to Google AI Pro or a qualifying Workspace or education license. Ultra maps to the Ultra plans, which the notebook page splits by storage (20 TB and 30 TB). Google's subscriptions page lists Ultra at $99.99 and $199.99 a month. This article does not pin which dollar amount is the 20 TB plan and which is the 30 TB plan, because the notebook table uses the storage labels and the subscriptions page uses the prices. Read both before you assume the $99.99 tier includes 200 Audio Overviews a day. The 200-a-day audio line is the 30 TB column.
+**Plan names that match Google AI subscriptions.** Standard is the free Gmail (or qualifying Workspace) experience. Plus maps to Google AI Plus. Pro maps to Google AI Pro or a qualifying Workspace or education license. Ultra maps to the Ultra plans, which the notebook page splits by storage (20 TB and 30 TB). Google's subscriptions page lists Ultra at {{price:gemini.ultra}} and {{price:gemini.ultra_top}} a month. This article does not pin which dollar amount is the 20 TB plan and which is the 30 TB plan, because the notebook table uses the storage labels and the subscriptions page uses the prices. Read both before you assume the {{price:gemini.ultra}} tier includes 200 Audio Overviews a day. The 200-a-day audio line is the 30 TB column.
 
 **Watermarks.** Outputs that use Veo, Omni, or Nano Banana include an invisible SynthID watermark. A visible watermark can be turned off by eligible Pro and Ultra users, except Google says a visible watermark is applied automatically in India, South Korea, and Vietnam.
 

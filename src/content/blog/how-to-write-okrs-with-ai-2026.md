@@ -38,7 +38,7 @@ If the dashboard is not in the prompt, the model will still produce a percentage
 
 ## Where the draft happens
 
-**A long pass on the wording.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put last quarter's OKRs and this quarter's metric table in a Project. Free includes up to five Projects. Ask for three candidate key results that use only the numbers in the table, and for a section titled "numbers not in the source." The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long pass on the wording.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put last quarter's OKRs and this quarter's metric table in a Project. Free includes up to five Projects. Ask for three candidate key results that use only the numbers in the table, and for a section titled "numbers not in the source." The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus at $20 lists projects. Use a Project for the quarter. Do not use a custom GPT as the source of the targets. The split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
 

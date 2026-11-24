@@ -22,7 +22,7 @@ Prices are US list prices excluding tax. Cursor's ladder is from the directory p
 | A repo you already clone | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year, on The X Subscription | A hosted app builder |
 | An idea that should become a published app without local setup | [Replit](/tools/replit/) | Starter is free. The lower paid card read $20 a month or $18 billed annually | An editor on a laptop as the first step |
 | Completions inside VS Code or JetBrains, on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10. Business is $19 | A new IDE by default |
-| An agent in the terminal, on the Claude seat | [Claude Code](/tools/claude-code/) | Included with Claude Pro at $20, or $17 billed annually. No free Claude Code | A cloud host |
+| An agent in the terminal, on the Claude seat | [Claude Code](/tools/claude-code/) | Included with Claude Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. No free Claude Code | A cloud host |
 | A generated UI that deploys to Vercel | [v0](/tools/v0/) or [Bolt.new](/tools/bolt-new/) | Bolt Pro is $25 month to month or $18 annually, on the October 24 card | Replit, if the target is not Replit |
 | Several people sharing one credit pool for a prototype | [Lovable](/tools/lovable/) | Pro is $25 a month for 100 credits | A per-seat editor |
 

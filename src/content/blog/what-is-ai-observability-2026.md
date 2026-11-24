@@ -46,7 +46,7 @@ Most chat seats are not observability platforms. They show a usage cap. That cap
 |---|---|---|
 | A help bot on your articles | [Chatbase](/tools/chatbase/) message credits | Hobby is $32/month billed yearly for 700 credits. Extra credits are $40 per 1,000 |
 | An API you call yourself | [DeepSeek](/tools/deepseek/) token rates | Chat is free. API input from $0.15 per 1 million tokens off-peak on a cache miss, output $0.60 off-peak |
-| A chat seat with a cap | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month, or $17 billed annually. ChatGPT Plus is $20. The cap is the observability |
+| A chat seat with a cap | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. The cap is the observability |
 | A path you drew | [n8n](/tools/n8n/) executions | Cloud Starter was shown in euros, from €20/month billed annually. This page does not convert that |
 | A help desk that bills outcomes | [Zendesk AI](/tools/zendesk-ai/) | Suite Team is $55 per agent per month paid yearly. Automated resolutions can bill on top |
 

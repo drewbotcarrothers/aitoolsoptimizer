@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The trigger spec: event, delay, and stop condition | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The spec is the page. The chat is not what sends |
-| A plain-language version of a rule you already wrote | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not add a segment |
+| A plain-language version of a rule you already wrote | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not add a segment |
 | A Zap that must match the spec | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually | The Zap does not invent a filter |
 | The internal note about the holdout | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | It edits the note. It does not size the holdout |
 

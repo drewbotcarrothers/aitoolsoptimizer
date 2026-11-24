@@ -41,7 +41,7 @@ The reason code is a closed list. "The customer seems upset" is not a code until
 
 **A bot on your articles.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly, or $40 monthly, with 700 message credits, on the October 16 card. The handoff is useful only if the bot stops when the article is silent. A bot that apologizes and invents a credit has skipped escalation. The corpus comes first: [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/).
 
-**The draft of the reason list.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the handbook of codes sits in a Project. The model can format the list you already use. It cannot add a severity you do not staff. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of the reason list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the handbook of codes sits in a Project. The model can format the list you already use. It cannot add a severity you do not staff. The review is [Claude review](/blog/claude-review-2026/).
 
 **The queue record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the codes and the owners live in the wiki. The chat transcript is not the queue. The page with the owner is.
 

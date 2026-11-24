@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The sheet you actually have | Start here | What you still do |
 |---|---|---|
 | A few hundred rows you can paste, and rules you can say | [ChatGPT](/tools/chatgpt/) Free, or [Gemini](/tools/gemini/) Free | Check every change against the rule. Reject filled blanks |
-| The file lives in Google Drive and you want the draft next to it | Gemini. Google AI Plus is $4.99 a month. Pro is $19.99 | The Sheet is the record. The chat is a list of proposed edits |
+| The file lives in Google Drive and you want the draft next to it | Gemini. Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The Sheet is the record. The chat is a list of proposed edits |
 | You want the rules saved as a project you will reuse | ChatGPT Plus at $20 a month | Swap the file. Do not reuse last month's "fixes" |
 | You want a notebook built for tables, with a credit meter | [Julius](/tools/julius-ai/) Plus at $20 a month, or $16 billed annually, with 2,000 credits | Credits are the invoice. A cleanup can spend them. Read the meter |
 | The rules themselves are a long policy PDF | [Gemini Notebook](/tools/gemini-notebook/), free with a Google account | Ask only from that file. Open the page before you apply a rule |
@@ -39,7 +39,7 @@ ChatGPT Business, at $20 a user a month billed annually with a two-user minimum,
 
 ## What the tools are for
 
-**Gemini** is the path when you already live in the Google file. Plus at $4.99 is the small step if Free stops the pass. Pro at $19.99 is the higher usage tier and the one the card ties to Gemini in Gmail and Docs. Use Pro when you are already paying for the storage and the apps. Use Free when you will paste a sample and fix the sheet yourself.
+**Gemini** is the path when you already live in the Google file. Plus at {{price:gemini.plus}} is the small step if Free stops the pass. Pro at {{price:gemini.pro}} is the higher usage tier and the one the card ties to Gemini in Gmail and Docs. Use Pro when you are already paying for the storage and the apps. Use Free when you will paste a sample and fix the sheet yourself.
 
 **ChatGPT** can take a pasted table. Plus adds projects and expanded uploads, on the card. Go at $8 adds more uploads than Free and may include ads. Do not accept an ad as a formula. Pro at $100 and above is a capacity tier. A monthly cleanup of one workbook does not require it. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 Do not ask the model to reconcile to a bank balance it cannot see. Do not paste a full customer export into a personal chat your policy would block at work. Do not accept a "cleaned" file you did not diff. The diff is the work. The model proposes. You accept.
 
-If a second model should only restate the rules in plainer language, [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. That is an edit of the rule text. It is not a second pass that gets to change cells. The long-file habit is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
+If a second model should only restate the rules in plainer language, [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. That is an edit of the rule text. It is not a second pass that gets to change cells. The long-file habit is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/).
 
 ## FAQ
 

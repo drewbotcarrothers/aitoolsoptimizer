@@ -42,7 +42,7 @@ flowchart TD
 
 **A dialer or a team that already lives in Fireflies.** [Fireflies](/tools/fireflies-ai/) Pro is $10 per user per month on annual billing, or $18 month to month. The seat math is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). One research team should pick one capture tool. Two transcripts of the same interview will disagree, and someone will cite the wrong one.
 
-**The writeup.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the quotes, not the whole hour, unless you have read the hour. Ask for themes that cite a quote, and for a separate list of one-off comments. [Notion AI](/tools/notion-ai/) is where the research repository lives if that is the team wiki. Business is $20 per seat per month. The comparison with a blank chat is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/).
+**The writeup.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the quotes, not the whole hour, unless you have read the hour. Ask for themes that cite a quote, and for a separate list of one-off comments. [Notion AI](/tools/notion-ai/) is where the research repository lives if that is the team wiki. Business is $20 per seat per month. The comparison with a blank chat is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/).
 
 A prompt that protects the quotes:
 

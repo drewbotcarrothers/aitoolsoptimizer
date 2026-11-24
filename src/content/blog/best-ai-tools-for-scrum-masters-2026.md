@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | Ceremony | Start here | First paid step | The limit |
 |---|---|---|---|
-| Planning, standup, review, retro agenda | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Pro or Plus is $20. Claude Pro is also $17 billed annually | You name the decisions. The model times them |
+| Planning, standup, review, retro agenda | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Pro or Plus is $20. Claude Pro is also {{price:claude.pro_annual}} billed annually | You name the decisions. The model times them |
 | The notes | [Granola](/tools/granola/), [Fireflies](/tools/fireflies-ai/), [Fathom](/tools/fathom/), or [Otter](/tools/otter-ai/) | Granola Business is $14. Fireflies Pro is $10 annual. Fathom Free records. Otter Pro is $8.33 annual | One bot. Consent. No second notetaker |
 | The board and the wiki | [Notion AI](/tools/notion-ai/) or [ClickUp Brain](/tools/clickup-brain/) | Notion Business is $20 a seat. ClickUp Brain is from $9 on top of a ClickUp plan | The number lives in one system |
 | The review deck | [Gamma](/tools/gamma/) | Plus is $9 a seat, or $108 a year | The deck is not the increment |

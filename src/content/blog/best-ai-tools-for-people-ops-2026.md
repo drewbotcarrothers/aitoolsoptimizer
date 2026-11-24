@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The scorecard and the onboarding page people will reopen | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | The page has an owner. The chat is not the record |
-| A draft from a template counsel or a manager already approved | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | It may not add a criterion or a benefit |
+| A draft from a template counsel or a manager already approved | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | It may not add a criterion or a benefit |
 | Tasks, if the company already lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain² starts at $9 a user a month, on top of a ClickUp plan | The workspace is the value. Do not buy ClickUp only for the AI |
 | A 1:1 note without a bot on the call | [Granola](/tools/granola/) | Business is $14 a user a month. Basic is free with 30 days of history | The note is private by default on the card. You still tell people |
 | The sentence, after the facts are frozen | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually | It will not catch a wrong policy |

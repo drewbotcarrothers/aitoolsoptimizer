@@ -21,9 +21,9 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One list, on your phone, from foods you typed | [ChatGPT](/tools/chatgpt/) Free, or [Gemini](/tools/gemini/) Free | Check every ingredient against the store and the people eating |
 | You want the plan saved as a project you will reuse | ChatGPT Plus at $20 a month | Replace last week's prices. Do not keep a stale grocery total |
-| You want the list in a Google Doc you already share | Gemini, on the Google account that holds the doc. Google AI Plus is $4.99 a month. Pro is $19.99 | The doc is the plan of record. The chat is the draft |
+| You want the list in a Google Doc you already share | Gemini, on the Google account that holds the doc. Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The doc is the plan of record. The chat is the draft |
 | The "source" is a cookbook PDF or a family doc | [Gemini Notebook](/tools/gemini-notebook/), free with a Google account | Ask only from that file. Open the page before you trust a quantity |
-| You hit the free limit mid-list | ChatGPT Go at $8 a month, or Google AI Plus at $4.99 | Finish the week. Do not buy a top tier to plan seven dinners |
+| You hit the free limit mid-list | ChatGPT Go at $8 a month, or Google AI Plus at {{price:gemini.plus}} | Finish the week. Do not buy a top tier to plan seven dinners |
 
 ```mermaid
 flowchart TD
@@ -39,7 +39,7 @@ Go may include ads, on the ChatGPT card. A meal plan is not a reason to accept a
 
 **ChatGPT Free** can hold a text plan. Plus at $20 adds projects, which is the right row if you reuse the same household constraints every Sunday. Pro at $100 and above is a capacity tier. Seven dinners do not require it. The tool page is [ChatGPT](/tools/chatgpt/).
 
-**Gemini Free** is enough for a list. Google AI Plus at $4.99 a month is the small step if you want more usage and Gemini in Google apps, on the directory card. Google AI Pro at $19.99 adds the higher usage tier the card calls out, including Gemini in Gmail and Docs. Use Pro when the plan lives in a shared Doc and you are already paying for the storage and the apps. Use Free when you will copy a list into a note.
+**Gemini Free** is enough for a list. Google AI Plus at {{price:gemini.plus}} a month is the small step if you want more usage and Gemini in Google apps, on the directory card. Google AI Pro at {{price:gemini.pro}} adds the higher usage tier the card calls out, including Gemini in Gmail and Docs. Use Pro when the plan lives in a shared Doc and you are already paying for the storage and the apps. Use Free when you will copy a list into a note.
 
 **Gemini Notebook** is the better Gemini path when the constraint is a document: a scanned cookbook, a meal-service export, a sheet of family rules. It is free with a Google account. It does not know your fridge unless the fridge is in the file.
 
@@ -53,7 +53,7 @@ The person who cooks is [what human-in-the-loop AI is](/blog/what-is-human-in-th
 
 Do not ask the model to diagnose a diet. Do not paste a child's medical record into a personal chat your policy would not allow for a work document. Do not accept a grocery total the model computed from prices it remembered. Prices belong in the paste, with the store and the date, or they stay off the list.
 
-If you want a second model to edit the wording of a recipe you already trust, [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. That is an edit. It is not a second opinion on nutrition. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+If you want a second model to edit the wording of a recipe you already trust, [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. That is an edit. It is not a second opinion on nutrition. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 ## FAQ
 

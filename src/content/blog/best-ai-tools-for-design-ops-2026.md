@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The file, the components, and the handoff | [Figma](/tools/figma/) | Professional Full seat is $16 a month billed annually, 3,000 AI credits | Starter is free, with up to 500 AI credits a month. The model does not invent a component |
 | The intake fields and the system notes | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A field the model added is not required until you say so |
-| A clean draft of a ticket from notes you pasted | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It formats. It does not prioritize |
+| A clean draft of a ticket from notes you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It formats. It does not prioritize |
 | Social and marketing templates that are not the product UI | [Canva](/tools/canva/) | Pro is $18 a month, or $180 a year | Canva is not the design system of record |
 | A generated image under a commercial-use rule you accept | [Adobe Firefly](/tools/adobe-firefly/) | Standard is $9.99 a month, 2,000 credits | Credits are for premium features. The offer text is still yours |
 | A ping when intake is missing a field | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The Zap notifies. It does not triage taste |

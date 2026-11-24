@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs Claude for Meeting Agendas (2026): A Doc, or a Shared Template"
-description: "Gemini vs Claude for meeting agendas in 2026. Google AI Pro is $19.99 when the pre-read is a Doc. Claude Pro is $17 annual or $20 monthly when headings must match. No meeting scores."
+description: "Gemini vs Claude for meeting agendas in 2026. Google AI Pro is {{price:gemini.pro}} when the pre-read is a Doc. Claude Pro is {{price:claude.pro_annual}} annual or {{price:claude.pro_monthly}} monthly when headings must match. No meeting scores."
 pubDate: "2026-10-24"
 category: "meetings-transcription"
 tags: ["gemini", "claude", "meetings", "agendas"]
@@ -19,8 +19,8 @@ Gemini's prices are the October 16, 2026 directory figures recorded in [Gemini p
 
 | The source | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Google Doc the group already shares | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | No decision that was not in the Doc |
-| Recurring meetings that must share headings | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the headings |
+| A Google Doc the group already shares | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | No decision that was not in the Doc |
+| Recurring meetings that must share headings | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the headings |
 | The file the next meeting will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not add a decision | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the decision lines before and after |
 
@@ -37,7 +37,7 @@ flowchart TD
 
 An agenda that says "decide the budget" when nobody put that decision in the paste has created a meeting. If the owner is missing, the line says Owner not set. If the duration is missing, it says Duration not set. It does not split sixty minutes into equal blocks the model prefers.
 
-Google AI Plus is $4.99 a month on the October 16 card. Pro at $19.99 is the row that includes Gemini in Docs. Free can draft from a paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Pro at {{price:gemini.pro}} is the row that includes Gemini in Docs. Free can draft from a paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 Claude Free can format a short list. Pro is the seat with Projects. Team standard seats are $20 a seat a month billed annually, or $25 monthly, when the template is a company record, as recorded in [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/). The review is [Claude review](/blog/claude-review-2026/).
 

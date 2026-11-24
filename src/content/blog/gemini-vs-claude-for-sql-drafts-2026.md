@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs Claude for SQL Drafts (2026): A Doc You Have, or a Schema You Will Keep"
-description: "Gemini vs Claude for SQL drafts in 2026. Google AI Pro is $19.99. Claude Pro is $20, or $17 billed annually. You run the query. No accuracy scores."
+description: "Gemini vs Claude for SQL drafts in 2026. Google AI Pro is {{price:gemini.pro}}. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. You run the query. No accuracy scores."
 pubDate: "2026-10-24"
 category: "data-analytics"
 tags: ["gemini", "claude", "sql", "analytics"]
@@ -19,8 +19,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The material you have | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Google Doc of tables and columns | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The Doc is the source. The chat does not add a column |
-| A long dictionary you will reuse | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | You still run the SQL and read the result |
+| A Google Doc of tables and columns | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The Doc is the source. The chat does not add a column |
+| A long dictionary you will reuse | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | You still run the SQL and read the result |
 | A notebook the team already trusts | [Hex](/tools/hex/) | Professional is $36 an editor a month | The SQL in the notebook is the one that counts |
 | A short query from a paste, in another product | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | That comparison is the other article |
 
@@ -36,7 +36,7 @@ flowchart TD
   bad -->|No| keep["Keep it only after the rows look right"]
 ```
 
-Google AI Plus is $4.99 a month on the directory card. The card that names Gemini in Gmail and Docs is Pro, at $19.99. If the schema notes live in a Doc, Plus is the wrong quote. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Plus is {{price:gemini.plus}} a month on the directory card. The card that names Gemini in Gmail and Docs is Pro, at {{price:gemini.pro}}. If the schema notes live in a Doc, Plus is the wrong quote. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 Claude Pro is the seat when the dictionary is too long for one paste and next week's question should see the same definitions. The review is [Claude review](/blog/claude-review-2026/).
 
@@ -68,7 +68,7 @@ We did not measure that. Gemini fits a Doc you already have, on Pro. Claude fits
 
 ### Do I need Google AI Pro?
 
-You need Pro if the point is Gemini inside the Doc, on the directory card checked October 16, 2026. Plus at $4.99 is a usage step. The directory puts the Gmail and Docs line on Pro.
+You need Pro if the point is Gemini inside the Doc, on the directory card checked October 16, 2026. Plus at {{price:gemini.plus}} is a usage step. The directory puts the Gmail and Docs line on Pro.
 
 ### How is this different from the spreadsheet article?
 

@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Grammar, spelling, and a tone nudge in Gmail or a doc | Grammarly, including Free for the basics | Pro at $12 annual when you want sentence rewrites and the prompt pool | Accept or reject each suggestion |
 | "Rewrite this section for a customer, using only these facts" | ChatGPT | Plus at $20, or Go at $8 | Paste the facts, then check that the rewrite kept them |
 | A paraphrase at a lower published seat | [QuillBot](/tools/quillbot/) | Premium is $8.33/month billed annually | A paraphrase can still change a number. Read it |
-| A long draft in a careful voice | [Claude](/tools/claude/) | Pro is $20/month, or $17 billed annually | The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/) |
+| A long draft in a careful voice | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually | The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/) |
 | A stored brand voice for several marketers | [Jasper](/tools/jasper/) | Pro is $59/seat/month yearly | Jasper is a system. It is a heavy editor for one email |
 
 ```mermaid

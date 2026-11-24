@@ -51,7 +51,7 @@ A scanner vendor's marketing score is not evidence. Ask which gate is actually o
 
 [n8n](/tools/n8n/) can place a step before a send. Starter cloud is €20 a month billed annually for 2,500 executions, on the October 16 card. This page does not convert euros. A human node is a gate your policy can require. The drawing is the evidence, not a claim that a scan ran.
 
-[Claude](/tools/claude/) and [ChatGPT](/tools/chatgpt/) will refuse some requests from their own training. That refusal is not your scanner. Your scanner is the check you added in front of your tools. Pro and Plus are each $20 a month. Claude Pro is also $17 billed annually. A personal chat has no tenant-wide scan unless you built one around it.
+[Claude](/tools/claude/) and [ChatGPT](/tools/chatgpt/) will refuse some requests from their own training. That refusal is not your scanner. Your scanner is the check you added in front of your tools. Pro and Plus are each $20 a month. Claude Pro is also {{price:claude.pro_annual}} billed annually. A personal chat has no tenant-wide scan unless you built one around it.
 
 ## FAQ
 

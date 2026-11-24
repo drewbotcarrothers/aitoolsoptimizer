@@ -39,7 +39,7 @@ flowchart TD
   keep -->|Yes| ship["You keep it, and you still spot-check the rest"]
 ```
 
-Google AI Plus is $4.99 a month. Google AI Pro is $19.99 a month. The directory ties Pro to Gemini in Gmail and Docs and 5 TB. It does not list a separate Sheets price. The Sheets guide records that Gemini in Sheets requires an eligible Google AI or Workspace plan. If your account does not show the control, do not assume Pro turned it on. ChatGPT Go is $8 a month and may include ads. The plans page used for the Sheets guide lists Sheets extensions as limited on Free and Go. Plus is the first ChatGPT plan to treat as the spreadsheet companion.
+Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}} a month. The directory ties Pro to Gemini in Gmail and Docs and 5 TB. It does not list a separate Sheets price. The Sheets guide records that Gemini in Sheets requires an eligible Google AI or Workspace plan. If your account does not show the control, do not assume Pro turned it on. ChatGPT Go is $8 a month and may include ads. The plans page used for the Sheets guide lists Sheets extensions as limited on Free and Go. Plus is the first ChatGPT plan to treat as the spreadsheet companion.
 
 ## What the draft may contain
 

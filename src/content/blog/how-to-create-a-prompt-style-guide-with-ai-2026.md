@@ -40,7 +40,7 @@ A unit test fails a file that lacks the clause. It does not write the clause. If
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the current rules so a later chat does not add a ban. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the current rules so a later chat does not add a ban. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One page, the owner, the date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

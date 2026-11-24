@@ -44,7 +44,7 @@ The list of tools that may be proposed at all is [what an AI tool allowlist is](
 
 **The diff.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when shadow mode is a flag in the agent. You review the change that would turn the flag off. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). The flag pattern, for a feature users will eventually see, is [what AI feature flags are](/blog/what-is-ai-feature-flags-2026/).
 
-**The sample.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you paste proposals you are allowed to read and ask which ones fall outside a rule you pasted. The model may mark a gap. You decide the promotion. The review is [Claude review](/blog/claude-review-2026/).
+**The sample.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you paste proposals you are allowed to read and ask which ones fall outside a rule you pasted. The model may mark a gap. You decide the promotion. The review is [Claude review](/blog/claude-review-2026/).
 
 **A Zap you have not armed.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. A Zap that is off is a crude shadow mode only if you are reading the task history and nothing is sent. Turning it on is the promotion. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

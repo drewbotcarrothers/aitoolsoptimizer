@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | HR job | Start here | First paid step | Leave it when |
 |---|---|---|---|
 | A handbook or a policy page the team can find | [Notion AI](/tools/notion-ai/) | Business $20/seat/month for full Notion AI | The record lives in the HRIS |
-| A first draft from a policy you already wrote | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month ($17 annual) or ChatGPT Plus $20 | You needed counsel, not a clearer sentence |
+| A first draft from a policy you already wrote | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual) or ChatGPT Plus $20 | You needed counsel, not a clearer sentence |
 | A proofread before employees see it | [Grammarly](/tools/grammarly/) | Pro $12/member/month billed annually, or $30 monthly | The rule itself is wrong |
 | A training video without a camera | [Synthesia](/tools/synthesia/) | Starter $29/month, or the yearly presentation of $19 | You will film a person instead |
 | A training video you did film | [Descript](/tools/descript/) | Hobbyist $16/person/month annual | You need an avatar, not an edit |

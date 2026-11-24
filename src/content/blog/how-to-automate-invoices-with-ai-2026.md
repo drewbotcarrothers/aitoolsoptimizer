@@ -40,7 +40,7 @@ flowchart TD
 
 A few lines per billable block: date, what shipped, quantity, the rate from the contract. Leave tax out of the log. Leave bank details out of the prompt. If the client is under an NDA, do not paste their confidential material into a consumer chat plan. A description can say "implementation, March" without pasting their data.
 
-Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20 a month. Either can draft. The habit of pasting sources and refusing invented facts is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). An invoice description is a small version of that habit.
+Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 a month. Either can draft. The habit of pasting sources and refusing invented facts is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). An invoice description is a small version of that habit.
 
 A prompt that stays in bounds:
 

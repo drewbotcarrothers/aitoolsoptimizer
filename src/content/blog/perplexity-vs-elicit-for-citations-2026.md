@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A web page, a doc, or a recent announcement | [Perplexity](/tools/perplexity/) Free | Pro is $17 a month billed annually | You open the citation. If it does not say the thing, you drop it |
 | A claim about what the literature finds, across many papers | Elicit Pro at $39 per user per month billed annually, the tier the card ties to systematic review | Scale is $89 on that same annual framing | Screening is a method. The model does not replace the method you wrote |
 | A second look at peer-reviewed answers | [Consensus](/tools/consensus/) Free, with limited Pro messages | Pro is $12 a month on the $144 annual plan, or $20 monthly | Still open the paper. The invoice is [Consensus pricing explained](/blog/consensus-pricing-explained-2026/) |
-| A paragraph you will publish, after the sources are real | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | The Project holds the sources you uploaded | The model may format. It may not add a citation |
+| A paragraph you will publish, after the sources are real | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the sources you uploaded | The model may format. It may not add a citation |
 
 ```mermaid
 flowchart TD

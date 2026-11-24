@@ -63,7 +63,7 @@ CapCut is the timeline. Descript is the transcript edit. The comparison is [Desc
 
 ## What to do with the transcript
 
-Keep the words that match the audio. Cut the rest. For a description, chapters, or a blog post, paste the corrected transcript into [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) and ask for a draft that uses only that text. Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20. The writing rule is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/).
+Keep the words that match the audio. Cut the rest. For a description, chapters, or a blog post, paste the corrected transcript into [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) and ask for a draft that uses only that text. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. The writing rule is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/).
 
 Clips, if you want shorts from the long file, are a second product. [Opus Clip](/tools/opusclip/) Starter is $15 a month. The steps are [how to create shorts with Opus Clip](/blog/how-to-create-shorts-with-opus-clip-2026/).
 

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Email (2026): The Draft, Then You Hit Send"
-description: "ChatGPT vs Claude for email in 2026. Plus is $20. Claude Pro is $20, or $17 billed annually. A workflow for drafts you still send yourself."
+description: "ChatGPT vs Claude for email in 2026. Plus is $20. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. A workflow for drafts you still send yourself."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "email", "comparison"]
@@ -20,9 +20,9 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The mail | Start here | First paid step | Leave this for later |
 |---|---|---|---|
 | Short replies, a few a day | [ChatGPT](/tools/chatgpt/) Go or Plus | Go is $8. Plus is $20 | Claude Max |
-| A thread plus a policy doc you will reuse | [Claude](/tools/claude/) Pro, in a Project | $20 a month, or $17 billed annually ($200 up front) | A second chat subscription "for tone" |
+| A thread plus a policy doc you will reuse | [Claude](/tools/claude/) Pro, in a Project | {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front) | A second chat subscription "for tone" |
 | The sentence, after the facts are right | [Grammarly](/tools/grammarly/) | Free for grammar. Pro is $12 a member a month billed annually | Asking it what the refund policy is |
-| You live in Gmail and Docs | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is $19.99 | Plus, if you will not leave Google |
+| You live in Gmail and Docs | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is {{price:gemini.pro}} | Plus, if you will not leave Google |
 | The draft should become a page the team reuses | [Notion AI](/tools/notion-ai/) Business | $20 a seat | Plus at $10, which is not the full AI tier |
 
 ```mermaid

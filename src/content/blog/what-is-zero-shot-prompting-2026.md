@@ -57,7 +57,7 @@ Grammarly is a zero-shot editor in practice: you hand it a sentence, and you do 
 
 ## Where you will type it
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. [Gemini](/tools/gemini/) is free with a Google account, and Google AI Plus is $4.99 a month. All three accept a zero-shot instruction on the free tier. Pay when a cap blocks a workday, or when the draft has to land inside Docs, Gmail, or Drive, which is Gemini's case.
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. [Gemini](/tools/gemini/) is free with a Google account, and Google AI Plus is {{price:gemini.plus}} a month. All three accept a zero-shot instruction on the free tier. Pay when a cap blocks a workday, or when the draft has to land inside Docs, Gmail, or Drive, which is Gemini's case.
 
 Few-shot costs more tokens because the examples travel with every request. The meter is [what AI tokens are](/blog/what-are-ai-tokens-explained-2026/). For a one-page email, an example is cheap. For a prompt you will call ten thousand times through an API, an example is a line item. Measure it. The dial that changes how much the wording varies is [what temperature is](/blog/what-is-temperature-in-ai-models-2026/).
 

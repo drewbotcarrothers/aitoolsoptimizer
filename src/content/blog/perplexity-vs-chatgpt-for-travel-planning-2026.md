@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | What does the official page say, with a link | [Perplexity](/tools/perplexity/) Free | Pro is $17 a month billed annually | The page the citation names |
 | Turn dates, budget, and cities I pasted into a draft | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month, with Projects | Every hour and price in the draft |
-| The same draft next to Gmail and a Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The same official pages |
+| The same draft next to Gmail and a Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The same official pages |
 | A copy of the plan the group can edit | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The plan, after the facts survive |
 
 ```mermaid

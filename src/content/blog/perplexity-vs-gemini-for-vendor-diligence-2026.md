@@ -20,9 +20,9 @@ Perplexity, Gemini, and Notion prices are from directory pages checked October 1
 | The question in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | A public claim you must cite | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the citation. Agreement is not a source |
-| Files your team already collected | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The file is the source. The chat does not certify the vendor |
+| Files your team already collected | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The file is the source. The chat does not certify the vendor |
 | The register the company will keep | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A long memo from excerpts you paste | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No finding that was not in the excerpts |
+| A long memo from excerpts you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No finding that was not in the excerpts |
 
 ```mermaid
 flowchart TD
@@ -36,7 +36,7 @@ flowchart TD
 
 Perplexity Free is $0 with limited weekly use of top models, on the October 16 card. Pro at $17 a month billed annually is the seat that card ties to higher limits, file uploads, and Model Council. Monthly Pro and Max prices were higher than the annual figures on that check. The card listed only the annual numbers it confirmed. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-Gemini Free is $0. Plus is $4.99. Pro is $19.99, on the same October 16 card. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Gemini Free is $0. Plus is {{price:gemini.plus}}. Pro is {{price:gemini.pro}}, on the same October 16 card. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What the register is allowed to say
 

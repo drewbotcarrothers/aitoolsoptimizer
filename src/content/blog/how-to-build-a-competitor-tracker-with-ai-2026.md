@@ -47,7 +47,7 @@ Open the page. Save the date. A model that "knows" a competitor's price from tra
 
 **Account lists, when the "competitor" work is actually sales research.** [Clay](/tools/clay/) is a different invoice. The October 24 explainer shows Launch at $167 a month and Growth at $446 on the annual toggle, with sliders under those headlines. Do not add Clay because a wiki page felt thin. Add it when the row is an account list you are allowed to build. The card is [Clay pricing explained](/blog/clay-pricing-explained-2026/).
 
-**The log itself.** [Notion AI](/tools/notion-ai/) Business is $20 a seat. One database: rival, URL, date, what changed, who checked it. [Claude](/tools/claude/) Pro at $20, or $17 billed annually, is the long paste of a changelog. [ChatGPT](/tools/chatgpt/) Plus at $20 is fine for a short delta. The page they write into is the wiki, not the chat. That home is [how to build an internal wiki with AI](/blog/how-to-build-an-internal-wiki-with-ai-2026/).
+**The log itself.** [Notion AI](/tools/notion-ai/) Business is $20 a seat. One database: rival, URL, date, what changed, who checked it. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually, is the long paste of a changelog. [ChatGPT](/tools/chatgpt/) Plus at $20 is fine for a short delta. The page they write into is the wiki, not the chat. That home is [how to build an internal wiki with AI](/blog/how-to-build-an-internal-wiki-with-ai-2026/).
 
 A prompt that holds the line:
 

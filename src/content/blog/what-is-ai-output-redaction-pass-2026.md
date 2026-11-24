@@ -39,7 +39,7 @@ Input redaction and this pass are not substitutes. A prompt can be clean and the
 
 ## Where it is defined
 
-**The list.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the patterns and the replacement. The review is [Claude review](/blog/claude-review-2026/).
+**The list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the patterns and the replacement. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft of the pass note from fields you paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a pattern you did not paste. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

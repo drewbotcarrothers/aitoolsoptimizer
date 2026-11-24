@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The bug | Start here | First paid step | Done when |
 |---|---|---|---|
 | A known file, a known failure, a small change | [Cursor](/tools/cursor/) Free | Plus is $8 a month, or $80 a year | You can read the diff and the test you named passes |
-| A failure you have to reproduce with commands | [Claude Code](/tools/claude-code/) | Included with Claude Pro at $20 a month, or $17 billed annually. There is no free Claude Code plan on the directory card | The same test passes, and you read the commands it ran |
+| A failure you have to reproduce with commands | [Claude Code](/tools/claude-code/) | Included with Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. There is no free Claude Code plan on the directory card | The same test passes, and you read the commands it ran |
 | A cloud review on a pull request | [OpenAI Codex](/tools/openai-codex/) | Included with ChatGPT plans. Plus is $20 a month for the fuller surfaces | The pricing article, then your review |
 | Completions inside an editor you already pay for | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a user a month | You still write the assertion |
 

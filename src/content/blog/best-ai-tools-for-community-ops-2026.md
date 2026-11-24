@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The policy, the escalation table, and the calendar | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A rule the model invented is not the policy |
-| A reply draft from a policy you pasted | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model drafts. A person sends |
+| A reply draft from a policy you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model drafts. A person sends |
 | A ping when a queue item is past the clock you set | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The Zap notifies. It does not ban a member |
 | Templates for announcements you already approved | [Canva](/tools/canva/) | Pro is $18 a month, or $180 a year | The words were approved before the template |
 | Notes from a member call | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually, or $20 monthly | Free includes unlimited recordings on that card. The note is not a promise |

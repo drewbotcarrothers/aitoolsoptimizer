@@ -23,7 +23,7 @@ Lovable, Bolt, and v0 prices below mix an October 16, 2026 directory check with 
 | A bigger free month and hosting in the same tab | [Bolt.new](/tools/bolt-new/) | Free is 1 million tokens a month, with a 300,000 daily cap. Pro is $25 billed monthly, or $18 a month billed annually ($216 a year) on the October 24 card |
 | A React or Next.js interface, deployed on Vercel | [v0](/tools/v0/) | Plus is $30/user/month. Free includes $5 in one-time credits and a 7-message daily limit |
 | A cloud IDE, a database, and a publish button | [Replit](/tools/replit/) | Starter is free. The October 24 pricing page showed $20 ($18 billed annually) and $100 ($90 billed annually). See [Replit Agent pricing explained](/blog/replit-agent-pricing-explained-2026/) |
-| A repository a developer will maintain | [Cursor](/tools/cursor/) or [Claude Code](/tools/claude-code/) | Cursor Plus is $8/month, or $80 a year. Claude Code rides on Claude Pro at $20, or $17 billed annually |
+| A repository a developer will maintain | [Cursor](/tools/cursor/) or [Claude Code](/tools/claude-code/) | Cursor Plus is $8/month, or $80 a year. Claude Code rides on Claude Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually |
 
 ```mermaid
 flowchart TD

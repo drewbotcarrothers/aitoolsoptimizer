@@ -27,7 +27,7 @@ The paid landscape is [best AI video generators](/blog/best-ai-video-generators-
 | [CapCut](/tools/capcut/) | Templates and basic editing | The pricing page we checked does not publish a watermark rule. Creators do hit a watermark or a locked effect inside the app | Pro lists at $19.99/month or $179.99/year in the US. Read the in-app price |
 | [Runway](/tools/runway/) | 125 one-time credits | Not stated on the pricing facts we recorded | Standard is $12/month billed annually |
 | [Kling AI](/tools/kling-ai/) | Basic, free, with no monthly credits | Not stated on the pricing facts we recorded | Standard renews at $8.80/month |
-| [Google Flow](/tools/google-flow/) | 50 credits/day | Veo, Omni, and Nano Banana outputs include an invisible SynthID watermark. A visible watermark can be turned off by eligible Pro and Ultra users, with exceptions in India, South Korea, and Vietnam | Google AI Plus is $4.99/month |
+| [Google Flow](/tools/google-flow/) | 50 credits/day | Veo, Omni, and Nano Banana outputs include an invisible SynthID watermark. A visible watermark can be turned off by eligible Pro and Ultra users, with exceptions in India, South Korea, and Vietnam | Google AI Plus is {{price:gemini.plus}}/month |
 | [Luma AI](/tools/luma-ai/) | No free plan was listed | Not applicable | Plus is $30/month and includes commercial use |
 
 ```mermaid

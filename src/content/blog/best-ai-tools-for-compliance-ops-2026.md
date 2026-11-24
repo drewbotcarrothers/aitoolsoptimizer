@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion and Gram
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The control note and the retention sentence | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No control you did not paste |
+| The control note and the retention sentence | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No control you did not paste |
 | The register the next reviewer opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A public source you will open | [Perplexity](/tools/perplexity/) | Enterprise Pro is $40 a user a month, or $400 a year, when the row is a company record | A citation is not evidence until you open it |
 | A clarity pass that must not touch a control id | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the id before and after |

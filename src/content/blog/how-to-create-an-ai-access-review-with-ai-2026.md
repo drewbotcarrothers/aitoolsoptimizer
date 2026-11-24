@@ -37,7 +37,7 @@ A row that says "likely still needed" is not a decision. Not reviewed is an hone
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the column names in a Project so the next quarter's review matches. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the column names in a Project so the next quarter's review matches. The review is [Claude review](/blog/claude-review-2026/).
 
 **The sheet the next reviewer opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per seat. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

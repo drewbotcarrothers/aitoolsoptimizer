@@ -38,9 +38,9 @@ A tool result schema is the contract for what a function returns to the agent. S
 
 ## Where the fields are drafted
 
-**A long document.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 page. Paste the schema and the document. Ask for empty cells, not estimates. The review is [Claude review](/blog/claude-review-2026/).
+**A long document.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 page. Paste the schema and the document. Ask for empty cells, not estimates. The review is [Claude review](/blog/claude-review-2026/).
 
-**Sources you uploaded.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Google AI Plus is $4.99 a month and Pro is $19.99, on the October 24 subscriptions page. The notebook answers from the sources you add. The caps are [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/). It is a poor fit for a document you cannot upload.
+**Sources you uploaded.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month and Pro is {{price:gemini.pro}}, on the October 24 subscriptions page. The notebook answers from the sources you add. The caps are [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/). It is a poor fit for a document you cannot upload.
 
 **One record.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Free can format one row. Discard a row that fills "standard terms" you did not paste.
 

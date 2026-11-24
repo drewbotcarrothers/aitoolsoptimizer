@@ -40,10 +40,10 @@ The limit on how much of a long file you can paste yourself is [what a context w
 | The corpus | The chat | Price to know |
 |---|---|---|
 | The public web, with links | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually |
-| Files you upload for a study session | [Gemini Notebook](/tools/gemini-notebook/) | Free. Higher limits from Google AI Plus at $4.99/month |
+| Files you upload for a study session | [Gemini Notebook](/tools/gemini-notebook/) | Free. Higher limits from Google AI Plus at {{price:gemini.plus}}/month |
 | Your Notion workspace | [Notion AI](/tools/notion-ai/) | The full agent experience is on Business at $20/seat/month |
 | A help center you uploaded | [Chatbase](/tools/chatbase/) | Hobby is $32/month billed yearly, with 700 message credits |
-| A document you paste into the thread | [Claude](/tools/claude/) or any general chat | Claude Pro is $20/month, or $17 billed annually. That is manual retrieval: you brought the passage |
+| A document you paste into the thread | [Claude](/tools/claude/) or any general chat | Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. That is manual retrieval: you brought the passage |
 
 Perplexity's invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). A research workflow that starts from links is [ChatGPT vs Perplexity for research](/blog/chatgpt-vs-perplexity-for-research-2026/). Notion's seat is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The support build on uploaded articles is [how to build a support chatbot with Chatbase](/blog/how-to-build-a-chatbot-with-chatbase-2026/).
 

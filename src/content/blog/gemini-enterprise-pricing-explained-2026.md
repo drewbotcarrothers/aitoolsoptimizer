@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Gemini Enterprise, on cloud.google.com/gemini-enterprise fetched October 24, 2026, does not print a public seat price.** The page says you can contact Google Cloud sales, or try Gemini Enterprise Plus at no cost for 30 days without sales assistance. That is the business-agent page. It is not Google AI Plus at $4.99 or Google AI Pro at $19.99. Those consumer subscriptions are [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Gemini Enterprise, on cloud.google.com/gemini-enterprise fetched October 24, 2026, does not print a public seat price.** The page says you can contact Google Cloud sales, or try Gemini Enterprise Plus at no cost for 30 days without sales assistance. That is the business-agent page. It is not Google AI Plus at {{price:gemini.plus}} or Google AI Pro at {{price:gemini.pro}}. Those consumer subscriptions are [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 A Google Workspace seat that includes Gemini in Gmail is a third bill, with its own figures below. The notebook's enterprise row, which also prints no dollar, is [Gemini Notebook](/tools/gemini-notebook/). The invoice is [Gemini Notebook pricing explained](/blog/gemini-notebook-pricing-explained-2026/). The Microsoft work seat, when the files are in that suite, is [Microsoft Copilot](/tools/microsoft-copilot/). The invoice is [Microsoft 365 Copilot pricing explained](/blog/microsoft-365-copilot-pricing-explained-2026/).
 
@@ -20,7 +20,7 @@ Published October 24, 2026. We did not score answers. Some features on the Cloud
 | What you opened | Price this fetch can cite | What it is |
 |---|---|---|
 | Gemini Enterprise, Cloud page | No public seat dollar. Gemini Enterprise Plus: 30 days at no cost, or contact sales | The business agent page fetched October 24 |
-| Google AI Plus, Pro, Ultra | $4.99, $19.99, and $99.99 or $199.99 a month | The personal subscription on the October 16 directory card, matching the October 24 subscriptions record in the Notebook article |
+| Google AI Plus, Pro, Ultra | $4.99, $19.99, and {{price:gemini.ultra}} or {{price:gemini.ultra_top}} a month | The personal subscription on the October 16 directory card, matching the October 24 subscriptions record in the Notebook article |
 | Workspace Business Starter | The card prints $3.50 and $7 per user per month, and a line that reads 1 user = $3.50 / mo | A Workspace plan. The card names Gemini in Gmail |
 | Workspace Business Standard | The card prints $7 and $14, and 1 user = $7 / mo | The card names Gemini in Gmail, Docs, Meet, and more, plus expanded Gemini Notebook access |
 | Workspace Business Plus | The card prints $11 and $22, and 1 user = $11 / mo | A Workspace plan. This fetch's Plus bullets did not repeat a Gemini line. Do not treat that silence as proof Gemini is absent |

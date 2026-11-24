@@ -41,7 +41,7 @@ The note of what changed between ids is [how to create a prompt library changelo
 
 ## Where the pin is written
 
-**The definition, in a Project.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the caller and the id in a Project so a later draft does not replace the id with "latest." The review is [Claude review](/blog/claude-review-2026/).
+**The definition, in a Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the caller and the id in a Project so a later draft does not replace the id with "latest." The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the company opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The page lists the caller, the id, and the date. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

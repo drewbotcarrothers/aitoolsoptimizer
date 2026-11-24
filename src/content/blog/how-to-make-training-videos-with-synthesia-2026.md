@@ -38,7 +38,7 @@ Video is about 100 credits a minute and dubbing about 76 a minute, beyond the fi
 
 One learning objective per video. Short sentences. The number, the policy, and the product name come from a page you have open, not from the model's memory. If the course is a process, say the clicks. An avatar that sounds smooth while naming the wrong menu is worse than a slide.
 
-[Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) can turn your outline into a spoken script. Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20. The method is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/), applied to a script: you supply the facts. Paste the finished script into Synthesia. Do not let a regenerate button change a policy sentence.
+[Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) can turn your outline into a spoken script. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. The method is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/), applied to a script: you supply the facts. Paste the finished script into Synthesia. Do not let a regenerate button change a policy sentence.
 
 ## Step 2: Choose the avatar you have the right to use
 

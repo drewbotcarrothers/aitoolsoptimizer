@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs ChatGPT for Project Updates (2026): The Doc You Share, or One Paste"
-description: "Gemini vs ChatGPT for project updates in 2026. Dates and slips stay the ones a person wrote. Google AI Pro is $19.99. Plus is $20. No status scores."
+description: "Gemini vs ChatGPT for project updates in 2026. Dates and slips stay the ones a person wrote. Google AI Pro is {{price:gemini.pro}}. Plus is $20. No status scores."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["gemini", "chatgpt", "projects", "comparison"]
@@ -19,10 +19,10 @@ Gemini's prices are from the directory page checked October 16, 2026, as recorde
 
 | The update | Start here | First paid step | The limit |
 |---|---|---|---|
-| It already lives in a shared Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The Doc is the source. A slip you did not write stays out |
+| It already lives in a shared Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The Doc is the source. A slip you did not write stays out |
 | One paste of what moved and what slipped | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No date that was not in the paste |
 | The page the next meeting will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A long note that must not soften a slip | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The slip sentence stays the one you marked |
+| A long note that must not soften a slip | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The slip sentence stays the one you marked |
 
 ```mermaid
 flowchart TD
@@ -39,7 +39,7 @@ An update that says the launch is "back on track" has added a status. If you did
 
 The project-plan page is the schedule: milestones, owners, and dates. This page is the movement since the last note. A weekly update can cover several projects. This page is one project. Do not merge them into a single cheerful paragraph.
 
-Google AI Plus is $4.99 a month on the October 16 card. Pro at $19.99 is the card's row with Gemini in Gmail and Docs. Confirm the Doc you mean is one that plan actually reaches before you promise the team the draft will see it. Free is a Google account, with the limits on that card. This page does not treat Free as the shared-Doc seat.
+Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Pro at {{price:gemini.pro}} is the card's row with Gemini in Gmail and Docs. Confirm the Doc you mean is one that plan actually reaches before you promise the team the draft will see it. Free is a Google account, with the limits on that card. This page does not treat Free as the shared-Doc seat.
 
 ## What the update is allowed to say
 

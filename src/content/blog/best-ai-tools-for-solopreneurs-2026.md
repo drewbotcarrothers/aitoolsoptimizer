@@ -17,7 +17,7 @@ Prices are US list prices excluding tax. Most figures are from directory pages c
 
 | Company job | Use | Pay when |
 |---|---|---|
-| The offer, the email, the first draft of the page | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The free cap hits in a work week. Claude Pro is $20/month or $17 annual. ChatGPT Plus is $20. Go is $8 |
+| The offer, the email, the first draft of the page | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The free cap hits in a work week. Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus is $20. Go is $8 |
 | The picture of the offer | [Canva](/tools/canva/) | You need the brand kit. Pro is $18/month or $180/year. Free publishes a lot |
 | A one-page explanation or a short deck | [Gamma](/tools/gamma/) | Free credits run out and do not refresh. Plus is $9/seat/month |
 | Notes from a sales call | [Fathom](/tools/fathom/) | You need action items. Premium is $16/month annually. Free already lists unlimited recordings |
@@ -58,7 +58,7 @@ Fathom Free is the meeting tool to try before any notetaker subscription. Premiu
 
 ## A month under $50
 
-Claude Pro at $20, Canva Free, Fathom Free, and a sheet for the calendar. Add Gamma Plus at $9 when you are sending a deck every week. Add Reclaim at $10 when the calendar is the bottleneck. Add Chatbase only after the help articles exist. That is $20, or $39 with Gamma and Reclaim. Instantly, Descript, and a second chatbot are the month a specific job shows up, not the month you incorporate.
+Claude Pro at {{price:claude.pro_monthly}}, Canva Free, Fathom Free, and a sheet for the calendar. Add Gamma Plus at $9 when you are sending a deck every week. Add Reclaim at $10 when the calendar is the bottleneck. Add Chatbase only after the help articles exist. That is $20, or $39 with Gamma and Reclaim. Instantly, Descript, and a second chatbot are the month a specific job shows up, not the month you incorporate.
 
 ## FAQ
 

@@ -23,9 +23,9 @@ That is a web answer engine with a research mode. It is not a library of peer-re
 |---|---|---|
 | Journal articles, with a consensus-style read of the literature | [Consensus](/tools/consensus/) | Free includes unlimited paper search, 10 Pro messages, and 3 Deep reviews a month. Pro is $12/month on annual billing ($144/year), or $20 monthly |
 | Paper search, summaries, and a research agent with a tight seat price | [Elicit](/tools/elicit/) | Free includes unlimited paper search, summaries, and chat with papers, with limited agent use. Plus is $11/user/month billed annually |
-| Cited web answers inside Google's stack | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Plus is $4.99/month |
+| Cited web answers inside Google's stack | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
 | A general assistant that can also search, then do the rest of your day | [ChatGPT](/tools/chatgpt/) | Plus is $20/month. Go is $8 |
-| A draft written from sources you paste in | [Claude](/tools/claude/) | Pro is $20/month, or $17 annually |
+| A draft written from sources you paste in | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} annually |
 | News and posts on X, in the same bundle as a code editor | [Grok](/tools/grok/) | Plus is $8/month on The X Subscription |
 | The same question run across several models | [Poe](/tools/poe/) | From $4.99/month, plus a free daily point allotment |
 

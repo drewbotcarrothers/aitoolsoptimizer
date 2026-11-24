@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| Read a long filing you are allowed to upload | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not add a metric the filing does not contain |
+| Read a long filing you are allowed to upload | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not add a metric the filing does not contain |
 | A Project the team reopens for the quarter | [ChatGPT](/tools/chatgpt/) | Business is $20 a user a month billed annually, minimum two | Plus is a personal seat |
 | Find the company's own filing page | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the filing. A citation is not the 10-Q |
 | A readout after the words are frozen | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | Slides do not create disclosure |

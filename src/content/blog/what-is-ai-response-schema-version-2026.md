@@ -36,7 +36,7 @@ A model that adds a field and calls the result `v4` has not shipped a version. Y
 
 ## Where the name lives
 
-**The contract text.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the field list in a Project. A chat that "improves" the JSON is not a release. The review is [Claude review](/blog/claude-review-2026/).
+**The contract text.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the field list in a Project. A chat that "improves" the JSON is not a release. The review is [Claude review](/blog/claude-review-2026/).
 
 **The code that checks the name.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

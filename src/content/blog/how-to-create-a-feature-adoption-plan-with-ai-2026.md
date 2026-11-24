@@ -37,7 +37,7 @@ A plan that says "drive adoption" is a slogan. The metric has a name you can fin
 
 **The page the team will open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the system of record. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The long draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the plan sits beside the metric definition. The model may not propose a target percentage. The review is [Claude review](/blog/claude-review-2026/).
+**The long draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the plan sits beside the metric definition. The model may not propose a target percentage. The review is [Claude review](/blog/claude-review-2026/).
 
 **The query that produces the baseline.** [Hex](/tools/hex/) Professional is $36 an editor a month if the notebook is where analysts already publish. You run the query. A generated chart without the definition next to it is not the baseline. Community is free and is a trial, on the directory card.
 
