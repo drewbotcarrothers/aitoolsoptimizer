@@ -52,7 +52,7 @@ Manus will plan the steps. You still have to:
 3. Expect to check every figure. Research output from an agent is a draft with links, not a filing.
 4. Watch the first small task's credit use before you schedule a daily run. Three hundred daily credits on Free is a sample. A wide research job can be a different order of magnitude, and Manus does not publish a credit-per-task rate in the help article we used. The pricing page's "everything is subject to what is displayed" line is doing real work.
 
-Free is the right plan for that first measured task. The $40 tier's 7-day trial is the right plan if the first task clearly needed more than the daily refresh and you want a week of the higher credit floor before a renewal. The $20 tier is the right plan if 4,000 credits and 20 scheduled jobs match a weekly rhythm you already have.
+Free is the right plan for that first measured task. The $40 tier's 7-day trial is the right plan if the first task clearly needed more than the daily refresh and you want a week of the higher credit floor before a renewal. The $20 tier is the right plan if 4,000 credits and 20 scheduled jobs match a weekly rhythm you already have. For the credit math, see [Manus pricing explained](/blog/manus-pricing-explained-2026/): 300 free credits a day, then Pro from $20 for 4,000.
 
 Team is the right plan when several people share templates and someone needs SSO and a training opt-out. Those controls are listed on Team, not on individual Pro. Do not assume Pro includes the opt-out.
 

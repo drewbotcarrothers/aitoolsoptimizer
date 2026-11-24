@@ -33,7 +33,7 @@ flowchart TD
   listed -->|A second language| creator["Creator already lists 175+ languages. Do not call that Enterprise"]
 ```
 
-Five custom video avatars are on Business. Unlimited photo avatars are on paid plans, on the card. Creator removes the watermark. Pro at $49 adds 4K and 1,000 credits. None of those are Enterprise. Multiplying $149 by a headcount does not produce an Enterprise price. An extra Business seat is $20. Ten extra seats are 10 times $20, which is $200 a month, on top of the $149 workspace if that is how your contract counts the first seat. Confirm the seat math on the quote. The $20 figure is the card's extra-seat price. It is not an Enterprise discount.
+Five custom video avatars are on Business. Unlimited photo avatars are on paid plans, on the card. Creator removes the watermark. Pro at $49 adds 4K and 1,000 credits. None of those are Enterprise. Multiplying $149 by a headcount does not produce an Enterprise price. An extra Business seat is $20. Ten extra seats are 10 times $20, which is $200 a month, on top of the $149 workspace if that is how your contract counts the first seat. Confirm the seat math on the quote. The $20 figure is the card's extra-seat price. It is not an Enterprise discount. The Synthesia side of this is in [Synthesia Enterprise pricing](/blog/synthesia-enterprise-pricing-explained-2026/): custom, with SCORM, SSO, and 1-click translation as the Enterprise lines.
 
 HeyGen's summary does not publish one universal minutes-per-credit rate. Budget Business credits from a receipt, as the base pricing article says. Enterprise credits are custom. A receipt from Creator does not predict them.
 

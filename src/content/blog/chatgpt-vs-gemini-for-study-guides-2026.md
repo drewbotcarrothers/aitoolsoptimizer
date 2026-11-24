@@ -36,7 +36,7 @@ flowchart TD
   check --> practice["You add the problems you will actually do"]
 ```
 
-ChatGPT Pro starts at $100. Gemini's Google AI Ultra starts at $99.99. A weekly study guide from notes you have does not need either. ChatGPT Business, at $20 a user a month billed annually with a two-user minimum, is the row when the notes are a company's and a personal account is against policy. A class syllabus is not that row unless the school says so.
+ChatGPT Pro starts at $100. Gemini's Google AI Ultra starts at $99.99. A weekly study guide from notes you have does not need either. ChatGPT Business, at $20 a user a month billed annually with a two-user minimum, is the row when the notes are a company's and a personal account is against policy. A class syllabus is not that row unless the school says so. The constraints-first habit carries over to home tasks, such as a week of dinners in [ChatGPT vs Gemini for meal planning](/blog/chatgpt-vs-gemini-for-meal-planning-2026/).
 
 ## What the guide should contain
 

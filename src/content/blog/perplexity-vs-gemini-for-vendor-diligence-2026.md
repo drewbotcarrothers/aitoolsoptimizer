@@ -42,7 +42,7 @@ Gemini Free is $0. Plus is $4.99. Pro is $19.99, on the same October 16 card. Th
 
 The question, the URL or the file name, the date you opened it, the sentence you are willing to quote, and the owner. "They are enterprise ready" is not a finding. A certification is a finding only when the document you opened says so, and you store the date, because certificates expire.
 
-**Perplexity Pro** is the public-page path. Click the citation. If the page is a roundup that does not name the control, write Not in source. A second model that agrees is [what an AI multi-model vote is](/blog/what-is-ai-multi-model-vote-2026/). It is still not the vendor's page.
+**Perplexity Pro** is the public-page path. Click the citation. If the page is a roundup that does not name the control, write Not in source. A second model that agrees is [what an AI multi-model vote is](/blog/what-is-ai-multi-model-vote-2026/). It is still not the vendor's page. The same dated-row discipline applies to competitors, covered in [competitive intel with Perplexity or Gemini](/blog/perplexity-vs-gemini-for-competitive-intel-2026/).
 
 **Gemini Pro** is the packet path. Attach the PDF or the Doc. Ask for quotes with page or heading labels. A summary that adds "ISO certified" because the filename looked official is the summary you delete.
 

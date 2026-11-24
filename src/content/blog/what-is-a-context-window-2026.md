@@ -13,7 +13,7 @@ draft: false
 
 People meet the limit as a product behavior: a long PDF that the answer ignores, a chat that forgets the brief from an hour ago, or an API bill that jumped because every call resent a huge prompt. The window is the cause. A bigger subscription is sometimes the fix, and often it is not.
 
-This glossary does not invent a token count for every model. Where this site has recorded a figure from a vendor page, it is labeled. Elsewhere, read the model card. A token is a piece of text the model counts, often shorter than a word. We are not publishing a words-per-token conversion, because that ratio depends on the tokenizer and the language.
+This glossary does not invent a token count for every model. Where this site has recorded a figure from a vendor page, it is labeled. Elsewhere, read the model card. A token is a piece of text the model counts, often shorter than a word. We are not publishing a words-per-token conversion, because that ratio depends on the tokenizer and the language. The window is measured in tokens, and [what a tokenizer does](/blog/what-is-a-tokenizer-2026/) explains how text turns into that count.
 
 ## What actually fits
 
@@ -58,7 +58,7 @@ DeepSeek's published window is a reason the API shows up in long-document jobs. 
 
 **Quality.** A larger window lets more text in. It does not make the model attend equally to the middle of a long paste. For a paper or a contract, ask about a section, or use a tool that retrieves passages. For study notes you uploaded, Notebook is the tighter design because the source list is yours.
 
-**Output length.** Vendors also cap how long the reply can be. DeepSeek's recorded output cap is 384,000 tokens. A short answer limit is why a "summarize this book in one reply" prompt comes back thin. Ask for a section.
+**Output length.** Vendors also cap how long the reply can be. DeepSeek's recorded output cap is 384,000 tokens. A short answer limit is why a "summarize this book in one reply" prompt comes back thin. Ask for a section. In practice you hold some of that space back, which is a [context-window reservation](/blog/what-is-ai-context-window-reservation-2026/).
 
 ## How to work inside the limit
 

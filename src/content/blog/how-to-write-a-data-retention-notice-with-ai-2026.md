@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model what the law requires. Do not paste customer files so the notice "sounds specific." Do not publish a notice that mentions a vendor setting you have not checked against the policy. Vendor marketing pages change. Your notice should cite your decision, and the policy page records the date you checked the vendor.
+Do not ask the model what the law requires. Do not paste customer files so the notice "sounds specific." Do not publish a notice that mentions a vendor setting you have not checked against the policy. Vendor marketing pages change. Your notice should cite your decision, and the policy page records the date you checked the vendor. The retention window often comes up again in [a reply to a data access request](/blog/how-to-write-a-data-access-request-reply-with-ai-2026/), so the two documents should agree.
 
 ## FAQ
 

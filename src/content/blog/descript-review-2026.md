@@ -57,7 +57,7 @@ Hobbyist is the hobby-podcast plan: 10 hours and a clean 1080p export. Creator i
 
 A Zoom that needs a transcript and action items while the call is happening belongs in a notetaker. Start with [how to transcribe a Zoom meeting free](/blog/transcribe-zoom-meeting-free/) and [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). Bring the recording into Descript when the job changes from "notes" to "episode."
 
-[CapCut](/tools/capcut/) is the short-form timeline editor, with templates and auto captions. Pro is $19.99/month or $179.99/year. Use CapCut when you are cutting to a beat on a phone. Use Descript when the source of truth is the spoken sentence. Generated footage, as opposed to an edit of a recording, is [best AI video generators](/blog/best-ai-video-generators-2026/).
+[CapCut](/tools/capcut/) is the short-form timeline editor, with templates and auto captions. Pro is $19.99/month or $179.99/year. Use CapCut when you are cutting to a beat on a phone. Use Descript when the source of truth is the spoken sentence. Generated footage, as opposed to an edit of a recording, is [best AI video generators](/blog/best-ai-video-generators-2026/). If more than five people need to edit, read [Descript's Enterprise pricing breakdown](/blog/descript-enterprise-pricing-explained-2026/) before buying seats.
 
 ## Fit
 

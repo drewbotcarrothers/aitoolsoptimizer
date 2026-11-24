@@ -37,7 +37,7 @@ flowchart TD
 
 A sentence that calls a change "immaterial" has added a judgment. If the packet does not say immaterial, the draft does not say it. A date that was not in the packet says Date not in the source.
 
-ChatGPT Go is $8 a month on the October 24 plan page. Plus is the seat for a saved pack. The review is [ChatGPT review](/blog/chatgpt-review-2026/). The full Perplexity ladder, including Max and Enterprise, is the pricing article. Enterprise is [Perplexity Enterprise pricing explained](/blog/perplexity-enterprise-pricing-explained-2026/). This comparison is the personal Pro seat against ChatGPT Plus for one pack.
+ChatGPT Go is $8 a month on the October 24 plan page. Plus is the seat for a saved pack. The review is [ChatGPT review](/blog/chatgpt-review-2026/). The full Perplexity ladder, including Max and Enterprise, is the pricing article. Enterprise is [Perplexity Enterprise pricing explained](/blog/perplexity-enterprise-pricing-explained-2026/). This comparison is the personal Pro seat against ChatGPT Plus for one pack. Away from work, the cite-then-draft split works the same way in [planning a trip with Perplexity or ChatGPT](/blog/perplexity-vs-chatgpt-for-travel-planning-2026/).
 
 ## What the pack is allowed to contain
 

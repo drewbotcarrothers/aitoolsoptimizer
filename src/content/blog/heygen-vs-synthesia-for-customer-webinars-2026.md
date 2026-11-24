@@ -11,7 +11,7 @@ draft: false
 
 **Use HeyGen when the customer webinar needs a short recorded segment a host will play, from a script a person already approved. Use Synthesia when the follow-up has to be a lesson a customer can finish, with a survey or a quiz the script already contains.** The avatar may speak the script. It may not add a feature, a price, or a promise. Neither tool hosts the live room. A person still runs the webinar. A training module you assign inside the company is [HeyGen vs Synthesia for training modules](/blog/heygen-vs-synthesia-for-training-modules-2026/). A sales leave-behind, which is not a webinar, is [HeyGen vs Synthesia for sales](/blog/heygen-vs-synthesia-for-sales-2026/).
 
-The pair without this webinar constraint is [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). The script before the avatar is [how to create a webinar script with AI](/blog/how-to-create-a-webinar-script-with-ai-2026/).
+The pair without this webinar constraint is [HeyGen vs Synthesia](/blog/heygen-vs-synthesia-2026/). The script before the avatar is [how to create a webinar script with AI](/blog/how-to-create-a-webinar-script-with-ai-2026/). For employee-facing video, see [HeyGen or Synthesia for a locked internal script](/blog/heygen-vs-synthesia-for-internal-comms-2026/).
 
 HeyGen and Synthesia prices below are the October 16 directory cards, matching the monthly stickers in [HeyGen pricing explained](/blog/heygen-pricing-explained-2026/) and [Synthesia pricing explained](/blog/synthesia-pricing-explained-2026/). Notion and Claude prices are stated with their dates below. Published October 24, 2026. We did not score attendance, lip sync, or completion. We did not host a webinar with either tool.
 

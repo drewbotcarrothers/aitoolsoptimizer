@@ -42,7 +42,7 @@ One year of Claude Pro on the annual card is $200, which is $17 a month. Twelve 
 
 **Perplexity.** Start on Free. Move to Pro when the weekly cap is the thing that stops the work, or when you need the premium data sources the card names. Max at $167 a month billed annually is a heavy Computer tier. A literature scan does not need it by default. The review is [Perplexity review](/blog/perplexity-review-2026/). The click-through habit is [how to use Perplexity for market research](/blog/how-to-use-perplexity-for-market-research-2026/).
 
-**When the source has to be a paper.** [Consensus](/tools/consensus/) and [Elicit](/tools/elicit/) are built around the literature, not the open web. Use them when "a blog said so" is the wrong bar. Then read the paper. The product notes are the [Consensus review](/blog/consensus-review-2026/) and the [Elicit review](/blog/elicit-review-2026/).
+**When the source has to be a paper.** [Consensus](/tools/consensus/) and [Elicit](/tools/elicit/) are built around the literature, not the open web. Use them when "a blog said so" is the wrong bar. Then read the paper. The product notes are the [Consensus review](/blog/consensus-review-2026/) and the [Elicit review](/blog/elicit-review-2026/). For a bid-specific version of this choice, see [RFP research in Perplexity or Claude](/blog/perplexity-vs-claude-for-rfp-research-2026/).
 
 **A drafting seat you already pay for.** [ChatGPT](/tools/chatgpt/) Plus is $20. It can outline from notes you paste. It is the wrong default when the requirement is a link you did not have five minutes ago. That comparison is the ChatGPT page linked above.
 

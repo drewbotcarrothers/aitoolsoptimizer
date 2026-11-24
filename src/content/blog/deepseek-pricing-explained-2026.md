@@ -47,7 +47,7 @@ Charges deduct from a prepaid balance, using any granted balance first, on the d
 
 **A cache hit is a prefix match.** Off-peak hit is $0.003, which is 50 times smaller than the off-peak miss: $0.15 / $0.003 = 50. That is arithmetic on the recorded card. It is not a measured hit rate. Output does not get that discount on this table. Output stays $0.60 off-peak and $1.20 at peak, hit or miss.
 
-**The chat app is not a discounted API.** Free chat on the web and mobile apps, plus the DeepSeek Harness desktop app, is the consumer product. Do not point a production workload at a personal chat and call it the API price. The API uses a key and a balance. The directory also says V4-Pro requests route to V4.1-Flash until V4.1-Pro launches. If your code still names an older model, read the current docs before you assume the table above is the one you are on.
+**The chat app is not a discounted API.** Free chat on the web and mobile apps, plus the DeepSeek Harness desktop app, is the consumer product. Do not point a production workload at a personal chat and call it the API price. The API uses a key and a balance. The directory also says V4-Pro requests route to V4.1-Flash until V4.1-Pro launches. If your code still names an older model, read the current docs before you assume the table above is the one you are on. Token counts depend on [the model's tokenizer](/blog/what-is-a-tokenizer-2026/), so the same text can bill differently across providers.
 
 Context on the card is 1 million tokens, with up to 384K output tokens. A long prompt can be a large miss. The length you can send is [what a context window is](/blog/what-is-a-context-window-2026/). Ordering the stable prefix first is [what context packing is](/blog/what-is-context-packing-2026/).
 

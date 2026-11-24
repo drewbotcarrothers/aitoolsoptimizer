@@ -45,7 +45,7 @@ Perplexity Max is $167 a month billed annually. Enterprise Pro is $40 a user a m
 
 The column you named, the source id, and the words or number that appear in that source. A paraphrase must be marked as a paraphrase. A quote must be the quote. A missing methods section stays missing. The next sentence of the paper is not permission to fill a column you did not define.
 
-**Elicit Plus** is the paper path when five columns are enough and you need exports and the clinical-trials search the card lists. Basic is free for unlimited search, summaries, and chat, with limited agent and report usage. The extraction table is why people leave Basic.
+**Elicit Plus** is the paper path when five columns are enough and you need exports and the clinical-trials search the card lists. Basic is free for unlimited search, summaries, and chat, with limited agent and report usage. The extraction table is why people leave Basic. When the table feeds a longer document, see [Perplexity vs Elicit for whitepapers](/blog/perplexity-vs-elicit-for-whitepapers-2026/).
 
 **Perplexity Pro** is the web path. Premium data such as PitchBook and Statista is on the Pro card. A data source you did not open is not a cell. Monthly prices were not a single number the pricing article would quote. Use the annual figure, then read monthly at checkout.
 

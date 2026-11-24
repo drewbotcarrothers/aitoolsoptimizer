@@ -34,7 +34,7 @@ flowchart TD
   human --> call["Only that person says go"]
 ```
 
-A task checklist can be long and still leave the gate red. Readiness is the short list of rows that would stop the launch. If support staffing is one of those rows, the swarm plan has to be linked, not described as "support will handle it." If customers must move, the migration notice has to be linked, with its send date.
+A task checklist can be long and still leave the gate red. Readiness is the short list of rows that would stop the launch. If support staffing is one of those rows, the swarm plan has to be linked, not described as "support will handle it." If customers must move, the migration notice has to be linked, with its send date. If the launch includes a model-facing feature, add a line confirming [the AI red team checklist](/blog/how-to-create-an-ai-red-team-checklist-with-ai-2026/) is closed.
 
 ## Where it is kept
 

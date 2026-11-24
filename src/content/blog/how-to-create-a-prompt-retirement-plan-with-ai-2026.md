@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask which prompts are "safe to delete." Do not retire an id because a newer prompt sounds better on one example. Do not leave the old id callable with no date and no named caller. The prompt owner accepts the row. A formatted table is not a retirement.
+Do not ask which prompts are "safe to delete." Do not retire an id because a newer prompt sounds better on one example. Do not leave the old id callable with no date and no named caller. The prompt owner accepts the row. A formatted table is not a retirement. The retirement date should be the last line in [that prompt's changelog](/blog/how-to-create-an-ai-prompt-changelog-with-ai-2026/).
 
 ## FAQ
 

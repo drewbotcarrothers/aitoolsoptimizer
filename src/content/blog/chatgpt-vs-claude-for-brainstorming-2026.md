@@ -11,7 +11,7 @@ draft: false
 
 **Use ChatGPT when you want a pile of options inside the chat you already pay for, including a custom GPT you reuse for the same kind of brainstorm. Use Claude when the brainstorm has to stay inside a long brief, a Project, and a document you will keep.** Both can list ideas. You still throw most of them away. A list is not a decision.
 
-The writing comparison, which is the draft after you have chosen, is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The email comparison, which is one message you will send, is [ChatGPT vs Claude for email](/blog/chatgpt-vs-claude-for-email-2026/). The three-way with Gemini is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+The writing comparison, which is the draft after you have chosen, is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The email comparison, which is one message you will send, is [ChatGPT vs Claude for email](/blog/chatgpt-vs-claude-for-email-2026/). The three-way with Gemini is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). Brainstorming ends where approved facts begin; for a launch folder where every boilerplate line must match, see [which assistant fits a press kit](/blog/chatgpt-vs-claude-for-press-kits-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score which model has better ideas.
 
@@ -41,7 +41,7 @@ flowchart TD
 
 A custom GPT is a saved setup, not a truth. Put the off-limits list in the instructions: no invented statistics, no competitor claims you did not paste, no "guaranteed" results. One example of a brainstorm you liked, with the private bits removed, is [what few-shot prompting is](/blog/what-is-few-shot-prompting-2026/).
 
-**Claude.** Free includes chat, files, and Projects with limits. Pro is the seat most people mean. Max at $100 or $200 is for people who already hit Pro. The directory records Team and does not print a Team price. A long brief belongs in a Project so the next session does not restart from a blank chat. That container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). Saved chat notes are [what AI memory is](/blog/what-is-ai-memory-2026/). The brief file beats memory.
+**Claude.** Free includes chat, files, and Projects with limits. Pro is the seat most people mean. Max at $100 or $200 is for people who already hit Pro. The directory records Team and does not print a Team price. A long brief belongs in a Project so the next session does not restart from a blank chat. That container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). Saved chat notes are [what AI memory is](/blog/what-is-ai-memory-2026/). The brief file beats memory. A list of possible responsibilities is brainstorming; the final posting is not, and [keeping a job description's requirements yours](/blog/claude-vs-chatgpt-for-job-descriptions-2026/) explains where the line sits.
 
 The review is [Claude review](/blog/claude-review-2026/). The heavy-use split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 

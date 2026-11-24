@@ -52,7 +52,7 @@ If you want one agent that opens the repo from the ChatGPT side, start on Plus a
 
 Do not pay for Plus and Pro in the same month to answer the same question twice. Run one task you already understand in the free tier of each. Keep the tool whose mistakes you can see.
 
-A refactor with tests is a narrower job than "coding." That head-to-head, between a terminal agent and an editor, is [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/).
+A refactor with tests is a narrower job than "coding." That head-to-head, between a terminal agent and an editor, is [Claude vs Cursor for refactors](/blog/claude-vs-cursor-for-refactors-2026/). The third pairing is [Claude vs Gemini for coding](/blog/claude-vs-gemini-for-coding-2026/), where Claude Pro includes Claude Code.
 
 ## FAQ
 

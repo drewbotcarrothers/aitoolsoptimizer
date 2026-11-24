@@ -43,7 +43,7 @@ The wiki comparison is for an internal page. A public FAQ is what a customer wil
 
 The questions you pasted, the answers you pasted, and the owner you named. A refund rule the model thinks is "standard" stays out. A price that was not in the paste stays out. If a question has no approved answer, the question stays unpublished.
 
-**ChatGPT Plus** is the single-page draft. The bill is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
+**ChatGPT Plus** is the single-page draft. The bill is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). Outside work, the same bring-your-own-facts approach applies to [drafting a trip itinerary with Gemini or ChatGPT](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/).
 
 **Gemini Plus** is the Doc you already have. The ladder, including Pro at $19.99 and the two Ultra prices, is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 

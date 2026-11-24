@@ -33,7 +33,7 @@ flowchart TD
   fmt -->|The list is blank| stop["Do not store it. A person writes the list"]
 ```
 
-JSON that is missing a required key can pass this gate and fail the schema lock. That is the point of keeping them separate. Prose that a safety classifier allowed can still fail this gate when the list is JSON only. A PII scan can still flag a phone number inside a container that passed. Passing the format gate means the shape of the file matched. It does not mean the facts are true. Checking values after the fact is [what AI output validation is](/blog/what-is-ai-output-validation-2026/).
+JSON that is missing a required key can pass this gate and fail the schema lock. That is the point of keeping them separate. Prose that a safety classifier allowed can still fail this gate when the list is JSON only. A PII scan can still flag a phone number inside a container that passed. Passing the format gate means the shape of the file matched. It does not mean the facts are true. Checking values after the fact is [what AI output validation is](/blog/what-is-ai-output-validation-2026/). A format gate checks the container; an [AI output toxicity gate](/blog/what-is-ai-output-toxicity-gate-2026/) checks the content against a line you wrote.
 
 A preamble is a container change if you said so. If the allow list is "JSON only, no sentences before the object," then a sentence before the object is a reject. The model does not get to explain the JSON in front of it unless you allowed that.
 

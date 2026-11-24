@@ -35,7 +35,7 @@ flowchart TD
   added -->|No| owner["The policy owner accepts the page"]
 ```
 
-ChatGPT Plus is the right seat when the outline is the whole source and you will read one page. Claude Pro is the right seat when the handbook already has a sentence for vacation, expenses, or access, and this page is only allowed to point at it. A cleaner paraphrase is a different rule. If the locked sentence is missing from the paste, the line says Sentence not pasted. It does not get rewritten from memory.
+ChatGPT Plus is the right seat when the outline is the whole source and you will read one page. Claude Pro is the right seat when the handbook already has a sentence for vacation, expenses, or access, and this page is only allowed to point at it. A cleaner paraphrase is a different rule. If the locked sentence is missing from the paste, the line says Sentence not pasted. It does not get rewritten from memory. The don't-invent-a-fact rule matters even more on a personal document, as [our resume rewrite comparison](/blog/claude-vs-chatgpt-for-resume-rewrites-2026/) shows.
 
 The announcement post is for a fact that must stay identical in three channels this week. A handbook page is the durable version. Do not paste the announcement into the handbook and call it the policy. The policy owner accepts the page. The announcement, if you send one, comes after that.
 

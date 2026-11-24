@@ -56,7 +56,7 @@ Sheets are a separate article: [best AI for Excel and Google Sheets](/blog/best-
 
 If the team wiki is Notion, the in-place assistant is [Notion AI](/tools/notion-ai/) Business at $20 per seat, not Gemini and not ChatGPT. The notes split is [Notion AI vs ChatGPT for notes](/blog/notion-ai-vs-chatgpt-for-notes-2026/).
 
-Microsoft 365 is the mirror case. Copilot with Microsoft 365 Personal is $9.99 a month on the October 16 card. Microsoft 365 Premium is $19.99. A business Copilot seat was recorded from $18, with a note that the promotional price had been $21. If the company is on Microsoft, stop this comparison and read that card. Gemini Pro does not become a Word add-in.
+Microsoft 365 is the mirror case. Copilot with Microsoft 365 Personal is $9.99 a month on the October 16 card. Microsoft 365 Premium is $19.99. A business Copilot seat was recorded from $18, with a note that the promotional price had been $21. If the company is on Microsoft, stop this comparison and read that card. Gemini Pro does not become a Word add-in. For a company-wide rollout, compare Workspace plans with [Gemini Enterprise and its 30-day trial](/blog/gemini-enterprise-pricing-explained-2026/).
 
 ## What to do with the draft
 

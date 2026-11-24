@@ -11,7 +11,7 @@ draft: false
 
 **Use Elicit when the citation has to be a paper in a literature set. Use Perplexity when the citation is a web source for a working question, and you will open it before you repeat it.** A citation the model named, that you cannot open, is not a citation. It is a rumor with punctuation. We did not score which product cites more accurately.
 
-The broader research pair is [Perplexity vs Elicit for research](/blog/perplexity-vs-elicit-for-research-2026/). The paper workflow with a second academic tool is [how to research papers with Elicit and Consensus](/blog/how-to-research-with-elicit-and-consensus-2026/). The invoices are [Elicit pricing explained](/blog/elicit-pricing-explained-2026/) and [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+The broader research pair is [Perplexity vs Elicit for research](/blog/perplexity-vs-elicit-for-research-2026/). The paper workflow with a second academic tool is [how to research papers with Elicit and Consensus](/blog/how-to-research-with-elicit-and-consensus-2026/). The invoices are [Elicit pricing explained](/blog/elicit-pricing-explained-2026/) and [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). Citations matter most in long-form work; [the whitepaper comparison](/blog/perplexity-vs-elicit-for-whitepapers-2026/) weighs the narrative against the paper table.
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. Opening a link is the check. A vendor's claim that answers are cited is not a score from us.
 

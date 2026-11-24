@@ -52,7 +52,7 @@ Class Central's report, as summarized in the directory, also said Duolingo's CEO
 
 ## What to check before you renew
 
-Open the plan name, the renewal date, and the feature list in the account that will be charged. If you subscribed to Max for Video Call, and Video Call is now on a cheaper plan you can switch to, that switch is the point of this article. If a free trial is offered, set a reminder before it renews. The directory does not record a universal trial length, so this page does not invent one.
+Open the plan name, the renewal date, and the feature list in the account that will be charged. If you subscribed to Max for Video Call, and Video Call is now on a cheaper plan you can switch to, that switch is the point of this article. If a free trial is offered, set a reminder before it renews. The directory does not record a universal trial length, so this page does not invent one. For speaking practice with an AI tutor, compare [Speak pricing](/blog/speak-pricing-explained-2026/): a 7-day trial, with the dollar shown in the app.
 
 A model that explains a grammar point can still be wrong. Check a sentence you will rely on against a source you trust. That habit is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/). An invented rule is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 

@@ -54,7 +54,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask how many retries are "safe." Do not retry a tool that already sent, posted, or charged unless the idempotency key is the one you tested. Do not share one count across every tool because the config file was shorter. The owner sets the row. The agent does not.
+Do not ask how many retries are "safe." Do not retry a tool that already sent, posted, or charged unless the idempotency key is the one you tested. Do not share one count across every tool because the config file was shorter. The owner sets the row. The agent does not. Pair the budget with [an AI tool idempotency key](/blog/what-is-ai-tool-idempotency-key-2026/) so a retried write happens once.
 
 ## FAQ
 

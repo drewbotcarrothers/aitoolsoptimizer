@@ -48,7 +48,7 @@ The writing aisle is [best AI writing assistants](/blog/best-ai-writing-assistan
 
 ## The price trap on Grammarly itself
 
-Monthly Pro at $30 is two and a half times the annual monthly equivalent of $12. Quarterly at $60 per member per three months sits between them. If you have already decided to keep Grammarly, the annual card is the one to compare with QuillBot's $8.33. A one-month test can use the $30 card, and then you should switch or cancel with the renewal price in view.
+Monthly Pro at $30 is two and a half times the annual monthly equivalent of $12. Quarterly at $60 per member per three months sits between them. If you have already decided to keep Grammarly, the annual card is the one to compare with QuillBot's $8.33. A one-month test can use the $30 card, and then you should switch or cancel with the renewal price in view. If paraphrasing is the main job, check [QuillBot pricing](/blog/quillbot-pricing-explained-2026/) and the annual Premium figure we could recheck.
 
 Free Grammarly remains a real spellcheck. Pay for Pro when you want the full-sentence rewrite and the tone shifts, and you will run them often enough that $144 a year is cheaper than the time. A fiction project is a different tool: [Sudowrite](/tools/sudowrite/) starts at $10 a month on its review. That is a creative writing credit plan, and it is the wrong alternative for a work email.
 

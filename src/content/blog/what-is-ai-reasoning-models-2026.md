@@ -56,7 +56,7 @@ Claude's capacity jump is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). Ge
 
 **You needed a source, not a deduction.** Retrieval is [what RAG is](/blog/what-is-rag-explained-2026/). A reasoning model can still invent a citation if you did not give it the page. [Perplexity](/tools/perplexity/) is the product that ships the link. Pro is $17 a month billed annually.
 
-**You are under the cap.** Do not buy Pro at $100 because a blog said reasoning is better. Buy it when Plus limits stop work you already do. The same rule is why Max exists for Claude.
+**You are under the cap.** Do not buy Pro at $100 because a blog said reasoning is better. Buy it when Plus limits stop work you already do. The same rule is why Max exists for Claude. If you want a reasoning-capable model outside Anthropic, [our Claude alternatives guide](/blog/claude-alternatives-2026/) lists USD prices from the directory.
 
 Temperature and sampling are a different knob. They change how varied the draw is. They are not the reasoning tier. That glossary is [what temperature in AI models is](/blog/what-is-temperature-in-ai-models-2026/).
 

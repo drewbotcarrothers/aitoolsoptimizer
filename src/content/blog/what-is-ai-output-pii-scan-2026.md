@@ -45,7 +45,7 @@ Redaction on the way in can still leave an identifier the model reconstructed or
 
 **The register of hits.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Store the scanner version and the reason. Do not paste the raw identifier into a page a wide group can open. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A clarity pass that must not touch the hold.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually, or $30 monthly, on the October 16 card. Run it only after the scan and the hold are decided. The invoice is [Grammarly pricing explained](/blog/grammarly-pricing-explained-2026/).
+**A clarity pass that must not touch the hold.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually, or $30 monthly, on the October 16 card. Run it only after the scan and the hold are decided. The invoice is [Grammarly pricing explained](/blog/grammarly-pricing-explained-2026/). A PII scan is one output check; a [toxicity gate](/blog/what-is-ai-output-toxicity-gate-2026/) is another, with its own threshold.
 
 A prompt that holds the line:
 

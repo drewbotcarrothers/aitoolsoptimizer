@@ -11,7 +11,7 @@ draft: false
 
 **Use Perplexity when you need a sourced briefing you can click, as the start of a literature map. Use Elicit when the map is a table of papers with columns you defined, such as method, year, and finding.** A map lists papers and the relationship you asked for. It does not add a paper the search did not return, and it does not invent an effect size. A vendor teardown that cites the open web is a different job: [Perplexity vs ChatGPT for RFP teardowns](/blog/perplexity-vs-chatgpt-for-rfp-teardowns-2026/). The retrieval idea under both tools is [what RAG is](/blog/what-is-rag-explained-2026/).
 
-Perplexity and Elicit prices are from directory pages checked October 16, 2026. Claude's prices are from claude.com/pricing on October 24, 2026. Notion's price is from the October 16 card. Published October 24, 2026. We did not score search results. The October 16 Perplexity card lists annual prices and says monthly billing costs more. This article quotes the annual figures that card confirmed.
+Perplexity and Elicit prices are from directory pages checked October 16, 2026. Claude's prices are from claude.com/pricing on October 24, 2026. Notion's price is from the October 16 card. Published October 24, 2026. We did not score search results. The October 16 Perplexity card lists annual prices and says monthly billing costs more. This article quotes the annual figures that card confirmed. A literature map is often the first step of a [whitepaper researched with Perplexity or Elicit](/blog/perplexity-vs-elicit-for-whitepapers-2026/).
 
 ## Which map you are making
 

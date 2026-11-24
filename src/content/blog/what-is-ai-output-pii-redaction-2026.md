@@ -33,7 +33,7 @@ flowchart TD
   scan -->|The check errors| hold["Hold the answer unless you wrote otherwise"]
 ```
 
-The inbound redaction keeps an email out of the prompt. The output step catches an email the model produced anyway, from memory or from a tool result. You want both when the answer can leave the building. A scan that flags the email and still displays it has not redacted anything. Redaction is the change to the text.
+The inbound redaction keeps an email out of the prompt. The output step catches an email the model produced anyway, from memory or from a tool result. You want both when the answer can leave the building. A scan that flags the email and still displays it has not redacted anything. Redaction is the change to the text. Redaction sits next to other output checks, such as [a toxicity gate that holds an answer](/blog/what-is-ai-output-toxicity-gate-2026/).
 
 A general redaction pass can also mask API keys and internal hostnames. Those may sit on the same pipeline. This page does not call a hostname personal data. If your policy lists it, put it on the list in writing. The model does not promote it.
 

@@ -52,7 +52,7 @@ flowchart TD
 
 **A meeting notetaker.** [Otter](/tools/otter-ai/) records a meeting. It does not publish your podcast. Pro is $16.99 a month or $8.33 billed annually. The card is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/).
 
-Descript Free is still the honest test: 60 media minutes a month. Hobbyist at $16 annually is the first plan the pricing explainer marks for 1080p without a watermark. Creator at $24 annually is the 4K and 30-hour step. Leave Descript when the metaphor is wrong, not when you have not tried Hobbyist on one real episode. The episode workflow is [how to edit podcasts with Descript](/blog/how-to-edit-podcasts-with-descript-2026/).
+Descript Free is still the honest test: 60 media minutes a month. Hobbyist at $16 annually is the first plan the pricing explainer marks for 1080p without a watermark. Creator at $24 annually is the 4K and 30-hour step. Leave Descript when the metaphor is wrong, not when you have not tried Hobbyist on one real episode. The episode workflow is [how to edit podcasts with Descript](/blog/how-to-edit-podcasts-with-descript-2026/). Before leaving because of seat limits, check [what Descript Enterprise covers beyond Business](/blog/descript-enterprise-pricing-explained-2026/).
 
 ## FAQ
 

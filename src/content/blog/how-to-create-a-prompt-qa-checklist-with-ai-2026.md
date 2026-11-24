@@ -55,7 +55,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask which checks a release "should" include. Do not let the model grade its own output. Do not call a version passed because the review checklist was already yes. The named reviewer looks at the sample. A blank stays a blank.
+Do not ask which checks a release "should" include. Do not let the model grade its own output. Do not call a version passed because the review checklist was already yes. The named reviewer looks at the sample. A blank stays a blank. Output checks still need an owner; [a checklist for who reads it before it ships](/blog/how-to-create-a-human-in-the-loop-checklist-with-ai-2026/) assigns one. Rerun these checks whenever the model underneath changes; [how to create a model switch checklist](/blog/how-to-create-a-model-switch-checklist-with-ai-2026/) covers that case.
 
 ## FAQ
 

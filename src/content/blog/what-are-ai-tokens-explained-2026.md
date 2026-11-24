@@ -65,7 +65,7 @@ Count the thing the vendor counts. If the invoice says input and output, a short
 
 A chat product that never shows a token count can still run out. The message is usually "usage limit," not "you spent 40,000 tokens." When that happens, the levers are a shorter prompt, a smaller attachment, retrieval instead of a paste, or a higher plan. Pasting the same 80-page PDF into every question spends the allowance on pages the question did not need.
 
-Temperature and sampling change which tokens the model picks. They do not change the definition of a token. That setting is [what temperature means](/blog/what-is-temperature-in-ai-models-2026/). The model itself is [what an LLM is](/blog/what-is-an-llm-2026/).
+Temperature and sampling change which tokens the model picks. They do not change the definition of a token. That setting is [what temperature means](/blog/what-is-temperature-in-ai-models-2026/). The model itself is [what an LLM is](/blog/what-is-an-llm-2026/). The piece that does the splitting is the [tokenizer, explained here](/blog/what-is-a-tokenizer-2026/), and it is why the same sentence can cost a different amount.
 
 ## FAQ
 

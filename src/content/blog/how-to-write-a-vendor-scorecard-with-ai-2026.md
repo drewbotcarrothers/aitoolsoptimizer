@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask which vendor to buy. Do not let the model fill a SOC report, an uptime percentage, or a price it "remembers." Do not paste a customer's data into the prompt so the model can "see if the vendor could handle it." The security review uses the evidence the vendor gave you, read by the person who owns that review.
+Do not ask which vendor to buy. Do not let the model fill a SOC report, an uptime percentage, or a price it "remembers." Do not paste a customer's data into the prompt so the model can "see if the vendor could handle it." The security review uses the evidence the vendor gave you, read by the person who owns that review. A vendor that keeps scoring badly may need [a written exit plan](/blog/how-to-write-a-vendor-exit-plan-with-ai-2026/) before the contract date arrives.
 
 The partner version of a one-page brief, when the vendor is also a partner, is [how to write a partner brief with AI](/blog/how-to-write-a-partner-brief-with-ai-2026/). Different document. Same rule: only the facts you have.
 

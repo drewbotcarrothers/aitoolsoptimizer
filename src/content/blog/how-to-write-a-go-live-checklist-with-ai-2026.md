@@ -50,7 +50,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model whether you should launch. Do not paste a customer list so the example looks specific. Do not archive the checklist because the bullets look even. The release owner uses it while the change is in motion.
+Do not ask the model whether you should launch. Do not paste a customer list so the example looks specific. Do not archive the checklist because the bullets look even. The release owner uses it while the change is in motion. For an AI launch, a [red team checklist with scope, rules, and a stop](/blog/how-to-create-an-ai-red-team-checklist-with-ai-2026/) should be finished before go-live day.
 
 ## FAQ
 

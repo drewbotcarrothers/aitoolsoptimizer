@@ -62,7 +62,7 @@ The full product is [Descript review](/blog/descript-review-2026/). Annual billi
 
 ## HeyGen and Suno are adjacent, not substitutes
 
-[HeyGen](/tools/heygen/) Creator at $29/month is an avatar plan that includes voice cloning. Buy it when the picture of a person is the product. Buy ElevenLabs when the file is audio. [Synthesia](/tools/synthesia/) is the other presenter path in [best AI video generators](/blog/best-ai-video-generators-2026/).
+[HeyGen](/tools/heygen/) Creator at $29/month is an avatar plan that includes voice cloning. Buy it when the picture of a person is the product. Buy ElevenLabs when the file is audio. [Synthesia](/tools/synthesia/) is the other presenter path in [best AI video generators](/blog/best-ai-video-generators-2026/). If you need voice conversion rather than text to speech, start with [what speech-to-speech AI is](/blog/what-is-speech-to-speech-ai-2026/).
 
 [Suno](/tools/suno/) makes songs. ElevenLabs Starter includes commercial use of its music features. That is still not a reason to cancel a song tool, and it is not a reason to buy Suno for a voiceover. Keep the SKUs separate. The channel workflow that uses both is [how to start a faceless YouTube channel](/blog/start-faceless-youtube-channel-with-ai/).
 

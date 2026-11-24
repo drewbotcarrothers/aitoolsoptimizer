@@ -39,7 +39,7 @@ The invoice is [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained
 
 Yearly billing exists. Confirm the discounted monthly equivalent at checkout. This table is the monthly list.
 
-**Starter is the default paid plan** for a monetized channel that can live inside 30,000 credits and does not need a professional clone. **Creator is the default** when the voice has to be a specific person. **Pro and above** are for API products and teams. A single YouTube channel does not need Pro unless the credit math from a real script says the Creator pool is too small.
+**Starter is the default paid plan** for a monetized channel that can live inside 30,000 credits and does not need a professional clone. **Creator is the default** when the voice has to be a specific person. **Pro and above** are for API products and teams. A single YouTube channel does not need Pro unless the credit math from a real script says the Creator pool is too small. If you plan to call the voices from code instead of the studio, the separate [ElevenLabs API rates per 1,000 characters](/blog/elevenlabs-api-pricing-explained-2026/) are the numbers to budget.
 
 Scale and Business are seat plans with a published clone count. Buying Business to "get the best voice" misunderstands the ladder. The commercial license is already on Starter.
 

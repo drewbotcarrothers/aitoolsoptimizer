@@ -35,7 +35,7 @@ flowchart TD
 
 Otter Pro is $16.99 a user a month, or $8.33 billed annually, with 1,200 transcription minutes and 90-minute conversations, on the October 16 card. Business is the row with unlimited meetings and 4-hour conversations. If the partner call regularly runs past 90 minutes, Pro is the wrong row even when the seat is cheaper. The card also said a promotion may lower checkout. Quote the list until checkout shows the coupon.
 
-Fathom's free plan lists unlimited recordings. Premium is the individual step. Team is $15 a user a month billed annually, or $19 monthly, with a 2-user minimum. Business is the CRM row. Do not buy Business because the call was with a partner. Buy it because you already map insights into CRM fields.
+Fathom's free plan lists unlimited recordings. Premium is the individual step. Team is $15 a user a month billed annually, or $19 monthly, with a 2-user minimum. Business is the CRM row. Do not buy Business because the call was with a partner. Buy it because you already map insights into CRM fields. For calls with investors rather than partners, see [the investor update comparison](/blog/otter-vs-fathom-for-investor-updates-2026/).
 
 ## What the note may say
 

@@ -43,7 +43,7 @@ Only steps that are in the published help article, or in a lesson a person has a
 
 **Synthesia Starter** fits the same clip when you want that card's yearly price. Move up when you need the lesson tools. Do not buy Enterprise for a three-step password reset.
 
-**Descript** fits when you already have a screen recording and you need to cut it. An avatar is the wrong tool for footage you shot.
+**Descript** fits when you already have a screen recording and you need to cut it. An avatar is the wrong tool for footage you shot. If the clip shows a whole feature rather than one fix, see [the product walkthrough comparison](/blog/heygen-vs-synthesia-for-product-walkthroughs-2026/).
 
 A prompt that holds the line:
 

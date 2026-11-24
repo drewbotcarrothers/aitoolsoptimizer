@@ -11,7 +11,7 @@ draft: false
 
 **Context packing is the ordered assembly of one request: which instructions, which passages, and which user turn you place in the window, and which pieces you leave out.** The window is the limit. The budget is how you split that limit. Packing is the list you actually send, in the order you send it. A packed request that includes a secret the user should not see, or a passage that contradicts the instruction, failed before the model wrote a word.
 
-The limit itself is [what a context window is](/blog/what-is-a-context-window-2026/). The split across instructions, retrieval, history, and the reply is [what token budgeting is](/blog/what-is-token-budgeting-2026/). Shrinking a piece so it fits the split is [what prompt compaction is](/blog/what-is-prompt-compaction-2026/). A repeated prefix you hope to reuse is [what a context cache is](/blog/what-is-a-context-cache-2026/).
+The limit itself is [what a context window is](/blog/what-is-a-context-window-2026/). The split across instructions, retrieval, history, and the reply is [what token budgeting is](/blog/what-is-token-budgeting-2026/). Shrinking a piece so it fits the split is [what prompt compaction is](/blog/what-is-prompt-compaction-2026/). A repeated prefix you hope to reuse is [what a context cache is](/blog/what-is-a-context-cache-2026/). Pack against the window minus [the tokens you reserve](/blog/what-is-ai-context-window-reservation-2026/) for the reply, tool results, and citations.
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not invent a token limit for any chat plan. We did not score which pack produces a better answer.
 

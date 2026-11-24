@@ -11,7 +11,7 @@ draft: false
 
 **A test data plan written with AI is a page that says which fields a test needs, the rules those fields must follow, where the rows may live, and the ban on copying production.** The model may draft fake values that follow rules you wrote. It may not paste a real customer, a real card, or a real address. The place a test must not touch production is [what an AI tool sandbox is](/blog/what-is-ai-tool-sandbox-2026/). The rows you re-run to judge a model, which is a different set, are [what an AI eval dataset is](/blog/what-is-ai-eval-dataset-2026/).
 
-The checklist that says how a migration is checked is [how to write a migration runbook with AI](/blog/how-to-write-a-migration-runbook-with-ai-2026/). The undo if a test writes somewhere it should not is [how to create a rollback plan with AI](/blog/how-to-create-a-rollback-plan-with-ai-2026/).
+The checklist that says how a migration is checked is [how to write a migration runbook with AI](/blog/how-to-write-a-migration-runbook-with-ai-2026/). The undo if a test writes somewhere it should not is [how to create a rollback plan with AI](/blog/how-to-create-a-rollback-plan-with-ai-2026/). If the fixture feeds a bug bash, the write-up afterward is [how to summarize a bug bash with AI](/blog/how-to-create-a-bug-bash-summary-with-ai-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not generate a sample database. This page is not a privacy policy.
 

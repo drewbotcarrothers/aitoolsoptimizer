@@ -42,7 +42,7 @@ There is no annual Teams price on the help page we read. There is no annual Ente
 
 **A neighboring company coding seat.** [GitHub Copilot](/tools/github-copilot/) Business is $19 a user a month on the October 16 directory card. Copilot Enterprise is a different invoice. This page does not restate a Copilot Enterprise dollar. The Business comparison is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/).
 
-**A terminal agent on a Claude plan.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Claude's own Enterprise contract is not a Cursor price. The seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/).
+**A terminal agent on a Claude plan.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly, on claude.com/pricing fetched October 24, 2026. Claude's own Enterprise contract is not a Cursor price. The seat article is [Claude Code pricing explained](/blog/claude-code-pricing-explained-2026/). If you are also pricing a cloud IDE for the company, see [how Replit Enterprise is priced](/blog/replit-enterprise-pricing-explained-2026/).
 
 **The policy sentence, if you only need the words.** [Claude](/tools/claude/) Pro is the same seat. A paragraph that says "we require SCIM" does not create a Cursor SKU.
 

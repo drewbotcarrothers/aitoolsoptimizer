@@ -60,7 +60,7 @@ A path you drew is still the right tool when the branch is known. "When a form i
 
 **You wanted a format, not a fact.** A template is a prompt. Tool use is for when the answer depends on a system. The craft of the prompt is [what prompt engineering is](/blog/what-is-prompt-engineering-2026/).
 
-Each tool call spends [tokens](/blog/what-are-ai-tokens-explained-2026/) or a credit. A loop of calls is why an agent task costs more than a one-line rewrite. If the receipt surprises you, the surprise is the feature working, not a bug in the invoice.
+Each tool call spends [tokens](/blog/what-are-ai-tokens-explained-2026/) or a credit. A loop of calls is why an agent task costs more than a one-line rewrite. If the receipt surprises you, the surprise is the feature working, not a bug in the invoice. Agents that call many tools spend credits on each step; [the Manus pricing breakdown](/blog/manus-pricing-explained-2026/) shows how that adds up.
 
 ## FAQ
 

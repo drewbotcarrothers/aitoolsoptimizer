@@ -57,7 +57,7 @@ Murf's API card, recorded October 16, 2026, is specific:
 
 A 1,000-character script at the studio rate is $0.03. That is multiplication of the card, and it is a measured quote from the rate table. New API accounts were described with $10 in credit. Concurrent requests on that new-account note were five. Professional cloning stayed on the enterprise API line.
 
-**Murf Studio subscription prices did not render** on the day we checked. Do not treat ElevenLabs Starter at $6 as cheaper than a Studio seat we could not see. Use the API when you need the rate. Use ElevenLabs when you want a content plan with a commercial license and a price on the card. The free Studio workspace, 10 minutes and no downloads, is a preview.
+**Murf Studio subscription prices did not render** on the day we checked. Do not treat ElevenLabs Starter at $6 as cheaper than a Studio seat we could not see. Use the API when you need the rate. Use ElevenLabs when you want a content plan with a commercial license and a price on the card. The free Studio workspace, 10 minutes and no downloads, is a preview. For Murf's API rate per 1,000 characters and what the Studio page did not show, see [the Murf AI pricing breakdown](/blog/murf-ai-pricing-explained-2026/).
 
 Murf Dub, for translating video and audio into 20+ languages, is a localization product beside the API. Video localization as a workflow is [how to localize video with AI](/blog/how-to-localize-video-with-ai-2026/).
 

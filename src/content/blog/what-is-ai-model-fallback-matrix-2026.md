@@ -32,7 +32,7 @@ flowchart TD
   row -->|A named model| next["Run that model under the same schema and the same tool budget"]
 ```
 
-A matrix that says "use whatever is up" is a wish. The row has a name. If gpt-6-luna is the fallback for summaries and nothing is named for refunds, refunds wait. Price is a reason to pick a row in advance. It is not a reason for the agent to hop during the incident. A spend spike after the hop is [what an AI cost anomaly alert is](/blog/what-is-ai-cost-anomaly-alert-2026/).
+A matrix that says "use whatever is up" is a wish. The row has a name. If gpt-6-luna is the fallback for summaries and nothing is named for refunds, refunds wait. Price is a reason to pick a row in advance. It is not a reason for the agent to hop during the incident. A spend spike after the hop is [what an AI cost anomaly alert is](/blog/what-is-ai-cost-anomaly-alert-2026/). A missed [heartbeat from a long-running agent](/blog/what-is-ai-agent-heartbeat-2026/) is one signal that can trigger the next row in the matrix.
 
 ## Where the matrix is used
 

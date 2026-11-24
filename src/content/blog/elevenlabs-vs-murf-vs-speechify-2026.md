@@ -59,7 +59,7 @@ Studio is the non-API product: a workspace for learning designers and marketers.
 
 ## Speechify, when someone is listening
 
-Speechify reads. Free covers basic text to speech at up to 1.5x, with 10 voices the directory page describes as robotic. Premium at $29 a month billed monthly is the plan for 1,000+ natural voices, 60+ languages, and the rest of the listening features. The page says yearly billing saves 60% versus monthly. It did not give us a yearly dollar figure we are willing to print. Read the checkout.
+Speechify reads. Free covers basic text to speech at up to 1.5x, with 10 voices the directory page describes as robotic. Premium at $29 a month billed monthly is the plan for 1,000+ natural voices, 60+ languages, and the rest of the listening features. The page says yearly billing saves 60% versus monthly. It did not give us a yearly dollar figure we are willing to print. Read the checkout. Voice changing and dubbing are a different category: [speech-to-speech AI](/blog/what-is-speech-to-speech-ai-2026/) takes audio in and returns audio.
 
 Upload a PDF in the web app, or use the browser extension on an article. Speechify is the wrong product for an ad read you will publish as a generated performance. That script belongs on ElevenLabs or, once you have confirmed a Studio price, on Murf. The listening review is [Speechify review](/blog/speechify-review-2026/).
 

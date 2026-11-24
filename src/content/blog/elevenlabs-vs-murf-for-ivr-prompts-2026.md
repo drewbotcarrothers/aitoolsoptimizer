@@ -38,7 +38,7 @@ flowchart TD
 
 ElevenLabs Pro is $99 a month, Scale is $299, and Business is $990, with credits recorded as 30,000 on Starter, 121,000 on Creator, 600,000 on Pro, 1.8 million on Scale, and 6 million on Business. This page does not convert credits into phone minutes. Read the pricing article before you forecast a call center.
 
-Murf Voice Changer is $0.10 per minute and Translation is $0.02 per 1,000 characters, on the same card. New API users get $10 of credit. Purchased API credit does not expire, on that record. Studio plan prices were not on the page we could read.
+Murf Voice Changer is $0.10 per minute and Translation is $0.02 per 1,000 characters, on the same card. New API users get $10 of credit. Purchased API credit does not expire, on that record. Studio plan prices were not on the page we could read. IVR prompts are short, so the [per-character Murf AI API rate](/blog/murf-ai-pricing-explained-2026/) is the number to check.
 
 ## What the caller should hear
 

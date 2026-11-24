@@ -42,7 +42,7 @@ Five communicators do not fit on a casual reading of either starter plan. HeyGen
 
 **A three-minute policy explainer from a script legal already signed.** Either paid starter plan can remove a watermark. Keep the script in [Notion AI](/tools/notion-ai/). Business is $20 a seat a month if that wiki is the system of record. The model may not add a policy line that legal did not write. The fact habit is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 
-**A global workforce and a locked brand.** Synthesia's recorded page puts Brand Kits, SSO, and one-click translation together on Enterprise. Get the quote. HeyGen's published SSO price is Business at $149. Compare the quote to $149 plus $20 for each extra seat. Language lists are not a quality score. Watch one clip in the language you will actually ship.
+**A global workforce and a locked brand.** Synthesia's recorded page puts Brand Kits, SSO, and one-click translation together on Enterprise. Get the quote. HeyGen's published SSO price is Business at $149. Compare the quote to $149 plus $20 for each extra seat. Language lists are not a quality score. Watch one clip in the language you will actually ship. When there is one approved script and no course to build, the shorter take is [HeyGen vs Synthesia for internal comms](/blog/heygen-vs-synthesia-for-internal-comms-2026/).
 
 **Footage you already shot.** An avatar is the wrong tool. [Descript](/tools/descript/) Hobbyist is $16 a person a month billed annually for editing real recordings. The invoice is [Descript pricing explained](/blog/descript-pricing-explained-2026/).
 

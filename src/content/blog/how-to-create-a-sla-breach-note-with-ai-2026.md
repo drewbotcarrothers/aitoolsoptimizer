@@ -46,7 +46,7 @@ A breach note that explains the bug is a postmortem. That document comes later, 
 
 **The desk.** [Zendesk AI](/tools/zendesk-ai/) Suite Team is $55 per agent per month paid yearly on the directory card. The note can be a macro only after a person has approved the wording. Support Team at $19 does not include the AI agents on that card. The stack is [best AI tools for support teams](/blog/best-ai-tools-for-support-teams-2026/).
 
-**The sentence a customer will read.** [Grammarly](/tools/grammarly/) Pro is $12 per member per month billed annually, or $30 monthly. It edits tone. It does not know your SLA.
+**The sentence a customer will read.** [Grammarly](/tools/grammarly/) Pro is $12 per member per month billed annually, or $30 monthly. It edits tone. It does not know your SLA. The promise you quote here usually comes from the contract; [how to write an AI SLA addendum](/blog/how-to-write-an-ai-sla-addendum-with-ai-2026/) covers drafting that target and remedy from what counsel approved.
 
 A prompt that holds the line:
 

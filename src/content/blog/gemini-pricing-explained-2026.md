@@ -47,9 +47,9 @@ A year of Plus at the monthly rate on the card is 12 × $4.99 = $59.88. A year o
 
 **Ultra** is two products on one name. $99.99 is 5x Pro limits and 10,000 Flow credits. $199.99 is 20x Pro limits, 25,000 Flow credits, and YouTube Premium. The directory's short takeaway also associates YouTube Premium and 20 TB or more with Ultra as a family. The table above is the detailed card. If a perk is the reason you are buying, confirm it on the Ultra tier in the cart. A person who is not hitting Pro's limits does not need either Ultra.
 
-**Notebook is a different meter.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account, and its directory page describes higher limits on the same Google AI plans, including a Pro multiple for notebooks that is not the "4x versus Free" line in the table above. Use the Notebook page when the job is a packet you uploaded. Use this page for the Gemini app subscription. Do not add the multiples together.
+**Notebook is a different meter.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account, and its directory page describes higher limits on the same Google AI plans, including a Pro multiple for notebooks that is not the "4x versus Free" line in the table above. Use the Notebook page when the job is a packet you uploaded. Use this page for the Gemini app subscription. Do not add the multiples together. The business side is a different bill; [Gemini Enterprise pricing](/blog/gemini-enterprise-pricing-explained-2026/) covers what the Cloud page lists and what it leaves out.
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those are the seats to price when the work is not inside Google. Pro at $19.99 is in the same band and includes the storage and the app integration. It is not the same product.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those are the seats to price when the work is not inside Google. Pro at $19.99 is in the same band and includes the storage and the app integration. It is not the same product. Meta's assistant is free with a Meta account; [Meta AI pricing](/blog/meta-ai-pricing-explained-2026/) explains why the paid Muse tiers are a separate product.
 
 ## What not to assume
 

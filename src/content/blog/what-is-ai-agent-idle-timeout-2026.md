@@ -36,7 +36,7 @@ If you did not write the minutes, you do not have an idle timeout. You have a ru
 
 ## Where you would set it
 
-**The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. Teams seats are $30, $100, or $200 a seat a month on that page. A cloud agent that can sit quietly is the run this clock is for. The company-seat article is [Cursor business pricing explained](/blog/cursor-business-pricing-explained-2026/).
+**The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. Teams seats are $30, $100, or $200 a seat a month on that page. A cloud agent that can sit quietly is the run this clock is for. The company-seat article is [Cursor business pricing explained](/blog/cursor-business-pricing-explained-2026/). The opposite signal is an [AI agent heartbeat](/blog/what-is-ai-agent-heartbeat-2026/), a pulse the run must emit on a clock you set.
 
 **A scheduled Claude task.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Scheduling is on that Pro list. A schedule without an idle clock can leave a task open. The review is [Claude review](/blog/claude-review-2026/).
 

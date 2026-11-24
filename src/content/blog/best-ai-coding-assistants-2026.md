@@ -47,7 +47,7 @@ Buy Pro when completions and a GitHub cloud agent are the missing piece and you 
 
 ## Devin Desktop, when one IDE should call several agents
 
-Cognition launched Devin Desktop as the next generation of Windsurf on June 2, 2026. It keeps Windsurf and VS Code extension compatibility. Free includes a light agent quota, limited models, and unlimited Tab completions. Pro is $20/month. Max is $200/month. Teams is $80/month plus $40/month per full developer seat, up to 200 users.
+Cognition launched Devin Desktop as the next generation of Windsurf on June 2, 2026. It keeps Windsurf and VS Code extension compatibility. Free includes a light agent quota, limited models, and unlimited Tab completions. Pro is $20/month. Max is $200/month. Teams is $80/month plus $40/month per full developer seat, up to 200 users. If Devin is on your shortlist, [Devin Desktop pricing](/blog/devin-desktop-pricing-explained-2026/) covers Free, Pro at $20, Max at $200, and Teams.
 
 The reason to open it, beside Copilot, is the Agent Client Protocol. At launch it could run Codex, Claude Agent, OpenCode, and other ACP agents from the same desktop, with a command center for local and cloud agents. Use it when the problem is "one place to supervise agents," not "the cheapest completion." A $20 Pro seat plus a separate Claude or ChatGPT subscription can double-pay for the model. Check whether the agent you want is included before you stack bills. The subscription rule is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 

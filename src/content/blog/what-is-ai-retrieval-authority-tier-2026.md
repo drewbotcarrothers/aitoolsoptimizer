@@ -46,7 +46,7 @@ A filter can drop an excluded source before retrieval. The tier still exists for
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per source, the tier, the date, and the owner. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The diff, if the tier lives next to the index config.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page recorded in [Cursor Business pricing explained](/blog/cursor-business-pricing-explained-2026/). You review a diff that moves a source from secondary to primary.
+**The diff, if the tier lives next to the index config.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page recorded in [Cursor Business pricing explained](/blog/cursor-business-pricing-explained-2026/). You review a diff that moves a source from secondary to primary. Tiers are easier to assign once every collection is listed; [create a retrieval source map](/blog/how-to-create-a-retrieval-source-map-with-ai-2026/) with owners and dates first.
 
 A prompt that holds the line:
 

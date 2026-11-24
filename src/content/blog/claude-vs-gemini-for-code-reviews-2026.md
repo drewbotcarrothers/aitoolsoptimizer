@@ -35,7 +35,7 @@ flowchart TD
   cut --> human["A person who can run the code approves or requests changes"]
 ```
 
-Claude Max starts at $100. A review note does not need it. Google AI Plus is $4.99 a month. Buy Plus when you need that card's video and storage, not because a diff requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs. Chat is not a substitute for running the tests.
+Claude Max starts at $100. A review note does not need it. Google AI Plus is $4.99 a month. Buy Plus when you need that card's video and storage, not because a diff requires it. Pro at $19.99 is the row the directory ties to Gemini in Gmail and Docs. Chat is not a substitute for running the tests. For writing code rather than reviewing it, see [Claude vs Gemini for coding](/blog/claude-vs-gemini-for-coding-2026/): Claude Code in the terminal, or the Google seat.
 
 ## What the comment may say
 

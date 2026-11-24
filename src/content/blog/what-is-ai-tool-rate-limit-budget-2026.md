@@ -11,7 +11,7 @@ draft: false
 
 **An AI tool rate-limit budget is the share of a vendor's rate-limit window that you assign to one tool, one workflow, or one agent, so a noisy caller cannot spend the whole minute.** The vendor still has a ceiling. Your budget is the slice under that ceiling. When the slice is gone, that tool waits or stops, even if the vendor would still accept another call from a different tool.
 
-The vendor's own count is [what AI rate limiting is](/blog/what-is-ai-rate-limiting-2026/). A stop based on the shape of the traffic is [what an AI abuse rate limit is](/blog/what-is-ai-abuse-rate-limit-2026/). How many tool calls one task may make, with no clock, is [what an AI tool call budget is](/blog/what-is-ai-tool-call-budget-2026/). Dollars for one run are [what an AI agent cost ceiling is](/blog/what-is-ai-agent-cost-ceiling-2026/).
+The vendor's own count is [what AI rate limiting is](/blog/what-is-ai-rate-limiting-2026/). A stop based on the shape of the traffic is [what an AI abuse rate limit is](/blog/what-is-ai-abuse-rate-limit-2026/). How many tool calls one task may make, with no clock, is [what an AI tool call budget is](/blog/what-is-ai-tool-call-budget-2026/). Dollars for one run are [what an AI agent cost ceiling is](/blog/what-is-ai-agent-cost-ceiling-2026/). A rate limit counts calls per window; a [tool concurrency limit](/blog/what-is-ai-tool-concurrency-limit-2026/) counts how many may run at once.
 
 Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in [Claude pricing explained](/blog/claude-pricing-explained-2026/). Cursor's Plus price is the October 24 help-center figure recorded in [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). Zapier is the October 16 directory card. A live fetch of Zapier's pricing page returned HTTP 401 on October 24, 2026, so that figure stays on the directory record. Published October 24, 2026. We did not measure any vendor's live ceiling. The directory does not list a rate-limit-budget fee.
 
@@ -33,7 +33,7 @@ flowchart TD
   share -->|The vendor ceiling is spent| vendor["The vendor refuses. A larger share does not override that"]
 ```
 
-A tool call budget stops a task after N calls, even if those calls were an hour apart. A rate-limit budget stops a tool after N calls inside the window, even if the task still has calls left on its other budget. You can set both. The run stops on the first one it hits.
+A tool call budget stops a task after N calls, even if those calls were an hour apart. A rate-limit budget stops a tool after N calls inside the window, even if the task still has calls left on its other budget. You can set both. The run stops on the first one it hits. Retries after a rate-limit error are safe only when each call carries [an idempotency key](/blog/what-is-ai-tool-idempotency-key-2026/).
 
 The vendor ceiling is not yours to raise by rewriting the prompt. If the vendor says 60 requests a minute and you assigned 50 of them to one agent, the other tools share 10. Assigning 80 to that agent does not create 20 extra requests. It only lies about the share.
 

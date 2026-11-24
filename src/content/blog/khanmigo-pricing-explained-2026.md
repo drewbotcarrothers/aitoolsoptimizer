@@ -11,7 +11,7 @@ draft: false
 
 **Khanmigo is free for teachers. Learners and families pay $4 a month or $44 a year, plus sales tax, on the pricing page recorded in the directory.** A parent account can include up to 10 children. District tools, including student access and rostering, are priced on request. There is no separate public "Pro" sticker on that card.
 
-The classroom-tool invoices next to it are [MagicSchool pricing explained](/blog/magicschool-pricing-explained-2026/) and [Brisk Teaching pricing explained](/blog/brisk-teaching-pricing-explained-2026/). A language app is a different product: [Duolingo Max pricing explained](/blog/duolingo-max-pricing-explained-2026/). The teacher roundup is [best AI tools for teachers](/blog/best-ai-tools-for-teachers-2026/).
+The classroom-tool invoices next to it are [MagicSchool pricing explained](/blog/magicschool-pricing-explained-2026/) and [Brisk Teaching pricing explained](/blog/brisk-teaching-pricing-explained-2026/). A language app is a different product: [Duolingo Max pricing explained](/blog/duolingo-max-pricing-explained-2026/). The teacher roundup is [best AI tools for teachers](/blog/best-ai-tools-for-teachers-2026/). Language learners have a separate option; see [how Speak prices Premium and Premium Plus](/blog/speak-pricing-explained-2026/).
 
 Prices are US list prices excluding tax from Khan Academy's Khanmigo pricing page as recorded in the directory on October 16, 2026. The live pricing page returned an authentication error when this article was drafted, so the figures below are the directory record, not a fresh checkout. Published October 24, 2026. We did not score tutoring quality.
 

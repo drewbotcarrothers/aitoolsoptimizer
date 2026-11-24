@@ -37,7 +37,7 @@ Go may include ads, on the ChatGPT card. A cover letter is not a reason to treat
 
 ## What $20 is buying
 
-**ChatGPT Plus** adds projects, so the resume facts can sit in one place while you swap the job post. Pro at $100 and above is a capacity tier. One letter does not require it. The tool page is [ChatGPT](/tools/chatgpt/). The review is [ChatGPT review](/blog/chatgpt-review-2026/).
+**ChatGPT Plus** adds projects, so the resume facts can sit in one place while you swap the job post. Pro at $100 and above is a capacity tier. One letter does not require it. The tool page is [ChatGPT](/tools/chatgpt/). The review is [ChatGPT review](/blog/chatgpt-review-2026/). The same rule, only facts you already approved, applies to company copy too, as in our [press kit comparison of ChatGPT and Claude](/blog/chatgpt-vs-claude-for-press-kits-2026/). The resume comes first, and [Claude vs ChatGPT for resume rewrites](/blog/claude-vs-chatgpt-for-resume-rewrites-2026/) covers letting a model cut and reorder without inventing a job or a metric.
 
 **Claude Pro** is the better Claude path when the source is long: a job description, a portfolio note, and a list of constraints ("do not mention the layoff," "keep it under 300 words"). Free can take a short paste, with usage limits. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The review is [Claude review](/blog/claude-review-2026/).
 

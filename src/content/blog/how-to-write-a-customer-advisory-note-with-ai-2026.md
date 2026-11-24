@@ -13,7 +13,7 @@ draft: false
 
 The record of what you shipped, when the note is about a release, is [how to write a changelog with AI](/blog/how-to-write-a-changelog-with-ai-2026/). The person who still owns a case the note creates is [what AI human escalation is](/blog/what-is-ai-human-escalation-2026/).
 
-Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score customer response. Counsel or the incident owner reads the note before it sends. The model does not clear it.
+Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score customer response. Counsel or the incident owner reads the note before it sends. The model does not clear it. If the advisory follows an outage, link it to [a post-incident FAQ drafted with AI](/blog/how-to-write-a-post-incident-faq-with-ai-2026/) so answers stay consistent.
 
 ## What the note has to contain
 

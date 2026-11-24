@@ -50,7 +50,7 @@ Grammarly will not notice a wrong price, a wrong name, or a policy you did not m
 
 ## Who should pay
 
-Pay annual Pro when you rewrite sentences every week and Free's underlines are not enough. The jump from $144 to $360 is the monthly toggle. Use monthly only when you truly might cancel inside a month. Quarterly at $60 is $180 a year if you pay all four, which is still more than $144 and less than $360. The directory prints "$60 per quarter." It does not print a "$20 a month" quarterly equivalent. Quote $60.
+Pay annual Pro when you rewrite sentences every week and Free's underlines are not enough. The jump from $144 to $360 is the monthly toggle. Use monthly only when you truly might cancel inside a month. Quarterly at $60 is $180 a year if you pay all four, which is still more than $144 and less than $360. The directory prints "$60 per quarter." It does not print a "$20 a month" quarterly equivalent. Quote $60. For a cheaper rewrite tool, compare these numbers with [what QuillBot Premium costs](/blog/quillbot-pricing-explained-2026/).
 
 Students can live on Free for a long time. A student who needs a cited reading tool does not need Pro for that. The stack is [best AI tools for students](/blog/best-ai-tools-for-students-2026/). A student who was using Perplexity as a writing tutor needs a different page: [Perplexity alternatives for students](/blog/perplexity-alternatives-for-students-2026/).
 

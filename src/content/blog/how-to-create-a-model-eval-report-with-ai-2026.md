@@ -50,7 +50,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model which failures "do not matter." Do not average two runs that used different samples. Do not let the report change the prompt it is judging. A prompt change is a separate request: [how to write a prompt change request with AI](/blog/how-to-write-a-prompt-change-request-with-ai-2026/).
+Do not ask the model which failures "do not matter." Do not average two runs that used different samples. Do not let the report change the prompt it is judging. A prompt change is a separate request: [how to write a prompt change request with AI](/blog/how-to-write-a-prompt-change-request-with-ai-2026/). When the eval supports a move to a new model, [the model switch checklist](/blog/how-to-create-a-model-switch-checklist-with-ai-2026/) turns those cases into a go or no-go list.
 
 ## FAQ
 

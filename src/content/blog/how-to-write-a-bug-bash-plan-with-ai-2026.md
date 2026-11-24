@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model what to test. Do not let it file "bugs" from a screenshot it imagined. Do not bash production with customer data because the plan forgot the environment line. The environment is a field you fill. A risk list for the release, which is a different document, is [how to create a risk register with AI](/blog/how-to-create-a-risk-register-with-ai-2026/).
+Do not ask the model what to test. Do not let it file "bugs" from a screenshot it imagined. Do not bash production with customer data because the plan forgot the environment line. The environment is a field you fill. A risk list for the release, which is a different document, is [how to create a risk register with AI](/blog/how-to-create-a-risk-register-with-ai-2026/). After the session, [create a bug bash summary with AI](/blog/how-to-create-a-bug-bash-summary-with-ai-2026/) from the bugs and severities people actually filed.
 
 ## FAQ
 
