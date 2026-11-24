@@ -145,4 +145,13 @@ Google pitches it for tool selection, policy checks, model routing and grading. 
 
 ---
 
+## What this means for you
+
+If you use Notion AI, check your admin notices about the Fireworks breach, which exposed chats in under 1% of workspaces. For API users, Gemini 4 Hydrogen is a cheaper default for everyday work. Keep Argon or Carbon for the hardest jobs, and note their prices rise Dec 1.
+
+- Notion AI's plans and data options: [Notion AI review](/blog/notion-ai-review-2026/).
+- Gemini model prices compared: [AI model comparison](/models/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

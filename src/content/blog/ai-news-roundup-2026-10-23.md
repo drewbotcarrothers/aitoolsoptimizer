@@ -122,6 +122,16 @@ Craft works in two stages: a planning model first writes out the composition (el
 
 ---
 
+## What this means for you
+
+Two items need action. Patch PHP2Shell now, because exploitation is underway. And if agents sign in for you, prefer tools like 1Password for Agents that never show the password to the model. Canva's free Craft image model is worth trying before you pay for a separate image generator.
+
+- Image tools compared by job and price: [best AI image generators](/blog/best-ai-image-generators-2026/).
+- Canva's AI plans: [Canva pricing explained](/blog/canva-pricing-explained-2026/).
+- Why agent access needs limits: [what prompt injection is](/blog/what-is-prompt-injection-2026/).
+
+---
+
 ## What should you watch next?
 
 - **OpenAI’s round:** signatures are targeted for the end of next week; watch the final size, valuation and any UAE compute deal.

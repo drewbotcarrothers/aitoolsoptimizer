@@ -121,4 +121,13 @@ You still see the tool calls (such as an edit’s diff), not the code. Press **C
 
 ---
 
+## What this means for you
+
+If you use Claude Code, Code Mode is experimental. Try it on a test project before trusting it with parallel tool calls in real work. Perplexity's Orchestrator API puts many models behind one key, which is handy for comparing models without opening several accounts.
+
+- Claude Code's plans and limits: [Claude Code review](/blog/claude-code-review-2026/).
+- Perplexity's paid options: [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

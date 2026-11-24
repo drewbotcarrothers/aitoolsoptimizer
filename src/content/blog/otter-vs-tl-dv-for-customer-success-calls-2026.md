@@ -13,7 +13,7 @@ draft: false
 
 The general note comparison is [Otter vs tl;dv for meeting notes](/blog/otter-vs-tl-dv-for-meeting-notes-2026/). The team shelf is [best AI tools for customer success](/blog/best-ai-tools-for-customer-success-2026/). The Otter invoice is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/).
 
-Otter's prices below are from otter.ai/pricing on October 24, 2026, in USD. A fetch of tldv.io/app/pricing the same day returned structured prices in euros, not USD. The October 16 directory record had shown Canadian dollar figures and said USD was not confirmed. This page does not convert euros or Canadian dollars into USD. Published October 24, 2026. We did not score transcription accuracy or retention. Before you buy seats for a CS team, check [how tl;dv prices Pro and Business](/blog/tl-dv-pricing-explained-2026/).
+Otter's prices below are from otter.ai/pricing on October 24, 2026, in USD. A fetch of tldv.io/app/pricing the same day returned structured prices in euros, not USD. The October 16 directory record had shown Canadian dollar figures and said USD was not confirmed. This page does not convert euros or Canadian dollars into USD. Published October 24, 2026. We did not score transcription accuracy or retention.
 
 ## Which seat matches the call
 
@@ -39,7 +39,7 @@ flowchart TD
 
 Otter's October 24 page also lists a student and teacher price: Pro annual at $6.67 a month, billed $79.99 a year, and Pro monthly at $13.59, for an email ending in .edu. That discount is not the company seat. AI Chat query caps on the October 16 directory card are 20 a user a month on Basic, 50 on Pro, and 200 on Business.
 
-tl;dv's October 16 directory card is the one that described CRM logging, follow-up drafts, and multi-meeting insights on Business. The October 24 fetch confirmed euro prices and did not restate every feature. Use the product page for the feature and checkout for the currency. [Fathom](/tools/fathom/) Premium is $16 a month billed annually, or $20 monthly, on the October 16 card, if you want a third USD comparison. The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/).
+tl;dv's October 16 directory card is the one that described CRM logging, follow-up drafts, and multi-meeting insights on Business. The October 24 fetch confirmed euro prices and did not restate every feature. Use the product page for the feature and checkout for the currency. [Fathom](/tools/fathom/) Premium is $16 a month billed annually, or $20 monthly, on the October 16 card, if you want a third USD comparison. The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/). Before you buy seats for a CS team, check [how tl;dv prices Pro and Business](/blog/tl-dv-pricing-explained-2026/).
 
 ## What the note may say
 

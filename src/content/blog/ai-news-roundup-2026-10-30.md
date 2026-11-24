@@ -155,6 +155,15 @@ Google says it’s available to **all users** in every language the Gemini app s
 
 ---
 
+## What this means for you
+
+Check now if you use Cursor with the Claude Code extension: the malicious versions were 2.1.312 and 2.1.313. Update and rotate any keys on that machine. Gemini can now create and edit Docs, Sheets and slides in the chat for all users, so try the free tier before you pay for a separate document tool.
+
+- Claude Code's plans and limits: [Claude Code review](/blog/claude-code-review-2026/).
+- Editor alternatives if you're reconsidering Cursor: [Cursor alternatives](/blog/cursor-alternatives-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Extension security:** Whether Cursor and other editors add stronger signing or review for marketplace extensions.

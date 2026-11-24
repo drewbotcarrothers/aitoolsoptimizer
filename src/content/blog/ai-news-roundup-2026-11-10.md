@@ -138,4 +138,13 @@ Further details of the legislation will come later. ABC News reports the move fo
 
 ---
 
+## What this means for you
+
+Gemini 4 Carbon is now open to paying API users and Google AI Ultra subscribers, at an introductory price that rises Dec 1. If you build on it, budget for the later price. Apple's $49.99 usage packs show AI features increasingly come with metered extras, so check usage limits as well as the sticker price.
+
+- Gemini plans and what each includes: [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+- Carbon and Argon API prices next to other models: [AI model comparison](/models/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

@@ -123,4 +123,13 @@ Google didn’t publish absolute specs, prices or regions for either system.
 
 ---
 
+## What this means for you
+
+Model prices keep splitting into tiers. Meta's Muse Ember is very cheap for simple tasks, while Claude Fable 5.2 sits at the premium end. Match the model to the job: cheap models for drafts and sorting, premium models for hard reasoning. If you buy through AWS, you can now get ChatGPT Enterprise on your existing AWS bill.
+
+- Per-token prices side by side: [AI model comparison](/models/).
+- Anthropic's model rates: [Anthropic API pricing explained](/blog/anthropic-api-pricing-explained-2026/).
+
+---
+
 *This roundup is for education only and isn’t financial advice. Benchmark scores and performance figures are as reported by their publishers; the generator deal is based on press reports of an FT story.*

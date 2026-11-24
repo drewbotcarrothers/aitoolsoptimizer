@@ -131,4 +131,13 @@ Google Health’s Blood Pressure Trends feature gives monthly “High” or “N
 
 ---
 
+## What this means for you
+
+There's nothing to change in your toolkit today. The RSA results don't break 2048-bit or larger keys, and the smartwatch hypertension study is research, not a product feature. Airbnb's travel agent is planned for the first half of 2027. For trip planning now, use a general assistant and check every booking detail yourself.
+
+- Assistants for trip planning: [ChatGPT vs Gemini for travel planning](/blog/chatgpt-vs-gemini-for-travel-planning-2026/).
+- When you need cited sources: [Perplexity review](/blog/perplexity-review-2026/).
+
+---
+
 *This roundup is for education only and isn’t financial or medical advice. Funding figures come from press reports citing unnamed sources.*

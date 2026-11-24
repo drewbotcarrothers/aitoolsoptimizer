@@ -123,6 +123,15 @@ Anthropic says most reviews now finish in about **6–10 minutes**, roughly **3x
 
 ---
 
+## What this means for you
+
+Two practical lessons from today. Cheap open models keep getting better, so test one before you renew a premium seat for routine work. And the CERT-In report is a reminder that an AI agent with access to exposed credentials can reach real systems. Give agents only the keys they need.
+
+- Before you give an agent tools or logins, read [what an AI agent is](/blog/what-is-an-ai-agent-2026/) and [what human-in-the-loop AI means](/blog/what-is-human-in-the-loop-ai-2026/).
+- If DeepSeek's prices caught your eye, [DeepSeek pricing explained](/blog/deepseek-pricing-explained-2026/) breaks down the chat and API costs.
+
+---
+
 ## What should builders watch next?
 
 1. **Export rules vs. open weights** — China’s draft keeps API access open but puts weights and overseas deployment under control; the comment window closes November 15.

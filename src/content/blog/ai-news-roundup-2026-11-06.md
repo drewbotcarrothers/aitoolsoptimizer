@@ -139,4 +139,13 @@ draft: false
 
 ---
 
+## What this means for you
+
+Visa's benchmark is the one to remember: shopping agents pass only about 57% of tasks, and many failed runs still ended in a purchase. Don't let an agent buy without confirmation. If you use Claude Code, update to 2.1.317 or later to stop your account email leaking in headers.
+
+- Why agents need approval steps: [what human-in-the-loop AI is](/blog/what-is-human-in-the-loop-ai-2026/).
+- Claude Code plans and settings: [Claude Code review](/blog/claude-code-review-2026/).
+
+---
+
 *AI Tools Optimizer is for education only. We summarize public reporting and company announcements; verify primary sources before acting. Directory pages may use affiliate links; a purchase through them may earn us a commission at no extra cost to you.*

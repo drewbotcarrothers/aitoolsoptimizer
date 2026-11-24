@@ -116,6 +116,16 @@ EverWind says the plan totals **more than C$10 billion** (about **US$7.1 billion
 
 ---
 
+## What this means for you
+
+The OpenCode breach is the one to act on. If you saved API keys from other AI providers in a third-party coding tool, rotate them and set spending limits with each provider. ChatGPT Slides only matters if you're already on Pro, Business or Enterprise. Don't upgrade just for it until you've compared dedicated deck tools.
+
+- Deck options at every budget: [best AI presentation makers](/blog/best-ai-presentation-makers/).
+- Which ChatGPT tier includes what: [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+- Why connected tools need guardrails: [what prompt injection is](/blog/what-is-prompt-injection-2026/).
+
+---
+
 ## What should builders watch next?
 
 1. **Public Benefit Fund details:** stockholder approval, governance, and the baseline valuation behind the extra 2% steps.

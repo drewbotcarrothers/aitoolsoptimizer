@@ -13,7 +13,7 @@ draft: false
 
 The voice comparison is [Murf vs ElevenLabs](/blog/murf-vs-elevenlabs-2026/). The three-way with listening software is [ElevenLabs vs Murf vs Speechify](/blog/elevenlabs-vs-murf-vs-speechify-2026/). ElevenLabs' own bill is [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained-2026/).
 
-Prices are US list prices excluding tax from Murf's pricing page and Help Center as recorded in the directory on October 16, 2026. A direct fetch on October 24, 2026 returned 401, so this article does not fill the Studio gap from memory. Published October 24, 2026. We did not score voices. A second breakdown, focused on the Falcon TTS API rate per 1,000 characters, is in [Murf AI pricing explained](/blog/murf-ai-pricing-explained-2026/).
+Prices are US list prices excluding tax from Murf's pricing page and Help Center as recorded in the directory on October 16, 2026. A direct fetch on October 24, 2026 returned 401, so this article does not fill the Studio gap from memory. Published October 24, 2026. We did not score voices.
 
 ## The API, which we can quote
 
@@ -41,7 +41,7 @@ Ten thousand characters on Falcon are 10 × $0.01 = $0.10. The same length at th
 
 ## Studio, stated as a gap
 
-A free Studio workspace includes 10 minutes of voice generation, and downloads are not available on that free workspace, per the Help Center note in the directory. **Current Studio subscription prices were not verified.** Check [Murf's pricing page](https://murf.ai/pricing) before you budget a narrator seat. Do not copy a third-party blog's Studio number into a purchase order.
+A free Studio workspace includes 10 minutes of voice generation, and downloads are not available on that free workspace, per the Help Center note in the directory. **Current Studio subscription prices were not verified.** Check [Murf's pricing page](https://murf.ai/pricing) before you budget a narrator seat. Do not copy a third-party blog's Studio number into a purchase order. A second breakdown, focused on the Falcon TTS API rate per 1,000 characters, is in [Murf AI pricing explained](/blog/murf-ai-pricing-explained-2026/).
 
 Until that dollar is on a page you opened, compare products that do have one:
 

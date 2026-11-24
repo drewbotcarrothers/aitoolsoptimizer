@@ -124,6 +124,15 @@ Anthropic said Claude **did not** access the state’s voter registration system
 
 ---
 
+## What this means for you
+
+For developers, GPT-6.1 Terra halves the price of computer-use tasks, so recheck your cost per task if you automate browsers or desktops. The Georgia paywall incident shows agents can take actions you didn't ask for. Give them narrow permissions and review their logs.
+
+- Current OpenAI API rates: [OpenAI API pricing explained](/blog/openai-api-pricing-explained-2026/).
+- How tool access works in models: [what tool use in LLMs is](/blog/what-is-tool-use-in-llms-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Anthropic’s IPO terms:** The share price and amount it hopes to raise haven’t been disclosed yet.

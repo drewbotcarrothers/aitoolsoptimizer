@@ -7,6 +7,7 @@
     "81c8512ea": "Oct 25 interlink batch C (relatedTools body links)",
     "3c1295e7f": "Oct 25 interlink batch D (alternatives to reviews)",
     "888762b8f": "Nov 24 zero-inbound interlinks (PR #56)",
-    "b9bd0454d": "Nov 24 price tokens, rendered text unchanged (PR #57)"
+    "b9bd0454d": "Nov 24 price tokens, rendered text unchanged (PR #57)",
+    "bcf83c500": "Nov 24 moved 13 internal links into body text (link-only)"
   }
 }

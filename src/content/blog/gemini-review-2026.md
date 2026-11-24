@@ -9,9 +9,9 @@ sample: false
 draft: false
 ---
 
-**[Gemini](/tools/gemini/) is Google's assistant, in the Gemini app and inside Google products.** The paid plans are Google AI subscriptions. On the United States view of Google's subscriptions page, Plus is {{price:gemini.plus}} a month, Pro is {{price:gemini.pro}} a month, and Ultra starts at {{price:gemini.ultra}} a month. You are buying usage, models, Flow credits, and storage together. That bundle is the product.
+**[Gemini](/tools/gemini/) is Google's assistant, in the Gemini app and inside Google products.** The paid plans are Google AI subscriptions. On the United States view of Google's subscriptions page, Plus is {{price:gemini.plus}} a month, Pro is {{price:gemini.pro}} a month, and Ultra starts at {{price:gemini.ultra}} a month. You are buying usage, models, Flow credits, and storage together. That bundle is the product. Companies buying for a team should read [how Gemini Enterprise is priced](/blog/gemini-enterprise-pricing-explained-2026/), which is not the consumer AI Pro plan.
 
-Those dollar amounts were read from the United States view of [gemini.google/subscriptions](https://gemini.google/subscriptions/) on October 24, 2026. Google's footnote says Plus, Pro, and Ultra are available in more than 140 countries, and some benefits are limited by country and to ages 18+. A price in another country, or in a mobile app store, can differ. We did not score Gemini against ChatGPT. The comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). Companies buying for a team should read [how Gemini Enterprise is priced](/blog/gemini-enterprise-pricing-explained-2026/), which is not the consumer AI Pro plan.
+Those dollar amounts were read from the United States view of [gemini.google/subscriptions](https://gemini.google/subscriptions/) on October 24, 2026. Google's footnote says Plus, Pro, and Ultra are available in more than 140 countries, and some benefits are limited by country and to ages 18+. A price in another country, or in a mobile app store, can differ. We did not score Gemini against ChatGPT. The comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 
 ## What each US plan lists
 

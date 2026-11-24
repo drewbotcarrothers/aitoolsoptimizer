@@ -123,6 +123,15 @@ doubleAI says every optimization is **formally proven** to leave the program’s
 
 ---
 
+## What this means for you
+
+The DHS order applies to US federal agencies, not to you. But if you work with government clients, check whether DeepSeek models sit inside any tool you use, including third-party products. The $50-per-hack agent attacks are a reminder that AI makes cheap attacks scale, so basic hygiene still matters: patching, unique passwords and MFA.
+
+- Considering DeepSeek anyway? Read the [DeepSeek review](/blog/deepseek-review-2026/) for what the app and API include.
+- How attackers abuse AI tools, and how teams test for it: [what AI red teaming is](/blog/what-is-ai-red-teaming-2026/).
+
+---
+
 ## What should builders watch next?
 
 1. **Federal vendors:** guidance on what counts as a product “developed using DeepSeek implementations,” and whether other Chinese models get similar orders.

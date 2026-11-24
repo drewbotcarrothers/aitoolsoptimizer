@@ -13,7 +13,7 @@ draft: false
 
 The record of what you shipped, when the note is about a release, is [how to write a changelog with AI](/blog/how-to-write-a-changelog-with-ai-2026/). The person who still owns a case the note creates is [what AI human escalation is](/blog/what-is-ai-human-escalation-2026/).
 
-Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score customer response. Counsel or the incident owner reads the note before it sends. The model does not clear it. If the advisory follows an outage, link it to [a post-incident FAQ drafted with AI](/blog/how-to-write-a-post-incident-faq-with-ai-2026/) so answers stay consistent.
+Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. We did not score customer response. Counsel or the incident owner reads the note before it sends. The model does not clear it.
 
 ## What the note has to contain
 
@@ -52,7 +52,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model whether you should disclose. That is the incident owner's decision, with whoever your process already names. Do not let the model pick a friendlier time zone than the one you operate in. Do not combine this note with a feature announcement. Customers can tell when a maintenance notice is selling. The launch message is a different plan: [how to create a launch comms plan with AI](/blog/how-to-create-a-launch-comms-plan-with-ai-2026/).
+Do not ask the model whether you should disclose. That is the incident owner's decision, with whoever your process already names. Do not let the model pick a friendlier time zone than the one you operate in. Do not combine this note with a feature announcement. Customers can tell when a maintenance notice is selling. The launch message is a different plan: [how to create a launch comms plan with AI](/blog/how-to-create-a-launch-comms-plan-with-ai-2026/). If the advisory follows an outage, link it to [a post-incident FAQ drafted with AI](/blog/how-to-write-a-post-incident-faq-with-ai-2026/) so answers stay consistent.
 
 ## FAQ
 

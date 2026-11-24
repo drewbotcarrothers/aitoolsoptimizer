@@ -140,6 +140,15 @@ Approved Research organizations can use it in **Work and Codex**, and in the API
 
 ---
 
+## What this means for you
+
+From December, ChatGPT Plus, Pro and Business users get one usage allowance shared between ChatGPT and Codex. If you code heavily in Codex, chat usage can now eat into it. The share-link bug was fixed on Oct 26, but treat shared chats as public and don't share anything private.
+
+- What each ChatGPT tier includes: [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+- Codex alternatives: [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
+
+---
+
 ## Where can I follow daily AI news?
 
 Every roundup lives on our [AI news page](/ai-news/), with sources for each story. Browse the [AI tools directory](/tools/) to compare the tools mentioned here.

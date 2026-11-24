@@ -134,6 +134,15 @@ Meta first planned the change for Oct 30, delayed it to Nov 20, then **paused th
 
 ---
 
+## What this means for you
+
+If you pay for Claude Max, your plan has a new name. Check what you actually get at $100 and $200 before you renew. If you run a website, the shared robots.txt signal will let you opt out of AI training at several companies with one rule. And if you use Opus 4.8 fast mode in production, move to Opus 5.5 before Nov 30.
+
+- Claude's current tiers: [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+- API rates by model: [Anthropic API pricing explained](/blog/anthropic-api-pricing-explained-2026/).
+
+---
+
 ## Where can I follow daily AI news?
 
 Every roundup lives on our [AI news page](/ai-news/), with sources for each story. Browse the [AI tools directory](/tools/) to compare the tools mentioned here.

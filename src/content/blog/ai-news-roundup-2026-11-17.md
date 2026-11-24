@@ -119,4 +119,13 @@ Vals says it didn’t measure how well these models would work in real weapons o
 
 ---
 
+## What this means for you
+
+GPT-6.2 Astra is cheaper in the API than the model it replaces, so recheck your costs if you build on OpenAI. Google now keeps temporary Gemini chats for about two months, not 72 hours. If that matters to you, review your chat history and training settings.
+
+- Current OpenAI rates: [OpenAI API pricing explained](/blog/openai-api-pricing-explained-2026/).
+- Microsoft's AI plans: [Microsoft Copilot pricing explained](/blog/microsoft-copilot-pricing-explained-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

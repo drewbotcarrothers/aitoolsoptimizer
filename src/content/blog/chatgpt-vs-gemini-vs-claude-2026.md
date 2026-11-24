@@ -11,7 +11,7 @@ draft: false
 
 **Use ChatGPT if you want one assistant that also creates images, talks, and codes. Use Claude if the job is writing and long documents. Use Gemini if your work already lives in Gmail, Docs, and Drive.** Most people only need one paid plan in the $20 range. Add [Perplexity](/tools/perplexity/) when every answer must show its sources.
 
-This comparison covers [ChatGPT](/tools/chatgpt/) (OpenAI), [Google Gemini](/tools/gemini/) (Google), and [Claude](/tools/claude/) (Anthropic). Prices are US list prices from each company’s public pricing pages, last verified October 16, 2026. We did not run a scored lab test. The fit labels below describe documented product scope, not a measured quality score. For an everyday example of the two consumer plans side by side, see [ChatGPT vs Gemini for a weekly meal plan](/blog/chatgpt-vs-gemini-for-meal-planning-2026/). For a product-team example of Claude and Gemini on the same job, see [which one to use for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/).
+This comparison covers [ChatGPT](/tools/chatgpt/) (OpenAI), [Google Gemini](/tools/gemini/) (Google), and [Claude](/tools/claude/) (Anthropic). Prices are US list prices from each company’s public pricing pages, last verified October 16, 2026. We did not run a scored lab test. The fit labels below describe documented product scope, not a measured quality score.
 
 ## The short answer
 
@@ -91,7 +91,7 @@ Google AI Plus is listed in more than 160 countries and territories, and Pro and
 
 ## Which $20 plan is the default?
 
-For a single professional subscription, the three plans that compete directly are **ChatGPT Plus ($20)**, **Claude Pro ({{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} annual)**, and **Google AI Pro ({{price:gemini.pro}})**.
+For a single professional subscription, the three plans that compete directly are **ChatGPT Plus ($20)**, **Claude Pro ({{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} annual)**, and **Google AI Pro ({{price:gemini.pro}})**. For an everyday example of the two consumer plans side by side, see [ChatGPT vs Gemini for a weekly meal plan](/blog/chatgpt-vs-gemini-for-meal-planning-2026/). For a product-team example of Claude and Gemini on the same job, see [which one to use for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/).
 
 - Choose **ChatGPT Plus** when you want images, voice, custom GPTs, and Codex without a second subscription. See [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/) if coding is the main reason you would upgrade.
 - Choose **Claude Pro** when you live in long documents, want Artifacts and Projects, and like that Claude Code is included. Usage limits are the trade-off heavy users report hitting on Pro; Max exists for that, at $100 or $200.

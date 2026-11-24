@@ -117,6 +117,16 @@ Recursive says Flint leads MoE models under 50 billion parameters on agentic cod
 
 ---
 
+## What this means for you
+
+Proactive agents like Claude Duet that keep working in the background are useful, but they act while you're not watching. Start with read-only access and approve anything that sends, buys or deletes. The Agentic AI Foundation donations matter because shared standards should make it easier to move agents and skills between vendors later.
+
+- The basics before you hand over tasks: [what an AI agent is](/blog/what-is-an-ai-agent-2026/).
+- How agents plug into your apps: [what the Model Context Protocol (MCP) is](/blog/what-is-model-context-protocol-2026/).
+- Compare plans: [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Claude Duet access:** watch for the waitlist to open beyond US Pro and Max, and for the extra safety details Anthropic says it will share “in the coming days.”
