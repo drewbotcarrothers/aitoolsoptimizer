@@ -36,7 +36,7 @@ An escalation is a request for a decision. It is not a status novel. If the caus
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, when the partner's constraints live in a Project and the note should not contradict them. Paste only facts you are allowed to share outside the account team. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, when the partner's constraints live in a Project and the note should not contradict them. Paste only facts you are allowed to share outside the account team. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the next owner inherits.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if partner notes live there. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

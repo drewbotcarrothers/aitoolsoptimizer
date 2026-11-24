@@ -46,7 +46,7 @@ The repeatable cases you score in a lab are [what AI eval testing is](/blog/what
 
 ## Who operates it, and what the seat costs
 
-**The assistant your staff use.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly, on the directory card checked October 16, 2026. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Those seats are not an abuse program. If staff paste customer data into a personal account, that is a policy problem your detection on the company product will not see.
+**The assistant your staff use.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly, on the directory card checked October 16, 2026. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Those seats are not an abuse program. If staff paste customer data into a personal account, that is a policy problem your detection on the company product will not see.
 
 **A bot on your help center.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly. [Intercom Fin](/tools/intercom-fin/) is $0.99 per outcome with a $49 monthly base that includes 50 outcomes, from Fin's help center read October 24, 2026. A bot that answers customers needs a handoff when the question is outside the articles, and a way to pause it. Pausing Fin stops new outcomes. That is a billing control and a safety control. The build order is [how to build an FAQ chatbot from docs](/blog/how-to-build-an-faq-chatbot-from-docs-2026/).
 

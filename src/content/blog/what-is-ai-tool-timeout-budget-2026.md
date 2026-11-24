@@ -39,7 +39,7 @@ The deadline is not yours to raise by rewriting the prompt. If the run may wait 
 
 ## Where the share is written
 
-**The rule next to the key.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project can hold the sentence: this tool may wait this many seconds in this run. The review is [Claude review](/blog/claude-review-2026/).
+**The rule next to the key.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project can hold the sentence: this tool may wait this many seconds in this run. The review is [Claude review](/blog/claude-review-2026/).
 
 **The automation that fans out.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, 750 tasks, on the October 16 card. A Zap that waits on a slow step can spend the deadline before a second Zap runs. The task count is not the waiting share. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

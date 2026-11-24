@@ -44,7 +44,7 @@ A year of Power at the monthly rate is 12 × $20 = $240. A year of Maximum is 12
 
 **Privacy** is a product decision, not a line item. The directory's own verdict says privacy-conscious people should review Meta's data settings before they rely on the assistant. This page does not audit those settings. Read them on your account.
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month if you want a general paid assistant with projects. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, if the work is a long document. [Gemini](/tools/gemini/) is free with a Google account, and Pro is $19.99 a month. Those are different companies and different data terms. A $0 Meta AI seat is cheaper. It is not those products.
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month if you want a general paid assistant with projects. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, if the work is a long document. [Gemini](/tools/gemini/) is free with a Google account, and Pro is {{price:gemini.pro}} a month. Those are different companies and different data terms. A $0 Meta AI seat is cheaper. It is not those products.
 
 ## What not to assume
 

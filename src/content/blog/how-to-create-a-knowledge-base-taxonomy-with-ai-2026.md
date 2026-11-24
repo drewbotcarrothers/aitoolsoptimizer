@@ -41,7 +41,7 @@ How old an article may be before the bot should stop trusting it is [what retrie
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month when the taxonomy is a table: category, label, definition, owner, example. A label the model added in a chat does not enter the table until the owner accepts it. The internal cousin of this shelf is [how to build an internal wiki with AI](/blog/how-to-build-an-internal-wiki-with-ai-2026/).
 
-**The filing pass.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the allowed labels sit in a Project and you paste this month's titles. The review is [Claude review](/blog/claude-review-2026/).
+**The filing pass.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the allowed labels sit in a Project and you paste this month's titles. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second grouping.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can propose which existing label fits a messy title. Discard a new label that appears because the title was awkward. Rename the title, or leave it Unfiled. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

@@ -39,7 +39,7 @@ If a sentence is not in the paste, it does not ship. Tone is the last edit. Fact
 
 ## Where you draft it
 
-**The long version, with the decision memo beside it.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Projects. Put the approved memo in the Project. Free can take a short paste. The review is [Claude review](/blog/claude-review-2026/).
+**The long version, with the decision memo beside it.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and includes Projects. Put the approved memo in the Project. Free can take a short paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The short version in the chat you already use.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8 and may include ads. Do not take an ad as a change-management tip. Business at $20 a user a month billed annually, two-user minimum, is the seat when the memo is confidential. The seat pair for ordinary email is [ChatGPT vs Claude for email](/blog/chatgpt-vs-claude-for-email-2026/).
 

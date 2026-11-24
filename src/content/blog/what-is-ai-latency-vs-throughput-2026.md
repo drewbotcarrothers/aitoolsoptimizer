@@ -44,7 +44,7 @@ A slow tool is a latency incident. A full queue is a throughput incident. Loggin
 
 A chat subscription sells a cap, not a latency SLA. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8. Pro starts at $100. Hitting Plus in the middle of the day is a throughput limit on that seat. It does not tell you how many milliseconds the next token took before the cap. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Max from $100 is a usage multiple of Pro, recorded as 5× or 20×. Buy Max when Pro stops a workday. Do not buy it because one PDF felt slow. A long file and a short file pasted fifty times spend the cap differently. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Max from $100 is a usage multiple of Pro, recorded as 5× or 20×. Buy Max when Pro stops a workday. Do not buy it because one PDF felt slow. A long file and a short file pasted fifty times spend the cap differently. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 [DeepSeek](/tools/deepseek/) chat is free. The API posts a token price, not a latency number. Flash input on a cache miss is $0.15 per million tokens off-peak and $0.30 at peak. Output is $0.60 off-peak and $1.20 at peak. Peak hours on the directory page are 01:00–04:00 and 06:00–10:00 UTC on weekdays. That window changes the bill. It is not a published response-time guarantee. The card is [DeepSeek review](/blog/deepseek-review-2026/).
 

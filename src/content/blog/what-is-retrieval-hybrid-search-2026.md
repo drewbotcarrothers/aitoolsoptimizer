@@ -43,7 +43,7 @@ Reranking does not replace the merge. It orders what the merge already kept. If 
 
 **A cited web answer.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually. The product returns sources you can open. This page does not claim Perplexity publishes a hybrid-search switch with that name. Use it when the job is to open the page. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**A long file you already have.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the source is a document in a Project and the question has to stay inside it. A Project is not a search index. If the file is the only source, you do not need a second list. The review is [Claude review](/blog/claude-review-2026/).
+**A long file you already have.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the source is a document in a Project and the question has to stay inside it. A Project is not a search index. If the file is the only source, you do not need a second list. The review is [Claude review](/blog/claude-review-2026/).
 
 **A paste of both result lists.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can format a merge you already computed: which ids appeared in both lists, which appeared in one. It should not be asked which list was "more relevant" without the rule you wrote. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

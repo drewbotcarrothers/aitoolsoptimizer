@@ -22,7 +22,7 @@ Cursor's Plus price is the October 24, 2026 help-center figure recorded in [Curs
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | A diff in the repo, which you will read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | Plus omits Cloud Agents on the October 24 help page. You still read the change |
-| The control statement, from a rule you wrote | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A new rule is not a paraphrase |
+| The control statement, from a rule you wrote | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A new rule is not a paraphrase |
 | The register: control, owner, date | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. A blank owner stays blank |
 | Completions in the editor you already use on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month | Business is $19. Enterprise is $39. Neither writes the rule |
 

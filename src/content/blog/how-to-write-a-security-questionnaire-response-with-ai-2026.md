@@ -39,7 +39,7 @@ A polished "yes" without an exhibit is the failure this workflow exists to stop.
 
 ## Where the draft is written
 
-**The long packet.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the policies and the last questionnaire should sit in a Project. Free can format one answer from a paste. The review is [Claude review](/blog/claude-review-2026/). Do not put a customer's confidential questionnaire in a consumer account if your policy forbids it. [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, two-user minimum, when a company workspace is the rule. The card says Business does not train on business data by default.
+**The long packet.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the policies and the last questionnaire should sit in a Project. Free can format one answer from a paste. The review is [Claude review](/blog/claude-review-2026/). Do not put a customer's confidential questionnaire in a consumer account if your policy forbids it. [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, two-user minimum, when a company workspace is the rule. The card says Business does not train on business data by default.
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the answer library lives in Notion. The library is previous answers the owner still stands behind, with the date. A previous "yes" that is no longer true gets marked stale. The model does not copy last year's yes into this year's sheet.
 

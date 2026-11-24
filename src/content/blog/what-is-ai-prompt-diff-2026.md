@@ -40,7 +40,7 @@ If the prompt is assembled from pieces, diff the pieces. A one-paragraph summary
 
 **Next to the code.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. A prompt file in the repo gets the same review as the function that loads it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**A long system prompt.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 page. Paste the old and the new. Ask for the added lines only. The review is [Claude review](/blog/claude-review-2026/).
+**A long system prompt.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 page. Paste the old and the new. Ask for the added lines only. The review is [Claude review](/blog/claude-review-2026/).
 
 **A suggestion inside the editor.** [GitHub Copilot](/tools/github-copilot/) Pro is $10 a user a month on the October 16 card. A suggestion is not merged until the diff is accepted. Business at $19 a user a month is the governance seat on that card, when the company requires it. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

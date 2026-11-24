@@ -47,7 +47,7 @@ You do not have to call an embedding model to get this behavior.
 
 [Perplexity](/tools/perplexity/) searches and cites. Pro is $17 a month billed annually. The search stack is theirs. Your job is to open the citation. The product page is [Perplexity review](/blog/perplexity-review-2026/).
 
-[Gemini Notebook](/tools/gemini-notebook/) answers from files you upload. It is free with a Google account. Google AI Plus is $4.99 a month. You never see the embedding call. You see a citation into your file, and you should click it. The long-document map is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
+[Gemini Notebook](/tools/gemini-notebook/) answers from files you upload. It is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. You never see the embedding call. You see a citation into your file, and you should click it. The long-document map is [Claude vs Gemini for long documents](/blog/claude-vs-gemini-for-long-documents-2026/).
 
 [Notion AI](/tools/notion-ai/) Business is $20 a seat a month and can search the workspace and connected apps. Plus at $10 is not the full AI tier. If the pages are stale, the nearest page is a stale answer. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

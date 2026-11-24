@@ -41,7 +41,7 @@ Do not cache a response that failed validation. Do not cache an answer that incl
 
 ## Where the rule is written
 
-**The policy paragraph.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the key fields and the lifetime live in a Project the on-call can open. The review is [Claude review](/blog/claude-review-2026/).
+**The policy paragraph.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the key fields and the lifetime live in a Project the on-call can open. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short reusable card.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when you keep one project that formats the cache rule the same way each time. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

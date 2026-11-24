@@ -46,7 +46,7 @@ Shedding is your rule. These are the plans where a cap already exists, so you kn
 
 | Path | What the directory recorded | What you still decide |
 |---|---|---|
-| A personal chat | [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20, or $17 billed annually | Which of your own tasks you stop when the plan slows you down. The vendor's cap is not your shed list |
+| A personal chat | [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | Which of your own tasks you stop when the plan slows you down. The vendor's cap is not your shed list |
 | A help desk that bills outcomes | [Zendesk AI](/tools/zendesk-ai/) Suite Team is $55 per agent per month paid yearly | Which tickets may wait. Automated resolutions can bill on top. A shed that hides tickets is an outage |
 | A workflow you can pause | [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. Free is 100 tasks a month | Which Zap stays on when tasks run out |
 | A second workflow tool | [Make](/tools/make/) Core is $9 a month billed annually for 10,000 credits | Which scenario is droppable. Credits are the meter |

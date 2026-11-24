@@ -42,7 +42,7 @@ The off switch is [what AI feature flags are](/blog/what-is-ai-feature-flags-202
 
 **The wiki the on-call already opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month, which is the full AI tier on the directory card. Name one database for runbooks so they are not scattered across private pages. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A draft from a ticket.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the flag name and the owner. Ask for the headings in the table above, and delete anything that was not in the paste. The review is [Claude review](/blog/claude-review-2026/).
+**A draft from a ticket.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the flag name and the owner. Ask for the headings in the table above, and delete anything that was not in the paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **A shared team seat.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, minimum two, or $25 monthly. A personal Plus seat at $20 can draft. It should not be the only copy of the off switch.
 

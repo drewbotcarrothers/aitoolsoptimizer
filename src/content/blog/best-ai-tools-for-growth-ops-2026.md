@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The experiment log: hypothesis, owner, date, result you pasted | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The model may not write the result |
 | A handoff that fires only on a rule | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually | Free is 100 tasks a month. A path is not a strategy |
 | The CRM field map | [HubSpot](/tools/hubspot/) | Free CRM. Starter was advertised from $7 or $10 a seat | The field name is yours. The AI does not invent a property |
-| The weekly note from numbers you pasted | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No growth rate you did not supply |
+| The weekly note from numbers you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No growth rate you did not supply |
 | A cited read of a vendor's doc | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the citation. A vendor page is not a result |
 
 ```mermaid

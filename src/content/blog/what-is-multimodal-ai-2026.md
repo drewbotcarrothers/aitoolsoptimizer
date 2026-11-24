@@ -19,9 +19,9 @@ We did not score image or video quality. The table follows what each directory p
 
 | You need | Start here | What the directory page supports | First price |
 |---|---|---|---|
-| Text in, text out | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Writing, analysis, coding. ChatGPT's page also lists images and voice | Claude Pro $20/month ($17 annual). ChatGPT Plus $20/month |
+| Text in, text out | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Writing, analysis, coding. ChatGPT's page also lists images and voice | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual). ChatGPT Plus $20/month |
 | Text in, images out | [Adobe Firefly](/tools/adobe-firefly/), or the image aisle | Firefly generates images, and video and audio as credit-priced features | Firefly Standard $9.99/month |
-| An image in, an answer out | [ChatGPT](/tools/chatgpt/) or [Gemini](/tools/gemini/) | Both are sold as assistants that go beyond text. Gemini's page includes image and video generation | Gemini is free with a Google account. Google AI Plus is $4.99/month |
+| An image in, an answer out | [ChatGPT](/tools/chatgpt/) or [Gemini](/tools/gemini/) | Both are sold as assistants that go beyond text. Gemini's page includes image and video generation | Gemini is free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
 | Text in, a presenter video out | [HeyGen](/tools/heygen/) or [Synthesia](/tools/synthesia/) | Script to avatar | HeyGen Creator $29/month. Synthesia Starter $29/month billed monthly |
 | Text in, speech out | [ElevenLabs](/tools/elevenlabs/) | Text to speech, cloning, dubbing | Starter $6/month, the first plan with a commercial license |
 | A recording in, an edited cut out | [Descript](/tools/descript/) | Transcript and picture stay tied | Hobbyist $16/person/month billed annually |
@@ -75,7 +75,7 @@ No. An avatar tool turns a script into a presenter. An image tool returns a stil
 
 ### Can Claude generate images?
 
-This directory's Claude page points image and video generation to ChatGPT or Gemini. Claude is the writing and analysis seat. Pro is $20 a month, or $17 billed annually.
+This directory's Claude page points image and video generation to ChatGPT or Gemini. Claude is the writing and analysis seat. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.
 
 ## Last verified
 

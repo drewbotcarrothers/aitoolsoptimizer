@@ -36,7 +36,7 @@ An alert with no canary is a feeling. A feeling does not page anyone. If the thr
 
 ## Where you would keep the rule
 
-**The sentence that names the canary.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the canary questions in a Project so a later edit does not rewrite them. The review is [Claude review](/blog/claude-review-2026/).
+**The sentence that names the canary.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the canary questions in a Project so a later edit does not rewrite them. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft of the page.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. Use it to format the alert from the two lists you pasted. It does not run the comparison. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

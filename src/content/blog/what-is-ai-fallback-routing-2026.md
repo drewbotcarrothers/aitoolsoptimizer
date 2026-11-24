@@ -42,9 +42,9 @@ Falling back because the prose felt weak is a quality router, and it belongs in 
 
 **One primary chat you already pay for.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 billed monthly. A Plus seat is not an API failover policy. If your application calls an API, the fallback is in that application, and the chat plan does not set it. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A backup with a different vendor.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Use Pro to write the fallback note: which errors switch, which prompt the backup sees, and who reads the log. Team is per seat for 2 to 150 people, and the directory does not list a public Team dollar. The review is [Claude review](/blog/claude-review-2026/).
+**A backup with a different vendor.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Use Pro to write the fallback note: which errors switch, which prompt the backup sees, and who reads the log. Team is per seat for 2 to 150 people, and the directory does not list a public Team dollar. The review is [Claude review](/blog/claude-review-2026/).
 
-**A third name, if the task already lives in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is $4.99 a month. Google AI Pro is $19.99 a month. Naming Gemini as a backup is allowed only after the same cases pass on Gemini. A cheaper sticker is not a test. The review is [Gemini review](/blog/gemini-review-2026/).
+**A third name, if the task already lives in Google.** [Gemini](/tools/gemini/) is free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}} a month. Naming Gemini as a backup is allowed only after the same cases pass on Gemini. A cheaper sticker is not a test. The review is [Gemini review](/blog/gemini-review-2026/).
 
 **The workflow that must not retry forever.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. A Zap that retries a failing model step on a short loop can spend the backup and the primary. Cap the retries. Zapier's task count is not your model's error budget.
 

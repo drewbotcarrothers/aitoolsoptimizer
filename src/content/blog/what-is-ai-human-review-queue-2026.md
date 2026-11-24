@@ -45,7 +45,7 @@ If every output is queued, you have a bottleneck and you have not written a rule
 
 **The page the reviewers already open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month when the queue is a database with an owner and a status. The chat is not the queue. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The rubric the reviewer reads.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the accept and reject examples are long. The model may format examples you paste. It may not accept an item. The review is [Claude review](/blog/claude-review-2026/).
+**The rubric the reviewer reads.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the accept and reject examples are long. The model may format examples you paste. It may not accept an item. The review is [Claude review](/blog/claude-review-2026/).
 
 **The desk, when the output is a customer reply.** [Zendesk AI](/tools/zendesk-ai/) Suite Team is $55 per agent per month paid yearly, which is the directory's line for AI agents. Support Team at $19 does not include them, on that card. A macro can still require a person to send it. The lead's view of that change is [best AI tools for support ops leads](/blog/best-ai-tools-for-support-ops-leads-2026/).
 

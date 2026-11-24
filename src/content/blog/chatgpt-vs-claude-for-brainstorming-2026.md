@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Brainstorming (2026): More Options, Then You Cut"
-description: "ChatGPT vs Claude for brainstorming in 2026. Plus is $20. Claude Pro is $20, or $17 billed annually. You still pick the idea."
+description: "ChatGPT vs Claude for brainstorming in 2026. Plus is $20. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. You still pick the idea."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "brainstorming", "comparison"]
@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The session | Start here | First paid step | Leave this for later |
 |---|---|---|---|
 | Ten titles, ten angles, one sitting | [ChatGPT](/tools/chatgpt/) Go or Plus | Go is $8. Plus is $20 | Claude Max |
-| A brief you will reuse with the same constraints | [Claude](/tools/claude/) Pro, in a Project | $20 a month, or $17 billed annually ($200 up front) | A second subscription "for creativity" |
+| A brief you will reuse with the same constraints | [Claude](/tools/claude/) Pro, in a Project | {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front) | A second subscription "for creativity" |
 | The ideas should become a page the team edits | [Notion AI](/tools/notion-ai/) Business | $20 a seat. Plus at $10 is not the full AI tier | Plus as if it were the brainstorm tool |
 | You need sources before you invent a market | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually. Monthly costs more. The card does not print the monthly dollar | Treating a brainstorm as research |
 | The line you keep, after you choose | [Grammarly](/tools/grammarly/) | Free for grammar. Pro is $12 a member a month billed annually | Asking it for the strategy |

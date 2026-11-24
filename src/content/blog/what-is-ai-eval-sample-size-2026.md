@@ -37,7 +37,7 @@ One glowing example is not a sample. A hundred cases you chose after you liked t
 
 ## Where the number lives
 
-**The plan.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the integer in the Project so next month's run uses the same count. The review is [Claude review](/blog/claude-review-2026/).
+**The plan.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the integer in the Project so next month's run uses the same count. The review is [Claude review](/blog/claude-review-2026/).
 
 **The table of cases.** [Hex](/tools/hex/) Professional is $36 an editor a month on the October 16 card. The count is a column you can check. The notebook does not get to drop rows. The invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/).
 

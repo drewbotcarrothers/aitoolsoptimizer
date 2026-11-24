@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The same lookup, often, with a model choice | Perplexity Pro at $17 a month billed annually | You still open the page. Pro does not open it for you |
 | The source is already in the draft or the PDF | [ChatGPT](/tools/chatgpt/) Plus at $20 a month | You split claims. You do not ask it to confirm itself |
 | The claim is about a paper | [Consensus](/tools/consensus/) Free, or Pro at $12 a month billed annually ($144 a year) | You open the paper. A snapshot is not the paper |
-| A long source you will not re-paste | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | The Project holds the source. The check quotes it |
+| A long source you will not re-paste | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the source. The check quotes it |
 
 ```mermaid
 flowchart TD

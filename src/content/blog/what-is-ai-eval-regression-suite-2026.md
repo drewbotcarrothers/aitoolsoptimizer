@@ -39,7 +39,7 @@ The dataset can be large. The suite you re-run on every prompt edit can be the s
 
 ## Where the result is kept
 
-**The write-up of a failure.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 page. Paste the before and after. Ask for a list of case ids that flipped. The review is [Claude review](/blog/claude-review-2026/).
+**The write-up of a failure.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 page. Paste the before and after. Ask for a list of case ids that flipped. The review is [Claude review](/blog/claude-review-2026/).
 
 **The run, next to the diff.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. The suite is a command you can re-run. A generated edit that skips a case id is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

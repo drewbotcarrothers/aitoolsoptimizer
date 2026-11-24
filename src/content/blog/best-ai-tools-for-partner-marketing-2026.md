@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The claim both sides signed | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A claim the model softened does not go to design |
 | A cited fact about the partner's public product | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | You open the link. You still need their approval to use their name |
-| The joint page or the email | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No logo, no quote, no number that was not in the claim |
+| The joint page or the email | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No logo, no quote, no number that was not in the claim |
 | The one-pager you will both put a logo on | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year for one person | Logos come from files you were given, not from a generator |
 | A short leave-behind deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | You delete any price the deck invented |
 

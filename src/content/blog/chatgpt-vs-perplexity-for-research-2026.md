@@ -58,7 +58,7 @@ ChatGPT's own ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-
 
 Paying for both Plus and Pro is reasonable when you do step 1 and step 3 on most workdays. Paying for both to do step 3 twice is two subscriptions for one draft. Perplexity Max at $167 is for a Computer limit you have already hit on Pro. It is not a writing upgrade over ChatGPT Plus.
 
-Claude Pro at $20 a month, or $17 billed annually, can take step 3 if you prefer that draft. The assistant comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). Retrieval as a method, including both of these products, is [what RAG is](/blog/what-is-rag-explained-2026/).
+Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, can take step 3 if you prefer that draft. The assistant comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). Retrieval as a method, including both of these products, is [what RAG is](/blog/what-is-rag-explained-2026/).
 
 ## FAQ
 
@@ -72,7 +72,7 @@ Pro at $17 a month on annual billing is a lower sticker than Plus at $20. They a
 
 ### What about Gemini?
 
-[Gemini](/tools/gemini/) is the other general assistant, and [Gemini Notebook](/tools/gemini-notebook/) is the file notebook. Google AI Plus is $4.99 a month. This page stays on ChatGPT and Perplexity because that is the comparison people mean by "research chat versus cited search."
+[Gemini](/tools/gemini/) is the other general assistant, and [Gemini Notebook](/tools/gemini-notebook/) is the file notebook. Google AI Plus is {{price:gemini.plus}} a month. This page stays on ChatGPT and Perplexity because that is the comparison people mean by "research chat versus cited search."
 
 ### Do I need Consensus too?
 

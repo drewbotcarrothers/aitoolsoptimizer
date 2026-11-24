@@ -20,7 +20,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | Who owns each article the bot may quote | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. An owner you did not name stays Owner not set |
-| The weekly review, from an export you pulled | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No volume figure that was not in the export |
+| The weekly review, from an export you pulled | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No volume figure that was not in the export |
 | The desk the articles have to match | [Zendesk AI](/tools/zendesk-ai/) | Suite Team is $55 an agent a month paid yearly | Support Team at $19 does not include the AI agents, on that page. Automated resolutions can bill on top |
 | A bot priced per outcome, if that is the bot you already run | [Intercom Fin](/tools/intercom-fin/) | $0.99 an outcome, inside a $49 monthly base with 50 resolutions | Unused included resolutions do not roll over. The bot quotes articles a person listed |
 

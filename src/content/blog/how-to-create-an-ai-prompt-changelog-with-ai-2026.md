@@ -43,7 +43,7 @@ The version pin is the id production calls. This changelog records which pin the
 
 **The page that holds this prompt's history.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. One database row per version. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The draft of a single row.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the accepted wording of the change in a Project so a later edit cannot soften a tighter rule into "clarified." The review is [Claude review](/blog/claude-review-2026/).
+**The draft of a single row.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the accepted wording of the change in a Project so a later edit cannot soften a tighter rule into "clarified." The review is [Claude review](/blog/claude-review-2026/).
 
 **One version from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds a moral, such as "safer" or "clearer," unless you pasted that word as the change. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

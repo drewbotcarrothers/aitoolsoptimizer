@@ -40,7 +40,7 @@ A breach note that explains the bug is a postmortem. That document comes later, 
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the note has to stay formal and short. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the note has to stay formal and short. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page support will reopen.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the breach log lives there. Link the ticket. Do not make the chat the record.
 

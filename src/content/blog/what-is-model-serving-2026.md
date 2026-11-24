@@ -40,7 +40,7 @@ A technique that drafts the next tokens with a small model and checks them with 
 
 ## What people buy, and what they still operate
 
-**A chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [Gemini](/tools/gemini/) on Google AI Pro is $19.99 a month. You are buying the vendor's serving, with limits the vendor sets. You do not operate the GPUs. You still own the prompt, the data you paste, and the decision to trust the reply.
+**A chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [Gemini](/tools/gemini/) on Google AI Pro is {{price:gemini.pro}} a month. You are buying the vendor's serving, with limits the vendor sets. You do not operate the GPUs. You still own the prompt, the data you paste, and the decision to trust the reply.
 
 **An API you call from your product.** The directory records [DeepSeek](/tools/deepseek/) API input from $0.15 per 1 million tokens off-peak on a cache miss, and output at $0.60 off-peak, checked October 16, 2026. That number is a vendor price. It is not your latency, and it is not a promise that the endpoint stays up. The target you write for your feature is [what an AI SLO is](/blog/what-is-ai-slo-2026/).
 

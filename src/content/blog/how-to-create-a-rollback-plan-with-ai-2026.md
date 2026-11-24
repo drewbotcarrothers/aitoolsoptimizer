@@ -38,7 +38,7 @@ Rollback that does not restore a database write is still a plan. Say so in the d
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the plan sits beside the last release's note. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the plan sits beside the last release's note. The review is [Claude review](/blog/claude-review-2026/).
 
 **The commands.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the steps quote the repo. You read every flag. A generated `--force` is not a step. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

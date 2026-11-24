@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The decision | Start here | First paid step | The limit |
 |---|---|---|---|
-| The note that records a stage or routing change you already approved | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No stage name you did not paste |
+| The note that records a stage or routing change you already approved | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No stage name you did not paste |
 | The log the next lead will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The CRM that remains the system of record | [HubSpot](/tools/hubspot/) | Free CRM is $0. Starter was a limited-time $7 or $10 a seat | Professional and Enterprise have no public sticker on that card. Do not invent one |
 | Call intelligence, if you already have a quote | [Gong](/tools/gong/) | Custom. No dollar on the directory card | Do not multiply a rumor into a budget line. A transcript tool is not this signature |

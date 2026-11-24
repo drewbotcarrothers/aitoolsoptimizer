@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The announcement, from the date and the fact you already set | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No closure, no vendor, no price you did not paste |
+| The announcement, from the date and the fact you already set | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No closure, no vendor, no price you did not paste |
 | The vendor contact page the next person will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The sentence that goes outside the company | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | The date and the fact do not move |
 | A one-page flyer one person will edit | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year, for one person | Business is $250 a person a year when two or more people need the paid features |

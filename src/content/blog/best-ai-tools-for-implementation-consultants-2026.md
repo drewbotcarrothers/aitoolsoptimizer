@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The project log and the decision record | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | Notes from the working session | [Granola](/tools/granola/) | Business is $14 a user a month | Basic is free, with 30 days of history |
-| A written answer from docs you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not invent a setting or an SLA |
+| A written answer from docs you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not invent a setting or an SLA |
 | The readout the sponsor will open | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | The slide matches the log, or it waits |
 | A change in a repo you are allowed to touch | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You still read the diff and run the test |
 | The plan of record, if it already lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain² from $9 a user a month | It is an add-on. The ClickUp plan is separate |

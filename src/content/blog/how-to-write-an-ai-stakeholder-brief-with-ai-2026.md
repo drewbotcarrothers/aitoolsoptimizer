@@ -44,7 +44,7 @@ The use-case brief can be accepted, and this brief can still be unsent. One desc
 
 **One audience.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8 a month on the October 24 plan page. Plus is the seat for a saved brief. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**One decision sentence, several audiences.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the decision. A local ask may change. The decision may not. Team standard seats are $20 a seat a month billed annually, or $25 monthly, when the brief is a company record, as recorded in [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/). The review is [Claude review](/blog/claude-review-2026/).
+**One decision sentence, several audiences.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the decision. A local ask may change. The decision may not. Team standard seats are $20 a seat a month billed annually, or $25 monthly, when the brief is a company record, as recorded in [Claude Team pricing explained](/blog/claude-team-pricing-explained-2026/). The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the audience, the date, and the owner. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

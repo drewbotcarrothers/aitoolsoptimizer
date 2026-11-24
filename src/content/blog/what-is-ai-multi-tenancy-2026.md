@@ -40,7 +40,7 @@ A shared model is normal. A shared prompt log is a breach of the promise you mad
 
 **A company workspace.** [ChatGPT](/tools/chatgpt/) Business is $20 per user per month billed annually, with a two-user minimum, or $25 monthly, on the October 16 card. The card says Business does not train on your business data by default. That sentence is about training. It is not a diagram of how workspaces are separated. Your policy still names which workspace is the tenant. Plus at $20 a month is a personal seat. Do not put two customers' files in one personal account and call it multi-tenant.
 
-**A writing seat.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. The directory says Team plans serve 2 to 150 people. This page does not print a Team dollar price, because the card we are using does not. A Project is a folder. It becomes a tenant boundary only if people outside that customer cannot open it.
+**A writing seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The directory says Team plans serve 2 to 150 people. This page does not print a Team dollar price, because the card we are using does not. A Project is a folder. It becomes a tenant boundary only if people outside that customer cannot open it.
 
 **A bot per customer.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly, with 700 message credits, on the October 16 card. If you run one bot for many customers, the retrieval set has to be filtered by customer. A single help center for your own company is one tenant. Two clients' private docs in one bot, with no filter, is the failure mode.
 

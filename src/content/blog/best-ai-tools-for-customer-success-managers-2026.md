@@ -21,7 +21,7 @@ Fathom's prices are the October 16, 2026 directory card recorded in [Fathom pric
 |---|---|---|---|
 | The agenda, from the last call you already have | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually, or $20 monthly, for advanced summaries | Free includes unlimited recordings. CRM field sync is Business, at $25 annually or $34 monthly |
 | The milestone the customer accepted | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A date you did not write stays out. Plus at $10 is not the full AI tier |
-| The follow-up, from that milestone | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No new commitment |
+| The follow-up, from that milestone | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No new commitment |
 | The sentence that leaves the company | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Tone is not a promise |
 
 ```mermaid

@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The event definition people will cite | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A query from a dictionary you pasted | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | You run it. It may not add a column |
+| A query from a dictionary you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | You run it. It may not add a column |
 | The notebook the number is published from | [Hex](/tools/hex/) | Professional is $36 an editor a month | Team at $75 is the schedule, if the notebook must refresh |
 | A chart from a file you already exported | [Julius AI](/tools/julius-ai/) | Plus is $16 a month billed annually, or $20 monthly | The file is the source. The chart does not invent a row |
 

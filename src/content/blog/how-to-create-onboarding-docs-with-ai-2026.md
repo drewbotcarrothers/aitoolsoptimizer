@@ -42,7 +42,7 @@ Click every link before anyone is hired. The model will write a plausible settin
 
 **The page.** [Notion AI](/tools/notion-ai/) Business is $20 per seat per month, which is where the handbook should live if Notion is already the wiki. Free includes a trial of Notion AI. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). If the company wiki is somewhere else, write it there. A chatbot thread is not onboarding.
 
-**The long draft.** [Claude](/tools/claude/) Pro is $20, or $17 billed annually. Put the checklist, the handbook excerpts, and one onboarding page you already like into a Project. Ask for the page in your headings, and for "steps I could not verify from the source." Delete that list or go get the source. Projects versus a running chat are [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. Put the checklist, the handbook excerpts, and one onboarding page you already like into a Project. Ask for the page in your headings, and for "steps I could not verify from the source." Delete that list or go get the source. Projects versus a running chat are [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The sentence edit.** [Grammarly](/tools/grammarly/) Pro is $12 per member per month billed annually, or $30 monthly. It catches the awkward line. It does not know which VPN you use. The editing split is [Grammarly vs ChatGPT for editing](/blog/grammarly-vs-chatgpt-for-editing-2026/).
 

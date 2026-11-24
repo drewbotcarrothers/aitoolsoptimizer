@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The taxonomy and the roadmap page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Labels in Notion match the tracker |
-| A clean draft of rules you already use | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model formats. It does not add a field |
+| A clean draft of rules you already use | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model formats. It does not add a field |
 | The tracker, if work lives in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | From $9 per user a month | Unlimited is $7 a user yearly. The AI add-on is separate |
 | A notice when intake is missing a field | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The Zap notifies. It does not prioritize |
 | Notes from a roadmap review | [Granola](/tools/granola/) | Business is $14 a user a month | No bot in the call. Free history is 30 days |

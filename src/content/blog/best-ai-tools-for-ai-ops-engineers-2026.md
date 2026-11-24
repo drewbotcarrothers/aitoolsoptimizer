@@ -19,7 +19,7 @@ Claude's prices, including Claude Code on paid plans, are from claude.com/pricin
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The policy, the pin, and the fallback rows | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No row the owner did not write |
+| The policy, the pin, and the fallback rows | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No row the owner did not write |
 | A supervised change in the repo | [Claude Code](/tools/claude-code/) | Included with Pro. No free Claude Code on the October 24 table | Shared usage with chat. You still set a call budget |
 | A diff you read hunk by hunk | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review it. The model does not merge |
 | The runbook page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |

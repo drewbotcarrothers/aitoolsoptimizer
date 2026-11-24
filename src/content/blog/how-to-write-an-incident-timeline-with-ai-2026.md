@@ -40,7 +40,7 @@ A hypothesis can sit under the timeline. It cannot sit in the timeline as if it 
 
 ## Where the timeline is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the logs are long and the Project should hold the format. Free can order one paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the logs are long and the Project should hold the format. Free can order one paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if this timeline is the page the review meeting opens. Plus at $10 is not the full AI seat. The page needs the incident commander as owner either way.
 

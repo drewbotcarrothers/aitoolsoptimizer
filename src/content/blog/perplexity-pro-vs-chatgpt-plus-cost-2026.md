@@ -46,7 +46,7 @@ A year of Pro is $204. Enterprise Pro at $40 × 12 = $480 a user, or $400 if you
 
 Plus can search and draft. The research comparison linked above is where to decide if search-inside-ChatGPT is enough. If you will not click citations, Pro's extra data sources do not help you.
 
-**The neighbors, so you do not add a third by accident.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and is the long-document seat. [Gemini](/tools/gemini/) is free with a Google account. Google AI Pro is $19.99 a month when the work is in Gmail and Docs. [Elicit](/tools/elicit/) is the paper-table tool when the web is the wrong corpus. The split is [Perplexity vs Elicit for research](/blog/perplexity-vs-elicit-for-research-2026/). The search three-way is [Perplexity vs ChatGPT vs Gemini for search](/blog/perplexity-vs-chatgpt-vs-gemini-for-search-2026/).
+**The neighbors, so you do not add a third by accident.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and is the long-document seat. [Gemini](/tools/gemini/) is free with a Google account. Google AI Pro is {{price:gemini.pro}} a month when the work is in Gmail and Docs. [Elicit](/tools/elicit/) is the paper-table tool when the web is the wrong corpus. The split is [Perplexity vs Elicit for research](/blog/perplexity-vs-elicit-for-research-2026/). The search three-way is [Perplexity vs ChatGPT vs Gemini for search](/blog/perplexity-vs-chatgpt-vs-gemini-for-search-2026/).
 
 ## When both bills are rational
 

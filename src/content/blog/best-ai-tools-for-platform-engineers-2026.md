@@ -20,7 +20,7 @@ Cursor's Plus price is the October 24, 2026 help-center figure recorded in [Curs
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | A template or a diff in the repo, which you will read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | Plus omits Cloud Agents on the October 24 help page. You still run the checks you trust |
-| A terminal pass on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at $17 a month billed annually or $20 monthly | The same checks. A second editor is optional |
+| A terminal pass on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at {{price:claude.pro_annual}} a month billed annually or {{price:claude.pro_monthly}} monthly | The same checks. A second editor is optional |
 | Completions in the editor you already use on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month | Business is $19. Enterprise is $39. Neither adds an API field |
 | The interface doc other teams read | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A field you did not freeze stays out |
 

@@ -38,7 +38,7 @@ One example inside the prompt is [what few-shot prompting is](/blog/what-is-few-
 
 ## Where the file can live
 
-**A Project, for people who prompt by hand.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the current prompt in a Project and keep older wording in the same doc with dates, or in git if more than one person edits it. Projects are not a full version history by themselves. The comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A Project, for people who prompt by hand.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the current prompt in a Project and keep older wording in the same doc with dates, or in git if more than one person edits it. Projects are not a full version history by themselves. The comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A custom GPT or a Project on the other seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects and custom GPTs. Export the instructions when you change them. A GPT you edit in place without a copy is how "final" disappears. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). Go at $8 is a usage step. It is a weak archive.
 

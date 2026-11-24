@@ -42,7 +42,7 @@ Unsent model output needs a label so a later export does not treat it as what th
 
 **[ChatGPT](/tools/chatgpt/).** The directory says Business does not train on your business data by default. Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly. The directory does not print a day count for how long Business keeps a chat. Do not borrow Notion's 30 days and apply them here. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**[Claude](/tools/claude/).** The directory says model training is opt-out on Free, Pro, and Max, so a person can turn it off in settings. Pro is $20 a month, or $17 billed annually. The directory does not print a retention day count on that card. Opting out of training is not the same sentence as "deleted after N days." The review is [Claude review](/blog/claude-review-2026/).
+**[Claude](/tools/claude/).** The directory says model training is opt-out on Free, Pro, and Max, so a person can turn it off in settings. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The directory does not print a retention day count on that card. Opting out of training is not the same sentence as "deleted after N days." The review is [Claude review](/blog/claude-review-2026/).
 
 **[Perplexity](/tools/perplexity/).** Enterprise Max is $325 a user a month, or $3,250 a year, and the directory lists data retention settings on that plan. Enterprise Pro is $40 a user a month, or $400 a year. The directory names the setting. It does not print the menu of windows. Read them in the admin console you have.
 

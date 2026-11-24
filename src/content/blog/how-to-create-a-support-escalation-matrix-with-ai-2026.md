@@ -40,7 +40,7 @@ flowchart TD
 
 ## Where the matrix is kept
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the current policy in a Project so a later edit does not resurrect a retired severity. Free can take a short paste, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the current policy in a Project so a later edit does not resurrect a retired severity. Free can take a short paste, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page on call.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the matrix lives in Notion. Plus at $10 is not the full AI tier. The page needs an owner and a review date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The record is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 

@@ -39,7 +39,7 @@ The closest route is not always the right route. A billing question and a refund
 
 ## Where the examples live
 
-**The example set.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the phrases are long enough to review in a Project. The model may group phrases you already labeled. It may not invent a route. The review is [Claude review](/blog/claude-review-2026/).
+**The example set.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the phrases are long enough to review in a Project. The model may group phrases you already labeled. It may not invent a route. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short set.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when you have a dozen routes. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

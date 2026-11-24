@@ -52,7 +52,7 @@ A prompt that holds the line:
 
 "Build a sales deck from the customer, proof, price, and next step I pasted. Do not add a customer logo. Do not invent a metric or a discount. If proof is missing, write Missing. End on the next step I named."
 
-The narrative version of a competitive slide, if you need one, is [how to write a competitive battle narrative with AI](/blog/how-to-write-a-competitive-battle-narrative-with-ai-2026/). [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually, can draft that narrative from notes. The slides still come from the deck tool.
+The narrative version of a competitive slide, if you need one, is [how to write a competitive battle narrative with AI](/blog/how-to-write-a-competitive-battle-narrative-with-ai-2026/). [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, can draft that narrative from notes. The slides still come from the deck tool.
 
 ## What not to delegate
 

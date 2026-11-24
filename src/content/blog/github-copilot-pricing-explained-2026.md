@@ -52,7 +52,7 @@ What you can do instead:
 4. If a premium model is what you are selecting every hour, Pro+ is the plan that lists those models and a larger credit amount.
 5. Max is the plan for a person who can point at a month where $70 was not enough. It is not a team default.
 
-Third-party agents are included on the paid plans. They draw on the same idea of a meter. Turning on Claude Code or Codex inside Copilot does not mint a second, unlimited subscription to those products. If you live in the terminal, compare a direct [Claude Code](/tools/claude-code/) plan, which rides on Claude Pro at $20/month or $17 annual, with the credit line above. The primer is [Claude Code for beginners](/blog/claude-code-for-beginners-2026/).
+Third-party agents are included on the paid plans. They draw on the same idea of a meter. Turning on Claude Code or Codex inside Copilot does not mint a second, unlimited subscription to those products. If you live in the terminal, compare a direct [Claude Code](/tools/claude-code/) plan, which rides on Claude Pro at {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual, with the credit line above. The primer is [Claude Code for beginners](/blog/claude-code-for-beginners-2026/).
 
 ## Four buyers
 

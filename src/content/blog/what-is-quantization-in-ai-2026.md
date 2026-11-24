@@ -52,7 +52,7 @@ Downloading weights and running them is a separate decision from picking a forma
 
 ## What a chat seat has to do with this
 
-[ChatGPT](/tools/chatgpt/) Plus at $20 and [Claude](/tools/claude/) Pro at $20, or $17 billed annually, do not hand you a bit-width slider. You buy usage of a hosted model. Quantization, if that vendor uses it, is inside their serving stack. You will not see it on the seat invoice. Do not explain a bad answer as "probably the quantization" unless you chose the file.
+[ChatGPT](/tools/chatgpt/) Plus at $20 and [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually, do not hand you a bit-width slider. You buy usage of a hosted model. Quantization, if that vendor uses it, is inside their serving stack. You will not see it on the seat invoice. Do not explain a bad answer as "probably the quantization" unless you chose the file.
 
 [GitHub Copilot](/tools/github-copilot/) is the same shape. Free is 2,000 completions a month. Pro is $10. You are not selecting INT4. The plan page is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

@@ -20,7 +20,7 @@ Jasper's Business tier is custom on the October 24, 2026 pricing page, and Pro i
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | The hierarchy: promise, three proofs, one audience | [Jasper](/tools/jasper/) | Pro is $59 a seat a month billed yearly, or $69 monthly, and the October 24 card says 1 seat | Two Brand Voices and three Audiences on Pro. A second user is a Business conversation |
-| The FAQ and the objection, from claims you pasted | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No proof point that was not in the paste |
+| The FAQ and the objection, from claims you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No proof point that was not in the paste |
 | A label or a name that has to be readable | [Ideogram](/tools/ideogram/) | Plus is $20 a month, or $15 billed yearly | The image does not invent the claim. Enterprise is custom |
 | The page sales will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 

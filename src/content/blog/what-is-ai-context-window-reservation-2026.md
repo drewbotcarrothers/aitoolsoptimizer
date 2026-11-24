@@ -38,11 +38,11 @@ Holding back tokens is not the same as summarizing. A summary can be the way you
 
 ## Where the number is kept
 
-**A long document you will answer from.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the reservation in the Project next to the file: leave room for the reply and for the citation. The review is [Claude review](/blog/claude-review-2026/).
+**A long document you will answer from.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the reservation in the Project next to the file: leave room for the reply and for the citation. The review is [Claude review](/blog/claude-review-2026/).
 
 **One paste, one answer.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. If the file fills the window, split the file. Do not ask the model to "use whatever is left" as if that were a reservation. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 
-**A Doc that is already long.** [Gemini](/tools/gemini/) on Google AI Pro is $19.99 a month on the October 16 card, which includes Gemini in Docs. The Doc's length is not a reservation. Leave room in the request you send. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**A Doc that is already long.** [Gemini](/tools/gemini/) on Google AI Pro is {{price:gemini.pro}} a month on the October 16 card, which includes Gemini in Docs. The Doc's length is not a reservation. Leave room in the request you send. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **The code that builds the request.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review a diff that sets the completion budget to zero so a larger file will send. The individual ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

@@ -42,7 +42,7 @@ Retrieved text is an input to compilation, not a piece you edit by hand in the s
 
 **Next to the code that sends it.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. A function that concatenates strings is a compiler if it records the version. The review is still a person's. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**A long system piece.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the current system text in a Project. Ask for a list of pieces, not a new essay. The review is [Claude review](/blog/claude-review-2026/).
+**A long system piece.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the current system text in a Project. Ask for a list of pieces, not a new essay. The review is [Claude review](/blog/claude-review-2026/).
 
 **A suggestion in the editor.** [GitHub Copilot](/tools/github-copilot/) Pro is $10 a user a month on the October 16 card. Business at $19 a user a month is the governance seat on that card. A suggestion that inlines a secret into the payload is a defect. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

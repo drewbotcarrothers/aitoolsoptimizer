@@ -38,7 +38,7 @@ Do not publish a single percentage as "RAG quality." Publish the columns, the da
 
 ## Where it is built
 
-**The draft of the grid.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the column rules in a Project so the next run uses the same words. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of the grid.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the column rules in a Project so the next run uses the same words. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the team opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Put the index version next to the date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

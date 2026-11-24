@@ -40,7 +40,7 @@ If the blog is still a draft, do not cut social posts from it. The claims will m
 
 ## Where the cut happens
 
-**Several openings from one section.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste the section, not the whole site. Ask for three posts and a fourth bucket titled "not in the article." Free includes Projects if you want the brand notes kept. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The voice card is [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/).
+**Several openings from one section.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste the section, not the whole site. Ask for three posts and a fourth bucket titled "not in the article." Free includes Projects if you want the brand notes kept. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The voice card is [how to create a brand voice with AI](/blog/how-to-create-a-brand-voice-with-ai-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 is enough for a week's cuts. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The marketing split, if you were about to buy a writing suite for this, is [Jasper vs ChatGPT for marketing](/blog/jasper-vs-chatgpt-for-marketing-2026/).
 

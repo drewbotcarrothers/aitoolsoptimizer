@@ -38,7 +38,7 @@ A card that says "state of the art" without a test name is advertising. The pers
 
 ## Where the card is drafted
 
-**The long write-up.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. The directory records a context window of up to 1 million tokens depending on the model, which is why a long eval log fits in one thread. The card still only includes the lines you can point to. The review is [Claude review](/blog/claude-review-2026/).
+**The long write-up.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The directory records a context window of up to 1 million tokens depending on the model, which is why a long eval log fits in one thread. The card still only includes the lines you can point to. The review is [Claude review](/blog/claude-review-2026/).
 
 **A shared Project for the version history.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two users, when the card describes customer data and you need admin controls. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 

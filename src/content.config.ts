@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { fillDeep } from './lib/prices.mjs';
 
 export const CATEGORIES = [
   'audio-voice-music', 'automation-agents', 'chatbots-assistants', 'coding', 'customer-support', 'data-analytics',
@@ -9,7 +10,8 @@ export const CATEGORIES = [
 
 const blog = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/blog' }),
-  schema: z.object({
+  // Frontmatter strings may carry {{price:KEY}} tokens (src/data/prices.json).
+  schema: z.preprocess(fillDeep, z.object({
     title: z.string(),
     description: z.string(),
     pubDate: z.coerce.date(),
@@ -20,12 +22,12 @@ const blog = defineCollection({
     draft: z.boolean().default(false),
     // Root-relative override. Omit it and add public/images/blog/{id}.webp instead.
     featuredImage: z.string().regex(/^\/(?!.*\.\.)[A-Za-z0-9._/-]+$/).optional(),
-  }),
+  })),
 });
 
 const tools = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/tools' }),
-  schema: z.object({
+  schema: z.preprocess(fillDeep, z.object({
     name: z.string(),
     category: z.enum(CATEGORIES),
     tagline: z.string(),
@@ -60,7 +62,7 @@ const tools = defineCollection({
     notFor: z.array(z.string()).default([]),
     faq: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
     sources: z.array(z.object({ title: z.string(), url: z.string().url() })).default([]),
-  }),
+  })),
 });
 
 export const collections = { blog, tools };

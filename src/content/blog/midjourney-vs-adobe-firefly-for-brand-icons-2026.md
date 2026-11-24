@@ -19,7 +19,7 @@ Prices are from directory pages checked October 16, 2026. Claude's prices are fr
 |---|---|---|---|
 | Mood and a simple shape, words optional | [Midjourney](/tools/midjourney/) | Basic is $10 a month, or $8 billed annually | Treat the result as a sketch. Letters may be wrong |
 | A symbol you want in an Adobe file, on Firefly models | [Adobe Firefly](/tools/adobe-firefly/) | Standard is $9.99 a month | Credits on that plan are not the standard images. Read the pricing article |
-| The brief, in words you will reuse | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | It does not draw the icon |
+| The brief, in words you will reuse | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | It does not draw the icon |
 | A board for the options you kept | [Canva](/tools/canva/) | The October 16 card is the price record. This page does not invent a Canva icon fee | A board is not a trademark filing |
 
 ```mermaid

@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A notebook that can run on a schedule | [Hex](/tools/hex/) | Team is $75 an editor a month | Professional at $36 does not include scheduled runs on the card |
 | A quick read of a file, not a warehouse | [Julius AI](/tools/julius-ai/) | Plus is $16 a month billed annually | Connectors start on Business |
 | A workflow around the warehouse, not inside it | [Make](/tools/make/) | Core is $9 a month billed annually for 10,000 credits | Make credits are not model tokens and not row counts |
-| The runbook prose | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not invent a freshness SLO |
+| The runbook prose | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not invent a freshness SLO |
 | A shared Project for the schema notes | [ChatGPT](/tools/chatgpt/) | Business is $20 a user a month billed annually, minimum two | Plus has no admin controls |
 
 ```mermaid

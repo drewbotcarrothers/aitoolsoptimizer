@@ -22,7 +22,7 @@ Prices are US list prices excluding tax. Most figures are from directory pages c
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The wiki for scripts and cards | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| The draft of a script or a card | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually | It may not invent a feature or a competitor price |
+| The draft of a script or a card | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | It may not invent a feature or a competitor price |
 | The deck reps can present | [Gamma](/tools/gamma/) or [Plus AI](/tools/plus-ai/) | Gamma Plus is $9 a seat. Plus AI Basic is $10 a user a month billed annually | The file format decides it |
 | A practice-call library, bot allowed | [Fathom](/tools/fathom/) | Premium is $16 a month billed annually. Business is $25 a user annually for CRM fields | Free lists unlimited recordings. Confirm the bot is allowed |
 | You already run Gong | [Gong](/tools/gong/) | Custom. No public dollar on the card | Do not invent a license fee. Enable is a product name, not a price |

@@ -35,7 +35,7 @@ A system prompt that says "always follow the policy" is a hope. A pin is a check
 
 ## Where people set it
 
-**The project that holds the policy.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the pinned paragraph in the Project instructions and treat an edit to that paragraph as a change request. The review is [Claude review](/blog/claude-review-2026/).
+**The project that holds the policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the pinned paragraph in the Project instructions and treat an edit to that paragraph as a change request. The review is [Claude review](/blog/claude-review-2026/).
 
 **The editor task.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. Pin the file the agent must not rewrite, and still read the diff. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

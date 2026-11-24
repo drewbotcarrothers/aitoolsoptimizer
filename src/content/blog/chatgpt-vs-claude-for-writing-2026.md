@@ -69,7 +69,7 @@ Claude's annual price is $200 up front, which is $17 a month across the year. Ch
 
 - **Fiction.** [Sudowrite](/tools/sudowrite/) Hobby and Student is $10/month billed annually ($19 monthly) for 225,000 credits. Professional is $22/month annual. The features are aimed at story, outline, and the next stretch of prose.
 - **Marketing teams.** [Jasper](/tools/jasper/) Pro is $69/seat/month or $59 billed yearly, with Brand Voices and a 7-day trial. There is no free plan. Copy.ai's Chat plan is the cheaper shared chat, at $24/month billed annually for 5 seats, and it is a go-to-market product rather than a manuscript tool.
-- **Google Docs as the home of the draft.** [Gemini](/tools/gemini/) on Google AI Pro at $19.99/month puts the assistant in Docs and Gmail. If the file never leaves Drive, start there instead of pasting into Claude. The three-way comparison covers that case.
+- **Google Docs as the home of the draft.** [Gemini](/tools/gemini/) on Google AI Pro at {{price:gemini.pro}}/month puts the assistant in Docs and Gmail. If the file never leaves Drive, start there instead of pasting into Claude. The three-way comparison covers that case.
 - **A wiki.** [Notion AI](/tools/notion-ai/) on Business at $20/seat/month. The review is [Notion AI](/blog/notion-ai-review-2026/).
 
 Paying for ChatGPT Plus and Claude Pro in the same month is $40, or $37 if Claude is annual. Do that only after each one has a job the other failed. The wider rule is [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
@@ -90,7 +90,7 @@ Claude is the stronger default for long documents, projects, and file-based revi
 
 ### Can I write a book with the free plan?
 
-You can draft on either free plan until the usage limit stops the session. Claude Pro at $17/month annual or ChatGPT Plus at $20 is the usual fix. Fiction-specific tools such as Sudowrite are a separate purchase.
+You can draft on either free plan until the usage limit stops the session. Claude Pro at {{price:claude.pro_annual}}/month annual or ChatGPT Plus at $20 is the usual fix. Fiction-specific tools such as Sudowrite are a separate purchase.
 
 ### Which plan lets me opt out of training?
 

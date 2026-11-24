@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The dependency and risk list | [Notion AI](/tools/notion-ai/) or [ClickUp](/tools/clickup-brain/) | Notion Business is $20 a seat. ClickUp Brain² starts at $9 a user a month, on top of a ClickUp plan | The owner field is a person, not a team name alone |
-| The narrative for steering | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | It may not invent a percent complete |
+| The narrative for steering | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | It may not invent a percent complete |
 | The steering deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | Slides-native work is Plus AI, below |
 | Time to do the update | [Reclaim](/tools/reclaim-ai/) | Starter is $10 a seat a month. Lite is free | A calendar agent does not clear a dependency |
 | A scheduler that also holds tasks | [Motion](/tools/motion/) | Pro AI is $19 a seat a month, with a trial and no permanent free plan on the card | Credits are Motion's meter, not your milestone count |

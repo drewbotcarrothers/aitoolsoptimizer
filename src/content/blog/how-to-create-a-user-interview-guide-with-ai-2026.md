@@ -39,7 +39,7 @@ A question that asks the user to confirm your launch is a pitch. Cut it. A fake 
 
 ## Where the draft is written
 
-**The long brief.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the decision and the do-not-ask list in a Project so session two uses the same guide. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long brief.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the decision and the do-not-ask list in a Project so session two uses the same guide. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **A second drafting seat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Business is $20 a user a month billed annually, minimum two, when the brief includes unreleased product detail. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

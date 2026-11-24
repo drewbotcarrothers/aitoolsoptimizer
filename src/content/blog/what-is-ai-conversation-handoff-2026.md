@@ -42,7 +42,7 @@ Write the promises as quotes from messages that were actually sent. A summary th
 
 **The desk that will own the case.** [Zendesk AI](/tools/zendesk-ai/) Suite Team is $55 per agent per month paid yearly on the directory card, which is where AI agents are listed. Support Team at $19 per agent per month paid yearly does not include them. The handoff still has to land in whatever desk you already run. Do not add a second desk so the bot has somewhere to escalate.
 
-**The rule text.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the reasons and the promise-capture lines are a long note. The model may format rules you paste. It may not add a reason. The review is [Claude review](/blog/claude-review-2026/).
+**The rule text.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the reasons and the promise-capture lines are a long note. The model may format rules you paste. It may not add a reason. The review is [Claude review](/blog/claude-review-2026/).
 
 **The runbook the next shift inherits.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the wiki. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

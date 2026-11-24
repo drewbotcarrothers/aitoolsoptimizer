@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The moment | Start here | First paid step | The limit |
 |---|---|---|---|
-| The timeline and the postmortem | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20, or $17 billed annually. ChatGPT Plus is $20 | You paste the notes. The model does not invent the cause |
+| The timeline and the postmortem | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20 | You paste the notes. The model does not invent the cause |
 | The fix in the repo | [GitHub Copilot](/tools/github-copilot/) or [Cursor](/tools/cursor/) | Copilot Pro is $10. Copilot Free is 2,000 completions. Cursor Plus is $8 | A person merges. The seat comparison is [Copilot vs Cursor pricing](/blog/github-copilot-vs-cursor-pricing-2026/) |
 | The bridge, if a bot is allowed | [Fathom](/tools/fathom/) | Free lists unlimited recordings. Team is $15 a user annually, minimum 2 | The summary is not the timeline |
 | Alert to ticket, on a path you can draw | [Zapier](/tools/zapier/) | Professional is $19.99 a month annually for 750 tasks | A branch you did not draw will not page the right person |

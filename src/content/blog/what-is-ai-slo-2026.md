@@ -51,8 +51,8 @@ Seat prices are context for who calls the feature. They are not the SLO.
 | Caller | Price the directory recorded | What you still define |
 |---|---|---|
 | [ChatGPT](/tools/chatgpt/) Plus | $20 a month | The latency and the check, if your app calls an API. This page does not invent an API rate |
-| [Claude](/tools/claude/) Pro | $20 a month, or $17 billed annually | The same |
-| [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The same |
+| [Claude](/tools/claude/) Pro | {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The same |
+| [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The same |
 | [DeepSeek](/tools/deepseek/) API | Input from $0.15 per 1 million tokens off-peak on a cache miss. Output $0.60 off-peak | A latency SLO is yours to compute. The vendor price is not an uptime promise |
 | A help desk with an AI agent | [Zendesk AI](/tools/zendesk-ai/) records Support Team at $19 an agent a month paid yearly, and AI agents from Suite Team at $55 | The customer-facing target is still yours. The plan name is not an SLO |
 

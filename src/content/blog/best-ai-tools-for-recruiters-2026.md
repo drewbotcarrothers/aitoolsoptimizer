@@ -17,7 +17,7 @@ Prices are US list prices excluding tax. Perplexity figures are from an October 
 
 | Recruiting job | Start here | First paid step | Leave it when |
 |---|---|---|---|
-| A job post or a scorecard from a real req | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month ($17 annual) or ChatGPT Plus $20 | You need the ATS to store the req |
+| A job post or a scorecard from a real req | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual) or ChatGPT Plus $20 | You need the ATS to store the req |
 | A proofread before a candidate sees it | [Grammarly](/tools/grammarly/) | Pro $12/member/month billed annually, or $30 monthly | The draft is still wrong on the facts |
 | Interview notes, bot allowed | [Fathom](/tools/fathom/) | Free for unlimited recordings. Premium $16/month annual | The candidate will not accept a bot |
 | Interview notes, no bot | [Granola](/tools/granola/) | Business $14/user/month if you need history past 30 days | You wanted a transcript on screen during the call |

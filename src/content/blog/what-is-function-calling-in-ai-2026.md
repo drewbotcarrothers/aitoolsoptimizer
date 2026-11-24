@@ -44,7 +44,7 @@ Each round trip spends [tokens](/blog/what-are-ai-tokens-explained-2026/): the r
 
 | Shape | Example | What is being called | Price to know |
 |---|---|---|---|
-| Chat with built-in tools | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | Search, files, code, or connectors the plan includes | ChatGPT Plus $20/month. Claude Pro $20, or $17 billed annually |
+| Chat with built-in tools | [ChatGPT](/tools/chatgpt/) or [Claude](/tools/claude/) | Search, files, code, or connectors the plan includes | ChatGPT Plus $20/month. Claude Pro {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually |
 | An API that documents tool calls | [DeepSeek](/tools/deepseek/) | Your functions, if you wire them. The directory page lists tool calls on the API | Chat is free. API input from $0.15 per 1 million tokens off-peak on a cache miss |
 | A role that picks among tools | [Lindy](/tools/lindy/) | Email, calendar, and the integrations on the agent | Team starts at $49.99/month for 5,000 credits. The trial is $50 in credits for 7 days |
 | A path you drew | [Zapier](/tools/zapier/) or [Make](/tools/make/) | The steps in the Zap or scenario | Zapier Professional is $19.99/month billed annually for 750 tasks. Make Core is from $9/month billed annually |

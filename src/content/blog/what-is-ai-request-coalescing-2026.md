@@ -42,7 +42,7 @@ A status page, a launch email, and a retry loop can ask the same question in the
 
 **An API you own the client for.** [DeepSeek](/tools/deepseek/) records input from $0.15 per 1 million tokens off-peak on a cache miss, and output at $0.60 per 1 million tokens off-peak. Duplicate in-flight calls spend that meter twice. Coalescing is a client behavior. The price card does not turn it on.
 
-**A seat product.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. People clicking those websites are not your coalescing layer. Your layer starts when your app calls a model for many users. This page does not invent an API rate for either seat.
+**A seat product.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. People clicking those websites are not your coalescing layer. Your layer starts when your app calls a model for many users. This page does not invent an API rate for either seat.
 
 **A workflow tool.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. Two Zaps that fire on the same event can still call a model twice. Confirm whether your scenario shares work. Do not assume the plan includes a single-flight map.
 

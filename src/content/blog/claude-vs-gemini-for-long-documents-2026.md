@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | A contract, a paper, or a transcript you will revise in chat | [Claude](/tools/claude/) | Files, Projects, and Artifacts are on the product, including Free, with usage limits |
 | A stack of PDFs, Docs, and Slides that must be cited | [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on those sources |
-| The thread is in Gmail, or the draft is a Google Doc | [Gemini](/tools/gemini/) on Google AI Pro | Pro at $19.99 lists Gemini in Gmail and Docs |
+| The thread is in Gmail, or the draft is a Google Doc | [Gemini](/tools/gemini/) on Google AI Pro | Pro at {{price:gemini.pro}} lists Gemini in Gmail and Docs |
 | The team wiki is the document | [Notion AI](/tools/notion-ai/) | Business at $20/seat is the system of record |
 | You also need images, custom GPTs, or Codex | [ChatGPT](/tools/chatgpt/) Plus at $20 | A different assistant. The three-way is linked below |
 
@@ -36,11 +36,11 @@ flowchart TD
 
 ## What you pay to stay in the file
 
-**Claude Free** includes file upload, Artifacts, and up to five Projects, with usage limits. That is enough to learn whether you like the revision style. **Pro is $20 a month, or $17 billed annually.** Pro is more usage, more models, and Claude Code. **Max at $100 or $200** is 5× or 20× Pro usage. Buy Max when a long-document day actually hits the cap, not because the PDF is long. A long file on a quiet week can fit on Pro. A short file pasted fifty times can blow the cap. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+**Claude Free** includes file upload, Artifacts, and up to five Projects, with usage limits. That is enough to learn whether you like the revision style. **Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.** Pro is more usage, more models, and Claude Code. **Max at $100 or $200** is 5× or 20× Pro usage. Buy Max when a long-document day actually hits the cap, not because the PDF is long. A long file on a quiet week can fit on Pro. A short file pasted fifty times can blow the cap. The capacity split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 Put the file in a Project with instructions: the questions you always ask, and a line that says to quote the page when a claim depends on it. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
-**Gemini Notebook is free** with a Google account. Google AI Plus at $4.99 adds notebook room. Google AI Pro at $19.99 is the larger limit, about 5× on the directory card, and it is also the plan that lists Gemini inside Gmail and Docs. Ultra at $99.99 or $199.99 is headroom. The study workflow is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). Notebook accepts Docs and Slides, which is the practical way a Workspace folder becomes a cited notebook without a second paste.
+**Gemini Notebook is free** with a Google account. Google AI Plus at {{price:gemini.plus}} adds notebook room. Google AI Pro at {{price:gemini.pro}} is the larger limit, about 5× on the directory card, and it is also the plan that lists Gemini inside Gmail and Docs. Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}} is headroom. The study workflow is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). Notebook accepts Docs and Slides, which is the practical way a Workspace folder becomes a cited notebook without a second paste.
 
 **Do not pay for both Pro plans on day one.** Run the same packet through Claude Free and through a free notebook. Keep the one you had to correct less. The assistant-level choice, including ChatGPT, is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 
@@ -70,7 +70,7 @@ This directory has recorded "up to 1 million tokens, depending on the model" for
 
 ### Which Gemini plan reads a long Google Doc in place?
 
-Google AI Pro at $19.99, on the line this site recorded for Gmail and Docs. Notebook, including the free notebook, is the surface for a folder of sources rather than for editing the Doc.
+Google AI Pro at {{price:gemini.pro}}, on the line this site recorded for Gmail and Docs. Notebook, including the free notebook, is the surface for a folder of sources rather than for editing the Doc.
 
 ### Can I paste a book into Claude Free?
 

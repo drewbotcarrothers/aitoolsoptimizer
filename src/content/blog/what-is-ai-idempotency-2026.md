@@ -44,7 +44,7 @@ A prompt that says "only send once" is a wish. The mail API that rejects the sec
 
 **A workflow that runs twice.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, with 750 tasks, after a 14-day trial. A task can complete and still be retried by a human who clicks Run again. If the Zap creates a row, the row's unique key has to live in the destination, not in the prompt. [n8n](/tools/n8n/) Cloud Starter is €20 a month billed annually on the directory card. This page leaves that price in euros because that is how the card records it.
 
-**A model that drafts the same email in two tabs.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Two drafts are fine. Two sends are the bug. The send button stays with a person unless the downstream system dedupes on a key you set. The record of what was sent is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
+**A model that drafts the same email in two tabs.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Two drafts are fine. Two sends are the bug. The send button stays with a person unless the downstream system dedupes on a key you set. The record of what was sent is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
 ## What idempotency does not cover
 

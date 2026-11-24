@@ -40,7 +40,7 @@ An unsourced "they are weak at enterprise" line is [a hallucination](/blog/what-
 
 **Pages, with links.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually. Use it to find the official page, then open the page. A citation is a lead. The shopping version of that habit is [Perplexity vs ChatGPT for shopping research](/blog/perplexity-vs-chatgpt-for-shopping-research-2026/). The review is [Perplexity review](/blog/perplexity-review-2026/).
 
-**The memo.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste excerpts. Ask for a table with a source column. Delete rows that cite "industry knowledge." The review is [Claude review](/blog/claude-review-2026/).
+**The memo.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste excerpts. Ask for a table with a source column. Delete rows that cite "industry knowledge." The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the teardown lives in Notion. Put the date in the title. A chat thread will not be the version sales uses next quarter. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

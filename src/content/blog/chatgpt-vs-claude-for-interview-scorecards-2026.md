@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. ChatGPT, Notion
 
 | The form in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
-| Every interviewer uses the same rubric | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds your rubric. It does not score the candidate |
+| Every interviewer uses the same rubric | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds your rubric. It does not score the candidate |
 | One form, from notes you paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No score that was not in the notes |
 | The page the hiring packet will cite | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A last pass on the words | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | It may not add a judgment while it fixes grammar |

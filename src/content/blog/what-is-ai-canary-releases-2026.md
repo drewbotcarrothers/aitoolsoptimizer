@@ -43,7 +43,7 @@ Do not canary a change you cannot undo. If the new prompt writes to a customer r
 
 **The internal note.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users when the note includes customer examples. Ask it to list the cohort, the watch, and the rollback owner. If any line is missing from your notes, it stays missing. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A second drafter for the longer postmortem if you roll back.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. The review is [Claude review](/blog/claude-review-2026/).
+**A second drafter for the longer postmortem if you roll back.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The review is [Claude review](/blog/claude-review-2026/).
 
 **The counts, if they should be a chart you can reopen.** [Hex](/tools/hex/) Professional is $36 an editor a month. Community is free with a Hex agent trial and small compute. A screenshot in Slack is not the watch. The invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/).
 

@@ -20,7 +20,7 @@ Notion, Otter, and Zapier prices are from directory pages checked October 16, 20
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The ticket register | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| The note from a report you wrote | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No vendor you did not name |
+| The note from a report you wrote | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No vendor you did not name |
 | A visit that ran as a conversation you recorded with notice | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually | 90 minutes per conversation on that plan |
 | A reminder on a date you stored | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The Zap does not close the ticket |
 

@@ -11,7 +11,7 @@ draft: false
 
 **Gemini Notebook helps when the exam is about sources you uploaded, and it quizzes you from those sources.** It does not help when you wanted a web search, a tutor that withholds answers across a whole curriculum, or a summary of a lecture you never added. The free plan is enough for a single course if you stay inside the daily caps. Google AI Plus and Pro raise those caps. They do not change the method.
 
-The product was NotebookLM. The limits below are from Google's Gemini Notebook plans table, read October 24, 2026. What changed in the rename is in [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/). Prices for Google AI Plus ($4.99/month) and Pro ($19.99/month) are from Google's subscriptions page as checked October 16, 2026. We did not run a learning-outcomes study. These workflows follow features Google documents: grounded chat, citations, Audio Overviews, flashcards, quizzes, and reports.
+The product was NotebookLM. The limits below are from Google's Gemini Notebook plans table, read October 24, 2026. What changed in the rename is in [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/). Prices for Google AI Plus ({{price:gemini.plus}}/month) and Pro ({{price:gemini.pro}}/month) are from Google's subscriptions page as checked October 16, 2026. We did not run a learning-outcomes study. These workflows follow features Google documents: grounded chat, citations, Audio Overviews, flashcards, quizzes, and reports.
 
 ## The free caps that shape a study week
 
@@ -94,8 +94,8 @@ Video Overviews (3 a day on Standard) are optional and easier to over-trust beca
 
 | You keep hitting | Upgrade | What Google lists |
 |---|---|---|
-| 3 Audio Overviews | Google AI Plus, $4.99/month | 6/day, 200 chats, 100 sources per notebook |
-| A heavy week of quizzes and reports across several classes | Google AI Pro, $19.99/month | 20 Audio Overviews/day, 100 quizzes/day, 300 sources, 500 chats |
+| 3 Audio Overviews | Google AI Plus, {{price:gemini.plus}}/month | 6/day, 200 chats, 100 sources per notebook |
+| A heavy week of quizzes and reports across several classes | Google AI Pro, {{price:gemini.pro}}/month | 20 Audio Overviews/day, 100 quizzes/day, 300 sources, 500 chats |
 | You only wanted web answers | Do not upgrade Notebook | Use [Perplexity](/tools/perplexity/) Free, or Gemini chat |
 
 Ultra's notebook caps are higher still (the help page splits them by the 20 TB and 30 TB Ultra plans, up to 200 Audio Overviews a day on the larger one). That is far past a study habit. The subscription decision for those tiers is in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).

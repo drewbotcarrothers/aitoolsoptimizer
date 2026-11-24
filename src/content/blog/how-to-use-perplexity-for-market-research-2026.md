@@ -62,7 +62,7 @@ Keyword demand is Semrush or a similar suite, not an answer engine. [Writesonic]
 
 ## Step 5: Publish a memo a skeptical teammate can audit
 
-Lead with the decision and the recommendation. Then the table. Then what you could not find. Then what would change your mind. [Gamma](/tools/gamma/) Plus at $9 a seat a month can turn the finished table into a leave-behind. It should not invent a row. [Claude](/tools/claude/) Pro at $20 a month, or $17 annual, can tighten the prose from the table you paste.
+Lead with the decision and the recommendation. Then the table. Then what you could not find. Then what would change your mind. [Gamma](/tools/gamma/) Plus at $9 a seat a month can turn the finished table into a leave-behind. It should not invent a row. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} annual, can tighten the prose from the table you paste.
 
 Keep the research log. A later quarter will ask where a number came from. "Perplexity said so" is not a source. The URL and the date are the source.
 

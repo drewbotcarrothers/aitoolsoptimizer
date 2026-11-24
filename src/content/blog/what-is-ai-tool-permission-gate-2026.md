@@ -42,7 +42,7 @@ An allowlist answers "is this tool in the set?" A gate answers "is this call all
 
 **The team editor.** [Cursor](/tools/cursor/) Teams seats are $30, $100, or $200 a seat a month on the October 24 help page. Enterprise is the sales plan on that page, with SCIM and audit logs. A gate you cannot audit is a sentence in a doc. The company-seat article is [Cursor business pricing explained](/blog/cursor-business-pricing-explained-2026/).
 
-**A connector.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Team standard seats are $20 a seat a month billed annually, or $25 monthly. A connector that can read mail still needs a gate for who may be offered that connector. The review is [Claude review](/blog/claude-review-2026/).
+**A connector.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Team standard seats are $20 a seat a month billed annually, or $25 monthly. A connector that can read mail still needs a gate for who may be offered that connector. The review is [Claude review](/blog/claude-review-2026/).
 
 **The company coding seat.** [GitHub Copilot](/tools/github-copilot/) Business is $19 a user a month on the October 16 card, which is the card that lists access controls. A personal Pro seat at $10 does not answer who may be offered a tool. The invoice is [GitHub Copilot Business pricing explained](/blog/github-copilot-business-pricing-explained-2026/).
 

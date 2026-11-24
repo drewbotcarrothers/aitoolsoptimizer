@@ -41,7 +41,7 @@ A flag without an owner becomes a permanent half-launch. Name the person who can
 
 **In the editor, as the place you write the switch.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, for new customers on The X Subscription. Team seats are $30, $100, or $200 a month on the new card. Use the editor you already standardized. Do not buy a second editor to "do feature flags." The individual comparison is [Cursor vs GitHub Copilot](/blog/cursor-vs-github-copilot-2026/).
 
-**As a prompt you version.** Turning a flag on should point at a prompt version you can name. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and Projects can hold the wording. [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). A Project is not a flag. The flag is what percentage of users hit that Project's wording.
+**As a prompt you version.** Turning a flag on should point at a prompt version you can name. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and Projects can hold the wording. [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). A Project is not a flag. The flag is what percentage of users hit that Project's wording.
 
 **As a manual switch for an internal path.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually for 750 tasks. Turning a Zap off is a flag for that one automation. It is a blunt one, and it is honest. The map is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/).
 

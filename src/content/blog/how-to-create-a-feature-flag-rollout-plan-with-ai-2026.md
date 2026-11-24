@@ -38,7 +38,7 @@ A plan with no rollback owner is a launch note. Do not start the clock. A plan t
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when standing rollout notes live in a Project. Free can format one paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when standing rollout notes live in a Project. Free can format one paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if this plan is the page the reviewer opens. The flag system remains the control. The page is not the flag.
 

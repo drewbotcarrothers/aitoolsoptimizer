@@ -41,7 +41,7 @@ If two runs at low temperature still disagree on a number, the document is ambig
 | Surface | What the directory records | Price to know |
 |---|---|---|
 | [ChatGPT](/tools/chatgpt/) | A chat plan with usage limits. No temperature value on the tool page | Plus is $20/month. Go is $8. Pro starts at $100 |
-| [Claude](/tools/claude/) | Chat, files, and artifacts on Free. No temperature value on the tool page | Pro is $20/month, or $17 billed annually |
+| [Claude](/tools/claude/) | Chat, files, and artifacts on Free. No temperature value on the tool page | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
 | [DeepSeek](/tools/deepseek/) | An API with published token rates, plus a free chat app. The page notes thinking and non-thinking modes, which are a different switch | API input from $0.15 per 1 million tokens off-peak on a cache miss |
 | [Cursor](/tools/cursor/) | Modes that trade cost and capability when the product picks a model: Cost, Balance, and Intelligence. That is model routing, not a temperature number | Plus is $8/month, or $80/year, on The X Subscription |
 | [Perplexity](/tools/perplexity/) | Cited answers. The check is the link, not a sampling slider | Pro is $17/month billed annually |

@@ -21,7 +21,7 @@ Prices are US list prices excluding tax. HubSpot's Starter figure is the October
 |---|---|---|---|
 | The CRM where stages and required fields live | [HubSpot](/tools/hubspot/) | Free CRM. Starter was $7 or $10 a seat a month on a promo | Professional and Enterprise are a quote. Do not invent the sticker |
 | The definition doc: what each stage means, and the exit rule | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The doc and the CRM must say the same thing. One of them is a copy |
-| A clean draft of rules you already use | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model formats. It does not add a stage |
+| A clean draft of rules you already use | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model formats. It does not add a stage |
 | A notice when a handoff clock is missed | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The clock is yours. The Zap only notifies |
 | Call evidence for a stage you defined as "we met" | [Gong](/tools/gong/) | Custom. Per-user licenses plus a platform fee | No public dollar. A transcript is not a stage change |
 | A contact database, if ops also administers the seat | [Apollo.io](/tools/apollo-io/) | Basic is $49 a seat a month billed annually | Credits expire. The list job is the sales-team page |

@@ -39,7 +39,7 @@ flowchart TD
 
 [Perplexity](/tools/perplexity/) Free includes top models with a weekly cap. Pro at $17 a month billed annually adds Perplexity Computer, model selection, files and apps, and premium data such as PitchBook and Statista. Max is $167 a month billed annually. A student who hit the weekly cap does not need Statista. Wait, or narrow the question. The buying note for people who do need the premium sources is [is Perplexity Pro worth it](/blog/is-perplexity-pro-worth-it-2026/). The product page is [Perplexity review](/blog/perplexity-review-2026/).
 
-**Gemini Notebook** answers from the sources you upload, with citations. That is the right shape for a weekly reading. Google AI Plus is $4.99 a month. Pro is $19.99. The free tier is the one to exhaust first. The workflows are [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). An empty notebook will answer from nothing useful. Upload the reading.
+**Gemini Notebook** answers from the sources you upload, with citations. That is the right shape for a weekly reading. Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}}. The free tier is the one to exhaust first. The workflows are [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/). An empty notebook will answer from nothing useful. Upload the reading.
 
 **Khanmigo** is built to guide rather than dump the answer. Learners and families pay $4 a month or $44 a year. Teachers are free, on the directory card. Parents can add up to 10 children. If the honor code forbids any assistant on the problem set, $4 does not help. If hints are allowed, it is a closer fit than a web answer engine. The wider shelf is [best AI tools for students](/blog/best-ai-tools-for-students-2026/).
 
@@ -67,7 +67,7 @@ Then none of these tools belong in the assignment. This page is for work your ru
 
 ### Is Gemini Notebook the same as searching in Gemini?
 
-No. The notebook is grounded in what you upload. [Gemini](/tools/gemini/) chat can also search and use the wider Google account. Google AI Plus is $4.99. Use the notebook when the reading is the corpus. The rename note is [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/).
+No. The notebook is grounded in what you upload. [Gemini](/tools/gemini/) chat can also search and use the wider Google account. Google AI Plus is {{price:gemini.plus}}. Use the notebook when the reading is the corpus. The rename note is [NotebookLM is now Gemini Notebook](/blog/notebooklm-is-now-gemini-notebook/).
 
 ## Last verified
 

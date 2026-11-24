@@ -47,7 +47,7 @@ The model does not have a separate, sealed channel for "real instructions" once 
 
 **Secrets stay out of the prompt.** A model that can see an API key can be asked, by a document, to repeat it. Put secrets in the tool's credential store, which is the practical half of [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/).
 
-[Claude](/tools/claude/) and [ChatGPT](/tools/chatgpt/) are the assistants people paste files into. Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20. Both figures are from directory pages checked October 16, 2026. Pasting a contract is normal. Pasting a contract and connecting a tool that can email the other party is the moment the injection risk becomes an action.
+[Claude](/tools/claude/) and [ChatGPT](/tools/chatgpt/) are the assistants people paste files into. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Both figures are from directory pages checked October 16, 2026. Pasting a contract is normal. Pasting a contract and connecting a tool that can email the other party is the moment the injection risk becomes an action.
 
 ## FAQ
 

@@ -58,7 +58,7 @@ Writesonic's cliff is the prompt meter. Starter tracks 50 prompts and 50 answers
 
 **An SEO or GEO lead who has to show a chart of AI citations.** Writesonic, or the tracking products compared in [Surfer SEO vs Frase](/blog/surfer-seo-vs-frase-2026/). Writesonic's difference is the fix loop: articles and audits attached to the gaps, with the Action Center reserved for the higher tiers. Do not expect Starter to include the full action pack. Growth's Action Center is a trial quantity, not an unlimited agency retainer.
 
-**A solo freelancer writing client blogs.** None of the three until a client requires the brand vault or the visibility report. Claude Pro is $20 a month, or $17 on annual billing. ChatGPT Plus is $20. That is the draft. Jasper is the system you add when the client will pay for the system.
+**A solo freelancer writing client blogs.** None of the three until a client requires the brand vault or the visibility report. Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} on annual billing. ChatGPT Plus is $20. That is the draft. Jasper is the system you add when the client will pay for the system.
 
 ## What "agents" means on each invoice
 

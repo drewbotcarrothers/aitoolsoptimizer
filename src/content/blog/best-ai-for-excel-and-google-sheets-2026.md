@@ -57,7 +57,7 @@ Two entry points are documented:
 
 "Help me organize" is a different, narrower feature. Google says it creates a new table from a prompt and **cannot edit or refer to existing content** in the spreadsheet. Use it on a blank tab. Inserting it over data overwrites what it replaces.
 
-Google AI Plus is $4.99/month and Google AI Pro is $19.99/month on the subscriptions page we checked October 16, 2026. Pro is the plan that also bundles a large storage allotment, which matters if the Sheet is not your only Google bill. The subscription comparison is in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+Google AI Plus is {{price:gemini.plus}}/month and Google AI Pro is {{price:gemini.pro}}/month on the subscriptions page we checked October 16, 2026. Pro is the plan that also bundles a large storage allotment, which matters if the Sheet is not your only Google bill. The subscription comparison is in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
 
 ## ChatGPT and Claude, when the grid is not where you work
 
@@ -65,7 +65,7 @@ OpenAI's plans page, read October 24, 2026, lists **Excel, Word, PowerPoint, and
 
 That makes Plus the first ChatGPT plan to treat as an Office companion. Go is a reasonable plan for more file uploads and Python-style analysis. It is the wrong plan if the reason you are paying is the spreadsheet extension.
 
-[Claude](/tools/claude/) Pro is $20/month, or $17/month when billed annually ($200 up front). The pricing page lists file creation and code execution on Free as well as Pro, and Research on Pro. Claude is the better upload when the workbook is one tab inside a long memo. The usage math for staying on Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The ChatGPT tier choice is [Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}}/month when billed annually ({{price:claude.pro_upfront}} up front). The pricing page lists file creation and code execution on Free as well as Pro, and Research on Pro. Claude is the better upload when the workbook is one tab inside a long memo. The usage math for staying on Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). The ChatGPT tier choice is [Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 Neither assistant is a substitute for cell references you understand. Ask it to return the formula and a one-sentence explanation of each range. Then type or insert that formula yourself so you can see it calculate.
 
@@ -99,7 +99,7 @@ Google's equivalent for repeatable logic is Apps Script, not VBA. Gemini can dra
 | Explains an existing formula in place | Strong | Partial | Partial | Partial | Limited |
 | Analysis without a paid office plan | Limited | No, plan required | Strong on Plus, limited on Free | Strong enough to try on Free | Strong on Free to test |
 | VBA or Apps Script as reviewed code | Not the documented feature | Apps Script is a separate draft | Strong as a draft | Strong as a draft | Limited |
-| Lowest confirmed individual price | $9.99/month Personal | Google AI Plus $4.99/month | $20/month | $17/month annual | $16/month annual |
+| Lowest confirmed individual price | $9.99/month Personal | Google AI Plus {{price:gemini.plus}}/month | $20/month | $17/month annual | $16/month annual |
 
 ## How to keep the numbers honest
 

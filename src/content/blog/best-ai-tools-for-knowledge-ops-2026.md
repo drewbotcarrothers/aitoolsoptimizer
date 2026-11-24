@@ -20,7 +20,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, Perplex
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The SLA page and the miss queue | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. One queue. Do not keep a second in chat |
-| The miss note, from dates you pasted | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No sentence that says the page is still accurate |
+| The miss note, from dates you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No sentence that says the page is still accurate |
 | A public canonical URL you still open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Write the date you opened it. A snippet is not the page |
 | The reminder when a review date passes | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The task pages a person. It does not edit the article |
 
@@ -40,7 +40,7 @@ Knowledge managers on the other page own the home and the bot. Knowledge ops own
 
 **Notion Business** holds the SLA text, the class of pages it covers, and the queue. Free includes a trial of Notion AI on the October 16 card. The chat is not the queue. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**Claude Pro** writes the miss note. The annual price is $200 up front. The review is [Claude review](/blog/claude-review-2026/). A note that adds a policy the page does not contain is a failed miss note. Delete the policy.
+**Claude Pro** writes the miss note. The annual price is {{price:claude.pro_upfront}} up front. The review is [Claude review](/blog/claude-review-2026/). A note that adds a policy the page does not contain is a failed miss note. Delete the policy.
 
 **Perplexity Pro** is how you open a public source when the canonical copy might have moved. It is the wrong system of record for an internal policy. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 

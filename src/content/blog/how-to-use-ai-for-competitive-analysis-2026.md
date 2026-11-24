@@ -20,7 +20,7 @@ The research habit with citations is [how to use Perplexity for market research]
 | What does this page say, and what is the link? | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually. Free is enough to test one question |
 | Which queries do we and a rival both show up for? | [Semrush](/tools/semrush/) | SEO plan $117.33/month billed annually, or $139 monthly. Free is 10 reports a day |
 | Who works at these accounts, from providers we already pay? | [Clay](/tools/clay/) | Launch $167/month billed annually. Free is 500 actions and 100 data credits |
-| Draft the memo from a table I already built | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month or $17 annual. ChatGPT Plus $20 |
+| Draft the memo from a table I already built | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus $20 |
 | Do AI answers mention us or them? | [Writesonic](/tools/writesonic/) | Starter $79/month on the annual view read October 24, 2026 |
 
 ```mermaid

@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, ChatGPT
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The decision note, from a judgment you already made | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No new fact. No new policy |
+| The decision note, from a judgment you already made | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No new fact. No new policy |
 | The page the queue keeps | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | One note from a short paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | The case id stays the one you pasted |
 | A rule text in the repo, if the product encodes one | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review the diff. The model does not ship a policy |

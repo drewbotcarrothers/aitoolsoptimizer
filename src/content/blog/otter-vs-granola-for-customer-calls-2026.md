@@ -19,7 +19,7 @@ Otter's prices are from the directory page checked October 16, 2026. Granola's p
 |---|---|---|---|
 | A bot may join, and the team needs the transcript | [Otter](/tools/otter-ai/) | Pro is $16.99 a user a month, or $8.33 billed annually | Tell the customer a bot is present. No promise they did not say |
 | No bot, and you will write from your own notes plus audio | [Granola](/tools/granola/) | Business is $14 a user a month | History on the free plan is 30 days. The note is still not a contract |
-| The follow-up, in words you reuse | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | It drafts from quotes you checked |
+| The follow-up, in words you reuse | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | It drafts from quotes you checked |
 | The account page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page stores what you accepted |
 
 ```mermaid

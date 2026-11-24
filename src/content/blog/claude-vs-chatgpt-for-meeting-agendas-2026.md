@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | Three decisions, a clock, no long pre-read | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You name the decisions. The model only timeboxes them |
 | The same staff meeting every week, with a saved prompt | ChatGPT Plus at $20 a month, projects included | Swap this week's decisions. Do not reuse last week's owners |
-| A pre-read, a doc, and constraints that must stay next to the prompt | Claude Pro at $20 a month, or $17 billed annually | The Project holds the pre-read. The agenda does not add a topic the pre-read does not contain |
+| A pre-read, a doc, and constraints that must stay next to the prompt | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the pre-read. The agenda does not add a topic the pre-read does not contain |
 | The agenda page lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The chat is the draft |
 | You need the transcript after, not the agenda before | [Fathom](/tools/fathom/) has a free recording tier. Paid rows are in [Fathom pricing explained](/blog/fathom-pricing-explained-2026/) | Record only when the room knows. The agenda is still written first |
 

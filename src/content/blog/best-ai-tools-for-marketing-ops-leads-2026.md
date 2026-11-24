@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The field and the campaign-name spec | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The CRM still has to match the wiki |
-| The routing rule, in words | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No condition you did not paste |
+| The routing rule, in words | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No condition you did not paste |
 | The automation that must follow the spec | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually | A Zap that maps a blank field is a schema you accepted |
 | The CRM the field lands in | [HubSpot](/tools/hubspot/) | Free tools exist. Starter is listed at $7 or $10 a seat a month as a limited-time offer | Credits are $10 per 1,000, on the directory card. Confirm the promo |
 

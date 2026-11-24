@@ -39,7 +39,7 @@ A loss reason of "they chose the market leader" with no sentence behind it is [a
 
 ## Where the notes and the draft happen
 
-**The long read of a quarter's notes.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the code list in a Project so next quarter's labels do not drift. The review is [Claude review](/blog/claude-review-2026/).
+**The long read of a quarter's notes.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the code list in a Project so next quarter's labels do not drift. The review is [Claude review](/blog/claude-review-2026/).
 
 **The CRM paste in a shared Project.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two users, when the rows include customer names. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Decision Memos (2026): One Decision You Already Made"
-description: "ChatGPT vs Claude for decision memos in 2026. Plus is $20. Claude Pro is $17 billed annually or $20 monthly. The decision stays the one a person made."
+description: "ChatGPT vs Claude for decision memos in 2026. Plus is $20. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly. The decision stays the one a person made."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "memos", "comparison"]
@@ -18,7 +18,7 @@ ChatGPT's Plus and Business prices are from learn.chatgpt.com/docs/pricing on Oc
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
 | One decision, from a paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No option that was not in the paste |
-| A set of memos that must share words | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds your words. It does not make the decision |
+| A set of memos that must share words | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds your words. It does not make the decision |
 | The page leadership will reopen | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A number you want checked against a sheet in the repo | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review the diff. The memo does not merge it |
 

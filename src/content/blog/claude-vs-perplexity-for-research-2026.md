@@ -34,7 +34,7 @@ flowchart TD
   src -->|Peer-reviewed papers as the point| papers["Consensus or Elicit, then read the paper"]
 ```
 
-One year of Claude Pro on the annual card is $200, which is $17 a month. Twelve months of month-to-month Pro is 12 × $20 = $240. The $40 gap is the billing toggle. Perplexity Pro at $17 billed annually is also $204 a year if the annual rate holds for twelve months (12 × $17). The stickers match. The jobs do not. Enterprise Perplexity, if you need it, is $40 a user a month for Enterprise Pro ($400 a year) on the directory card. A solo researcher does not start there.
+One year of Claude Pro on the annual card is {{price:claude.pro_upfront}}, which is {{price:claude.pro_annual}} a month. Twelve months of month-to-month Pro is 12 × {{price:claude.pro_monthly}} = $240. The $40 gap is the billing toggle. Perplexity Pro at $17 billed annually is also $204 a year if the annual rate holds for twelve months (12 × $17). The stickers match. The jobs do not. Enterprise Perplexity, if you need it, is $40 a user a month for Enterprise Pro ($400 a year) on the directory card. A solo researcher does not start there.
 
 ## How to use each one without a fake source
 

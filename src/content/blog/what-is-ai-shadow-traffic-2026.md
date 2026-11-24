@@ -40,7 +40,7 @@ Shadow traffic costs money because you pay for two calls. A candidate that is fr
 
 ## Where the copy is switched
 
-**The candidate prompt.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the candidate wording lives in a Project next to the live prompt. The seat price is not the shadow bill. API usage for the duplicate is a separate meter this page does not invent a rate for. The review is [Claude review](/blog/claude-review-2026/).
+**The candidate prompt.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the candidate wording lives in a Project next to the live prompt. The seat price is not the shadow bill. API usage for the duplicate is a separate meter this page does not invent a rate for. The review is [Claude review](/blog/claude-review-2026/).
 
 **A comparison note.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can format a diff you paste. It should not receive the raw production copy if your policy forbids consumer accounts. Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly, when the company requires that workspace. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

@@ -41,7 +41,7 @@ The gate that blocks a release is not this table. The table can show that a thre
 
 ## Where the card is filled
 
-**The judgments, in words.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the threshold sentence in a Project so a later card does not soften a miss. The review is [Claude review](/blog/claude-review-2026/).
+**The judgments, in words.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the threshold sentence in a Project so a later card does not soften a miss. The review is [Claude review](/blog/claude-review-2026/).
 
 **The table the team opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per case. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

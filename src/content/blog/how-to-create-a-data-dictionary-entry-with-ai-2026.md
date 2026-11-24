@@ -40,7 +40,7 @@ Lineage tells you which jobs touched the column. The dictionary tells you what a
 
 **The dictionary page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that database is the dictionary. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). A wiki that is not this row is [Notion AI vs ChatGPT for wikis](/blog/notion-ai-vs-chatgpt-for-wikis-2026/).
 
-**The long definition.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the entry sits beside a metric spec. The review is [Claude review](/blog/claude-review-2026/).
+**The long definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the entry sits beside a metric spec. The review is [Claude review](/blog/claude-review-2026/).
 
 **A profile of values you exported.** [Hex](/tools/hex/) Professional is $36 an editor a month if you already profile columns there. Paste the distinct values you computed. Do not ask the notebook's agent to infer the business meaning from a sample of production rows you should not have exported.
 

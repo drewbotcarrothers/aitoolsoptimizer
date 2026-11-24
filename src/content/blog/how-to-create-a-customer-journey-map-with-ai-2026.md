@@ -41,7 +41,7 @@ Five stages is not a law. If you only saw three, you have three. The model likes
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the map and the interview notes live together. A quote on the map links to the debrief. A quote with no link does not ship.
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when several debriefs should sit in a Project. The review is [Claude review](/blog/claude-review-2026/). Cluster only the notes you pasted. A cluster named by the model is a suggestion. You rename it or you reject it.
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when several debriefs should sit in a Project. The review is [Claude review](/blog/claude-review-2026/). Cluster only the notes you pasted. A cluster named by the model is a suggestion. You rename it or you reject it.
 
 **The call.** [Granola](/tools/granola/) Business is $14 a user a month for the interview itself, without a bot. The transcript aid is not the map. The debrief article is the step between them.
 

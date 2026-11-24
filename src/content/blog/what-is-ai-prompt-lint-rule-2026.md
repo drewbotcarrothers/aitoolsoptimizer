@@ -35,7 +35,7 @@ A style preference is not a lint rule until it can fail in a way two people woul
 
 ## Where the rule is written
 
-**The shared instruction.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the rule text in the Project next to the prompts it covers. The review is [Claude review](/blog/claude-review-2026/).
+**The shared instruction.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the rule text in the Project next to the prompts it covers. The review is [Claude review](/blog/claude-review-2026/).
 
 **One prompt, one pass.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Paste the prompt and the rule. Ask whether the rule passes. A model that rewrites the prompt while checking it has left the job.
 

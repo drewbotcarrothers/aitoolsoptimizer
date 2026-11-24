@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Napkin, Notion,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The note: context, constraints, options, decision | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No requirement you did not paste |
+| The note: context, constraints, options, decision | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No requirement you did not paste |
 | A diagram from that note | [Napkin AI](/tools/napkin-ai/) | Plus is $9 a person a month | The diagram does not add a box |
 | The decision record the next person will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A sample repo you were allowed to read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review any diff. The note is not a commit |

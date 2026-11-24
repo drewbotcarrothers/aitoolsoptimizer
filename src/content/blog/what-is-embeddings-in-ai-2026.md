@@ -41,7 +41,7 @@ The original text has to stay attached to the numbers. A nearest-neighbor hit wi
 |---|---|---|
 | A question about the public web | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually. Free is a limited allowance. See [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/) |
 | Papers | [Consensus](/tools/consensus/) or [Elicit](/tools/elicit/) | Consensus Pro is $12/month on a $144 year, or $20 monthly. Elicit Plus is $11/user/month billed annually on the non-Industry card |
-| Your own files | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is $4.99/month |
+| Your own files | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
 | A help center | [Chatbase](/tools/chatbase/) | Hobby is $32/month billed yearly |
 | A team wiki | [Notion AI](/tools/notion-ai/) | Business is $20/seat/month for full Notion AI |
 
@@ -75,7 +75,7 @@ Some models embed images as well as text, so a caption and a picture can be comp
 
 ### Does a higher-priced chat plan include embeddings?
 
-A higher plan includes more usage of that product. It does not hand you a vector index of your hard drive. Claude Pro is $20/month, or $17 billed annually. ChatGPT Plus is $20. Those are assistant seats.
+A higher plan includes more usage of that product. It does not hand you a vector index of your hard drive. Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Those are assistant seats.
 
 ## Last verified
 

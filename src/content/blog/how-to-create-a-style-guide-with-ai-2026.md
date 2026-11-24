@@ -38,7 +38,7 @@ A style guide that says "be clear and human" will not change a draft. A style gu
 
 ## Where it lives
 
-**A Project, while you are drafting the guide.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put two published pages in the Project so the rules match the site, not a generic manual. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A Project, while you are drafting the guide.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put two published pages in the Project so the rules match the site, not a generic manual. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team's chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects. Go at $8 is enough to format a short list. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

@@ -43,7 +43,7 @@ It also says you create a dot in the ChatGPT mobile app, desktop app, or a deskt
 
 **Business,** the plan at $20 a user a month billed annually, is a different name from Business Premium. The October 24 Codex page prices Business. It does not, in the section we read, price Business Premium. If a workspace is on Business and not Business Premium, do not assume dots from the similar name.
 
-**[Claude](/tools/claude/) Pro** at $17 a month annual or $20 monthly is a different company's seat, from claude.com/pricing on October 24. It is not a discount on Dots. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+**[Claude](/tools/claude/) Pro** at {{price:claude.pro_annual}} a month annual or {{price:claude.pro_monthly}} monthly is a different company's seat, from claude.com/pricing on October 24. It is not a discount on Dots. The invoice is [Claude pricing explained](/blog/claude-pricing-explained-2026/).
 
 **[Grok Bot](/tools/grok-bot/)** starts at X Subscription Premium, $30 a month, on docs fetched the same day. That is not an OpenAI product and it does not include a dot.
 

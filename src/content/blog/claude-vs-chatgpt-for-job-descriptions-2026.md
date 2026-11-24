@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One role, a few requirements, no long guide | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You write the requirements. The model only formats sections |
 | The same internal template every time | ChatGPT Plus at $20 a month | Swap the requirements. Do not reuse another role's tools list |
-| A long leveling guide the new page must not contradict | Claude Pro at $20 a month, or $17 billed annually | The Project holds the guide. The draft adds no requirement the guide does not contain |
+| A long leveling guide the new page must not contradict | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the guide. The draft adds no requirement the guide does not contain |
 | A grammar pass after the requirements are frozen | [Grammarly](/tools/grammarly/) Pro at $12 a member a month billed annually | It must not add a requirement. Monthly Pro is $30 on that card |
 | The signed page lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The wiki is the record. The chat is the draft |
 

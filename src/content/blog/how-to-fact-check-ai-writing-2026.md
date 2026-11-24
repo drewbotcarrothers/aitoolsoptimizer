@@ -47,7 +47,7 @@ Asking the same model "are you sure?" often returns a more confident version of 
 
 **4. Repair from the source's wording.** If the page says "up to 10," the draft cannot say "10." If the page is silent, the draft is silent. A smoother sentence that adds a qualifier is a new claim.
 
-**5. Run the edit pass after the facts.** Grammarly, or a rewrite in [Claude](/tools/claude/) Pro at $20 a month or $17 billed annually, comes after the table is clean. A rewrite can reintroduce a fact. Spot-check the numbers again after the polish.
+**5. Run the edit pass after the facts.** Grammarly, or a rewrite in [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month or {{price:claude.pro_annual}} billed annually, comes after the table is clean. A rewrite can reintroduce a fact. Spot-check the numbers again after the polish.
 
 **6. Save the table with the draft.** The next editor should see the source, not only the prose. A link in a footnote that 404s is an empty cell.
 

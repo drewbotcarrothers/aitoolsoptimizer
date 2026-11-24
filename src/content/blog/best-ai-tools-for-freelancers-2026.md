@@ -19,7 +19,7 @@ The catalogs: [productivity](/tools/category/productivity-notes/), [writing](/to
 
 | Client job | Use | Pay when |
 |---|---|---|
-| Proposals, emails, and the first draft | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The free cap hits during a work week. Claude Pro is $20/month or $17 annual. ChatGPT Plus is $20. Go is $8 |
+| Proposals, emails, and the first draft | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | The free cap hits during a work week. Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus is $20. Go is $8 |
 | A last pass on grammar in the browser | [Grammarly](/tools/grammarly/) | You want full-sentence rewrites. Pro is $12/month billed annually, or $30 monthly. Avoid the monthly price |
 | Notes from a sales call | [Fathom](/tools/fathom/) | You need advanced summaries. Premium is $16/month annually or $20 monthly. The free plan already records without a cap on the page we checked |
 | A one-page proposal or a workshop deck | [Gamma](/tools/gamma/) | Free credits run out, and they do not refresh. Plus is $9/seat/month |

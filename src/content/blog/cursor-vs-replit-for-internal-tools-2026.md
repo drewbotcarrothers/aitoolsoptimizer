@@ -23,7 +23,7 @@ Prices are US list prices excluding tax. Cursor's figures are from the directory
 | A hosted app, one published link, no production keys | [Replit](/tools/replit/) | Core at $20, or $18 billed annually, on the October 24 read | Starter is free in the docs, with limits the Agent article describes |
 | Up to 15 collaborators and a longer rollback | Replit Pro | $100, or $90 billed annually, on that read | 15 collaborators and 50 viewers were on the card. Do not plan a 16th builder |
 | The runbook for who owns the tool | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page is not the deployment |
-| A written spec before anyone generates code | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The spec does not invent a permission |
+| A written spec before anyone generates code | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The spec does not invent a permission |
 
 ```mermaid
 flowchart TD

@@ -40,7 +40,7 @@ The set does not contain a quality rating of the vendor. Pass means the output m
 
 ## Where the set is kept
 
-**The draft of a new case.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on that October 24 read. The Project holds the column names. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of a new case.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on that October 24 read. The Project holds the column names. The review is [Claude review](/blog/claude-review-2026/).
 
 **One case from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. Go is $8 a month on that same page. Plus is the seat for a saved case. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

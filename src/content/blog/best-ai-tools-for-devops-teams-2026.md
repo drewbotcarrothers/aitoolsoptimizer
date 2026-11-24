@@ -18,7 +18,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The change | Start here | First paid step | The limit |
 |---|---|---|---|
 | A script, a manifest, or a pipeline file in git | [GitHub Copilot](/tools/github-copilot/) or [Cursor](/tools/cursor/) | Copilot Pro is $10. Copilot Free is 2,000 completions. Cursor Plus is $8 | You review the diff. The tool does not roll out |
-| A wider edit from the terminal | [Claude Code](/tools/claude-code/) | Included with [Claude](/tools/claude/) Pro at $20, or $17 billed annually | No free Claude Code |
+| A wider edit from the terminal | [Claude Code](/tools/claude-code/) | Included with [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | No free Claude Code |
 | A path you can draw: alert to ticket, form to row | [Zapier](/tools/zapier/) or [Make](/tools/make/) | Zapier Professional is $19.99/month annually for 750 tasks. Make Core is from $9/month annually for 10,000 credits | A branch you did not draw will not appear |
 | The same glue, self-hosted | [n8n](/tools/n8n/) | Community Edition is free to self-host. Cloud Starter was €20/month annually | This page does not convert euros |
 | A pile of API calls that can run off-peak | [DeepSeek](/tools/deepseek/) API | Flash off-peak is half of $0.30 input and $1.20 output per million tokens | Governance is part of the choice |

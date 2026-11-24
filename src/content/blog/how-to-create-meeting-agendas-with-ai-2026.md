@@ -39,7 +39,7 @@ If you ask for "a productive weekly agenda" with no decisions, you will get stat
 
 ## Where the draft happens
 
-**The writing pass.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8. Free tiers are enough for one agenda. Use a Project if this meeting recurs, and store the shape you liked. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). Summaries of the last meeting, if you have them, are input. They are not a reason to skip the decision line. The summary comparison is [Claude vs ChatGPT for summaries](/blog/claude-vs-chatgpt-for-summaries-2026/).
+**The writing pass.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Go is $8. Free tiers are enough for one agenda. Use a Project if this meeting recurs, and store the shape you liked. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). Summaries of the last meeting, if you have them, are input. They are not a reason to skip the decision line. The summary comparison is [Claude vs ChatGPT for summaries](/blog/claude-vs-chatgpt-for-summaries-2026/).
 
 **The page people will open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat. The agenda should live next to the notes from last time. A chat transcript will not be the pre-read. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

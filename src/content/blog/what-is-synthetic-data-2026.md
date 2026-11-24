@@ -42,7 +42,7 @@ A model trained further on examples is [what fine-tuning is](/blog/what-is-fine-
 
 **2. Make the fake obvious.** Use a reserved domain, a name prefix like `test-`, and amounts that are round and implausible. A synthetic row that looks like a real customer is how a demo screenshot becomes a quote in a deck.
 
-**3. Generate the shape with a model if you want variety, and mark every row.** [ChatGPT](/tools/chatgpt/) Plus is $20/month. [Claude](/tools/claude/) Pro is $20/month, or $17 billed annually. Ask for 20 rows with `record_type = synthetic` in every line, and with no real addresses. Then open the file and search for anything that looks like a real person. [Julius](/tools/julius-ai/) Plus, at $20/month or $16 billed annually, is the place to inspect a table you already have, and a poor place to launder a production export into a "sample."
+**3. Generate the shape with a model if you want variety, and mark every row.** [ChatGPT](/tools/chatgpt/) Plus is $20/month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Ask for 20 rows with `record_type = synthetic` in every line, and with no real addresses. Then open the file and search for anything that looks like a real person. [Julius](/tools/julius-ai/) Plus, at $20/month or $16 billed annually, is the place to inspect a table you already have, and a poor place to launder a production export into a "sample."
 
 **4. Keep synthetic sets out of the production index.** A [Chatbase](/tools/chatbase/) agent trained on fake refund rules will tell customers the fake rule. The message-credit bill is real. The policy is not. Hobby is $32/month billed yearly. Train it on the help center.
 

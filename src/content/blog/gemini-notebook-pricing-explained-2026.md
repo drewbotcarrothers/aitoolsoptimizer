@@ -1,6 +1,6 @@
 ---
 title: "Gemini Notebook Pricing Explained (2026): Free Caps, Then Plus, Pro, and Ultra"
-description: "Gemini Notebook pricing in 2026. The notebook is free with caps. Google AI Plus is $4.99, Pro is $19.99, Ultra is $99.99 or $199.99. Limits are from the October 24 help page."
+description: "Gemini Notebook pricing in 2026. The notebook is free with caps. Google AI Plus is {{price:gemini.plus}}, Pro is {{price:gemini.pro}}, Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}}. Limits are from the October 24 help page."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["gemini-notebook", "pricing", "notebooklm", "research"]
@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Gemini Notebook is free with a Google account, inside caps the help page prints. Higher caps come with a Google AI plan: Plus at $4.99 a month, Pro at $19.99, or Ultra at $99.99 or $199.99.** The dollar prices are from gemini.google/subscriptions on October 24, 2026. The notebook and source caps are from Google's Gemini Notebook plans help page the same day. The help page says the limits are subject to change.
+**Gemini Notebook is free with a Google account, inside caps the help page prints. Higher caps come with a Google AI plan: Plus at {{price:gemini.plus}} a month, Pro at {{price:gemini.pro}}, or Ultra at {{price:gemini.ultra}} or $199.99.** The dollar prices are from gemini.google/subscriptions on October 24, 2026. The notebook and source caps are from Google's Gemini Notebook plans help page the same day. The help page says the limits are subject to change.
 
 The product was formerly NotebookLM, on the directory card checked October 16, 2026. The product page is [Gemini Notebook](/tools/gemini-notebook/). Open-web citations are [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). The video credits on the same Google AI plans are [Google Flow pricing explained](/blog/google-flow-pricing-explained-2026/).
 
@@ -20,8 +20,8 @@ Published October 24, 2026. We did not score summaries. A notebook is only as go
 | Plan | How you get it | Notebooks | Sources | Visible watermark removal |
 |---|---|---|---|---|
 | Standard | Free with a Gmail account, or a qualifying Workspace or Workspace for Education license | 100 per user | 50 per notebook | No |
-| Plus | Google AI Plus at $4.99 a month | 200 per user | 100 per notebook | No |
-| Pro | Google AI Pro at $19.99 a month, or a qualifying Workspace license | 500 per user | 300 per notebook | Yes, with the country exception below |
+| Plus | Google AI Plus at {{price:gemini.plus}} a month | 200 per user | 100 per notebook | No |
+| Pro | Google AI Pro at {{price:gemini.pro}} a month, or a qualifying Workspace license | 500 per user | 300 per notebook | Yes, with the country exception below |
 | Ultra, 20 TB plan | Named by storage on the help page. The subscriptions page lists Ultra at $99.99 and $199.99 and says storage starts at 20 TB | 500 per user | 500 per notebook | Yes, same exception |
 | Ultra, 30 TB plan | Named by storage on the help page. That subscriptions fetch did not print a 30 TB price | 500 per user | 600 per notebook | Yes, same exception |
 

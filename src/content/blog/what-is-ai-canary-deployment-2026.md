@@ -39,7 +39,7 @@ A deployment that also changes the database schema, the tool list, and the promp
 
 ## Where the deploy note is drafted
 
-**The note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the deploy record is a long Project: version ids, the path, and the backout sentence. The review is [Claude review](/blog/claude-review-2026/).
+**The note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the deploy record is a long Project: version ids, the path, and the backout sentence. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short card you reuse.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when every deploy note has the same fields and you paste this change into a saved project. Free can format one note. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

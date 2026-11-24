@@ -19,7 +19,7 @@ Gamma and Plus AI prices below are from directory pages checked October 16, 2026
 |---|---|---|---|
 | A memo that can become a new deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, $108 a year, on the October 16 card | No number that was not in the memo |
 | A slide file the team already owns | [Plus AI](/tools/plus-ai/) | Basic is $10 a user a month billed annually, or $15 monthly | The template stays. The model fills from the paste |
-| The narrative before either tool | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The narrative is not the deck |
+| The narrative before either tool | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The narrative is not the deck |
 | The page where the numbers were approved | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

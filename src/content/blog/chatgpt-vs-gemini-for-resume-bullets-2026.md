@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Resume Bullets (2026): One Role, or a Doc You Already Have"
-description: "ChatGPT vs Gemini for resume bullets in 2026. Plus is $20. Google AI Pro is $19.99. Bullets come from jobs you did. No interview scores."
+description: "ChatGPT vs Gemini for resume bullets in 2026. Plus is $20. Google AI Pro is {{price:gemini.pro}}. Bullets come from jobs you did. No interview scores."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "gemini", "resume", "comparison"]
@@ -18,9 +18,9 @@ ChatGPT prices are from the directory page checked October 16, 2026, because cha
 | The draft in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | One role, from a paste of the posting and your facts | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No metric that was not in the paste |
-| The resume is a Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month and includes Gemini in Docs on that page | The Doc is the source. The model does not add a job |
+| The resume is a Google Doc | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month and includes Gemini in Docs on that page | The Doc is the source. The model does not add a job |
 | A last pass on grammar | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | If the rewrite adds a result, put the old bullet back |
-| A long career history that must stay consistent | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly, on the October 24 Claude page | The comparison on this page is still ChatGPT versus Gemini |
+| A long career history that must stay consistent | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly, on the October 24 Claude page | The comparison on this page is still ChatGPT versus Gemini |
 
 ```mermaid
 flowchart TD
@@ -34,7 +34,7 @@ flowchart TD
 
 ChatGPT Go is $8 a month and may include ads, on the October 16 card. A resume is a poor place to discover an ad or a tight limit. Plus is the seat for a saved set of roles. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-Google AI Plus is $4.99 a month on the October 24 subscriptions page. The page lists Gemini in Gmail, Docs, and more on Plus and above in the benefits section we read, and it lists higher access on Pro. If your Doc editing requires Pro, Pro at $19.99 is the seat. Do not quote Plus as Docs access if checkout says otherwise. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Plus is {{price:gemini.plus}} a month on the October 24 subscriptions page. The page lists Gemini in Gmail, Docs, and more on Plus and above in the benefits section we read, and it lists higher access on Pro. If your Doc editing requires Pro, Pro at {{price:gemini.pro}} is the seat. Do not quote Plus as Docs access if checkout says otherwise. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What a bullet is allowed to say
 

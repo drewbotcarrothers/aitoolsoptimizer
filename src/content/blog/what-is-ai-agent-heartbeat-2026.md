@@ -42,7 +42,7 @@ The pulse does not contain the tool's output. If you put customer text in the he
 
 ## Where the clock is kept
 
-**The definition of the window.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the window, the payload, and the miss action. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the window.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the window, the payload, and the miss action. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the pulse lives next to the agent loop.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. You review a diff that lengthens the window. Teams seats on that page are $30, $100, or $200 a seat a month. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

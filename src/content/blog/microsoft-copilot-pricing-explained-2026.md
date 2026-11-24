@@ -51,7 +51,7 @@ Family at $12.99 is not six Copilot seats. The directory is explicit: AI feature
 
 **GitHub Copilot Pro is $10 a user a month.** It is a coding assistant. It does not become Microsoft 365 Copilot because both names contain Copilot. If the job is the editor, use the GitHub article. If the job is the spreadsheet, use this one.
 
-[ChatGPT](/tools/chatgpt/) Plus at $20 a month is the comparison when you do not need Office. [Gemini](/tools/gemini/) on Google AI Pro at $19.99 is the comparison when the files are in Google. Buying Copilot to sit inside a Google Doc is the wrong suite.
+[ChatGPT](/tools/chatgpt/) Plus at $20 a month is the comparison when you do not need Office. [Gemini](/tools/gemini/) on Google AI Pro at {{price:gemini.pro}} is the comparison when the files are in Google. Buying Copilot to sit inside a Google Doc is the wrong suite.
 
 ## What not to assume
 

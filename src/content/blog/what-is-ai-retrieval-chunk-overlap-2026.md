@@ -42,7 +42,7 @@ A table, a code block, or a price row that you marked "do not split" stays whole
 
 ## Where the size is kept
 
-**The rule for this source.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the unit and the size so a later index does not invent a new edge. The review is [Claude review](/blog/claude-review-2026/).
+**The rule for this source.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the unit and the size so a later index does not invent a new edge. The review is [Claude review](/blog/claude-review-2026/).
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per source, the overlap size, the unit, and the index version. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

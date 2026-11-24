@@ -40,7 +40,7 @@ Log the drop. A later incident will ask why the model "forgot" a limit. The answ
 
 ## Where the long prompt comes from
 
-**A project that accumulates files.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, and includes Projects on the directory card. A Project is a place to keep the source. Compaction is what you do when the source plus the thread still exceeds the call you want to make. The review is [Claude review](/blog/claude-review-2026/).
+**A project that accumulates files.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, and includes Projects on the directory card. A Project is a place to keep the source. Compaction is what you do when the source plus the thread still exceeds the call you want to make. The review is [Claude review](/blog/claude-review-2026/).
 
 **A chat product with history.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month and includes projects. Free can hold a conversation with limits the card describes as limits. If you depend on a long thread, start a new one with the kept facts pasted on purpose. The product's automatic shortening, if it has one, is the vendor's policy. Read it. Do not assume it preserved the price you set in message four.
 

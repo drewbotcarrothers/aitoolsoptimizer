@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | Questions that must point at the source you uploaded | [Gemini Notebook](/tools/gemini-notebook/) | Source-grounded chat with citations. Free with a Google account |
 | A memo you will rewrite, with the PDF attached | [Claude](/tools/claude/) | Files and Projects are on the product, including Free, with usage limits |
-| The PDF already lives in Google Drive and you want higher notebook limits | Gemini Notebook on a Google AI plan | Plus is $4.99 a month. Pro at $19.99 lists about 5x more Audio Overviews and notebooks |
+| The PDF already lives in Google Drive and you want higher notebook limits | Gemini Notebook on a Google AI plan | Plus is {{price:gemini.plus}} a month. Pro at {{price:gemini.pro}} lists about 5x more Audio Overviews and notebooks |
 | You also need Gemini inside Docs for a different file | [Gemini](/tools/gemini/) on Google AI Pro | Pro lists Gemini in Gmail and Docs. That is not the notebook |
 | The PDF is evidence in a literature table | [Elicit](/tools/elicit/), linked below | A different product. Do not force a chat to be a systematic review |
 
@@ -40,9 +40,9 @@ A number that was not on the page you opened is [a hallucination](/blog/what-is-
 
 ## What you pay to stay with the file
 
-**Gemini Notebook is free** with a Google account, in supported countries, on the directory card. **Google AI Plus at $4.99 a month** adds more Audio Overviews and notebooks. **Google AI Pro at $19.99 a month** offers about 5x more Audio Overviews, notebooks, and related limits on that card. A year of Pro is 12 × $19.99 = $239.88. Buy Pro when you hit the free limit on a notebook you still need, not because the PDF is long. Enterprise terms are a Workspace or Cloud conversation. The study habit is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/).
+**Gemini Notebook is free** with a Google account, in supported countries, on the directory card. **Google AI Plus at {{price:gemini.plus}} a month** adds more Audio Overviews and notebooks. **Google AI Pro at {{price:gemini.pro}} a month** offers about 5x more Audio Overviews, notebooks, and related limits on that card. A year of Pro is 12 × $19.99 = $239.88. Buy Pro when you hit the free limit on a notebook you still need, not because the PDF is long. Enterprise terms are a Workspace or Cloud conversation. The study habit is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/).
 
-**Claude Free** includes file upload and up to five Projects, with usage limits. **Pro is $20 a month, or $17 billed annually.** That is the seat for a week of revision, not a prize for owning a long PDF. **Max at $100 or $200** is 5× or 20× Pro usage. A long file on a quiet week can fit on Pro. Fifty short questions in a day can blow a cap. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+**Claude Free** includes file upload and up to five Projects, with usage limits. **Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.** That is the seat for a week of revision, not a prize for owning a long PDF. **Max at $100 or $200** is 5× or 20× Pro usage. A long file on a quiet week can fit on Pro. Fifty short questions in a day can blow a cap. The split is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 **[ChatGPT](/tools/chatgpt/) Plus at $20** can take a PDF upload too. It is a reasonable third seat if your notes already live there. It is not the citation product this page starts with. The three-way assistant choice is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 

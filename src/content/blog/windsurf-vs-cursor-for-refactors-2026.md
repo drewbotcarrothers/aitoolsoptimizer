@@ -21,7 +21,7 @@ Devin Desktop's prices below are the October 16, 2026 directory card, which matc
 |---|---|---|---|
 | A diff in the editor you already review | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | Plus omits Cloud Agents, Automations, Bugbot, Origin, and third-party models, on the October 24 help page |
 | The Windsurf successor, with an agent command center | [Devin Desktop](/tools/devin-desktop/) | Pro is $20 a month on the October 16 card and the October 24 pricing page | Enterprise is "Let's talk" on that page. This page does not invent a dollar |
-| A terminal agent on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at $17 a month billed annually or $20 monthly | Read the other refactor page before you buy a second editor for this |
+| A terminal agent on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at {{price:claude.pro_annual}} a month billed annually or {{price:claude.pro_monthly}} monthly | Read the other refactor page before you buy a second editor for this |
 | A GitHub seat with a published company dollar | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month on the October 16 card | The refactor cut against Cursor is the Copilot article, not this one |
 
 ```mermaid

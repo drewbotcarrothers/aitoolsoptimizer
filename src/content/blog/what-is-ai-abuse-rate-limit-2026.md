@@ -39,7 +39,7 @@ A 429 from the vendor is their limit. Your abuse rule is the one you can show an
 
 ## Where the rule is written
 
-**The long policy.** [Claude](/tools/claude/) Pro is $17 a month with the annual discount, $200 billed up front, or $20 billed monthly, on the October 24 pricing page. Put the abuse rules in a Project next to an example of a blocked call. The review is [Claude review](/blog/claude-review-2026/).
+**The long policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month with the annual discount, {{price:claude.pro_upfront}} billed up front, or {{price:claude.pro_monthly}} billed monthly, on the October 24 pricing page. Put the abuse rules in a Project next to an example of a blocked call. The review is [Claude review](/blog/claude-review-2026/).
 
 **One rule, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 directory card. Go is $8 and may include ads. Free can format a single rule. Discard a rule that says "block anything suspicious" and does not name the pattern. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

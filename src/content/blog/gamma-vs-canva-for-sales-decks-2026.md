@@ -21,7 +21,7 @@ Prices are US list prices from directory pages checked October 16, 2026. Claude'
 |---|---|---|---|
 | A deck from an outline | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, or $108 a year, with 1,000 credits | No price that was not in the outline |
 | A deck that must use the brand file | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year for one person | Pro is one person. It is not a team plan |
-| The outline before either tool | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The outline is the source. A slide is not a new offer |
+| The outline before either tool | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The outline is the source. A slide is not a new offer |
 | The offer the next seller will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

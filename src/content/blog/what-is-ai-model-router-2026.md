@@ -39,7 +39,7 @@ The prompt router can run first and hand this router a label. The semantic route
 
 ## Where the model id is kept
 
-**The row.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the table is short enough to review in a Project. The model may format rows you already filled. It may not add a model id. The review is [Claude review](/blog/claude-review-2026/).
+**The row.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the table is short enough to review in a Project. The model may format rows you already filled. It may not add a model id. The review is [Claude review](/blog/claude-review-2026/).
 
 **A paste you reuse.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when you have a dozen rows. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

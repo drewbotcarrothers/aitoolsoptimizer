@@ -42,7 +42,7 @@ Deflection is a successful article, not a closed ticket. If the customer replies
 
 **The page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the tree is a database: question, article, stop rule, owner, date. Free includes a trial. The trial is not a support process. The seat article is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The formatting.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you paste the questions and the article titles and want them in one shape. A branch with no article title stays Missing. The review is [Claude review](/blog/claude-review-2026/).
+**The formatting.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you paste the questions and the article titles and want them in one shape. A branch with no article title stays Missing. The review is [Claude review](/blog/claude-review-2026/).
 
 **A bot, later.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly, or $40 monthly, and only after the articles exist. The bot quotes the tree. It does not grow new branches. The build order is [how to build a knowledge-base chatbot](/blog/how-to-build-a-knowledge-base-chatbot-2026/).
 

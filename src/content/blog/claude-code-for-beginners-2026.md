@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**[Claude Code](/tools/claude-code/) is Anthropic's coding agent, and it is not free.** It is included with Claude Pro, Max, Team, and Enterprise. Pro is $20/month, or $17/month billed annually ($200 up front). Anthropic describes Pro as short coding sprints in small codebases. A beginner with one repo fits that description. A beginner does not need Max.
+**[Claude Code](/tools/claude-code/) is Anthropic's coding agent, and it is not free.** It is included with Claude Pro, Max, Team, and Enterprise. Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}}/month billed annually ($200 up front). Anthropic describes Pro as short coding sprints in small codebases. A beginner with one repo fits that description. A beginner does not need Max.
 
 This guide uses Claude's pricing page and the Claude Code product page as checked October 16, 2026. It does not paste an install command. Install steps change, and the product page is the place to copy them. We did not score how often the agent is right.
 
@@ -78,7 +78,7 @@ Secrets do not go in the prompt. Do not ask the agent to print tokens, `.env` fi
 
 ### Is Claude Code free for beginners?
 
-No. It requires Claude Pro at $20/month ($17/month annual), Max, a team plan, or API billing. There is no permanent free Claude Code tier in the pricing we checked.
+No. It requires Claude Pro at {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}}/month annual), Max, a team plan, or API billing. There is no permanent free Claude Code tier in the pricing we checked.
 
 ### Do I have to use the terminal?
 

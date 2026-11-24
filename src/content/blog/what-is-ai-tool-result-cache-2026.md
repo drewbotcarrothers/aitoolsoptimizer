@@ -36,7 +36,7 @@ A cache hit that used a similar ticket, a nearby customer, or yesterday's file w
 
 **The editor agent.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 16 card. A second look at the same file should reuse the read you already accepted, until the file changes. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is $17 a month billed annually, $200 up front, or $20 monthly. The October 24 page says Claude Code shares usage with chat. A cached tool result can spare a call. It does not spare you from reading the diff. The review is [Claude Code review](/blog/claude-code-review-2026/).
+**The terminal agent.** [Claude Code](/tools/claude-code/) is included with paid Claude plans. Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or $20 monthly. The October 24 page says Claude Code shares usage with chat. A cached tool result can spare a call. It does not spare you from reading the diff. The review is [Claude Code review](/blog/claude-code-review-2026/).
 
 **The sentence that states the age.** [Claude](/tools/claude/) Pro is the same seat when you only need the rule written down. The sentence is not the cache.
 

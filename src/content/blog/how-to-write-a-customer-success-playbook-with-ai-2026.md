@@ -40,7 +40,7 @@ A playbook that customers can read by accident will be treated as a commitment. 
 
 **The wiki.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month and is the AI tier if the playbook lives in Notion. Plus at $10 is not that tier. Custom Agents are extra, at $10 per 1,000 credits. An agent should not update a renewal motion on a schedule until a person has approved the text. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The long draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put one motion in a Project at a time. A single prompt that says "write our entire CS playbook" will invent the company you wish you had. [ChatGPT](/tools/chatgpt/) Plus at $20 is fine for a rep who keeps notes there. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put one motion in a Project at a time. A single prompt that says "write our entire CS playbook" will invent the company you wish you had. [ChatGPT](/tools/chatgpt/) Plus at $20 is fine for a rep who keeps notes there. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The call that revealed the motion.** [Fathom](/tools/fathom/) Business is $25 a user a month billed annually when you need CRM fields. Free lists unlimited recordings. The notes are an input. They are not the playbook until someone promotes a repeated step. The sales-call pair is [Otter vs Fathom for sales calls](/blog/otter-vs-fathom-for-sales-calls-2026/).
 

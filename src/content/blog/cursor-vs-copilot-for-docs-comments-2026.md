@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A docstring on the function you have open | [Cursor](/tools/cursor/) Free, or [GitHub Copilot](/tools/github-copilot/) Free | Cursor Plus is $8 a month, or $80 a year. Copilot Pro is $10 a month | You name the behavior. Delete any parameter you did not list |
 | The same comment style across a GitHub repo | Copilot Pro at $10, with code review on that plan | Business is $19 a user a month when you need admin controls and IP indemnity | The comment matches the code on the branch, not a hoped-for branch |
 | A long file, and the comment must not contradict the rest of it | Cursor Plus. Premium is $30 a month if the included usage is not enough | Teams seats are $30, $100, or $200 a month | Read the neighboring functions before you accept the paragraph |
-| A README section that is not code | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | Paste the public behavior only | A README is a promise. The model must not add a feature |
+| A README section that is not code | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Paste the public behavior only | A README is a promise. The model must not add a feature |
 | The handbook that explains the module to new hires | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The editor comment is the local note | Keep them from drifting. One of them is the copy |
 
 ```mermaid

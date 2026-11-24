@@ -47,7 +47,7 @@ Only steps and checks the lesson owner has accepted. A module that adds "skip th
 
 **Notion Business** holds the script and the page. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**Claude Pro**, at $17 a month billed annually or $20 monthly on claude.com/pricing fetched October 24, 2026, can turn an approved outline into a spoken script. It may not add a step. The review is [Claude review](/blog/claude-review-2026/).
+**Claude Pro**, at {{price:claude.pro_annual}} a month billed annually or {{price:claude.pro_monthly}} monthly on claude.com/pricing fetched October 24, 2026, can turn an approved outline into a spoken script. It may not add a step. The review is [Claude review](/blog/claude-review-2026/).
 
 A prompt that holds the line:
 

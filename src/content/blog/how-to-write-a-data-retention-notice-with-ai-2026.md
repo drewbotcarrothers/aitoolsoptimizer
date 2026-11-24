@@ -39,7 +39,7 @@ A notice that is clearer than the policy is a new policy. If the plain sentence 
 
 ## Where the notice is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the notice is a page counsel will mark up. Paste the approved table, not a dump of customer records. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the notice is a page counsel will mark up. Paste the approved table, not a dump of customer records. The review is [Claude review](/blog/claude-review-2026/).
 
 **The published page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the help center draft lives there. The public page is the notice. The chat transcript is not.
 

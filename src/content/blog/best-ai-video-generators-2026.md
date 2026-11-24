@@ -18,7 +18,7 @@ We are not claiming a specific shutdown date or quoting an OpenAI announcement w
 | Job | Start with | Entry paid price |
 |---|---|---|
 | Short cinematic or marketing clips | [Runway](/tools/runway/) or [Kling AI](/tools/kling-ai/) | Runway Standard $12/month billed annually; Kling Standard $6.99 first month, then $8.80/month |
-| Google’s Veo models in a studio | [Google Flow](/tools/google-flow/) | Free 50 credits/day; Google AI Plus $4.99/month adds 200 credits |
+| Google’s Veo models in a studio | [Google Flow](/tools/google-flow/) | Free 50 credits/day; Google AI Plus {{price:gemini.plus}}/month adds 200 credits |
 | A person speaking to camera, without filming | [HeyGen](/tools/heygen/) or [Synthesia](/tools/synthesia/) | Both list a $29/month creator/starter tier |
 | Higher-volume clip generation | [Luma AI](/tools/luma-ai/) or [Pika](/tools/pika/) | Luma Plus $30/month; Pika Starter $10/month |
 | Edit and caption social video | [CapCut](/tools/capcut/) | Pro $19.99/month or $179.99/year |
@@ -48,7 +48,7 @@ Choose Kling when you want many short clips and can work inside a credit cap.
 
 ### Google Flow
 
-[Google Flow](/tools/google-flow/) is Google’s studio for Veo. Everyone gets 50 Flow credits a day. Google AI Plus ($4.99/month) adds 200 credits a month. Google AI Pro ($19.99) adds 1,000. Ultra adds 10,000 or 25,000 depending on the tier.
+[Google Flow](/tools/google-flow/) is Google’s studio for Veo. Everyone gets 50 Flow credits a day. Google AI Plus ({{price:gemini.plus}}/month) adds 200 credits a month. Google AI Pro ({{price:gemini.pro}}) adds 1,000. Ultra adds 10,000 or 25,000 depending on the tier.
 
 Google’s published credit costs include Veo 3.1 Lite at 10 credits (0 for Ultra), Veo 3.1 Fast at 20 for non-Ultra subscribers, and Veo 3.1 Quality at 100 credits for 8 seconds. A free account can make short Lite clips daily. A Pro account is the realistic plan for repeated Quality generations.
 
@@ -113,7 +113,7 @@ Nothing is a drop-in Sora replacement with the same name and plan. For generated
 
 ### What is the cheapest paid AI video plan?
 
-Among confirmed prices: Google AI Plus at $4.99/month (adds Flow credits), Kling Standard at $8.80/month after the first month, Pika Starter at $10/month, invideo Starter at $10/seat on annual billing, and Runway Standard at $12/month on annual billing. Cheapest is not the same as enough credits for your script.
+Among confirmed prices: Google AI Plus at {{price:gemini.plus}}/month (adds Flow credits), Kling Standard at $8.80/month after the first month, Pika Starter at $10/month, invideo Starter at $10/seat on annual billing, and Runway Standard at $12/month on annual billing. Cheapest is not the same as enough credits for your script.
 
 ### Can I use these clips commercially?
 

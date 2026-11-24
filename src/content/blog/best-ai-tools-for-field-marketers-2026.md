@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A vertical clip from footage you shot | [CapCut](/tools/capcut/) | Pro is $19.99 a month, or $179.99 a year | Checkout can differ by region. The caption matches the words |
 | A one-pager you can print on the road | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year for one person | Real type. No generated logo |
 | Notes from a dinner you were allowed to record | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually, or $16.99 monthly | 90 minutes a conversation on Pro. You correct the owners |
-| The follow-up email from those notes | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | If the note is thin, the email is short |
+| The follow-up email from those notes | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | If the note is thin, the email is short |
 
 ```mermaid
 flowchart TD

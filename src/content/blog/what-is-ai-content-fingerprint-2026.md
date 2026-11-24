@@ -40,7 +40,7 @@ Two paragraphs can share a topic and fail the checksum. That is a new draft, and
 
 ## Where the record is kept
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the fingerprint fields are a block at the top of a long page. The model may copy the model id you pasted. It may not invent a model. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the fingerprint fields are a block at the top of a long page. The model may copy the model id you pasted. It may not invent a model. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short card.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month when the habit is a project that appends the four fields. Free can format one card. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

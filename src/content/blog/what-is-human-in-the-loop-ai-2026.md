@@ -48,7 +48,7 @@ flowchart TD
 
 ## What this looks like on a draft
 
-[Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Either one can draft. The loop is the editor who checks names, numbers, and promises before the text leaves the building. The writing split is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The failure you are checking for is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
+[Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Either one can draft. The loop is the editor who checks names, numbers, and promises before the text leaves the building. The writing split is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The failure you are checking for is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 
 [Notion AI](/tools/notion-ai/) Business at $20 a seat is a reasonable place for the loop to live, because the page has a history and a comment. A chat transcript does not. Custom Agents that run on a schedule still need an owner. The price shape is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

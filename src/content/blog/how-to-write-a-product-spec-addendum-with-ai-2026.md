@@ -39,7 +39,7 @@ An addendum that is longer than the spec has become a new spec. Stop and use the
 
 ## Where it is drafted
 
-**The delta.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the spec in a Project. Ask for an addendum, and say which headings are frozen. The review is [Claude review](/blog/claude-review-2026/).
+**The delta.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the spec in a Project. Ask for an addendum, and say which headings are frozen. The review is [Claude review](/blog/claude-review-2026/).
 
 **The team chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two, when the spec is unreleased. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

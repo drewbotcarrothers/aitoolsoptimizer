@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | A rewrite of notes you paste | ChatGPT | Plus $20, or Go $8 | The thread is not the team's system of record unless you paste the result back |
 | A meeting you refuse to put a bot in | [Granola](/tools/granola/), then file the kept lines | Business is $14/user/month for unlimited history | Granola is the capture. Notion or ChatGPT is the rewrite |
 | A spec with tasks in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain² is $9/user/month | Switch if the work already lives in ClickUp, and the note would be a duplicate in Notion |
-| A long draft in a voice | [Claude](/tools/claude/) | Pro is $20/month, or $17 billed annually | Claude is a writing seat. It does not host the wiki |
+| A long draft in a voice | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually | Claude is a writing seat. It does not host the wiki |
 
 ```mermaid
 flowchart TD

@@ -42,10 +42,10 @@ A chatbot with a long prompt can imitate this if you paste the sources yourself.
 | The public web, with links | [Perplexity](/tools/perplexity/) | Answers ship with citations. Pro adds Computer and premium data | Pro is $17/month billed annually |
 | Peer-reviewed papers, as a cited answer | [Consensus](/tools/consensus/) | Search stays on papers. Pro messages are the analysis meter | Pro is $12/month on a $144 year, or $20 monthly |
 | Papers, as a table of extracted fields | [Elicit](/tools/elicit/) | Rows are papers. Columns are the fields you name | Plus is $11/user/month billed annually on the non-Industry card |
-| Files you upload and trust | [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on your sources | Free with a Google account. Google AI Plus is $4.99/month |
+| Files you upload and trust | [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on your sources | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
 | Your help center, in front of customers | [Chatbase](/tools/chatbase/) | The agent is trained on content you connect | Hobby is $32/month billed yearly |
 | The wiki your team already writes | [Notion AI](/tools/notion-ai/) | Answers can use the workspace | Business is $20/seat/month for full Notion AI |
-| A draft you are writing from notes you paste | [Claude](/tools/claude/) | You supply the passages. The model does not fetch your private corpus by default | Pro is $20/month, or $17 billed annually |
+| A draft you are writing from notes you paste | [Claude](/tools/claude/) | You supply the passages. The model does not fetch your private corpus by default | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
 
 Perplexity's research desk is [Perplexity review](/blog/perplexity-review-2026/). The split between web, papers, and a chatbot is [Perplexity alternatives](/blog/perplexity-alternatives-2026/). A site bot's bill is [Chatbase review](/blog/chatbase-review-2026/).
 

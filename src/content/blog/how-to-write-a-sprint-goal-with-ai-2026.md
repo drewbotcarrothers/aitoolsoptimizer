@@ -39,7 +39,7 @@ If the sentence needs "and" between two outcomes, you have two goals. Pick one. 
 
 ## Where the sentence is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the PRD or the last retro notes should sit in a Project. Free can tighten one sentence from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the PRD or the last retro notes should sit in a Project. Free can tighten one sentence from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The board of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the sprint page lives in Notion. [ClickUp Brain](/tools/clickup-brain/) starts at $9 per user a month if the work already lives in ClickUp. Unlimited is $7 a user a month billed yearly. The goal and the tickets have to match. A chat goal with a different board is two plans.
 

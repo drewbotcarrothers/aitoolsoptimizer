@@ -38,7 +38,7 @@ The hotfix plan says who is told during the incident. This FAQ is what you leave
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the timeline is long and the FAQ should sit beside it in a Project. Paste only the facts you are allowed to share outside the incident channel. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the timeline is long and the FAQ should sit beside it in a Project. Paste only the facts you are allowed to share outside the incident channel. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page support will link.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the help center's source, or the internal page the next shift inherits. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

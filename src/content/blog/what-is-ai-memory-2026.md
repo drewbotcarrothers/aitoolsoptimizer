@@ -39,8 +39,8 @@ A preference such as "write in short paragraphs" is a memory candidate. A client
 |---|---|---|
 | [Claude](/tools/claude/) | Free lists memory, along with files, connectors, and Artifacts. Pro adds usage, Projects, and Claude Code | Free is $0. Pro is $20/month, or $17 billed annually |
 | [ChatGPT](/tools/chatgpt/) | Free includes limited memory. Go, at $8, lists more memory than Free. Plus, at $20, is where advanced reasoning and projects sit. Pro is described as maximum memory | Go may include ads. Plus is $20. Pro starts at $100 |
-| [Gemini](/tools/gemini/) | The directory prices Google AI plans. It does not record a separate "memory add-on" | Pro is $19.99/month and is the card that lists Gemini in Gmail and Docs |
-| [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on sources you add. That is a corpus, not a hidden profile | Free with a Google account. Higher limits from Google AI Plus at $4.99 |
+| [Gemini](/tools/gemini/) | The directory prices Google AI plans. It does not record a separate "memory add-on" | Pro is {{price:gemini.pro}}/month and is the card that lists Gemini in Gmail and Docs |
+| [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on sources you add. That is a corpus, not a hidden profile | Free with a Google account. Higher limits from Google AI Plus at {{price:gemini.plus}} |
 | [Notion AI](/tools/notion-ai/) | The page is the memory. Business is where Agent and meeting notes sit | Business is $20 per seat per month |
 
 The ChatGPT ladder, including which tier lists more memory, is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The writing split, which cares about Projects more than about a profile, is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). A Project versus a custom GPT is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/). Claude's container versus ChatGPT's is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).

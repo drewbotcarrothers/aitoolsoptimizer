@@ -40,7 +40,7 @@ Free Copilot, Personal at $9.99, Family at $12.99, and Premium at $19.99 are rea
 
 **Not a second copy of the bundle.** Business Standard with Copilot from $23.50 and Business Premium with Copilot at $32 already say "with Copilot." Adding the $18 add-on on top of a bundle you modeled is how the seat gets priced twice. Read the row name in the cart.
 
-**Not Google, and not a blank-page chatbot.** [Gemini](/tools/gemini/) Google AI Pro is $19.99 a month on the October 16 card, if the files are in Google. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card, if you do not need Office apps. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
+**Not Google, and not a blank-page chatbot.** [Gemini](/tools/gemini/) Google AI Pro is {{price:gemini.pro}} a month on the October 16 card, if the files are in Google. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card, if you do not need Office apps. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
 **Not a promise about every market.** The consumer card said Microsoft 365 Pro at $99.99 was not available in every market, and that plan is monthly billing only. This article does not pull Pro into the work forecast. Confirm the tenant's own checkout.
 

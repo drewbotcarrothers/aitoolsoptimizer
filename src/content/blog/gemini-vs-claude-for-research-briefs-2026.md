@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs Claude for Research Briefs (2026): The Doc You Have, or the File You Will Keep"
-description: "Gemini vs Claude for research briefs in 2026. AI Pro is $19.99. Claude Pro is $17 billed annually or $20 monthly. The brief uses sources you already accepted."
+description: "Gemini vs Claude for research briefs in 2026. AI Pro is $19.99. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly. The brief uses sources you already accepted."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["gemini", "claude", "research", "comparison"]
@@ -17,8 +17,8 @@ Google AI Plus and Pro prices are the October 16 directory card, and the same fi
 
 | The sources | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Doc or a Drive file you already have | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month, the card that names Gemini in Docs | No finding that is not in the file |
-| Several files that must share citation labels | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project does not verify the source |
+| A Doc or a Drive file you already have | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month, the card that names Gemini in Docs | No finding that is not in the file |
+| Several files that must share citation labels | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project does not verify the source |
 | A public page you still need to open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Open the citation before it enters the brief |
 | The page the team reopens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The brief's home is not a second research pass |
 
@@ -33,7 +33,7 @@ flowchart TD
   extra -->|No| owner["The brief owner accepts it, with the source date"]
 ```
 
-A brief that "fills gaps" is a brief that invented. If the file does not answer a question you asked, the section says Not in the source. Free Gemini can try a short paste. Pro at $19.99 is the row the October 16 card ties to Gemini in Gmail and Docs. Plus at $4.99 is the smaller usage row, and this page does not treat it as the Docs seat. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review is [Gemini review](/blog/gemini-review-2026/).
+A brief that "fills gaps" is a brief that invented. If the file does not answer a question you asked, the section says Not in the source. Free Gemini can try a short paste. Pro at {{price:gemini.pro}} is the row the October 16 card ties to Gemini in Gmail and Docs. Plus at {{price:gemini.plus}} is the smaller usage row, and this page does not treat it as the Docs seat. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review is [Gemini review](/blog/gemini-review-2026/).
 
 Claude Free can hold a short file. Pro is the Project seat. The review is [Claude review](/blog/claude-review-2026/).
 

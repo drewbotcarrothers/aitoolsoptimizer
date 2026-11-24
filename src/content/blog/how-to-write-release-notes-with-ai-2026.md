@@ -37,7 +37,7 @@ flowchart TD
 
 ## Which tool does which pass
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Paste the rows and ask for two lengths: a changelog bullet, and a three-sentence note for the email. The longer writing path is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). Release notes should stay shorter than a post. If a sentence needs a fact you do not have, the model should leave the heading "source needed" and stop.
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Paste the rows and ask for two lengths: a changelog bullet, and a three-sentence note for the email. The longer writing path is [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/). Release notes should stay shorter than a post. If a sentence needs a fact you do not have, the model should leave the heading "source needed" and stop.
 
 Put the last three notes you were proud of in a Project so the next draft matches the headings. Claude's free plan includes up to five Projects on the October 16 directory note. ChatGPT lists projects on Plus. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 

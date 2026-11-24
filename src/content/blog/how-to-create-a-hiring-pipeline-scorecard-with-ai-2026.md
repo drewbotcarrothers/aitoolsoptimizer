@@ -41,7 +41,7 @@ flowchart TD
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the scorecard library lives in Notion. One page per role family. A copied scorecard from another role is wrong if the criteria changed. Say which role it covers.
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the job description and the old scorecard should sit in a Project. The model aligns names. It does not decide the bar. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the job description and the old scorecard should sit in a Project. The model aligns names. It does not decide the bar. The review is [Claude review](/blog/claude-review-2026/).
 
 **The calendar, separate from the score.** [Reclaim.ai](/tools/reclaim-ai/) Starter shows $10 per seat per month on the yearly toggle and $12 on the monthly toggle, as fetched October 24, 2026. Scheduling the loop is not scoring it. The invoice is [Reclaim.ai pricing explained](/blog/reclaim-ai-pricing-explained-2026/).
 

@@ -68,7 +68,7 @@ Keep a short log: question, date, plan you used, papers you opened, claims you r
 
 [Perplexity](/tools/perplexity/) is for the public web around the finding: a regulator's page, a methods explainer, a news report. It is the wrong corpus for "what does the literature say?" Pro at $17 a month billed annually adds Computer and premium data. The bill is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-[Claude](/tools/claude/) can draft a paragraph from notes you paste after the fact pass. Pro is $20 a month, or $17 billed annually. The rule is the same as [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/): the model does not supply the citations.
+[Claude](/tools/claude/) can draft a paragraph from notes you paste after the fact pass. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The rule is the same as [how to write a blog post with Claude](/blog/how-to-write-a-blog-post-with-claude-2026/): the model does not supply the citations.
 
 Zotero import on Elicit Basic is the bridge if your library already exists. Export on Plus is the bridge back.
 

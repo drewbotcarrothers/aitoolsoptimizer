@@ -38,7 +38,7 @@ A capacity memo is internal. It tells a decision-maker that a number does not co
 
 ## Where it is written
 
-**The draft, when the definition must match last month.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the unit definition at the top of the Project. The review is [Claude review](/blog/claude-review-2026/).
+**The draft, when the definition must match last month.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the unit definition at the top of the Project. The review is [Claude review](/blog/claude-review-2026/).
 
 **The query the number came from.** [Hex](/tools/hex/) Professional is $36 an editor a month on the October 16 card. Paste the result, not a screenshot the model cannot read as a cell. The invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/).
 

@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Press Kits (2026): One Folder, or a Boilerplate That Must Match"
-description: "ChatGPT vs Claude for press kits in 2026. Plus is $20. Pro is $17 annual or $20 monthly. The kit uses facts you already approved. No pickup scores."
+description: "ChatGPT vs Claude for press kits in 2026. Plus is $20. Pro is {{price:claude.pro_annual}} annual or {{price:claude.pro_monthly}} monthly. The kit uses facts you already approved. No pickup scores."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "press-kit", "comparison"]
@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | One kit, from one fact sheet | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No fact that was not on the sheet |
-| One boilerplate paragraph copied across the kit, the bio, and the about line | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the paragraph. A file may not reword it |
+| One boilerplate paragraph copied across the kit, the bio, and the about line | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the paragraph. A file may not reword it |
 | The folder the next announcement will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not touch a number | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare every figure before and after |
 

@@ -41,7 +41,7 @@ A market slide without a source is the usual failure. Delete it. A smaller deck 
 
 ## Which seat drafts, and which seat designs
 
-**The narrative.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the memo and one deck outline you liked in a Project. Ask for speaker notes that only use the memo, plus a list of claims with no source. [ChatGPT](/tools/chatgpt/) Plus at $20 is the same job if that is already the writing seat. The writing split is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The project containers are [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The narrative.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the memo and one deck outline you liked in a Project. Ask for speaker notes that only use the memo, plus a list of claims with no source. [ChatGPT](/tools/chatgpt/) Plus at $20 is the same job if that is already the writing seat. The writing split is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/). The project containers are [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **Gamma, when the deliverable is a card deck.** Plus is $9 a seat a month, or $108 a year, with 1,000 credits. Pro at $18 adds the API and 4,000 credits. Paste the memo. Edit the outline before you generate cards. Regenerating to discover the story spends the month. The alternatives, if the format is wrong, are [Gamma alternatives](/blog/gamma-alternatives-2026/).
 

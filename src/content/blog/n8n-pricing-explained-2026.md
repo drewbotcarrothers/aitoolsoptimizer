@@ -42,7 +42,7 @@ Starter for a year at the recorded annual rate is 12 × €20 = €240. Pro is 1
 
 An execution is one run from start to finish. It is not a user, and it is not a step. One hundred runs of a five-node workflow are 100 executions. That is 100 / 2,500 of a Starter month, or 4%. The same shape on Make, if each module costs one credit, is 500 credits. The meters are not convertible. Read [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/) before you add a model node and assume it is inside the €20.
 
-Assistant credits are a separate counter: 1,600 a month on Starter and up to 9,600 on Pro. All plans include agents, MCP, and AI nodes, plus AI models without your own keys, on the recorded FAQ. If you connect your own key anyway, that vendor still bills you. [Claude](/tools/claude/) Pro at $20 is a chat seat, not an n8n allowance.
+Assistant credits are a separate counter: 1,600 a month on Starter and up to 9,600 on Pro. All plans include agents, MCP, and AI nodes, plus AI models without your own keys, on the recorded FAQ. If you connect your own key anyway, that vendor still bills you. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} is a chat seat, not an n8n allowance.
 
 Startups under 20 employees may get 50% off Business, on the directory notes. Confirm it. Do not apply that percent to Starter in a spreadsheet unless the page says so.
 

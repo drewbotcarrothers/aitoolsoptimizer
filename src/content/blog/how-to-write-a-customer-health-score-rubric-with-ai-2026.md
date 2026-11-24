@@ -40,7 +40,7 @@ Four signals you will actually collect beat twelve you will estimate. The model 
 
 ## Where the rubric is kept
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the current rubric in a Project so a later edit does not resurrect a retired signal. Free can take a short paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the current rubric in a Project so a later edit does not resurrect a retired signal. Free can take a short paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the team opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the rubric lives in Notion. Plus at $10 is not the full AI tier. The page needs the owner and the review date in the header, not only in a chat. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

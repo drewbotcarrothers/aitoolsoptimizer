@@ -39,7 +39,7 @@ A general redaction pass can also mask API keys and internal hostnames. Those ma
 
 ## Where the step runs
 
-**The draft a person will read.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project can say: if the answer contains an email, replace it and do not store the original in the chat you will share. The review is [Claude review](/blog/claude-review-2026/).
+**The draft a person will read.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project can say: if the answer contains an email, replace it and do not store the original in the chat you will share. The review is [Claude review](/blog/claude-review-2026/).
 
 **One answer you will paste onward.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Paste the identifier types. Discard a version that replaces a real email with a made-up one. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

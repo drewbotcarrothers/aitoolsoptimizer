@@ -38,7 +38,7 @@ A fluent paragraph that "satisfies" a control you do not have is how RFP respons
 
 ## Where the draft happens
 
-**The PDF is long.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the RFP and your last approved response in a Project. Ask for a table: question number, proposed answer, source note, gap. Do not ask for a finished PDF first. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The PDF is long.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the RFP and your last approved response in a Project. Ask for a table: question number, proposed answer, source note, gap. Do not ask for a finished PDF first. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team already lives in chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects and file uploads, with the limits on that plan. Go at $8 is a thin place to hold an RFP. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

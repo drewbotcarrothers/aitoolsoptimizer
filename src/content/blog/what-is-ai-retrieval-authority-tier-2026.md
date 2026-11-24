@@ -40,7 +40,7 @@ A filter can drop an excluded source before retrieval. The tier still exists for
 
 ## Where the tier is kept
 
-**The definition of the tiers you allow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the three words and what each word permits. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the tiers you allow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the three words and what each word permits. The review is [Claude review](/blog/claude-review-2026/).
 
 **A public page you are willing to cite.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 16 card. The citation is the page. The tier is still yours. The invoice is [Perplexity Pro pricing explained](/blog/perplexity-pro-pricing-explained-2026/).
 

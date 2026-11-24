@@ -19,7 +19,7 @@ Notion prices are from the directory page checked October 16, 2026. ChatGPT Plus
 |---|---|---|---|
 | The project page in Notion | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier on the October 16 card |
 | A one-time paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No scope line that was not in the paste |
-| A long source the brief must match | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the headings |
+| A long source the brief must match | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the headings |
 | A deck after the brief is accepted | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, $108 a year | The deck does not widen the brief |
 
 ```mermaid

@@ -42,7 +42,7 @@ We did not publish a false-positive rate. If you have one, it belongs in your ev
 
 ## Where the rule is kept
 
-**The definition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the classifier id and the on-block action. The review is [Claude review](/blog/claude-review-2026/).
+**The definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the classifier id and the on-block action. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft of the hold message a person will see.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page. The message says the output was held. It does not explain the classifier's private score as if it were a reason you verified. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

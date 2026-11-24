@@ -38,7 +38,7 @@ A chart titled "adoption up" with no series is [a hallucination](/blog/what-is-a
 
 ## Where the outline and the file happen
 
-**The long account history.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the success plan in a Project so the next quarter cannot drift the goals. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long account history.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the success plan in a Project so the next quarter cannot drift the goals. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The CSM's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Business is $20 a user a month billed annually, for two or more users, when the account notes are confidential. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

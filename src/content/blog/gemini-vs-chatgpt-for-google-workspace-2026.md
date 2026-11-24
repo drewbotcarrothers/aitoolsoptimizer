@@ -19,7 +19,7 @@ Prices are US list prices excluding tax. Google AI and the Gmail/Docs line were 
 
 | The job | Prefer | Why the recorded feature matches |
 |---|---|---|
-| A reply in the Gmail thread, or a rewrite in the Doc | [Gemini](/tools/gemini/) on Google AI Pro | Pro at $19.99 lists Gemini in Gmail and Docs, plus Gemini 4 Argon and 5 TB |
+| A reply in the Gmail thread, or a rewrite in the Doc | [Gemini](/tools/gemini/) on Google AI Pro | Pro at {{price:gemini.pro}} lists Gemini in Gmail and Docs, plus Gemini 4 Argon and 5 TB |
 | A notebook over Drive files you choose | [Gemini Notebook](/tools/gemini-notebook/) | Answers stay on the sources you add. Free with a Google account |
 | A project, a custom GPT, or Codex in the same month | [ChatGPT](/tools/chatgpt/) Plus | $20. Projects and custom GPTs are Plus features. Upload the file. It does not edit the Doc in place |
 | The team needs admin controls and a no-training default | ChatGPT Business | $20/user/month billed annually for 2+ users, or $25 monthly |
@@ -38,11 +38,11 @@ flowchart TD
 
 **Google AI Free** is Flash-Lite, image generation and editing, and 15 GB. It is a real assistant on a Google account. The recorded three-way does not put Gemini in Gmail and Docs on Free.
 
-**Google AI Plus at $4.99** is 2× usage, video generation, 200 Flow credits, and 400 GB. Video starts here, not on Free. The Gmail and Docs line recorded for this site is on Pro, not on Plus. Buy Plus for usage, video, and storage. Do not buy it expecting the Docs integration the Pro card lists.
+**Google AI Plus at {{price:gemini.plus}}** is 2× usage, video generation, 200 Flow credits, and 400 GB. Video starts here, not on Free. The Gmail and Docs line recorded for this site is on Pro, not on Plus. Buy Plus for usage, video, and storage. Do not buy it expecting the Docs integration the Pro card lists.
 
-**Google AI Pro at $19.99** is the Workspace-adjacent seat we can price: 4× usage, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, and 5 TB. The storage matters if you already pay Google for a smaller Drive plan. Five terabytes can retire that bill. Confirm what your current storage SKU costs before you call Pro "the AI price."
+**Google AI Pro at {{price:gemini.pro}}** is the Workspace-adjacent seat we can price: 4× usage, Gemini 4 Argon, 1,000 Flow credits, Gemini in Gmail and Docs, and 5 TB. The storage matters if you already pay Google for a smaller Drive plan. Five terabytes can retire that bill. Confirm what your current storage SKU costs before you call Pro "the AI price."
 
-**Google AI Ultra at $99.99 or $199.99** is 5× or 20× Pro limits, with YouTube Premium on the higher tier. It is capacity and a bundle. It is not required to open Gemini in Docs.
+**Google AI Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}}** is 5× or 20× Pro limits, with YouTube Premium on the higher tier. It is capacity and a bundle. It is not required to open Gemini in Docs.
 
 **ChatGPT Free** includes unlimited GPT-6 text chats, with limits on uploads and tools, and limited memory. **Go at $8** adds more messages, uploads, images, and memory, and may include ads. **Plus at $20** is projects, custom GPTs, advanced reasoning, and expanded Codex. **Pro from $100** is usage. None of those cards, as recorded here, say "edits the Google Doc in place." You upload or paste. The container choice after you paste is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
 
@@ -50,7 +50,7 @@ ChatGPT Business is the seat when a personal Google login is the wrong place for
 
 ## Notebook, Sheets, and the wiki
 
-[Gemini Notebook](/tools/gemini-notebook/) is the right Gemini surface when the question must stay inside files you uploaded. Google AI Plus at $4.99 raises notebook limits. Pro at $19.99 is the larger step, described as about 5× on the directory card. The habit is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). A deck or a scan, not only a Doc, is [what multimodal RAG is](/blog/what-is-multimodal-rag-2026/).
+[Gemini Notebook](/tools/gemini-notebook/) is the right Gemini surface when the question must stay inside files you uploaded. Google AI Plus at {{price:gemini.plus}} raises notebook limits. Pro at {{price:gemini.pro}} is the larger step, described as about 5× on the directory card. The habit is [how to study with Gemini Notebook](/blog/gemini-notebook-study-workflows/). A deck or a scan, not only a Doc, is [what multimodal RAG is](/blog/what-is-multimodal-rag-2026/).
 
 Sheets are a separate article: [best AI for Excel and Google Sheets](/blog/best-ai-for-excel-and-google-sheets-2026/). Do not assume the Docs sentence covers a financial model.
 
@@ -68,7 +68,7 @@ One Pro seat and one Plus seat is a reasonable month if one person lives in Gmai
 
 ### Does Gemini free work inside Google Docs?
 
-Not on the line this directory recorded. Google AI Pro at $19.99 is the plan that lists Gemini in Gmail and Docs. Free is the assistant and image editing. Plus at $4.99 is usage, video, and storage.
+Not on the line this directory recorded. Google AI Pro at {{price:gemini.pro}} is the plan that lists Gemini in Gmail and Docs. Free is the assistant and image editing. Plus at {{price:gemini.plus}} is usage, video, and storage.
 
 ### Is there a Google Workspace Gemini price?
 

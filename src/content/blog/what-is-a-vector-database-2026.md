@@ -40,7 +40,7 @@ Similarity is not truth. The nearest passage can be off-topic, outdated, or a pa
 
 | Corpus | Product that hides the index | Price to know |
 |---|---|---|
-| Files you upload | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is $4.99/month for higher limits |
+| Files you upload | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month for higher limits |
 | Your help center, in front of customers | [Chatbase](/tools/chatbase/) | Hobby is $32/month billed yearly, or $40 monthly |
 | The public web | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually |
 | Papers, as extracted rows | [Elicit](/tools/elicit/) | Plus is $11/user/month billed annually on the non-Industry card |
@@ -72,7 +72,7 @@ RAG is the full loop: retrieve passages, then generate. A vector database is one
 
 ### Do I need one for ChatGPT or Claude?
 
-Not for normal chat. Paste the source, or use a product that searches. [ChatGPT](/tools/chatgpt/) Plus is $20/month. [Claude](/tools/claude/) Pro is $20/month, or $17 billed annually. Those seats are not a vector database.
+Not for normal chat. Paste the source, or use a product that searches. [ChatGPT](/tools/chatgpt/) Plus is $20/month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Those seats are not a vector database.
 
 ### Is "semantic search" the same phrase?
 

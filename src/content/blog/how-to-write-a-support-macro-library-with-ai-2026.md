@@ -38,7 +38,7 @@ A macro that says "I've refunded you" is [a hallucination](/blog/what-is-ai-hall
 
 ## Where the library is drafted and stored
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the approved articles in a Project so a later macro cannot drift from the help center. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat. Business is $20 a user a month billed annually, minimum two users, when the samples include real tickets. Strip personal data from the samples. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the approved articles in a Project so a later macro cannot drift from the help center. [ChatGPT](/tools/chatgpt/) Plus at $20 is the other seat. Business is $20 a user a month billed annually, minimum two users, when the samples include real tickets. Strip personal data from the samples. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The desk that will hold the saved reply.** [Zendesk AI](/tools/zendesk-ai/) Support Team is $19 an agent a month paid yearly. Suite Team is $55 an agent a month paid yearly and is the row that adds AI agents. Copilot is a $50 an agent a month add-on paid yearly on the card. A macro library can live in the help desk without buying the agent. Do not confuse a saved reply with an automated resolution, which the card bills separately. Pair the library with a [monthly support deflection report](/blog/how-to-create-a-support-deflection-report-with-ai-2026/) that uses the definition a person wrote.
 

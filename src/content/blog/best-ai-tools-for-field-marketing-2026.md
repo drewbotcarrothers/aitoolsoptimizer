@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The run of show, the booth checklist, the follow-up owners | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page is the record. The chat is the draft |
 | A leave-behind deck from facts you may say | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, 1,000 credits | Free credits do not refresh. You delete invented prices |
 | A one-page sign, a badge, a simple booth graphic | [Canva](/tools/canva/) | Pro is $18 a month or $180 a year for one person | Real type and legal lines go in the layout |
-| A follow-up email from notes you paste | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The model does not invent a conversation you did not have |
+| A follow-up email from notes you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The model does not invent a conversation you did not have |
 | A recap cut from footage you own | [Descript](/tools/descript/) | Hobbyist is $16 a person a month billed annually | Free is 60 media minutes. You still have the rights |
 | The list of people who asked for a follow-up | [HubSpot](/tools/hubspot/) | Free CRM. Starter was a promo | Do not upload a badge scan the attendee did not agree to |
 

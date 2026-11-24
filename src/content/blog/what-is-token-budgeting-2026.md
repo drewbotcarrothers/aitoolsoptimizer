@@ -43,11 +43,11 @@ Write the split in the client, next to the feature name. "Use as much context as
 
 A chat subscription hides this split. You still feel it when a long thread forgets the constraint you set at the top, or when a file upload is summarized before you asked. The budget is the vendor's. You see the symptom.
 
-**Claude Pro is $20 a month, or $17 billed annually.** Projects keep a file in reach. They do not print a token split on the invoice. The capacity choice above Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+**Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually.** Projects keep a file in reach. They do not print a token split on the invoice. The capacity choice above Pro is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 **ChatGPT Plus is $20 a month.** Go is $8 a month. Business is $20 a user a month billed annually, minimum two users. None of those rows, on the directory card, is a per-request token budget you edit. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Google AI Pro is $19.99 a month.** Plus is $4.99. Free exists. A long PDF in [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. The notebook still has a limit. The directory does not print that limit as a token integer on this card, so this page does not invent one.
+**Google AI Pro is {{price:gemini.pro}} a month.** Plus is {{price:gemini.plus}}. Free exists. A long PDF in [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account. The notebook still has a limit. The directory does not print that limit as a token integer on this card, so this page does not invent one.
 
 **DeepSeek's API, on the directory card, starts at $0.15 per 1 million input tokens off-peak on a cache miss, and $0.60 per 1 million output tokens off-peak.** That is a meter you can budget because you own the client. A cache hit is a different price if the vendor's current card says so. This page does not copy a hit price the directory did not record. The tool page is [DeepSeek](/tools/deepseek/).
 

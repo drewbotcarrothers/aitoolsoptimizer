@@ -40,7 +40,7 @@ A vendor status page is their promise to you. Your SLA, if you publish one to cu
 
 **A path that files the alert.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually for 750 tasks. It can drop a failed-request row into the channel the on-call person already reads. Filters do not count as tasks. The map of the three automation tools is [Zapier vs Make vs n8n](/blog/zapier-vs-make-vs-n8n/).
 
-**A seat is not a monitor.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, or $25 monthly, for two or more users. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Either seat can draft the promise in plain language. Neither seat measures your endpoint. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+**A seat is not a monitor.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, or $25 monthly, for two or more users. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Either seat can draft the promise in plain language. Neither seat measures your endpoint. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 The place a fact is allowed to live after you agree it is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/). If the log and the status page disagree, the log you control is the one you review. A shadow run of a new model, which is a different check, is [what a shadow deployment for AI is](/blog/what-is-a-shadow-deployment-for-ai-2026/).
 

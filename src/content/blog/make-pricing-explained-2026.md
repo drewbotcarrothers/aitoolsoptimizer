@@ -52,7 +52,7 @@ The notes also say startups under 20 employees may qualify for 50% off a Busines
 
 [Lindy](/tools/lindy/) Team starts at $49.99 a month for 5,000 credits. Use it when the product is an agent watching an inbox. Use Make when you need to point at every branch.
 
-A model key is a second invoice. [Claude](/tools/claude/) Pro at $20 is a person in chat. It is not included in Make's $9. The split is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/). The review of the hosted n8n product, if you are still choosing, is [n8n cloud review](/blog/n8n-cloud-review-2026/).
+A model key is a second invoice. [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} is a person in chat. It is not included in Make's $9. The split is [what an API for AI tools is](/blog/what-is-an-api-for-ai-tools-2026/). The review of the hosted n8n product, if you are still choosing, is [n8n cloud review](/blog/n8n-cloud-review-2026/).
 
 ## FAQ
 

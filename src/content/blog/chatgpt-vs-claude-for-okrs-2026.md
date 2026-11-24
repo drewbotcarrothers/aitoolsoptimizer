@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | One team, one quarter, targets already written | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No target that was not in the paste |
-| One objective sentence copied across teams | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the sentence. A team file may not reword it |
+| One objective sentence copied across teams | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the sentence. A team file may not reword it |
 | The file the next quarter will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not touch a number | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare every key result before and after |
 

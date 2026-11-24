@@ -38,7 +38,7 @@ A return to a newer version after you already rolled back uses the same gates, w
 
 ## Where the list is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the standing gates live in a Project and each release only swaps the version and the owners. Free can format one list from a paste. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the standing gates live in a Project and each release only swaps the version and the owners. Free can format one list from a paste. The review is [Claude review](/blog/claude-review-2026/).
 
 **A second formatting.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can turn a messy thread into the same columns. Discard any gate it added because the list "looked thin." The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

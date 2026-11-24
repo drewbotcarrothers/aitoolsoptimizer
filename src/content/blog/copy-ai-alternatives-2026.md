@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job | Try | First paid step |
 |---|---|---|
-| A draft one person will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month or $17 annual. ChatGPT Plus $20. Go $8 |
+| A draft one person will edit | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual. ChatGPT Plus $20. Go $8 |
 | A voice, a knowledge base, and an audience saved for a marketing team | [Jasper](/tools/jasper/) | Pro $59/seat/month yearly, or $69 monthly |
 | Tracking whether AI answers mention you | [Writesonic](/tools/writesonic/) | Starter $79/month, 50 prompts tracked daily |
 | Shared chat for up to five people, several model families | Stay on [Copy.ai](/tools/copy-ai/) Chat | $24/month annually, 5 seats |

@@ -21,7 +21,7 @@ Cursor's Plus price is the October 24, 2026 help-center figure recorded in [Curs
 |---|---|---|---|
 | A diff in the repo, which you will read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | Plus omits Cloud Agents and several other products, on the October 24 help page. You still run the tests you trust |
 | Completions in the editor you already use on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month | Business is $19. Enterprise is $39. Neither is a reason to skip the diff |
-| A terminal pass on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at $17 a month billed annually or $20 monthly | The same tests. A second editor is optional |
+| A terminal pass on the Claude seat | [Claude Code](/tools/claude-code/) | Included on Claude Pro, at {{price:claude.pro_annual}} a month billed annually or {{price:claude.pro_monthly}} monthly | The same tests. A second editor is optional |
 | The runbook step and the alert note | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | A cause you did not confirm stays out |
 
 ```mermaid

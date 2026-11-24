@@ -11,7 +11,7 @@ draft: false
 
 **Use a Claude Project when the work is long documents and you want the files and instructions in one place, including on the free plan up to the cap the directory records. Use a ChatGPT Project when the work already lives in ChatGPT and Plus is the plan you were going to buy.** Both are folders of context. Neither is a system of record.
 
-The directory page for Claude, checked October 16, 2026, says free users get up to five Projects. Pro is $20 a month, or $17 billed annually ($200 a year), and that card is where Claude Code, more usage, and the fuller workspace sit. ChatGPT's directory card from the same day lists projects on Plus at $20 a month. Go is $8 and does not list projects as the reason to upgrade. The ChatGPT container versus a custom GPT is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
+The directory page for Claude, checked October 16, 2026, says free users get up to five Projects. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} a year), and that card is where Claude Code, more usage, and the fuller workspace sit. ChatGPT's directory card from the same day lists projects on Plus at $20 a month. Go is $8 and does not list projects as the reason to upgrade. The ChatGPT container versus a custom GPT is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/).
 
 Published October 24, 2026. We did not run a writing bake-off. The prose comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
@@ -72,7 +72,7 @@ Use the one that fits the file and shows you the passage it used. Length alone i
 
 ## Last verified
 
-October 16, 2026 for Claude's five-project free note, Claude Pro at $20 or $17 annual, and ChatGPT Plus at $20 with projects listed on that plan. Published October 24, 2026.
+October 16, 2026 for Claude's five-project free note, Claude Pro at {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} annual, and ChatGPT Plus at $20 with projects listed on that plan. Published October 24, 2026.
 
 **Sources:** [Claude pricing](https://claude.com/pricing), [ChatGPT pricing](https://chatgpt.com/pricing).
 

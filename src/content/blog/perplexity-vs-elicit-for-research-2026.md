@@ -22,7 +22,7 @@ Prices are US list prices excluding tax. Perplexity's annual figures are from pr
 | A cited answer from the live web | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | A paper extractor |
 | Papers, columns, and a screening table | [Elicit](/tools/elicit/) | Plus is $11 per user a month billed annually | A general chatbot |
 | A second opinion that also stays on papers | [Consensus](/tools/consensus/) | Pro is $12 a month billed annually, or $20 monthly | Either of the above, if you wanted this corpus |
-| A long PDF you will revise in chat | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually | A search box |
+| A long PDF you will revise in chat | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | A search box |
 | A notebook that may only use files you uploaded | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Plus from $4.99 adds room | The open web |
 | A weekly packet you will actually read | Either, then a digest | The digest workflow is linked below | A chat log as the archive |
 

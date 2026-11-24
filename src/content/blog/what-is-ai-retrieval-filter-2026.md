@@ -40,7 +40,7 @@ A filter that says "keep the top five" is a cutoff, and it is a weak one. Write 
 
 ## Where the rule is written
 
-**The spec.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the filter rules are a short document a reviewer will read next to an example of a dropped chunk. The review is [Claude review](/blog/claude-review-2026/).
+**The spec.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the filter rules are a short document a reviewer will read next to an example of a dropped chunk. The review is [Claude review](/blog/claude-review-2026/).
 
 **The code.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the filter is a function beside the retriever. You review the diff. A generated change that deletes the deny list is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

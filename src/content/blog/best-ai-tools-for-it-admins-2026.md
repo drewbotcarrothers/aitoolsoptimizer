@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, Zapier,
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The review sheet and the change note | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No seat you did not export |
+| The review sheet and the change note | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No seat you did not export |
 | The register the next admin opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A notice after a person marks a row | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually, 750 tasks | The Zap does not decide remove |
 | A script diff you already own | [GitHub Copilot](/tools/github-copilot/) | Business is $19 a user a month | You review the diff. The model does not merge it |

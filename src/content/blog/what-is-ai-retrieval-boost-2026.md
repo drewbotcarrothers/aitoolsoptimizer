@@ -44,7 +44,7 @@ A model that says it "focused on the important source" has not documented a boos
 
 **A wiki you own.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if search runs across the workspace and connected apps. Plus at $10 is not the full AI tier on that card. You can see which page was retrieved only if the product shows it. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A reading of the set you already fetched.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Paste the passage ids before and after the boost. Ask what entered and what left. The review is [Claude review](/blog/claude-review-2026/).
+**A reading of the set you already fetched.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Paste the passage ids before and after the boost. Ask what entered and what left. The review is [Claude review](/blog/claude-review-2026/).
 
 **One comparison, from two lists.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Do not ask which list is "more relevant." Ask which ids differ.
 

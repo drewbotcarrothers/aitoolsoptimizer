@@ -1,6 +1,6 @@
 ---
 title: "Perplexity vs Gemini for Market Scans (2026): A Dated Row, or the File You Have"
-description: "Perplexity vs Gemini for market scans in 2026. Pro is $17 a month billed annually. Gemini Pro is $19.99. Each row names the page and the date you opened it."
+description: "Perplexity vs Gemini for market scans in 2026. Pro is $17 a month billed annually. Gemini Pro is {{price:gemini.pro}}. Each row names the page and the date you opened it."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["perplexity", "gemini", "markets", "comparison"]
@@ -18,8 +18,8 @@ Perplexity's Pro price is the October 16 directory card. A later refetch of Perp
 | The row | Start here | First paid step | The limit |
 |---|---|---|---|
 | A public page, with the date you opened it | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | If you did not open the citation, the row stays out |
-| A file already in Drive | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The fact has to be in that file |
-| The sentence that must match last month's labels | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | It formats. It does not browse your scan into existence |
+| A file already in Drive | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The fact has to be in that file |
+| The sentence that must match last month's labels | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | It formats. It does not browse your scan into existence |
 | The table the team reopens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The table is the record. The chat is not |
 
 ```mermaid

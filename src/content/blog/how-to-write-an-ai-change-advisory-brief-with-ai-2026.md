@@ -41,7 +41,7 @@ A status report can later say what happened in the window. It does not approve t
 
 ## Where the brief is drafted
 
-**The one-pager.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the scope sentence in a Project so a later edit does not add a system. The review is [Claude review](/blog/claude-review-2026/).
+**The one-pager.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the scope sentence in a Project so a later edit does not add a system. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the approver opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The approver's name and the decision stay visible. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

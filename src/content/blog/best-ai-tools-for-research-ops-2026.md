@@ -24,7 +24,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Papers, when the question is the literature | [Elicit](/tools/elicit/) | Plus is $11 a user a month billed annually | Free search is not a systematic review |
 | A cited pass over peer-reviewed results | [Consensus](/tools/consensus/) | Pro is $12 a month billed annually ($144 a year) | You still open the paper that carries the claim |
 | A packet you already collected | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. AI Plus is $4.99 | The notebook may use only what you uploaded |
-| The memo from findings you pasted | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No finding enters that was not in the paste |
+| The memo from findings you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No finding enters that was not in the paste |
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ The source rule is a sentence you can apply: "pricing pages we opened this month
 
 **Consensus Pro** at $12 a month billed annually adds unlimited Pro messages and 15 Deep reviews, against Free's 10 Pro messages and 3 Deep reviews, on the card. Deep at $65 a month is a volume tier. The invoice is [Consensus pricing explained](/blog/consensus-pricing-explained-2026/).
 
-**Gemini Notebook** is the path when the sources are files you uploaded and the answer has to cite those files. Google AI Plus at $4.99 raises notebook limits on that product's card. The Gemini app's 2x line is a different meter, explained in [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Gemini Notebook** is the path when the sources are files you uploaded and the answer has to cite those files. Google AI Plus at {{price:gemini.plus}} raises notebook limits on that product's card. The Gemini app's 2x line is a different meter, explained in [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **Claude Pro** writes the memo from Keep rows only. If a row says Conflict, the memo says Conflict and stops. The review is [Claude review](/blog/claude-review-2026/).
 

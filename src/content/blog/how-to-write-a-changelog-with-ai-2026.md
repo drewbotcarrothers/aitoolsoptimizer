@@ -39,7 +39,7 @@ If the commit message is a joke or a ticket number, the model will still produce
 
 ## Where the draft happens
 
-**A long pass on a big release.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the repo's style for changelog lines in a Project, plus this release's commits. Free includes up to five Projects. Ask for grouped bullets and a section titled "unclear, do not publish." The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long pass on a big release.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the repo's style for changelog lines in a Project, plus this release's commits. Free includes up to five Projects. Ask for grouped bullets and a section titled "unclear, do not publish." The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus at $20. Go at $8 is enough for a short list. Keep a Project for the product so the headings stay stable. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

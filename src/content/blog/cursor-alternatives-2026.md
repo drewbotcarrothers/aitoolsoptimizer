@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | You want | Open this | First paid step |
 |---|---|---|
 | Completions and a cloud agent where the code is already on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10/user/month, with $15 of monthly credits. Free is 2,000 completions a month |
-| A terminal agent on an Anthropic plan | [Claude Code](/tools/claude-code/) | Included with Claude Pro at $20/month, or $17 billed annually. Max starts at $100 |
+| A terminal agent on an Anthropic plan | [Claude Code](/tools/claude-code/) | Included with Claude Pro at {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Max starts at $100 |
 | A terminal and IDE agent on a ChatGPT plan | [OpenAI Codex](/tools/openai-codex/) | Included in a serious way on Plus at $20/month. Free covers quick tasks |
 | One IDE that dispatches several agents | [Devin Desktop](/tools/devin-desktop/) | Pro is $20/month. Max is $200. Free has a light agent quota and unlimited Tab |
 | A working web app without a local editor | [Lovable](/tools/lovable/) or [Bolt.new](/tools/bolt-new/) | Lovable Pro starts at $25/month for 100 credits, or $21 billed annually. Bolt Pro starts at $25/month |
@@ -65,7 +65,7 @@ Copilot Pro is $10 a user a month. Cursor Plus is $8 a month, or $80 a year, and
 
 ### Can I use Claude Code instead of Cursor?
 
-Yes, if a terminal agent on a Claude plan is the workflow. Claude Code requires a paid Claude plan or API usage. Pro is $20 a month, or $17 billed annually. The comparison is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
+Yes, if a terminal agent on a Claude plan is the workflow. Claude Code requires a paid Claude plan or API usage. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The comparison is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/).
 
 ### What if I do not want to code?
 

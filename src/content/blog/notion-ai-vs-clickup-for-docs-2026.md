@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Pages, a wiki, and decisions already in Notion | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month, the tier with the agent. Plus is $10 and is not that full AI tier | The team lives in tasks, and the doc is only a description on a ticket |
 | Tasks, docs, and chat already in ClickUp | [ClickUp Brain](/tools/clickup-brain/) | Brain² from $9 a user a month, on top of a ClickUp plan | You would be moving a wiki of record into a project tool to get a sidebar |
 | A long source PDF, not a team wiki | [Gemini Notebook](/tools/gemini-notebook/), free with a Google account | Higher limits ride Google AI plans, from $4.99 | The answer has to become a page other people edit |
-| A draft you will paste into whichever wiki you already run | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | One editor, not a second system of record | |
+| A draft you will paste into whichever wiki you already run | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | One editor, not a second system of record | |
 
 ```mermaid
 flowchart TD

@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs Claude for Research (2026): The Google Seat, or the Long File"
-description: "Gemini vs Claude for research in 2026. Gemini Pro is $19.99 inside Google. Claude Pro is $20, or $17 billed annually. No citation scores."
+description: "Gemini vs Claude for research in 2026. Gemini Pro is {{price:gemini.pro}} inside Google. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. No citation scores."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["gemini", "claude", "research", "comparison"]
@@ -19,8 +19,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The work | Start here | First paid step | A bad substitute |
 |---|---|---|---|
-| You are already in Google and the sources are Docs and mail | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is $19.99 a month | A second assistant you will not open |
-| You upload a long report and ask questions against that file | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | Free Gemini, if the file is the whole job and you keep hitting the cap |
+| You are already in Google and the sources are Docs and mail | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is {{price:gemini.pro}} a month | A second assistant you will not open |
+| You upload a long report and ask questions against that file | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Free Gemini, if the file is the whole job and you keep hitting the cap |
 | You need a cited sweep of the public web | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | Either chat, described as a research engine |
 | You are reading academic papers | [Elicit](/tools/elicit/) or Consensus | Use the directory page before you quote a price | A general chat as a journal database |
 | You want the same seat as coding and images | [ChatGPT](/tools/chatgpt/) Plus | $20 | This page, if you only needed the Google bundle |
@@ -38,7 +38,7 @@ flowchart TD
 
 ## What each plan includes
 
-**Gemini.** Free, with a Google account, includes the Flash-Lite model and 15 GB of storage. Google AI Plus is $4.99 a month. Google AI Pro is $19.99 and, on the directory card, adds higher usage, Gemini 4 Argon access, Gemini in Gmail and Docs, and 5 TB. Ultra is $99.99 or $199.99. The research reason to buy Pro is the Google bundle and the higher cap, not a claim that it cites better. The review is [Gemini review](/blog/gemini-review-2026/).
+**Gemini.** Free, with a Google account, includes the Flash-Lite model and 15 GB of storage. Google AI Plus is {{price:gemini.plus}} a month. Google AI Pro is {{price:gemini.pro}} and, on the directory card, adds higher usage, Gemini 4 Argon access, Gemini in Gmail and Docs, and 5 TB. Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}}. The research reason to buy Pro is the Google bundle and the higher cap, not a claim that it cites better. The review is [Gemini review](/blog/gemini-review-2026/).
 
 **Claude.** Free includes files and Projects, with limits. Pro adds more usage and the Project workflow most research drafts need. Max at $100 or $200 is for people who already run out on Pro. The directory does not print a Team dollar. A Project is where the sources live between sessions. The review is [Claude review](/blog/claude-review-2026/). The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 

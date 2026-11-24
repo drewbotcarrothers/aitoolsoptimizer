@@ -39,7 +39,7 @@ An article that describes last year's UI is worse than a gap, because a bot will
 
 ## Where the article is written
 
-**The draft from a long ticket.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the style guide for help articles in a Project: short steps, no marketing adjectives, a visible owner. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The draft from a long ticket.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the style guide for help articles in a Project: short steps, no marketing adjectives, a visible owner. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The workspace, if the help center is a wiki you control.** [Notion AI](/tools/notion-ai/) Business is $20 a seat. Plus at $10 is not the full AI tier. Page history helps. An owner on the page helps more. The internal version of this habit is [how to build an internal wiki with AI](/blog/how-to-build-an-internal-wiki-with-ai-2026/). The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

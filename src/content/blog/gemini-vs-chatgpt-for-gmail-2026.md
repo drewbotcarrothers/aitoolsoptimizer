@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs ChatGPT for Gmail (2026): Draft in the Inbox, or in a Project"
-description: "Gemini vs ChatGPT for Gmail in 2026. Gemini in Gmail is on the Google AI Pro card at $19.99. ChatGPT is a separate thread. No email-quality scores."
+description: "Gemini vs ChatGPT for Gmail in 2026. Gemini in Gmail is on the Google AI Pro card at {{price:gemini.pro}}. ChatGPT is a separate thread. No email-quality scores."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["gemini", "chatgpt", "gmail", "email"]
@@ -20,8 +20,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | | [Gemini](/tools/gemini/) | [ChatGPT](/tools/chatgpt/) |
 |---|---|---|
 | Free | A Google account. The card lists Flash-Lite, image tools, and 15 GB of storage. It does not list Gemini in Gmail on the free line | Limited tools. You can paste a thread into a chat |
-| The seat that names Gmail | Google AI Pro at $19.99 a month lists Gemini in Gmail and Docs, 4x usage versus Free, and 5 TB of storage | No Gmail surface is listed. Plus at $20 a month adds projects and higher upload limits |
-| A cheaper Google step | Google AI Plus at $4.99 a month lists 2x usage, video generation, and 400 GB. The Gmail line is on the Pro card, not this one | Go at $8 a month. The card says Go may include ads |
+| The seat that names Gmail | Google AI Pro at {{price:gemini.pro}} a month lists Gemini in Gmail and Docs, 4x usage versus Free, and 5 TB of storage | No Gmail surface is listed. Plus at $20 a month adds projects and higher upload limits |
+| A cheaper Google step | Google AI Plus at {{price:gemini.plus}} a month lists 2x usage, video generation, and 400 GB. The Gmail line is on the Pro card, not this one | Go at $8 a month. The card says Go may include ads |
 | A heavier personal tier | Ultra at $99.99 a month (5x Pro limits) or $199.99 (20x) | Pro at $100, $200, or $500 |
 | A company admin seat | Not a separate Gmail admin price on this card | Business is $20 a user a month billed annually for two or more users, or $25 monthly. No training on business data by default |
 | What you still do | Read the draft in the thread and send it yourself | Paste only what the reply needs, then send it yourself |
@@ -36,13 +36,13 @@ flowchart TD
   read --> send["You send. The model does not"]
 ```
 
-Google AI Pro at $19.99 is $239.88 a year if you keep it. ChatGPT Plus at $20 is $240 a year. The stickers match. The surface does not. Five people on ChatGPT Business annual are 5 × $20 = $100 a month, with a two-user minimum. Five Google AI Pro seats are 5 × $19.99 = $99.95 a month, and that bundle includes storage the directory lists at 5 TB. Storage is not an email feature. Do not buy Pro only to justify a drive.
+Google AI Pro at {{price:gemini.pro}} is $239.88 a year if you keep it. ChatGPT Plus at $20 is $240 a year. The stickers match. The surface does not. Five people on ChatGPT Business annual are 5 × $20 = $100 a month, with a two-user minimum. Five Google AI Pro seats are 5 × {{price:gemini.pro}} = $99.95 a month, and that bundle includes storage the directory lists at 5 TB. Storage is not an email feature. Do not buy Pro only to justify a drive.
 
 ## When a third tool is the real inbox
 
 **The thread is a Microsoft mailbox.** [Microsoft Copilot](/tools/microsoft-copilot/) is free with a signed-in Microsoft account, with limits. Microsoft 365 Personal is $9.99 a month. Premium is $19.99 a month. Copilot Business is listed from $18 a user a month paid yearly, and the directory marks that as promotional, originally $21. Confirm the promo. This page is the Gmail question. Outlook is a different app.
 
-**The reply is long and the tone has to stay careful.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Claude's card lists a Chrome extension and Microsoft 365 extensions. It does not list a Gmail add-on on the lines we used. Paste the thread. The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
+**The reply is long and the tone has to stay careful.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Claude's card lists a Chrome extension and Microsoft 365 extensions. It does not list a Gmail add-on on the lines we used. Paste the thread. The writing comparison is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
 **The line edit after the facts are right.** [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually. It will not know which sentence in the thread you were supposed to answer.
 
@@ -64,7 +64,7 @@ A public incident note is a different genre from a customer reply. That workflow
 
 ### Is Gemini free inside Gmail?
 
-The directory's free line does not list Gemini in Gmail. The Pro line does, at $19.99 a month, along with Docs. Confirm the control in your Google account. Country limits are called out on the card.
+The directory's free line does not list Gemini in Gmail. The Pro line does, at {{price:gemini.pro}} a month, along with Docs. Confirm the control in your Google account. Country limits are called out on the card.
 
 ### Can I forward mail into ChatGPT instead?
 

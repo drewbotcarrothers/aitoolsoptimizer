@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | A one-off draft, plus images or a reusable custom GPT | [ChatGPT](/tools/chatgpt/) Plus at $20 | Those tools share the seat. Go at $8 is the lighter plan |
 | A wiki page, a spec, or a meeting note people will comment on | [Notion AI](/tools/notion-ai/) Business at $20 a seat | The full AI tier, including Agent and AI Meeting Notes, is Business. Plus at $10 is not |
-| A long revision in a project of files | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually. Then paste the keeper into Notion if Notion is home |
+| A long revision in a project of files | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. Then paste the keeper into Notion if Notion is home |
 | A proofread in the box where you already type | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly |
 | On-brand campaign copy for a marketing team | [Jasper](/tools/jasper/) | Pro is $59 a seat billed yearly, or $69 monthly. That comparison is linked below |
 

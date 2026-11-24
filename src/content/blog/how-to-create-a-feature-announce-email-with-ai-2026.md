@@ -40,7 +40,7 @@ The brand sample, if you use one, is [how to create a brand voice with AI](/blog
 
 ## Where the sentences are drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the brief in a Project so the next announcement does not inherit last quarter's price. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the brief in a Project so the next announcement does not inherit last quarter's price. The review is [Claude review](/blog/claude-review-2026/).
 
 **The team that already lives in chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually, minimum two, when the feature is unreleased. A personal free account is the wrong place for an embargoed launch. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

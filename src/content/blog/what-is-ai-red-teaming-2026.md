@@ -45,7 +45,7 @@ A red team that starts from "see what you can get it to say" will wander. A red 
 
 **The vendor's own review is not yours.** [Chatbase](/tools/chatbase/) tells you to set guardrails and test before an agent goes live. Hobby is $32 a month billed yearly for 700 message credits, on the October 16 directory card. Their checklist does not know your refund rule. [Intercom Fin](/tools/intercom-fin/) is $49 a month for the base plan, including 50 outcomes, then usage. A support bot that can take an outcome needs your test, not only the vendor's demo.
 
-**A chat seat can draft the test plan's headings.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Use them to format a table of policies you already have. Do not ask a public chatbot to invent attacks, and do not paste production secrets into it to "see what happens."
+**A chat seat can draft the test plan's headings.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20. Use them to format a table of policies you already have. Do not ask a public chatbot to invent attacks, and do not paste production secrets into it to "see what happens."
 
 ## Scope that keeps the work legitimate
 

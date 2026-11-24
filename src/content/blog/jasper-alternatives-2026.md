@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The job became | Open this | Price that matters |
 |---|---|---|
-| A draft one editor will rewrite | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month, or $17 billed annually. ChatGPT Plus is $20. Go is $8 |
+| A draft one editor will rewrite | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Go is $8 |
 | A voice two writers must match, two brands or fewer | Stay on Jasper Pro | $59/seat/month yearly. A third Brand Voice is a Business conversation |
 | A shared chat for a small team, five seats | [Copy.ai](/tools/copy-ai/) Chat | $24/month billed annually, or $29 monthly, for five seats |
 | Workflows that run a go-to-market motion | Copy.ai workflow plans | Growth starts at $1,000/month billed annually |

@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | The runbook and the timeline | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A draft of the status note from facts you paste | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually | It may not invent a cause |
+| A draft of the status note from facts you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | It may not invent a cause |
 | A shared seat when the notes are confidential | [ChatGPT](/tools/chatgpt/) | Business is $20 a user a month billed annually, minimum two | Plus is not an admin system of record |
 | The public sentence | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually | It will not know your severity rules |
 | The switch the runbook names | Your feature-flag system | A product decision, not a chat seat | The model does not get to flip it |

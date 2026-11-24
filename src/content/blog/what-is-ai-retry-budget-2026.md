@@ -43,7 +43,7 @@ A retry is another bill. On DeepSeek's recorded card for deepseek-flash, an off-
 
 **A workflow tool.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. A retry can be another task. Count it. [n8n](/tools/n8n/) Starter cloud is €20 a month billed annually, with 2,500 executions. This page does not convert euros. One failure plus two retries can be three executions if each run is counted.
 
-**A seat, which is the wrong meter.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. The seat does not publish your retry count. If you paste the same prompt again by hand, you spent usage. That is a retry with a person as the loop. Write the number down anyway, or the person will paste it ten times.
+**A seat, which is the wrong meter.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. The seat does not publish your retry count. If you paste the same prompt again by hand, you spent usage. That is a retry with a person as the loop. Write the number down anyway, or the person will paste it ten times.
 
 The ceiling that should contain the retry spend is [what AI budget caps are](/blog/what-is-ai-budget-caps-2026/). Who may spend the allowance at all is [what AI quota management is](/blog/what-is-ai-quota-management-2026/).
 

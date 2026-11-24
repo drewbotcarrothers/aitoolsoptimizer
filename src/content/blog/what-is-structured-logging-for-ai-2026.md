@@ -43,7 +43,7 @@ A product chat is a transcript. It is not a warehouse of fields. Use it to draft
 
 | Job | Tool | What the card supports | What it does not replace |
 |---|---|---|---|
-| Draft the field list from an incident you paste | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | A Project for the schema note | The production log |
+| Draft the field list from an incident you paste | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | A Project for the schema note | The production log |
 | A shared note about which fields are required | [ChatGPT](/tools/chatgpt/) Business at $20 a user a month billed annually, minimum two | Admin controls. No training on business data by default | A queryable store |
 | Count an export you already have | [Hex](/tools/hex/) Professional at $36 an editor a month. Team at $75 adds schedules and alerts | A notebook on rows you loaded | Capture of the call itself |
 | File a ticket when a field shows a refusal spike | [Make](/tools/make/) Core at $9 a month billed annually for 10,000 credits | A side workflow | The row |

@@ -54,7 +54,7 @@ Most knowledge workers need an editor that follows them and one drafter.
 | Tool | Price to know | Documented strength | Documented limit |
 |---|---|---|---|
 | Grammarly Pro | $12/month annual | Rewrites and tone across apps | 2,000 AI prompts on Pro, not unlimited |
-| Claude Pro | $20/month or $17 annual | Long documents, Projects, Artifacts | Usage caps; weak at image generation |
+| Claude Pro | {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annual | Long documents, Projects, Artifacts | Usage caps; weak at image generation |
 | ChatGPT Plus | $20/month | Drafts plus research, images, and custom GPTs | Not an in-line editor in every text box |
 | Notion Business | $20/seat/month | Notion Agent, AI meeting notes, connected-app search | AI value depends on living in Notion |
 | QuillBot Premium | $8.33/month annual | Unlimited paraphrase modes, citations support via plagiarism tools on Premium | Not a full drafting environment |

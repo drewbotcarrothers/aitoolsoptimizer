@@ -42,7 +42,7 @@ A support matrix can be the queue for a customer reason. An internal agent that 
 
 ## Where the path is kept
 
-**The definition of reason codes.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the codes so a run cannot invent one. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of reason codes.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the codes so a run cannot invent one. The review is [Claude review](/blog/claude-review-2026/).
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per reason: queue, role, and stop rule. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

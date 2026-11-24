@@ -45,7 +45,7 @@ That prompt forces a structure you can audit. A hidden scratchpad you never see 
 
 | Product | What you are buying | Price to know |
 |---|---|---|
-| [Claude](/tools/claude/) | A draft with the steps in the reply, on the same plan as any other chat | Pro is $20/month, or $17 billed annually |
+| [Claude](/tools/claude/) | A draft with the steps in the reply, on the same plan as any other chat | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
 | [ChatGPT](/tools/chatgpt/) | The same habit inside ChatGPT | Plus is $20/month. Go is $8 |
 | [Perplexity](/tools/perplexity/) | Steps that should end in a citation you open | Pro is $17/month billed annually |
 | [Consensus](/tools/consensus/) | A paper question, where the "step" is the paper | Pro is $12/month on the directory page |

@@ -46,7 +46,7 @@ The docs page still describes GPT-5.5 retiring from Codex with ChatGPT sign-in o
 
 An API key does not include cloud review, Slack, or the other cloud features the table marks off. Credit rates per million tokens are on the same docs page. They are not the subscription price, and this article does not copy that rate card. The vendor's own example says a typical GPT-5.6 Sol task may use 2 to 15 credits. That is their example, not a measurement we ran.
 
-**Claude Code** comes with Claude Pro at $20 a month, or $17 billed annually, on the directory card checked October 16. It is a different subscription. The review is linked above. **[Cursor](/tools/cursor/)** Plus is $8 a month, or $80 a year, when the fix should stay in an editor you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). **[GitHub Copilot](/tools/github-copilot/)** Pro is $10 a user a month for completions in GitHub's surfaces. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+**Claude Code** comes with Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, on the directory card checked October 16. It is a different subscription. The review is linked above. **[Cursor](/tools/cursor/)** Plus is $8 a month, or $80 a year, when the fix should stay in an editor you control. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/). **[GitHub Copilot](/tools/github-copilot/)** Pro is $10 a user a month for completions in GitHub's surfaces. The invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 
 ## What not to assume
 

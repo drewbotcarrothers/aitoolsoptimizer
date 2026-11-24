@@ -38,7 +38,7 @@ A brief that says the partner is "strategic" has added a judgment. Leave the adj
 
 ## Where it is assembled
 
-**The brief, when the headings match last quarter.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The review is [Claude review](/blog/claude-review-2026/).
+**The brief, when the headings match last quarter.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the owner will mark up.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Plus at $10 is not the full AI tier on the October 16 card. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

@@ -43,8 +43,8 @@ You are paying for access to a trained model, a usage cap, and the product aroun
 | Product | What the plan is actually selling | Price to know |
 |---|---|---|
 | [ChatGPT](/tools/chatgpt/) | Chat, tools, and model access on a consumer or business plan | Go is $8/month. Plus is $20. Pro starts at $100 |
-| [Claude](/tools/claude/) | The same shape, on Anthropic's models | Pro is $20/month, or $17 billed annually |
-| [Gemini](/tools/gemini/) | Google's models inside the Gemini app and, on higher plans, Workspace | Google AI Plus is $4.99/month. Pro is $19.99 |
+| [Claude](/tools/claude/) | The same shape, on Anthropic's models | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
+| [Gemini](/tools/gemini/) | Google's models inside the Gemini app and, on higher plans, Workspace | Google AI Plus is {{price:gemini.plus}}/month. Pro is {{price:gemini.pro}} |
 | [DeepSeek](/tools/deepseek/) | A chat, plus a published API rate | Chat is free. The API lists from $0.15 per 1 million input tokens on the off-peak cache-miss rate recorded October 16, 2026 |
 
 The three-way product comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). A model you can download and run is a distribution choice on top of the same design family. That choice is [what open-source AI is](/blog/what-is-open-source-ai-2026/).

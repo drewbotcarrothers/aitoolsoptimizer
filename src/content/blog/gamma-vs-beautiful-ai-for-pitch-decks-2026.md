@@ -22,7 +22,7 @@ Gamma, Beautiful.ai, and Notion prices are from directory pages checked October 
 | A link is an acceptable leave-behind | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, $108 a year, 1,000 credits | No number that was not in the outline |
 | The file must be PowerPoint, in a template | [Beautiful.ai](/tools/beautiful-ai/) | Pro is $14.50 a month billed annually, or $45 monthly | The Smart Slide does not invent a chart |
 | The outline the deck must match | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A second read of the ask, in prose | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The ask sentence does not change between files |
+| A second read of the ask, in prose | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The ask sentence does not change between files |
 
 ```mermaid
 flowchart TD

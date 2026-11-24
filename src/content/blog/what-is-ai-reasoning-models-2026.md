@@ -41,9 +41,9 @@ OpenAI's recorded matrix puts advanced reasoning on Plus, not on Go. Go stays on
 |---|---|---|
 | [ChatGPT](/tools/chatgpt/) Plus, $20 | Advanced reasoning, expanded deep research, projects, expanded Codex | That Go at $8 includes the same reasoning row. It does not, on the October 24 matrix |
 | [ChatGPT](/tools/chatgpt/) Pro, $100, $200, or $500 | More usage. Ultrafast is tied to the $500 tier | That Pro is a quality upgrade you can see without hitting a Plus cap |
-| [Claude](/tools/claude/) Pro, $20 or $17 billed annually | More usage, more models, Projects, Claude Code | A specific "reasoning" SKU. The directory does not price one separately from the model list |
+| [Claude](/tools/claude/) Pro, {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} billed annually | More usage, more models, Projects, Claude Code | A specific "reasoning" SKU. The directory does not price one separately from the model list |
 | [Claude](/tools/claude/) Max, $100 or $200 | 5× or 20× Pro usage | That the multiple is a smarter model. It is capacity |
-| [Gemini](/tools/gemini/) Google AI Pro, $19.99 | Gemini 4 Argon, 4× usage, Gemini in Gmail and Docs | That Free's Flash-Lite is the same model. The three-way comparison says it is not |
+| [Gemini](/tools/gemini/) Google AI Pro, {{price:gemini.pro}} | Gemini 4 Argon, 4× usage, Gemini in Gmail and Docs | That Free's Flash-Lite is the same model. The three-way comparison says it is not |
 | [DeepSeek](/tools/deepseek/) | Free chat. API input from $0.15 per 1 million tokens off-peak on a cache miss | A consumer reasoning surcharge. None is recorded here |
 
 Claude's capacity jump is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/). Gemini's place next to the other two assistants is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). A coding agent that spends the reasoning budget inside a repo is a different purchase: [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). [Cursor](/tools/cursor/) Plus is $8 on The X Subscription. That $8 is an editor pool, not OpenAI's reasoning row.
@@ -68,7 +68,7 @@ The recorded plans split the family. Free includes GPT-6 text chats with limits 
 
 ### Does Gemini 4 Argon require Ultra?
 
-No. Google AI Pro at $19.99 lists Gemini 4 Argon. Ultra at $99.99 or $199.99 is a limits and storage step, including YouTube Premium on the higher tier. Free is Flash-Lite on the comparison we recorded.
+No. Google AI Pro at {{price:gemini.pro}} lists Gemini 4 Argon. Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}} is a limits and storage step, including YouTube Premium on the higher tier. Free is Flash-Lite on the comparison we recorded.
 
 ### Should I use reasoning for every coding question?
 

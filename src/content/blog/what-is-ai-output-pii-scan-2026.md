@@ -39,7 +39,7 @@ Redaction on the way in can still leave an identifier the model reconstructed or
 
 ## Where the list is kept
 
-**The identifier list and the hold rule.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the types so a later prompt does not drop one. The review is [Claude review](/blog/claude-review-2026/).
+**The identifier list and the hold rule.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the types so a later prompt does not drop one. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft you are about to send.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Paste the list with the draft. Discard a version that says the text is "clean." The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

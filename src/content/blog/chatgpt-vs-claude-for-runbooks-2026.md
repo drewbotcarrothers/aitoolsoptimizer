@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Runbooks (2026): One Procedure, or a Set That Must Match"
-description: "ChatGPT vs Claude for runbooks in 2026. Plus is $20. Claude Pro is $17 billed annually or $20 monthly. The steps stay the ones a person already ran. No reliability scores."
+description: "ChatGPT vs Claude for runbooks in 2026. Plus is $20. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly. The steps stay the ones a person already ran. No reliability scores."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "claude", "runbooks", "comparison"]
@@ -18,7 +18,7 @@ ChatGPT, Notion, and Cursor prices are from directory pages checked October 16, 
 | The page in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | One procedure, from steps you paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No command that was not in the paste |
-| A set of runbooks that must share names | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds your names. It does not prove the step works |
+| A set of runbooks that must share names | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds your names. It does not prove the step works |
 | The page on-call will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A command you want checked against the repo | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review the diff. The runbook does not merge it |
 

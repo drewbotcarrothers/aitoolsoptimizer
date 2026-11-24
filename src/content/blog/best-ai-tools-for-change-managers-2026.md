@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, Gamma, 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The update, one decision sentence, several audiences | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No benefit you did not write |
+| The update, one decision sentence, several audiences | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No benefit you did not write |
 | The audience list and the accepted text | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A short deck from the outline | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, or $108 a year | No metric that was not in the outline |
 | A clarity pass that must not touch the ask | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the ask before and after |

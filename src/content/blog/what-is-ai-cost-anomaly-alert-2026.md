@@ -41,7 +41,7 @@ Detection can be true and still fail if the message goes to a channel nobody rea
 
 **The route.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually on that card, at the 750-task tier. Free is 100 tasks a month. The Zap may deliver the message. It may not decide the threshold. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 
-**The wording, after the numbers exist.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, when the same alert format should match last month's. The review is [Claude review](/blog/claude-review-2026/).
+**The wording, after the numbers exist.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, when the same alert format should match last month's. The review is [Claude review](/blog/claude-review-2026/).
 
 **One message, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Paste the four numbers. Discard a version that adds a cause. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

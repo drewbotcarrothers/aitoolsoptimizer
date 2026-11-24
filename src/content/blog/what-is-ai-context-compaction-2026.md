@@ -39,11 +39,11 @@ A summary written for a person is a document they will read. Context compaction 
 
 ## Where the rule is kept
 
-**The rule.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds what may be shortened and what the pin contains. The review is [Claude review](/blog/claude-review-2026/).
+**The rule.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds what may be shortened and what the pin contains. The review is [Claude review](/blog/claude-review-2026/).
 
 **One draft of the rule from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that summarizes the pin. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 
-**A long doc that already lives in Google's tools, when you are deciding what to pin.** [Gemini](/tools/gemini/) Google AI Plus is $4.99 a month on the October 16 card. Google AI Pro is $19.99 a month on that card. The doc is the source. Compaction is not a reason to skip opening it. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**A long doc that already lives in Google's tools, when you are deciding what to pin.** [Gemini](/tools/gemini/) Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Google AI Pro is {{price:gemini.pro}} a month on that card. The doc is the source. Compaction is not a reason to skip opening it. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **The register of pins.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One row per workflow: what is pinned, what may be shortened, who owns the rule. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

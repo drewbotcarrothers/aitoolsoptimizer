@@ -39,7 +39,7 @@ A fixture run can still fail after this test passes. The text had an owner and t
 
 ## Where the check is written
 
-**The prompt under test.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the required clause in a Project so a later edit is a diff. The review is [Claude review](/blog/claude-review-2026/).
+**The prompt under test.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the required clause in a Project so a later edit is a diff. The review is [Claude review](/blog/claude-review-2026/).
 
 **A one-line assertion from a note you paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Keep the assertion. Discard a second rule the model invented. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

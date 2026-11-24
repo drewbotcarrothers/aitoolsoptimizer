@@ -38,7 +38,7 @@ If the notes say "database CPU was high," the model will often upgrade that to "
 
 ## Where the draft happens
 
-**A long incident channel plus a ticket.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the last postmortem in a Project so the headings stay stable. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**A long incident channel plus a ticket.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the last postmortem in a Project so the headings stay stable. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The on-call engineer's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 is enough for a short draft. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

@@ -45,7 +45,7 @@ This is a product switch, not a prompt that says "please cite sources." Prompts 
 
 **Papers, where the citation is a row in a literature set.** [Elicit](/tools/elicit/) Plus is $11 a user a month billed annually. Pro is $39 a user a month billed annually and is the directory's line for screening up to 5,000 papers. The invoice is [Elicit pricing explained](/blog/elicit-pricing-explained-2026/).
 
-**The refusal text and the rule.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the mode's spec is a long note: which questions require a source, and the exact refusal. The review is [Claude review](/blog/claude-review-2026/).
+**The refusal text and the rule.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the mode's spec is a long note: which questions require a source, and the exact refusal. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short refusal you will paste into the spec.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a refusal that apologizes and then answers anyway.
 

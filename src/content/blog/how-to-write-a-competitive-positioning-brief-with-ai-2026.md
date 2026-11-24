@@ -43,7 +43,7 @@ The alternative is often a spreadsheet or a hire, not a logo. Forcing a logo int
 
 **The public page.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when you need their current pricing or feature page, and you will open it. The brief stores the URL and the date you opened it. A citation you did not open is not proof. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). The lookup habit is [how to use Perplexity for market research](/blog/how-to-use-perplexity-for-market-research-2026/).
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the product one-pager and the notes from the last five losses live in a Project. The brief may not outrun those notes. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the product one-pager and the notes from the last five losses live in a Project. The brief may not outrun those notes. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if this is the page enablement and product both open. One page. A second copy in a chat will drift.
 

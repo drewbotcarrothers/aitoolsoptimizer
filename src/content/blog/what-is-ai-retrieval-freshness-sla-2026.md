@@ -39,7 +39,7 @@ A boost that prefers a collection does not satisfy an age promise. The weight is
 
 **A public page you still open.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on that card. A citation is a link and a date you write down. It is not proof your internal SLA was met. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**The miss note.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Paste the page id, the review date, and the limit. Ask for the miss note. Do not ask whether the page is "probably fine." The review is [Claude review](/blog/claude-review-2026/).
+**The miss note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Paste the page id, the review date, and the limit. Ask for the miss note. Do not ask whether the page is "probably fine." The review is [Claude review](/blog/claude-review-2026/).
 
 **The reminder.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, 750 tasks, on the October 16 card. A task that pages the owner when a date passes is a clock. It is not a judgment that the text is still true. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

@@ -39,7 +39,7 @@ Grok Bot's docs, fetched October 24, 2026, say a Bot keeps stable preferences, r
 
 ## Where the rows live
 
-**A Project you can open.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project holds files you put there. That is a curated folder. Call it the memory store only if the agent writes rows you can see and delete. The review is [Claude review](/blog/claude-review-2026/).
+**A Project you can open.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project holds files you put there. That is a curated folder. Call it the memory store only if the agent writes rows you can see and delete. The review is [Claude review](/blog/claude-review-2026/).
 
 **The wiki, if that is the record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The page is the row. A chat memory that disagrees with the page loses. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

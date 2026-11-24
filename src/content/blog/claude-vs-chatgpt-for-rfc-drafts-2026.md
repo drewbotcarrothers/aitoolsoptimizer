@@ -1,6 +1,6 @@
 ---
 title: "Claude vs ChatGPT for RFC Drafts (2026): A Long Design Note, or One Section"
-description: "Claude vs ChatGPT for RFC drafts in 2026. Claude Pro is $17 billed annually or $20 monthly. ChatGPT Plus is $20. No design scores."
+description: "Claude vs ChatGPT for RFC drafts in 2026. Claude Pro is {{price:claude.pro_annual}} billed annually or {{price:claude.pro_monthly}} monthly. ChatGPT Plus is $20. No design scores."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["claude", "chatgpt", "rfc", "comparison"]
@@ -17,7 +17,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. ChatGPT, Notion
 
 | The RFC in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
-| Several sections that must use the same constraints | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds your text. It does not approve the design |
+| Several sections that must use the same constraints | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds your text. It does not approve the design |
 | One section, from an outline you paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No requirement that was not in the outline |
 | The page engineering will comment on | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A prompt or a code sample inside the RFC | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review the diff. The RFC does not merge it |

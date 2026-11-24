@@ -45,7 +45,7 @@ The format gate can reject an answer that is in the allow band, because the shap
 
 ## Where you would write the edges
 
-**The eval note.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the edges in a Project. A later summary that drops an edge is not a new band. The review is [Claude review](/blog/claude-review-2026/).
+**The eval note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the edges in a Project. A later summary that drops an edge is not a new band. The review is [Claude review](/blog/claude-review-2026/).
 
 **One paste of a label.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Ask it to name the band only from the edges you pasted. If the edges are missing, the line is Edge not set. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

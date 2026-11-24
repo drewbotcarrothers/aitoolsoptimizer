@@ -39,7 +39,7 @@ Write the schema before the prompt. If you cannot name the fields, you do not ha
 
 ## Where the schema meets a product
 
-**A chat that might enforce it.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. A Project or a custom instruction can hold the field list so you do not re-paste it. Holding the list is not the same as an API that rejects a bad shape. If you are in a chat window, validate the paste before a workflow consumes it. The reviews are [ChatGPT review](/blog/chatgpt-review-2026/) and [Claude review](/blog/claude-review-2026/).
+**A chat that might enforce it.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. A Project or a custom instruction can hold the field list so you do not re-paste it. Holding the list is not the same as an API that rejects a bad shape. If you are in a chat window, validate the paste before a workflow consumes it. The reviews are [ChatGPT review](/blog/chatgpt-review-2026/) and [Claude review](/blog/claude-review-2026/).
 
 **A workflow with fixed fields.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually, for 750 tasks, on the October 16 card. Free is 100 tasks a month. [Make](/tools/make/) Core starts at $9 a month billed annually for 10,000 credits. Free is 1,000 credits a month. Both map fields you name. They do not know that `revenue` was invented upstream. Validate, then map. A mapped hallucination is still a hallucination, now inside the system of record.
 

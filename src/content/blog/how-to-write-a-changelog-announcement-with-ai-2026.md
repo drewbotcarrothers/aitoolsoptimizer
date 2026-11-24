@@ -38,7 +38,7 @@ A deprecation is not a cheerful bullet at the bottom. If something is going away
 
 ## Where it is written
 
-**The draft of a longer note.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the announcement sits beside the changelog in a Project so you can see an added claim. The review is [Claude review](/blog/claude-review-2026/).
+**The draft of a longer note.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the announcement sits beside the changelog in a Project so you can see an added claim. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short note from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8 and may include ads, on the directory card. A release note is a poor fit for that plan. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

@@ -19,7 +19,7 @@ The editor for a recording is [Descript](/tools/descript/). The short-clip path 
 |---|---|---|---|
 | A tightened replay | The recording | Descript | Hobbyist is $16/person/month billed annually, or $24 monthly. Free includes 60 media minutes |
 | A social clip | A span you can hear in the recording | [Opus Clip](/tools/opusclip/) | Starter is $15/month, monthly billing only, 150 credits. Pro is $29, or $14.50 billed annually |
-| Show notes, an email, a blog outline | The transcript, after you delete the bad lines | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is $20/month or $17 annually. ChatGPT Plus is $20 |
+| Show notes, an email, a blog outline | The transcript, after you delete the bad lines | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro is {{price:claude.pro_monthly}}/month or {{price:claude.pro_annual}} annually. ChatGPT Plus is $20 |
 | A captioned cut for someone who prefers a timeline | The same recording | [CapCut](/tools/capcut/) | Pro lists at $19.99/month or $179.99/year in the US |
 | A presenter recap with no new claims | A script you wrote from the quotes | [HeyGen](/tools/heygen/) | Creator is $29/month. This is optional, and it is not the replay |
 

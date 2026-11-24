@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Wiki Pages (2026): A Paste, or a Doc You Already Have"
-description: "ChatGPT vs Gemini for wiki pages in 2026. Plus is $20 for one page from an outline. Google AI Pro is $19.99 when the source is a Doc. The wiki home is a different article."
+description: "ChatGPT vs Gemini for wiki pages in 2026. Plus is $20 for one page from an outline. Google AI Pro is {{price:gemini.pro}} when the source is a Doc. The wiki home is a different article."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["chatgpt", "gemini", "wiki", "comparison"]
@@ -20,7 +20,7 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The source | Start here | First paid step | The limit |
 |---|---|---|---|
 | An outline a person wrote, pasted into chat | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No section that was not in the outline |
-| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | No fact that was not in the Doc or the outline |
+| A Google Doc the team already shares | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | No fact that was not in the Doc or the outline |
 | The page people will open, if the wiki is Notion | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The draft seat is not the home. Plus at $10 is not the full AI tier |
 | A clarity pass that must not add a rule | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the policy lines before and after |
 
@@ -37,7 +37,7 @@ flowchart TD
 
 A wiki page that answers a question the outline did not ask has widened the page. If the owner is missing, the draft says Owner not set. It does not assign the team that "usually" owns this topic. Put ideas for a second page in a note labeled Not on this page.
 
-Google AI Plus is $4.99 a month on the October 16 card. Pro at $19.99 is the row that includes Gemini in Docs. Free can draft from a short paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Plus is {{price:gemini.plus}} a month on the October 16 card. Pro at {{price:gemini.pro}} is the row that includes Gemini in Docs. Free can draft from a short paste. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ChatGPT Go is $8 a month. Plus is the seat for a saved page. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

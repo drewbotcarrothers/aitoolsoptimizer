@@ -36,7 +36,7 @@ A default of "30 seconds for everything" is a policy only if you wrote it down a
 
 ## Where you would keep it
 
-**The text of the policy.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the class names in a Project. A shorter paragraph is not a new policy. The review is [Claude review](/blog/claude-review-2026/).
+**The text of the policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the class names in a Project. A shorter paragraph is not a new policy. The review is [Claude review](/blog/claude-review-2026/).
 
 **The config that enforces the seconds.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

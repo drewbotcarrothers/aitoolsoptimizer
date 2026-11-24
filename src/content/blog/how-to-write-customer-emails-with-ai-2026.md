@@ -39,7 +39,7 @@ This is for mail you are allowed to send: a support reply, a success check-in, a
 
 ## Where the draft happens
 
-**A careful reply on a long thread.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the voice note and the policies you quote often into a Project. Free includes up to five Projects. Ask for a reply that quotes the policy and flags anything missing. The long-thread habit is related to [Claude vs ChatGPT for summaries](/blog/claude-vs-chatgpt-for-summaries-2026/), except here the output is a reply, not minutes.
+**A careful reply on a long thread.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the voice note and the policies you quote often into a Project. Free includes up to five Projects. Ask for a reply that quotes the policy and flags anything missing. The long-thread habit is related to [Claude vs ChatGPT for summaries](/blog/claude-vs-chatgpt-for-summaries-2026/), except here the output is a reply, not minutes.
 
 **The shared inbox's writing seat.** [ChatGPT](/tools/chatgpt/) Plus is $20. A Project can hold the macros you actually use. A custom GPT is not a place to hide a refund policy the wiki does not contain. The split is [ChatGPT Projects vs custom GPTs](/blog/chatgpt-projects-vs-custom-gpts-2026/). The writing comparison, if the draft should live in the wiki instead, is [ChatGPT vs Notion AI for writing](/blog/chatgpt-vs-notion-ai-for-writing-2026/).
 

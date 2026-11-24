@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, GitHub 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The checklist and the train note | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No check marked passed unless the paste says so |
+| The checklist and the train note | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No check marked passed unless the paste says so |
 | The page the company keeps | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A change in the release repo | [GitHub Copilot](/tools/github-copilot/) | Business is $19 a user a month | You still review the diff |
 | A diff you want in the editor | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | The model does not merge |

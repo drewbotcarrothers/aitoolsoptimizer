@@ -57,7 +57,7 @@ Enterprise is the sales plan: pooled usage across Grok and Cursor, SCIM, audit l
 
 ## Where $8 is the wrong comparison
 
-[GitHub Copilot](/tools/github-copilot/) Pro is $10 a month on the directory card checked October 16, 2026. [Claude Code](/tools/claude-code/) is included with Claude Pro at $20 a month, or $17 billed annually. [OpenAI Codex](/tools/openai-codex/) for full use sits on ChatGPT Plus at $20. The three-way is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Copilot's invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+[GitHub Copilot](/tools/github-copilot/) Pro is $10 a month on the directory card checked October 16, 2026. [Claude Code](/tools/claude-code/) is included with Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [OpenAI Codex](/tools/openai-codex/) for full use sits on ChatGPT Plus at $20. The three-way is [Cursor vs Claude Code vs Codex](/blog/cursor-vs-claude-code-vs-codex-2026/). Copilot's invoice is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 
 Plus at $8 is the cheapest paid editor seat in that set, and the help page is explicit about what it withholds: Auto, Cloud Agents, Automations, Bugbot, Origin, and third-party models. A developer who wants those buys Premium at $30, which is $10 more than legacy Pro at $20. The $8 price is real. It is the price of the fenced plan. The side-project path, which often fits in Free or Plus, is [how to use Cursor for a side project](/blog/how-to-use-cursor-for-a-side-project-2026/).
 

@@ -38,7 +38,7 @@ A slide that says "most teams" with no source is [a hallucination](/blog/what-is
 
 ## Where the file is made
 
-**The outline.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the script and the card in a Project. [ChatGPT](/tools/chatgpt/) Plus at $20 is the alternative if that is the rep's chat. Business at $20 a user a month billed annually is the admin seat when the deck is confidential. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
+**The outline.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the script and the card in a Project. [ChatGPT](/tools/chatgpt/) Plus at $20 is the alternative if that is the rep's chat. Business at $20 a user a month billed annually is the admin seat when the deck is confidential. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
 **The system of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The deck links to the script. It does not become a second, drifting copy of the price. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

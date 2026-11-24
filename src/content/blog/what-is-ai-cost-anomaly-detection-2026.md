@@ -42,7 +42,7 @@ Cutting an API key because a chart turned red is how you take down a launch. The
 
 **Seat bills that look smooth until they are not.** [ChatGPT](/tools/chatgpt/) Business is $20 a user a month billed annually, or $25 monthly, minimum two users. Five annual seats are 5 × $20 = $100 a month. A sixth seat is a $20 step, not a mystery, if the directory of humans is right. Plus at $20 is an individual line. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A usage band that is supposed to be large.** [Claude](/tools/claude/) Max at $100 or $200 is a usage band for a person. A jump from Pro at $20 to Max is a purchase, and it should have a ticket. Do not detect it as leakage after the fact if someone approved it. The review is [Claude review](/blog/claude-review-2026/).
+**A usage band that is supposed to be large.** [Claude](/tools/claude/) Max at $100 or $200 is a usage band for a person. A jump from Pro at {{price:claude.pro_monthly}} to Max is a purchase, and it should have a ticket. Do not detect it as leakage after the fact if someone approved it. The review is [Claude review](/blog/claude-review-2026/).
 
 **An editor pool.** [Cursor](/tools/cursor/) Plus for new individuals is $8 a month, or $80 a year. Team seats on the new card are $30, $100, or $200 a month. A team that moves from the $30 seat to the $200 seat should see that as a plan change. The group math is [Cursor vs GitHub Copilot for teams](/blog/cursor-vs-github-copilot-for-teams-2026/).
 

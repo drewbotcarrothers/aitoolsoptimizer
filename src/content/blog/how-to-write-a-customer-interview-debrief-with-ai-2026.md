@@ -39,7 +39,7 @@ A debrief is one session. A persona is a composite. Do not let the model promote
 
 ## Where the debrief is built
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the guide and the notes in a Project so the debrief cannot drift from the questions you asked. Free can format one short session. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the guide and the notes in a Project so the debrief cannot drift from the questions you asked. Free can format one short session. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The signed debrief lives there. A chat thread is not the research archive. The record rule is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 

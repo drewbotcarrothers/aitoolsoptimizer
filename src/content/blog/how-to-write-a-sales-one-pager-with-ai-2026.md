@@ -37,7 +37,7 @@ A rounded "30% faster" that started as a rep's impression is [a hallucination](/
 
 ## Where the words and the layout happen
 
-**The long call notes.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the rate card in a Project so the next one-pager cannot drift the price. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long call notes.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the rate card in a Project so the next one-pager cannot drift the price. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The rep's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 can draft a short version. Business at $20 a user a month billed annually, for two or more users, is the admin seat when customer names are in the notes. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

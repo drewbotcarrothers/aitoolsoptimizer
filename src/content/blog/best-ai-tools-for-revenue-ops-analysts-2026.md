@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Hex, Notion, an
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The capacity memo | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No figure that was not in the paste |
+| The capacity memo | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No figure that was not in the paste |
 | The query behind the cell | [Hex](/tools/hex/) | Professional is $36 an editor a month | The result is the source. The chat does not "know" last quarter |
 | The page finance will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The CRM number | [HubSpot](/tools/hubspot/) | Free tools are $0. Starter was $7 or $10 a seat on a limited-time offer that day | The record wins. A generated sentence does not edit the amount |

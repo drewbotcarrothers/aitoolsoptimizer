@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|---|
 | The SOP page the team already follows | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A paste of steps, owners, and the tool they use | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No step that was not in the paste |
-| A long procedure you will keep next to examples | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | You still publish it on the page people open |
+| A long procedure you will keep next to examples | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | You still publish it on the page people open |
 | The work tracker, if the SOP is really a task list | [ClickUp Brain](/tools/clickup-brain/) | Brain AI is $9 a user a month, on top of a workspace plan | The tracker is not the procedure unless people follow it there |
 
 ```mermaid

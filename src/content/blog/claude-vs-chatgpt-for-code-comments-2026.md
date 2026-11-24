@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The comment | Start here | First paid step | The limit |
 |---|---|---|---|
-| A constraint that must stay word for word | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A paraphrase is a different rule |
+| A constraint that must stay word for word | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A paraphrase is a different rule |
 | One function, from behavior you pasted | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No reason that was not in the paste |
 | The comment lands in a diff you will read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You still read the diff. Plus omits Cloud Agents on the October 24 help page |
 | Completions in the editor you already use on GitHub | [GitHub Copilot](/tools/github-copilot/) | Pro is $10 a month | A completion is not a constraint you have accepted |

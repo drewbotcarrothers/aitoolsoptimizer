@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Readers of a site, and you have a clean doc export | [Chatbase](/tools/chatbase/) | Hobby is $32 a month billed yearly, or $40 monthly, for 700 message credits | Upload drafts, roadmaps, or incident notes |
 | You already pay Intercom and want outcome pricing | [Intercom Fin](/tools/intercom-fin/) | $49 a month including 50 outcomes, then $0.99 an outcome | Point Fin at a folder you have not cleaned |
 | A small site widget | [Tidio](/tools/tidio/) Lyro | Standalone Lyro starts at $32.50 a month for 50 Lyro conversations | Treat a widget as a docs site |
-| You are still writing the answers | [Claude](/tools/claude/), then publish the page | Pro is $20, or $17 billed annually | Ship a bot that replaces the missing page |
+| You are still writing the answers | [Claude](/tools/claude/), then publish the page | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | Ship a bot that replaces the missing page |
 
 ```mermaid
 flowchart TD

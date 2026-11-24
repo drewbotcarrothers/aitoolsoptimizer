@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The decision | Start here | First paid step | The limit |
 |---|---|---|---|
-| The wording of a breach note | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | No credit and no cause you did not paste |
+| The wording of a breach note | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | No credit and no cause you did not paste |
 | The macro and the queue rule, in the wiki | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The help desk still has to match the wiki |
 | The desk the rule has to land in | [Zendesk AI](/tools/zendesk-ai/) | Suite Team is $55 per agent per month paid yearly | Automated resolutions can bill on top. Do not turn a draft macro on for every ticket |
 | The customer sentence, after the facts are frozen | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Tone is not a policy change |

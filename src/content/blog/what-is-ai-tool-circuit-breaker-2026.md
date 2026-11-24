@@ -45,7 +45,7 @@ A refusal the product intended, such as a policy block, is not a broken tool. Co
 
 **The agent file.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the breaker is code next to the tool client. You review the diff. A generated change that deletes one tool's counter and uses a global count is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The note that names the tools.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the list of tool ids and thresholds is a short document a second person will read. The review is [Claude review](/blog/claude-review-2026/).
+**The note that names the tools.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the list of tool ids and thresholds is a short document a second person will read. The review is [Claude review](/blog/claude-review-2026/).
 
 **A workflow that calls tools for you.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. Zapier's retries are Zapier's. A Zap that retries a failing search and also calls a second app can spend both. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

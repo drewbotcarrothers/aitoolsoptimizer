@@ -9,9 +9,9 @@ sample: false
 draft: false
 ---
 
-**Leave Gemini when the work is not inside a Google account: a cited web answer, a draft you want from another vendor, or Microsoft 365.** Stay when Gmail, Docs, and Drive are where the work already lives. The free Gemini plan is real. Plus at $4.99 a month is the cheapest paid step in this directory's general-assistant set.
+**Leave Gemini when the work is not inside a Google account: a cited web answer, a draft you want from another vendor, or Microsoft 365.** Stay when Gmail, Docs, and Drive are where the work already lives. The free Gemini plan is real. Plus at {{price:gemini.plus}} a month is the cheapest paid step in this directory's general-assistant set.
 
-[Gemini](/tools/gemini/) prices, checked October 16, 2026: Free with a Google account. Google AI Plus is $4.99 a month. Pro is $19.99. Ultra starts at $99.99. The product page is [Gemini review](/blog/gemini-review-2026/). The three-way is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+[Gemini](/tools/gemini/) prices, checked October 16, 2026: Free with a Google account. Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}}. Ultra starts at {{price:gemini.ultra}}. The product page is [Gemini review](/blog/gemini-review-2026/). The three-way is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
 
 Other prices below are US list prices excluding tax from the same directory check, unless a sentence names a later read. We did not rank model quality.
 
@@ -20,7 +20,7 @@ Other prices below are US list prices excluding tax from the same directory chec
 | The gap | Try | First paid step |
 |---|---|---|
 | Answers need a link you will open | [Perplexity](/tools/perplexity/) | Pro is $17/month billed annually |
-| A long draft, and you want Anthropic's assistant | [Claude](/tools/claude/) | Pro is $20/month, or $17 billed annually |
+| A long draft, and you want Anthropic's assistant | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually |
 | You want OpenAI's product surface | [ChatGPT](/tools/chatgpt/) | Go is $8/month. Plus is $20 |
 | The company runs on Microsoft 365 | [Microsoft Copilot](/tools/microsoft-copilot/) | Free with a Microsoft account. Personal is $9.99/month |
 | You want a lower published non-Google seat | [Mistral Vibe](/tools/mistral-vibe/) | Pro is $14.99/month excluding tax |

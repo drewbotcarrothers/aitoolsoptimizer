@@ -19,7 +19,7 @@ HeyGen and Runway prices are from directory pages checked October 16, 2026. Clau
 |---|---|---|---|
 | A person on camera, from a script you wrote | [HeyGen](/tools/heygen/) | Creator is $29 a month | The words are the script. A feature not in the script stays out |
 | A generated shot of a motion you described | [Runway](/tools/runway/) | Standard is $12 a month billed annually, or $15 monthly | Credits are the meter. A shot is not a product recording |
-| The script, kept stable | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | It does not film |
+| The script, kept stable | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | It does not film |
 | The shot list the team reopens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The list is the record of what was approved |
 
 ```mermaid

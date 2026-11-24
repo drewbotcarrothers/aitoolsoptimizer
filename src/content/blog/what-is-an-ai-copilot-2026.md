@@ -23,7 +23,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | [Cursor](/tools/cursor/) | Cursor's editor | Plus is $8 a month on The X Subscription. Premium is $30 | You, unless you let an agent apply a change you did not read |
 | [Microsoft Copilot](/tools/microsoft-copilot/) | A Microsoft account, and Microsoft 365 | Free with a signed-in account. Microsoft 365 Personal is $9.99 a month | You, in the Microsoft app you opened |
 | [Notion AI](/tools/notion-ai/) | The wiki page | Business at $20 a seat is the full AI tier. Plus at $10 is not that tier | The people who can edit the page |
-| [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | A chat, plus projects | Pro or Plus is $20. Claude Pro is also $17 billed annually | You paste the result back. The chat is not the system of record |
+| [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | A chat, plus projects | Pro or Plus is $20. Claude Pro is also {{price:claude.pro_annual}} billed annually | You paste the result back. The chat is not the system of record |
 
 ```mermaid
 flowchart TD

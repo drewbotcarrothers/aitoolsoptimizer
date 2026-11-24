@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Notes without a bot in a research call | [Granola](/tools/granola/) | Business is $14 a user a month. Basic is free with 30 days of history | You still write the finding |
 | A live transcript, and the participant agreed to a bot | [Otter](/tools/otter-ai/) | Free is 300 minutes a month and 30 minutes a conversation. Pro is $8.33 a user annually | Say the bot is there |
 | Unlimited recordings, bot allowed | [Fathom](/tools/fathom/) | Free. Premium is $16 a month annually for advanced summaries | The summary can drop a hesitation |
-| Synthesis from a transcript you paste | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually | Every theme needs a quote you can find |
+| Synthesis from a transcript you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | Every theme needs a quote you can find |
 | The research repository | [Notion AI](/tools/notion-ai/) | Business is $20 a seat | Plus at $10 is not the full AI tier |
 | A flow diagram from notes that are already true | [Figma](/tools/figma/) or [Napkin AI](/tools/napkin-ai/) | Figma Professional Full is $16 a month annually. Napkin Plus is $9 | A diagram is not a finding |
 

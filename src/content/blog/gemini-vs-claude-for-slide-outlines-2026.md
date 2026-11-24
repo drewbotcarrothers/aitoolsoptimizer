@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs Claude for Slide Outlines (2026): Headings Before Slides"
-description: "Gemini vs Claude for slide outlines in 2026. Google AI Pro is $19.99. Claude Pro is $20 or $17 annual. The outline quotes a brief you supply. No deck scores."
+description: "Gemini vs Claude for slide outlines in 2026. Google AI Pro is {{price:gemini.pro}}. Claude Pro is {{price:claude.pro_monthly}} or {{price:claude.pro_annual}} annual. The outline quotes a brief you supply. No deck scores."
 pubDate: "2026-10-24"
 category: "presentations"
 tags: ["gemini", "claude", "slides", "outlines", "comparison"]
@@ -20,9 +20,9 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The brief you actually have | Start here | What you still do |
 |---|---|---|
 | A short paste | [Gemini](/tools/gemini/) Free or [Claude](/tools/claude/) Free | You delete any heading the brief does not support |
-| The brief is a Google Doc | Gemini on Google AI Pro at $19.99 a month | The doc is the source. The outline quotes it |
-| A lighter Google plan | Google AI Plus at $4.99 a month | The card lists 2x usage versus free. The source rule does not change |
-| A long brief or a packet of notes | Claude Pro at $20 a month, or $17 billed annually | The Project holds the brief. The outline adds no slide it does not contain |
+| The brief is a Google Doc | Gemini on Google AI Pro at {{price:gemini.pro}} a month | The doc is the source. The outline quotes it |
+| A lighter Google plan | Google AI Plus at {{price:gemini.plus}} a month | The card lists 2x usage versus free. The source rule does not change |
+| A long brief or a packet of notes | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the brief. The outline adds no slide it does not contain |
 | You already approved the outline and need slides | [Gamma](/tools/gamma/) Plus at $9 a seat a month, or [Plus AI](/tools/plus-ai/) Basic at $10 a user a month billed annually | The outline is the input. The slide tool does not get to add a section |
 
 ```mermaid
@@ -37,13 +37,13 @@ flowchart TD
   slides -->|No| file["The outline is the record"]
 ```
 
-Google AI Ultra starts at $99.99. Claude Max starts at $100. An outline from a brief you have does not need either. Gemini's free plan includes the assistant with a Google account. Claude's free plan can draft one outline from a paste. Pay when the brief is long enough, or repeated enough, that the free limits get in the way. The Gemini invoice, including the 4x usage line on Pro for the Gemini app, is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Google AI Ultra starts at {{price:gemini.ultra}}. Claude Max starts at $100. An outline from a brief you have does not need either. Gemini's free plan includes the assistant with a Google account. Claude's free plan can draft one outline from a paste. Pay when the brief is long enough, or repeated enough, that the free limits get in the way. The Gemini invoice, including the 4x usage line on Pro for the Gemini app, is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What the outline should contain
 
 The audience, the decision the meeting is for, one heading per slide, the claim on that slide, and the proof you already have. It should not contain speaker notes that smuggle in a new number. If a heading has no proof, the line says Proof missing, and the slide stays out until a person supplies it.
 
-**Gemini** is the paid path when the file is already in Google. Google AI Plus at $4.99 is the 2x row on the Gemini card. Google AI Pro at $19.99 is the 4x row on that same card, and it is the plan the directory ties to Gemini in Gmail and Docs. The product page is [Gemini review](/blog/gemini-review-2026/).
+**Gemini** is the paid path when the file is already in Google. Google AI Plus at {{price:gemini.plus}} is the 2x row on the Gemini card. Google AI Pro at {{price:gemini.pro}} is the 4x row on that same card, and it is the plan the directory ties to Gemini in Gmail and Docs. The product page is [Gemini review](/blog/gemini-review-2026/).
 
 **Claude Pro** is the paid path when the brief is a document you want attached, and the outline is a writing problem before it is a slide problem. The product page is [Claude review](/blog/claude-review-2026/).
 

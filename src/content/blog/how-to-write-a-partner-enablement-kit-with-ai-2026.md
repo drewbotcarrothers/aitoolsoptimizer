@@ -40,7 +40,7 @@ Internal battle language stays internal unless you explicitly include a sourced 
 
 ## Where the packet is built
 
-**The prose.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. A Project holds the approved kit and the sources. Free can draft a short version, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
+**The prose.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. A Project holds the approved kit and the sources. Free can draft a short version, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
 
 **The home.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. The kit is a page with an owner and an expiry. Plus at $10 is not the full AI tier. A PDF emailed once will circulate after the price changes. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). The record is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 

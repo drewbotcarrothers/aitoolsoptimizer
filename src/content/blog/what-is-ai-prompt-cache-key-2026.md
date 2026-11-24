@@ -39,7 +39,7 @@ The key does not contain the customer's document. It names the fields that must 
 
 ## Where the key is written
 
-**The definition of the fields you allow.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project can hold the field list so a later edit does not drop the tenant. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the fields you allow.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project can hold the field list so a later edit does not drop the tenant. The review is [Claude review](/blog/claude-review-2026/).
 
 **One request's key, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8 a month on that October 24 plan page. Plus is the seat for a saved field list. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 

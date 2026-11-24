@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Coding (2026): Codex, or the Google Seat"
-description: "ChatGPT vs Gemini for coding in 2026. Plus includes Codex at $20. Gemini Pro is $19.99 inside Google's plans. No coding scores."
+description: "ChatGPT vs Gemini for coding in 2026. Plus includes Codex at $20. Gemini Pro is {{price:gemini.pro}} inside Google's plans. No coding scores."
 pubDate: "2026-10-24"
 category: "coding"
 tags: ["chatgpt", "gemini", "coding", "comparison"]
@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Your week | Start here | First paid step | Not this |
 |---|---|---|---|
 | You want a coding agent in the same seat as the rest of ChatGPT | [ChatGPT](/tools/chatgpt/) Plus, which includes [Codex](/tools/openai-codex/) | Plus is $20 a month. Go is $8 and is not the Codex-heavy seat | A Google storage plan, if the repo is the point |
-| You want a snippet, an explanation, or help beside Gmail and Docs | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is $19.99 a month | Plus, if you will not use anything outside Google |
+| You want a snippet, an explanation, or help beside Gmail and Docs | [Gemini](/tools/gemini/) | Free with a Google account. Google AI Pro is {{price:gemini.pro}} a month | Plus, if you will not use anything outside Google |
 | You edit in an IDE all day | [Cursor](/tools/cursor/) or [GitHub Copilot](/tools/github-copilot/) | Cursor Plus is $8. Copilot Pro is $10. Copilot Free is 2,000 completions a month | Either chat, as the only place the diff lives |
 | You want a terminal agent on a Claude seat | [Claude](/tools/claude/) Pro, which includes Claude Code | $20 a month, or $17 billed annually. No Claude Code on Free | Gemini, as a stand-in for that agent |
 | Plus limits already stop the day | ChatGPT Pro | From $100 a month | Gemini Ultra, unless you already needed that Google plan |
@@ -42,7 +42,7 @@ flowchart TD
 
 Codex on Plus is still a diff you have to read. A copilot suggests. An agent edits. The definition is [what an AI copilot is](/blog/what-is-an-ai-copilot-2026/). The person who accepts the change is [what human-in-the-loop AI is](/blog/what-is-human-in-the-loop-ai-2026/).
 
-**Gemini.** Free, with a Google account, includes the Flash-Lite model and limited access to other features, plus 15 GB of storage. Google AI Plus is $4.99 a month for higher usage, video generation, and 400 GB. Google AI Pro is $19.99 a month and adds higher usage, Gemini 4 Argon access on that card, Gemini in Gmail and Docs, and 5 TB. Ultra is $99.99 or $199.99 a month. The directory does not list a separate "Gemini Code Assist" price. Do not invent one. If your coding help is "explain this function" or "draft this script I will paste into a repo," Pro is a Google bundle, not an IDE. The Workspace angle, which is mail and docs more than a compiler, is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/).
+**Gemini.** Free, with a Google account, includes the Flash-Lite model and limited access to other features, plus 15 GB of storage. Google AI Plus is {{price:gemini.plus}} a month for higher usage, video generation, and 400 GB. Google AI Pro is {{price:gemini.pro}} a month and adds higher usage, Gemini 4 Argon access on that card, Gemini in Gmail and Docs, and 5 TB. Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}} a month. The directory does not list a separate "Gemini Code Assist" price. Do not invent one. If your coding help is "explain this function" or "draft this script I will paste into a repo," Pro is a Google bundle, not an IDE. The Workspace angle, which is mail and docs more than a compiler, is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/).
 
 **The editor, if that is the real job.** [GitHub Copilot](/tools/github-copilot/) Free is 2,000 completions a month. Pro is $10, with $15 in monthly credits. Business is $19 and adds IP indemnity and admin controls. [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on The X Subscription. Those are the tools to open when the refactor spans files. A chat window is where the explanation can live. The comparison is [Cursor vs GitHub Copilot](/blog/cursor-vs-github-copilot-2026/). The shelf is [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
 

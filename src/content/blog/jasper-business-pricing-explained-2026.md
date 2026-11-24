@@ -45,7 +45,7 @@ A nonprofit discount of 20% is a separate FAQ line, applied after a trial by ema
 
 **A general seat with no Brand IQ cap.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business there is a different product's company seat. It does not include two Jasper Brand Voices. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
 
-**A long draft in a Project.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. It does not store unlimited Jasper Audiences. The review is [Claude review](/blog/claude-review-2026/).
+**A long draft in a Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. It does not store unlimited Jasper Audiences. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the campaign still has to match.** The team that owns messaging, not the invoice, is [best AI tools for product marketing managers](/blog/best-ai-tools-for-product-marketing-managers-2026/).
 

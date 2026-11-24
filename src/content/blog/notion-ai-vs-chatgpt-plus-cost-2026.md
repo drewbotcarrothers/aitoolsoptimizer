@@ -50,7 +50,7 @@ Custom Agents are not included in the $20. They are $10 per 1,000 Notion credits
 
 Notion Business does not follow you into a blank chat about a topic that is not in the workspace. ChatGPT Plus does not edit the Notion database in place unless you connected something and you trust the write. The place a fact is allowed to live is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-[Claude](/tools/claude/) Pro is the other $20 writing seat, or $17 billed annually. Pick it instead of Plus when the long document is the job, not as a third $20 "just in case." The email version of that choice is [ChatGPT vs Claude for email](/blog/chatgpt-vs-claude-for-email-2026/).
+[Claude](/tools/claude/) Pro is the other {{price:claude.pro_monthly}} writing seat, or {{price:claude.pro_annual}} billed annually. Pick it instead of Plus when the long document is the job, not as a third $20 "just in case." The email version of that choice is [ChatGPT vs Claude for email](/blog/chatgpt-vs-claude-for-email-2026/).
 
 [Grammarly](/tools/grammarly/) Pro is $12 a member a month billed annually and edits a sentence. It is not a workspace and not a research chat. The card is [Grammarly pricing explained](/blog/grammarly-pricing-explained-2026/). The head-to-head with the wiki is [Notion AI vs Grammarly](/blog/notion-ai-vs-grammarly-2026/).
 

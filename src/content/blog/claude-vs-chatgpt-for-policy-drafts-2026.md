@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One rule, a few sentences, no long handbook | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You write the rule. The model only formats sections |
 | The same internal template every time: purpose, scope, rule, exception, owner | ChatGPT Plus at $20 a month | Swap the rule. Do not reuse another team's exception |
-| A long handbook the new page must not contradict | Claude Pro at $20 a month, or $17 billed annually | The Project holds the handbook. The draft adds no duty the handbook does not contain |
+| A long handbook the new page must not contradict | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the handbook. The draft adds no duty the handbook does not contain |
 | The signed page lives in the wiki | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The wiki is the record. The chat is the draft |
 | A workflow should stop until a person approves | [n8n](/tools/n8n/) Starter cloud at €20 a month billed annually | The human node is the control. The prose is not |
 

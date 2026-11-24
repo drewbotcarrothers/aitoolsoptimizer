@@ -19,7 +19,7 @@ Prices are from directory pages checked October 16, 2026. Ideogram's card cites 
 |---|---|---|---|
 | Mood, shape, and a direction, words optional | [Midjourney](/tools/midjourney/) | Basic is $10 a month, or $8 billed annually | The wordmark may be illegible. Treat it as a sketch |
 | A name or a short word that must be readable | [Ideogram](/tools/ideogram/) | Plus is $20 a month, or $15 a month billed yearly | A readable word is still not a cleared trademark |
-| The brief before either tool | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The brief does not draw the mark |
+| The brief before either tool | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The brief does not draw the mark |
 | A later layout around a concept you kept | [Canva](/tools/canva/) | Pro is $18 a month, or $180 a year, on the October 16 card | The concept is an input. Canva does not clear it |
 
 ```mermaid

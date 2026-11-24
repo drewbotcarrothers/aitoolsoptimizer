@@ -45,7 +45,7 @@ A loop that searches again is a different product shape. That pattern is [what a
 
 **A bot on your help center, which is the system you would score.** [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly, or $40 monthly. There is a 7-day trial and no permanent free plan on the card. The directory does not say Chatbase runs RAGAS. If you want the score, you export questions, contexts, and answers and run the recipe yourself. The review is [Chatbase review](/blog/chatbase-review-2026/).
 
-**The place you read a failed case.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Paste one failed triple: question, chunks, answer. Ask which claim is unsupported. Do not ask it to "improve the RAGAS number" without showing the case. The review is [Claude review](/blog/claude-review-2026/).
+**The place you read a failed case.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Paste one failed triple: question, chunks, answer. Ask which claim is unsupported. Do not ask it to "improve the RAGAS number" without showing the case. The review is [Claude review](/blog/claude-review-2026/).
 
 **The log of which score you trust.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Record the library version, the judge model, the date, and the set. A score without those four lines cannot be compared with next month. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

@@ -20,7 +20,7 @@ Otter and Fathom prices are from directory pages checked October 16, 2026. Notio
 | The call may pass 30 minutes, and you need a stated minute pool | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually, or $16.99 monthly | 1,200 minutes a user a month, 90 minutes per conversation |
 | A long call with no per-meeting cap on the card | [Otter](/tools/otter-ai/) | Business is $19.99 a user a month billed annually, or $30 monthly | Unlimited meetings, 4 hours per conversation, on that card |
 | A recording and a summary you will edit | [Fathom](/tools/fathom/) | Free includes unlimited recordings | Premium is $16 a month billed annually, or $20 monthly, for advanced summaries |
-| The letter, after the notes are accepted | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No figure that was not in the accepted notes |
+| The letter, after the notes are accepted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No figure that was not in the accepted notes |
 
 ```mermaid
 flowchart TD

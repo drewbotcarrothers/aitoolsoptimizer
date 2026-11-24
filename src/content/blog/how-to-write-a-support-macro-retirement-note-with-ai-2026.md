@@ -38,7 +38,7 @@ Agents will follow the note that is easiest. If the note says the old macro is "
 
 ## Where it is written
 
-**The note, when the format matches the last retirement.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The review is [Claude review](/blog/claude-review-2026/).
+**The note, when the format matches the last retirement.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The review is [Claude review](/blog/claude-review-2026/).
 
 **The help desk the id lives in.** [Zendesk AI](/tools/zendesk-ai/) Support Team is $19 an agent a month paid yearly, and Suite Team is $55, on the October 24 pricing page. The note does not change the macro. A person does, in the product. The invoice is [Zendesk AI pricing explained](/blog/zendesk-ai-pricing-explained-2026/).
 

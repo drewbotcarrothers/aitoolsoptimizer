@@ -18,7 +18,7 @@ bestFor: "Students, researchers and professionals who want to understand and sum
 verdict: "Gemini Notebook is one of the most useful free AI tools available: it answers questions using only the sources you upload, with citations, and turns dense material into Audio Overviews you can listen to. The free tier covers most individual needs; Google AI Pro raises limits about 5x, and Workspace and Google Cloud add business-grade data protection. It's a research companion, not a general web search engine."
 takeaways:
   - "Free to use in the browser with a Google account in supported countries."
-  - "Google AI Plus ($4.99/mo) adds more Audio Overviews and notebooks; Google AI Pro ($19.99/mo) offers 5x more."
+  - "Google AI Plus ({{price:gemini.plus}}/mo) adds more Audio Overviews and notebooks; Google AI Pro ({{price:gemini.pro}}/mo) offers 5x more."
   - "Included in all Google Workspace plans, with enterprise options via Google Cloud."
   - "Enterprise users get 5x or more artifacts, VPC-SC and IAM controls, and data that isn't used to train models."
   - "Answers cite your sources, and generated images and videos carry SynthID watermarks."
@@ -50,7 +50,7 @@ faq:
   - q: "Is Gemini Notebook free?"
     a: "Yes. It's available in the browser to users above the age of consent in supported countries. Paid Google AI plans, Workspace and Google Cloud raise limits."
   - q: "What do paid plans add?"
-    a: "Google AI Plus ($4.99/month) includes more Audio Overviews and notebooks, and Google AI Pro ($19.99/month) offers 5x more Audio Overviews, notebooks and more. Enterprise plans add 5x or more artifacts and advanced security."
+    a: "Google AI Plus ({{price:gemini.plus}}/month) includes more Audio Overviews and notebooks, and Google AI Pro ({{price:gemini.pro}}/month) offers 5x more Audio Overviews, notebooks and more. Enterprise plans add 5x or more artifacts and advanced security."
   - q: "What is an Audio Overview?"
     a: "An Audio Overview turns your documents into a listenable, podcast-style conversation so you can understand the core content while multitasking."
   - q: "Is my data used to train models?"
@@ -98,8 +98,8 @@ From Google's help center and subscriptions page, checked October 16, 2026.
 | Option | Price | What you get |
 |---|---|---|
 | Free (Google account) | $0 | Standard limits |
-| Google AI Plus | $4.99/mo | More Audio Overviews, notebooks and more |
-| Google AI Pro | $19.99/mo | 5x more Audio Overviews, notebooks and more |
+| Google AI Plus | {{price:gemini.plus}}/mo | More Audio Overviews, notebooks and more |
+| Google AI Pro | {{price:gemini.pro}}/mo | 5x more Audio Overviews, notebooks and more |
 | Google Workspace | Included in Workspace plans | Expanded access on qualifying editions |
 | Google Cloud enterprise | Via Gemini Notebook for Enterprise or Gemini Enterprise | 5x+ artifacts, enterprise security |
 

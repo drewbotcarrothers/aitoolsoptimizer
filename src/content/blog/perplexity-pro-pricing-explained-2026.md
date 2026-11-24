@@ -46,7 +46,7 @@ You can opt out of data collection on Pro, Education Pro, and Max, on that read.
 
 **Elicit, if the rows are papers.** [Elicit](/tools/elicit/) Plus is $11 a user a month billed annually on the non-industry annual card recorded October 16. A literature table is [Perplexity vs Elicit for evidence tables](/blog/perplexity-vs-elicit-for-evidence-tables-2026/).
 
-**ChatGPT Plus, if the job is a draft.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page recorded in [ChatGPT vs Claude for stakeholder updates](/blog/chatgpt-vs-claude-for-stakeholder-updates-2026/). The cost comparison is [Perplexity Pro vs ChatGPT Plus cost](/blog/perplexity-pro-vs-chatgpt-plus-cost-2026/). [Claude](/tools/claude/) Pro is $17 a month billed annually, or $20 monthly, on the October 24 read. The same sticker is not the same product.
+**ChatGPT Plus, if the job is a draft.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 24 plan page recorded in [ChatGPT vs Claude for stakeholder updates](/blog/chatgpt-vs-claude-for-stakeholder-updates-2026/). The cost comparison is [Perplexity Pro vs ChatGPT Plus cost](/blog/perplexity-pro-vs-chatgpt-plus-cost-2026/). [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly, on the October 24 read. The same sticker is not the same product.
 
 A year of Pro at the annual monthly rate is 12 × $17 = $204, before tax. That is the annual-rate arithmetic. It is not a quote of a prepaid invoice we saw printed as $204. If checkout shows a different annual total, checkout wins. We are not quoting a monthly price above $17.
 

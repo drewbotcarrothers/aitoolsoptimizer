@@ -40,7 +40,7 @@ The drafting sequence after the card exists is [how to write a blog post with Cl
 
 ## Where the card lives
 
-**One writer.** Paste the card at the top of the thread in [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/). Claude Pro is $20 a month, or $17 billed annually. ChatGPT Plus is $20. Go is $8. Save the card in a project if the product has projects, which Plus lists. The card is still yours to update. A free tier is enough to learn the habit until the cap stops a workday.
+**One writer.** Paste the card at the top of the thread in [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/). Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. ChatGPT Plus is $20. Go is $8. Save the card in a project if the product has projects, which Plus lists. The card is still yours to update. A free tier is enough to learn the habit until the cap stops a workday.
 
 **Two writers and one or two brands.** [Jasper](/tools/jasper/) Pro is $59 per seat per month billed yearly, or $69 monthly. Pro includes two Brand Voices, five Knowledge assets, and three Audiences. A third brand voice is a Business quote. Do not stack three clients into one voice "for now." The comparison with the other platforms is [Jasper vs Copy.ai vs Writesonic](/blog/jasper-vs-copy-ai-vs-writesonic-2026/).
 

@@ -42,7 +42,7 @@ The small slice you might have shipped first is [what an AI canary deployment is
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the last good version in a Project so a later edit does not replace it with "the previous one." The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the last good version in a Project so a later edit does not replace it with "the previous one." The review is [Claude review](/blog/claude-review-2026/).
 
 **The page on call will open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the owner, the version, and the check. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

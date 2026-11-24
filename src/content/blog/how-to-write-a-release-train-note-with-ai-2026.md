@@ -36,7 +36,7 @@ A train note is internal. It tells the people cutting the release what they are 
 
 ## Where it is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, when several trains live in one Project and the note should match the last one. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, when several trains live in one Project and the note should match the last one. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page the next train will open.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if that is the release wiki. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

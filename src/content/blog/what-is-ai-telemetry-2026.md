@@ -46,7 +46,7 @@ Leave out secrets, raw payment data, and the body of a document the log store is
 
 If you call [DeepSeek](/tools/deepseek/) and the directory's off-peak cache-miss price applies, input is from $0.15 per 1 million tokens and output is $0.60 per 1 million tokens. Telemetry is how you explain that invoice per feature. The price is not the telemetry product.
 
-Seat products are a weaker meter. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. A person using the website does not hand you a trace. Telemetry starts when your application makes the call. This page does not invent API rates for those seats.
+Seat products are a weaker meter. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. A person using the website does not hand you a trace. Telemetry starts when your application makes the call. This page does not invent API rates for those seats.
 
 A customer-facing agent has its own analytics, and you should still know which fields you can export. [Chatbase](/tools/chatbase/) Hobby is $32 a month billed yearly on the directory card. [Zendesk AI](/tools/zendesk-ai/) records Support Team at $19 an agent a month paid yearly. Export and retention are questions for the plan you buy. A chart inside the product is theirs. A request id in your incident doc is yours.
 

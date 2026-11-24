@@ -39,7 +39,7 @@ The playbook says how your team handles onboarding. The success plan says what t
 
 ## Where the plan is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the last call notes and the contract's public milestones in a Project. Do not paste confidential terms a personal account may not hold. Free can format one short plan. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the last call notes and the contract's public milestones in a Project. Do not paste confidential terms a personal account may not hold. Free can format one short plan. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page of record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the plan lives in the wiki. The account system of record may instead be the CRM. Pick one. The rule is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 

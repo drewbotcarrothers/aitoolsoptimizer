@@ -18,10 +18,10 @@ Prices are US list prices excluding tax. Coding seats were recorded October 16, 
 | Job | Start here | First paid step | The limit |
 |---|---|---|---|
 | Read a change without living in the editor all day | [Cursor](/tools/cursor/) or [GitHub Copilot](/tools/github-copilot/) | Cursor Plus is $8/month. Copilot Pro is $10 with $15 of credits | You still read the diff. The tool does not approve it |
-| A coding agent in the terminal, on the writing seat you already want | [Claude Code](/tools/claude-code/) | Included with Claude Pro at $20, or $17 billed annually | No free Claude Code. Usage is shared with chat |
+| A coding agent in the terminal, on the writing seat you already want | [Claude Code](/tools/claude-code/) | Included with Claude Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually | No free Claude Code. Usage is shared with chat |
 | Coding inside the ChatGPT seat | [Codex](/tools/openai-codex/) on [ChatGPT](/tools/chatgpt/) Plus | Plus is $20. Go at $8 is only lightweight tasks | Pro from $100 is capacity after Plus actually runs out |
 | The 1:1 and the staff meeting | [Granola](/tools/granola/) or [Fireflies](/tools/fireflies-ai/) | Granola Business is $14/user. Fireflies Pro is $10/user annual | Consent first. One bot, not two |
-| The update, the decision log, the promo packet notes | [Notion AI](/tools/notion-ai/) and [Claude](/tools/claude/) | Notion Business is $20/seat. Claude Pro is $20 | The model formats. You own the judgment |
+| The update, the decision log, the promo packet notes | [Notion AI](/tools/notion-ai/) and [Claude](/tools/claude/) | Notion Business is $20/seat. Claude Pro is {{price:claude.pro_monthly}} | The model formats. You own the judgment |
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,7 @@ Do not buy ChatGPT Pro at $100 so a manager can sound technical. Plus includes t
 
 Take the decisions into [Notion AI](/tools/notion-ai/). A 1:1 note that stays in the notetaker will not be the promo conversation six months later. Business at $20 a seat is the full Notion AI tier. The comparison with a tracker is [Notion AI vs ClickUp Brain](/blog/notion-ai-vs-clickup-brain-2026/).
 
-Write the weekly update in [Claude](/tools/claude/) from the decision log, not from memory. Pro is $20, or $17 billed annually. Ask for decisions, risks, and asks. Delete any metric you did not paste. A sprint retro that should feed the update is [how to run a retro with AI](/blog/how-to-run-a-retro-with-ai-2026/). The release the update points at is [how to write release notes with AI](/blog/how-to-write-release-notes-with-ai-2026/).
+Write the weekly update in [Claude](/tools/claude/) from the decision log, not from memory. Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. Ask for decisions, risks, and asks. Delete any metric you did not paste. A sprint retro that should feed the update is [how to run a retro with AI](/blog/how-to-run-a-retro-with-ai-2026/). The release the update points at is [how to write release notes with AI](/blog/how-to-write-release-notes-with-ai-2026/).
 
 Performance language is the line to keep human. The model can format feedback you wrote about the work. It should not score a person, infer attitude, or draft a rating from a transcript. If a sentence would be uncomfortable to say in the 1:1, it does not go in the doc.
 

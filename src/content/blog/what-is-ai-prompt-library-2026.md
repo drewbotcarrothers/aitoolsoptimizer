@@ -41,7 +41,7 @@ A prompt that embeds a customer's name, a price you did not approve, or a policy
 
 **The page the team already opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month when the library is a database with the fields above. Plus at $10 a seat is the workspace plan, and the full agent experience is not that row. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The long draft of one prompt.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when a prompt and its examples sit in a Project. The model may format the row. It may not mark the row accepted. The review is [Claude review](/blog/claude-review-2026/).
+**The long draft of one prompt.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when a prompt and its examples sit in a Project. The model may format the row. It may not mark the row accepted. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short prompt you will paste into the wiki.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Go is $8 a month and may include ads, on the directory card. A production prompt is a poor fit for a plan the card associates with ads. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

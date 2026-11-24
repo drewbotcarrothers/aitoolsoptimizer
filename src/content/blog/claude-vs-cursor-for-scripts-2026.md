@@ -19,7 +19,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| A spec in a paste, no repo open yet | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The script matches the spec. A person copies it |
+| A spec in a paste, no repo open yet | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The script matches the spec. A person copies it |
 | A repo is open and the script must be a diff | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You read the diff. The model does not merge it |
 | The script is a one-file draft you will throw away | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Same spec rule. No extra files |
 | You already pay for completions in another editor | [GitHub Copilot](/tools/github-copilot/) | The $10 comparison is in the pricing article | This page does not move you off that seat to write one script |

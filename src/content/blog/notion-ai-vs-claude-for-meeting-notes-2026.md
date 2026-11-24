@@ -20,7 +20,7 @@ Notion's prices are from the directory page checked October 16, 2026. Claude's p
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
 | Notes on the Notion page | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier. The card does not put AI Meeting Notes on Plus |
-| A transcript you paste | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | No decision that was not in the paste |
+| A transcript you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | No decision that was not in the paste |
 | One paste, no Project | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | Same limit. A different seat |
 | A recording product | [Otter](/tools/otter-ai/) | Pro is $8.33 a user a month billed annually | This page does not claim Notion or Claude is the recorder |
 

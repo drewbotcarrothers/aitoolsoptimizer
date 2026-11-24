@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Study Guides (2026): The Outline Follows Your Source"
-description: "ChatGPT vs Gemini for study guides in 2026. Plus is $20. Google AI Pro is $19.99. The outline quotes notes you supply. No study scores."
+description: "ChatGPT vs Gemini for study guides in 2026. Plus is $20. Google AI Pro is {{price:gemini.pro}}. The outline quotes notes you supply. No study scores."
 pubDate: "2026-10-24"
 category: "education"
 tags: ["chatgpt", "gemini", "study-guides", "students", "comparison"]
@@ -21,10 +21,10 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | A short paste of your own notes | [ChatGPT](/tools/chatgpt/) Free or [Gemini](/tools/gemini/) Free | You check every definition against the source |
 | The same course outline, week after week | ChatGPT Plus at $20 a month | Swap this week's notes. Do not reuse last week's answers |
-| The chapter sits in Google Docs | Gemini on Google AI Pro at $19.99 a month | The doc is the source. The guide quotes it |
-| A lighter Google plan | Google AI Plus at $4.99 a month | The card lists 2x usage versus free. The source rule does not change |
+| The chapter sits in Google Docs | Gemini on Google AI Pro at {{price:gemini.pro}} a month | The doc is the source. The guide quotes it |
+| A lighter Google plan | Google AI Plus at {{price:gemini.plus}} a month | The card lists 2x usage versus free. The source rule does not change |
 | Several PDFs or a packet you upload | [Gemini Notebook](/tools/gemini-notebook/) on the free Google account, or AI Plus at $4.99 | The guide may use only what you uploaded |
-| A long handbook the outline must not contradict | [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually | The Project holds the handbook. The guide adds no topic it does not contain |
+| A long handbook the outline must not contradict | [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the handbook. The guide adds no topic it does not contain |
 
 ```mermaid
 flowchart TD
@@ -36,13 +36,13 @@ flowchart TD
   check --> practice["You add the problems you will actually do"]
 ```
 
-ChatGPT Pro starts at $100. Gemini's Google AI Ultra starts at $99.99. A weekly study guide from notes you have does not need either. ChatGPT Business, at $20 a user a month billed annually with a two-user minimum, is the row when the notes are a company's and a personal account is against policy. A class syllabus is not that row unless the school says so. The constraints-first habit carries over to home tasks, such as a week of dinners in [ChatGPT vs Gemini for meal planning](/blog/chatgpt-vs-gemini-for-meal-planning-2026/).
+ChatGPT Pro starts at $100. Gemini's Google AI Ultra starts at {{price:gemini.ultra}}. A weekly study guide from notes you have does not need either. ChatGPT Business, at $20 a user a month billed annually with a two-user minimum, is the row when the notes are a company's and a personal account is against policy. A class syllabus is not that row unless the school says so. The constraints-first habit carries over to home tasks, such as a week of dinners in [ChatGPT vs Gemini for meal planning](/blog/chatgpt-vs-gemini-for-meal-planning-2026/).
 
 ## What the guide should contain
 
 The unit's headings, the definitions copied from the source, the formulas or dates the source states, and a short list of practice items you chose. It should not contain a "helpful background" section the chapter never taught. If a heading has no source line, the heading says Missing, or it comes out.
 
-**Gemini and Notebook** are the right paid path when the files are already in Google. Notebook's free tier comes with a personal Google account. AI Plus at $4.99 raises Audio Overviews, notebooks, and related limits on that card. AI Pro at $19.99 is the 5x row. The product page is [Gemini review](/blog/gemini-review-2026/).
+**Gemini and Notebook** are the right paid path when the files are already in Google. Notebook's free tier comes with a personal Google account. AI Plus at {{price:gemini.plus}} raises Audio Overviews, notebooks, and related limits on that card. AI Pro at {{price:gemini.pro}} is the 5x row. The product page is [Gemini review](/blog/gemini-review-2026/).
 
 **ChatGPT Plus** is the right paid path when you keep a project with the outline template and you paste each week's notes. The product page is [ChatGPT review](/blog/chatgpt-review-2026/).
 

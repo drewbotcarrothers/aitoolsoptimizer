@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The note | Start here | First paid step | Leave this for later |
 |---|---|---|---|
-| A long transcript and a standing template | [Claude](/tools/claude/) Pro | $20 a month, or $17 billed annually ($200 up front) | Claude Max, until Pro actually runs out |
+| A long transcript and a standing template | [Claude](/tools/claude/) Pro | {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually ({{price:claude.pro_upfront}} up front) | Claude Max, until Pro actually runs out |
 | A short internal recap | [ChatGPT](/tools/chatgpt/) Plus or Go | Plus is $20. Go is $8 | A second chatbot "for tone" |
 | Someone has to record the call | [Fathom](/tools/fathom/) or [Granola](/tools/granola/) | Fathom Free lists unlimited recordings. Granola Business is $14 a user a month | Pasting a memory of the meeting with no notes |
 | The page the team will reopen | [Notion AI](/tools/notion-ai/) Business | $20 a seat. Plus at $10 is not the full AI tier | Leaving the only copy in a chat |
@@ -71,11 +71,11 @@ You can draft. You should file the note yourself until the template has been bor
 
 ### Is Gemini a third option?
 
-Yes, when the meeting notes should land in a Google Doc. Google AI Pro is $19.99 a month. That bundle is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/). It is still not a recorder.
+Yes, when the meeting notes should land in a Google Doc. Google AI Pro is {{price:gemini.pro}} a month. That bundle is [Gemini vs ChatGPT for Google Workspace](/blog/gemini-vs-chatgpt-for-google-workspace-2026/). It is still not a recorder.
 
 ### What about a team of five?
 
-Five Claude Pro seats at the monthly price are 5 × $20 = $100, with no printed Team admin price on the directory card. Five ChatGPT Business seats on the annual card are also 5 × $20 = $100, with admin controls. The recorder is extra: Fathom Team at $15 is 5 × $15 = $75 a month on the annual rate, and the plan has a two-user minimum. Buy the recorder first if the notes do not exist.
+Five Claude Pro seats at the monthly price are 5 × {{price:claude.pro_monthly}} = $100, with no printed Team admin price on the directory card. Five ChatGPT Business seats on the annual card are also 5 × $20 = $100, with admin controls. The recorder is extra: Fathom Team at $15 is 5 × $15 = $75 a month on the annual rate, and the plan has a two-user minimum. Buy the recorder first if the notes do not exist.
 
 ## Last verified
 

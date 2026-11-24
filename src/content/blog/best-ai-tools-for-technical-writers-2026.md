@@ -17,7 +17,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | Artifact | Start here | First paid step | The limit |
 |---|---|---|---|
-| A long guide you revise from source | [Claude](/tools/claude/) | Pro is $20, or $17 billed annually. Free includes Projects, with limits | The source has to be in the prompt |
+| A long guide you revise from source | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. Free includes Projects, with limits | The source has to be in the prompt |
 | The page the company will open | [Notion AI](/tools/notion-ai/) | Business is $20 a seat for the full AI tier | Plus at $10 is not that tier |
 | A line edit in the editor you type in | [Grammarly](/tools/grammarly/) | $12 a member a month billed annually, or $30 monthly | It does not know the API |
 | Docs-as-code in a repository | [Cursor](/tools/cursor/) or [GitHub Copilot](/tools/github-copilot/) | Cursor Plus is $8. Copilot Pro is $10. Copilot Free is 2,000 completions | You read the diff. The tool does not merge the docs |

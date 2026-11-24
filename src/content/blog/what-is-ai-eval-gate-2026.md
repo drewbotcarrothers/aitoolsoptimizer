@@ -40,7 +40,7 @@ A public benchmark score is not your gate. Your gate names your dataset. A gate 
 
 ## Where the threshold is kept
 
-**The rubric.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the threshold and the waiver rule are a page a second person will read. The model may format the page. It may not pick the number. The review is [Claude review](/blog/claude-review-2026/).
+**The rubric.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the threshold and the waiver rule are a page a second person will read. The model may format the page. It may not pick the number. The review is [Claude review](/blog/claude-review-2026/).
 
 **The check in the repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, when the gate is a script or a required check. You review the diff. A generated change that turns a failure into a warning has removed the gate. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

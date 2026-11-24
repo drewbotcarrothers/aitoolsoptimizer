@@ -42,7 +42,7 @@ DeepSeek's directory record for deepseek-flash, which the card identifies as Dee
 
 On those figures, an off-peak miss costs 50 times an off-peak hit: $0.15 divided by $0.003. That ratio is arithmetic on the recorded card. It is not a promise that your traffic will hit. If the prefix changes every call, the rate is zero and you pay the miss price on every token.
 
-**Claude, ChatGPT, and Cursor** sell seats, and the directory pages checked October 16 do not print a hit price and a miss price for those seats. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Cursor](/tools/cursor/) Plus is $8 a month. Quoting a cache discount for those plans would be an invention. Read the API card you are actually billed on, and keep the seat price separate from the token price.
+**Claude, ChatGPT, and Cursor** sell seats, and the directory pages checked October 16 do not print a hit price and a miss price for those seats. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. [ChatGPT](/tools/chatgpt/) Plus is $20 a month. [Cursor](/tools/cursor/) Plus is $8 a month. Quoting a cache discount for those plans would be an invention. Read the API card you are actually billed on, and keep the seat price separate from the token price.
 
 ## What to write down
 

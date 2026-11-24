@@ -42,7 +42,7 @@ Attribution can split one invoice across several codes. The cost center is the c
 
 **Chat seats.** [ChatGPT](/tools/chatgpt/) Business is $20 per user per month billed annually, with a two-user minimum, or $25 monthly. Plus is $20 a month. A Business seat can sit on a department code. A personal Plus seat on a company card is still spend. Put it on a code or stop expensing it. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-**A second assistant seat.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Max starts at $100. Team plans cover 2 to 150 people. Two assistants in one team are two lines on the same code unless you meant to split writers from engineering. The review is [Claude review](/blog/claude-review-2026/).
+**A second assistant seat.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Max starts at $100. Team plans cover 2 to 150 people. Two assistants in one team are two lines on the same code unless you meant to split writers from engineering. The review is [Claude review](/blog/claude-review-2026/).
 
 **An API line.** [DeepSeek](/tools/deepseek/) publishes per-token API rates. For `deepseek-flash`, the directory records peak input at $0.30 per 1 million tokens on a cache miss and $0.006 on a cache hit, with output at $1.20. Off-peak is half: $0.15, $0.003, and $0.60. That line belongs on the product code that calls it. The unit is [what AI tokens are](/blog/what-are-ai-tokens-explained-2026/). The counter that records the call is [what AI token metering is](/blog/what-is-ai-token-metering-2026/).
 

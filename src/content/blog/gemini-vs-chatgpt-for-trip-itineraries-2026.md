@@ -1,6 +1,6 @@
 ---
 title: "Gemini vs ChatGPT for Trip Itineraries (2026): Your Dates, Then a Draft"
-description: "Gemini vs ChatGPT for trip itineraries in 2026. Google AI Plus is $4.99. ChatGPT Plus is $20. You bring dates and constraints. No travel scores."
+description: "Gemini vs ChatGPT for trip itineraries in 2026. Google AI Plus is {{price:gemini.plus}}. ChatGPT Plus is $20. You bring dates and constraints. No travel scores."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["gemini", "chatgpt", "travel", "itineraries", "comparison"]
@@ -20,7 +20,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The trip file you have | Start here | First paid step | What you still do |
 |---|---|---|---|
 | Dates, city, and a few constraints in a paste | [Gemini](/tools/gemini/) Free or [ChatGPT](/tools/chatgpt/) Free | Either free plan can format one trip | You check hours and transit before you rely on a morning |
-| Notes already in Gmail or Docs | Gemini. Google AI Plus is $4.99 a month. Pro is $19.99 | Pro is the row that includes Gemini in Gmail and Docs, on the October 16 card | The inbox is context. It is not a confirmation |
+| Notes already in Gmail or Docs | Gemini. Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | Pro is the row that includes Gemini in Gmail and Docs, on the October 16 card | The inbox is context. It is not a confirmation |
 | A template you reuse for every trip | ChatGPT Plus at $20 a month | Go is $8 and may include ads | Do not treat an ad as a restaurant |
 | You want links you can open before you commit a day | [Perplexity](/tools/perplexity/) Free, or Pro at $17 a month billed annually | The link is the check. The itinerary comes after | A citation you did not open is not a reservation |
 | The plan the group will actually follow | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record | One page. A chat transcript is not the plan |
@@ -36,7 +36,7 @@ flowchart TD
   cut --> page["The surviving list goes on the page the group uses"]
 ```
 
-Gemini Ultra is $99.99 or $199.99 a month on the October 16 card. ChatGPT Pro starts at $100. A vacation outline does not need either. Google AI Pro at $19.99 bundles storage and Gemini in Google apps. Buy it when you already live in that inbox, not because a model claims to know a neighborhood.
+Gemini Ultra is {{price:gemini.ultra}} or {{price:gemini.ultra_top}} a month on the October 16 card. ChatGPT Pro starts at $100. A vacation outline does not need either. Google AI Pro at {{price:gemini.pro}} bundles storage and Gemini in Google apps. Buy it when you already live in that inbox, not because a model claims to know a neighborhood.
 
 ## What the draft should contain
 

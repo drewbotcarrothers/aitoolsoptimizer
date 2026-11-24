@@ -19,7 +19,7 @@ Gamma, Beautiful.ai, and Notion prices are from directory pages checked October 
 |---|---|---|---|
 | A memo that can become a new deck | [Gamma](/tools/gamma/) | Plus is $9 a seat a month, $108 a year | No number that was not in the memo |
 | A template, with PowerPoint export | [Beautiful.ai](/tools/beautiful-ai/) | Pro is $14.50 a month billed annually, or $45 monthly | The layout system stays. The model fills from the paste |
-| The narrative before either tool | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The narrative is not the deck |
+| The narrative before either tool | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The narrative is not the deck |
 | The page where the numbers were approved | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

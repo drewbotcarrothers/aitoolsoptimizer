@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One letter, from a post and a resume you paste | [ChatGPT](/tools/chatgpt/) Free, or [Claude](/tools/claude/) Free | Delete any employer, date, or metric that was not in the paste |
 | You will reuse the same resume facts across several posts | ChatGPT Plus at $20 a month, with projects | Replace the job post every time. Do not keep last week's company in the letter |
-| The resume and the post live in a long Project you want beside the draft | Claude Pro at $20 a month, or $17 billed annually | Read the Project. A stale bullet in the Project becomes a stale letter |
+| The resume and the post live in a long Project you want beside the draft | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Read the Project. A stale bullet in the Project becomes a stale letter |
 | You want a grammar pass after the facts are true | [Grammarly](/tools/grammarly/) Pro at $12 a member a month billed annually, or $30 monthly | Grammarly does not know your job history. It will not catch a fake metric that is spelled correctly |
 | You hit a free limit mid-draft | ChatGPT Go at $8 a month | Finish the letter. A top tier is not a better biography |
 

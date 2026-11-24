@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Weekly Updates (2026): Several Notes, One Friday"
-description: "ChatGPT vs Gemini for a Friday weekly update in 2026. Combine notes a person already filed. Neither model may add a win. Plus is $20. Google AI Plus is $4.99."
+description: "ChatGPT vs Gemini for a Friday weekly update in 2026. Combine notes a person already filed. Neither model may add a win. Plus is $20. Google AI Plus is {{price:gemini.plus}}."
 pubDate: "2026-10-24"
 category: "writing"
 tags: ["chatgpt", "gemini", "updates", "comparison"]
@@ -20,9 +20,9 @@ ChatGPT's Plus price is from learn.chatgpt.com/docs/pricing on October 24, 2026.
 | The page | Start here | First paid step | The limit |
 |---|---|---|---|
 | Several notes, one paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No win that was not in a note |
-| Notes that already live in a Doc or Sheet | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month | The Doc is the source. A chat memory is not |
+| Notes that already live in a Doc or Sheet | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month | The Doc is the source. A chat memory is not |
 | The page the team will reopen next Friday | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A set of weekly notes that must share headings | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds your headings. It does not invent the week |
+| A set of weekly notes that must share headings | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds your headings. It does not invent the week |
 
 ```mermaid
 flowchart TD
@@ -39,7 +39,7 @@ A weekly update that "celebrates momentum" without a note that said so is a diff
 
 ChatGPT Go is $8 a month on the October 24 plan page. Plus is the seat for a saved recap you will edit. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
-Gemini's October 16 card lists Google AI Pro at $19.99 a month. Buy Pro when Plus limits are the constraint you can show, not because a weekly note sounds important. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+Gemini's October 16 card lists Google AI Pro at {{price:gemini.pro}} a month. Buy Pro when Plus limits are the constraint you can show, not because a weekly note sounds important. The ladder is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What the recap is allowed to contain
 

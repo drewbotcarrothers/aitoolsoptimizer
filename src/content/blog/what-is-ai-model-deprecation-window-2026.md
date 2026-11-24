@@ -42,7 +42,7 @@ A vendor's published retirement date is an input you paste. This page does not k
 
 ## Where the dates are kept
 
-**The definition of the window.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the surface name and both dates. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the window.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the surface name and both dates. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if callers live in a repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff that points a caller at the replacement. The model does not merge it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

@@ -38,7 +38,7 @@ A model that "helpfully" searches a second workspace because the first one was t
 
 ## Where you would keep it
 
-**The rule next to the index.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. A Project can hold the tenant ids you already approved. The review is [Claude review](/blog/claude-review-2026/).
+**The rule next to the index.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. A Project can hold the tenant ids you already approved. The review is [Claude review](/blog/claude-review-2026/).
 
 **A search you still have to open.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the October 24 read in [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). A public web search is not your tenant index. Do not treat a web result as a customer's private corpus. The citation rule is [what AI grounding citation-required is](/blog/what-is-ai-grounding-citation-required-2026/).
 

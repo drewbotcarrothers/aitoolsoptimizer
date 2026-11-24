@@ -40,7 +40,7 @@ Breeze on the tool page is an assistant plus agents: a customer agent, a prospec
 
 **Starter at $7 or $10 a seat.** That figure was a limited-time offer, up to 65 percent off, on the October 16 card, and the public pricing HTML we fetched on October 24 did not include the table. It is a seat promo. It is not Breeze. The seat article explains why Professional and Enterprise stay as quotes. This page does not fill those quotes in with a credit pack.
 
-**A chat subscription.** [Claude](/tools/claude/) Pro is $17 a month billed annually, or $20 monthly. A person can draft a follow-up in Claude. That does not include HubSpot Credits, and it does not write the CRM unless you connected it on purpose. The review is [Claude review](/blog/claude-review-2026/).
+**A chat subscription.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly. A person can draft a follow-up in Claude. That does not include HubSpot Credits, and it does not write the CRM unless you connected it on purpose. The review is [Claude review](/blog/claude-review-2026/).
 
 **A page in the wiki.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. A call note stored in Notion is not a Breeze credit. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

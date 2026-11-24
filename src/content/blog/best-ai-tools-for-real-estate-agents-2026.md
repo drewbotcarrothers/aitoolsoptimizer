@@ -17,7 +17,7 @@ Prices are US list prices from vendor pages checked October 16, 2026, except whe
 
 | Job this week | Tool | Price to know | What you still type yourself |
 |---|---|---|---|
-| Listing remarks, broker notes, buyer recap | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month ($17 annual). ChatGPT Plus $20/month | Beds, baths, price, and every claim about the property |
+| Listing remarks, broker notes, buyer recap | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual). ChatGPT Plus $20/month | Beds, baths, price, and every claim about the property |
 | The email after a showing | [Grammarly](/tools/grammarly/) on a draft you wrote | Pro $12/member/month billed annually | The ask, the date, and the next step |
 | Instagram, Facebook, and a flyer | [Canva](/tools/canva/) | Free, or Pro at $18/month or $180/year | Your photos. MLS photo rules |
 | A listing presentation for a seller meeting | [Gamma](/tools/gamma/) | Plus $9/seat/month | The comps and the pricing recommendation |

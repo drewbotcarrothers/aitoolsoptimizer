@@ -41,7 +41,7 @@ The stop condition is part of the paste. A model that drops it because the list 
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the accepted rules in a Project the customer content never enters. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the accepted rules in a Project the customer content never enters. The review is [Claude review](/blog/claude-review-2026/).
 
 **The page that holds the accepted checklist.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month on the October 16 card. Link the owner, the date, and the record location. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

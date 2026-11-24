@@ -46,7 +46,7 @@ Write one schema per tool id. A shared "whatever JSON comes back" parser will ac
 
 **The code next to the tool client.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff. A generated schema that marks every field optional is a defect. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**The note a second person reads.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the field list is a table you will paste into the ticket. The model may format rows you paste. It may not add a field. The review is [Claude review](/blog/claude-review-2026/).
+**The note a second person reads.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the field list is a table you will paste into the ticket. The model may format rows you paste. It may not add a field. The review is [Claude review](/blog/claude-review-2026/).
 
 **A workflow tool that hides the payload.** [Zapier](/tools/zapier/) Professional is $19.99 a month billed annually. Zapier's field mapping is Zapier's. If a step continues when a field is blank, you have accepted a schema that treats blank as success. The invoice is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 

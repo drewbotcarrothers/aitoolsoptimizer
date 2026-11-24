@@ -49,7 +49,7 @@ A year of Teams at the $29 floor is 12 × $29 = $348. That arithmetic is for Tea
 
 [Zapier](/tools/zapier/) Enterprise is also custom. Team, the priced shared-admin plan, is $69 a month billed annually on the October 16 card. That $69 is not a Make Enterprise proxy. The task ladder is [Zapier pricing explained](/blog/zapier-pricing-explained-2026/).
 
-A model key is still a second invoice on any Make plan, including a custom one, unless the quote says the model is bundled. [Claude](/tools/claude/) Pro is $17 a month billed annually, or $20 monthly. It is not included in Teams' $29, and it is not included in an Enterprise quote that does not mention it.
+A model key is still a second invoice on any Make plan, including a custom one, unless the quote says the model is bundled. [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly. It is not included in Teams' $29, and it is not included in an Enterprise quote that does not mention it.
 
 Most module actions use 1 credit on the public plans. Some AI features use more. Routers and error handlers do not consume credits, on the card. An Enterprise quote that uses a different unit should say so. Until it does, do not assume the public credit definition vanished, and do not assume it stayed. Read the quote.
 

@@ -39,7 +39,7 @@ A model asked for a "strong result" will produce one. That sentence is [a halluc
 
 ## Where the draft happens
 
-**The long pass.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the quote, the metric, and a one-paragraph description of the work in a Project. Ask for a short page and a list titled "claims not in the source." Free includes Projects, with limits. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The long pass.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the quote, the metric, and a one-paragraph description of the work in a Project. Ask for a short page and a list titled "claims not in the source." Free includes Projects, with limits. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **The team's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20. Go at $8 can draft a short page. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The writing split is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 

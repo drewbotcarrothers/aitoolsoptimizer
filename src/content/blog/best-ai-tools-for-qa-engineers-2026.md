@@ -18,7 +18,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Artifact | Start here | First paid step | The limit |
 |---|---|---|---|
 | A test next to the code, in the editor | [Cursor](/tools/cursor/) or [GitHub Copilot](/tools/github-copilot/) | Cursor Plus is $8. Copilot Pro is $10. Copilot Free is 2,000 completions a month | You run the test. The tool does not certify the build |
-| A terminal agent that drafts a suite you will read | [Claude Code](/tools/claude-code/) on [Claude](/tools/claude/) Pro | Pro is $20, or $17 billed annually. No Claude Code on Free | A suite that does not fail when the bug is present is a bad suite |
+| A terminal agent that drafts a suite you will read | [Claude Code](/tools/claude-code/) on [Claude](/tools/claude/) Pro | Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. No Claude Code on Free | A suite that does not fail when the bug is present is a bad suite |
 | A short reproduction written from notes | [ChatGPT](/tools/chatgpt/) | Plus is $20 and includes Codex. Go is $8 for a written note | The build number has to be yours |
 | The test plan in the wiki | [Notion AI](/tools/notion-ai/) | Business is $20 a seat. Plus at $10 is not the full AI tier | A plan is not a run |
 | Notes from a bug-review call | [Fathom](/tools/fathom/) | Free includes unlimited recordings, if a bot is allowed | The summary is not the ticket |

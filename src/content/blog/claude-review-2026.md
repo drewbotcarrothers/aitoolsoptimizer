@@ -1,5 +1,5 @@
 ---
-title: "Claude Review (2026): Free, Pro at $20, and One Usage Pool"
+title: "Claude Review (2026): Free, Pro at {{price:claude.pro_monthly}}, and One Usage Pool"
 description: "A 2026 Claude review: what Free and Pro include, why chat and Claude Code share one pool, and when ChatGPT or Gemini is the better subscription."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"

@@ -1,6 +1,6 @@
 ---
 title: "Claude Pricing Explained (2026): Pro, Max, Team, and the Seat Floor"
-description: "Claude pricing in 2026 from claude.com/pricing on October 24. Pro is $17 annual or $20 monthly. Max starts at $100. USD."
+description: "Claude pricing in 2026 from claude.com/pricing on October 24. Pro is {{price:claude.pro_annual}} annual or {{price:claude.pro_monthly}} monthly. Max starts at $100. USD."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["claude", "pricing", "anthropic", "plans"]
@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**Claude Pro is $17 a month with the annual discount, $200 billed up front, or $20 billed monthly. Max starts at $100 a month. Team standard seats are $20 a seat a month billed annually, or $25 monthly, for 2 to 150 people.** Those figures are from claude.com/pricing fetched October 24, 2026. The page says prices exclude tax and can change. Free is $0.
+**Claude Pro is {{price:claude.pro_annual}} a month with the annual discount, {{price:claude.pro_upfront}} billed up front, or {{price:claude.pro_monthly}} billed monthly. Max starts at $100 a month. Team standard seats are $20 a seat a month billed annually, or $25 monthly, for 2 to 150 people.** Those figures are from claude.com/pricing fetched October 24, 2026. The page says prices exclude tax and can change. Free is $0.
 
 A [ChatGPT](/tools/chatgpt/) seat at $20 is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). The coding tool included with paid Claude plans is on the [Claude Code](/tools/claude-code/) card. The product review, separate from this bill, is [Claude review](/blog/claude-review-2026/).
 
@@ -45,7 +45,7 @@ Usage limits apply on every plan. The page says the context window is up to 1M t
 
 **Claude Code** has no separate consumer price on the October 16 directory card. The card says it is included with Pro, Max, Team, and Enterprise, or available through the API. The October 24 Claude page lists Claude Code on Pro. A Team or Enterprise buyer should still read the current Claude Code page before assuming every seat includes the same usage.
 
-**[Gemini](/tools/gemini/)** Google AI Pro is $19.99 a month on the October 16 card, if the alternative is a Google seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**[Gemini](/tools/gemini/)** Google AI Pro is {{price:gemini.pro}} a month on the October 16 card, if the alternative is a Google seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 ## What not to assume
 

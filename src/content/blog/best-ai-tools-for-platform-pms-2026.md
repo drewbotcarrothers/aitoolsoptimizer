@@ -19,7 +19,7 @@ Claude's prices, including Claude Code on paid plans, are from claude.com/pricin
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The deprecation note and the consumer notice | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No date, endpoint, or replacement that was not in the paste |
+| The deprecation note and the consumer notice | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No date, endpoint, or replacement that was not in the paste |
 | The migration in the platform repo | [Claude Code](/tools/claude-code/) | Included with Pro. No free Claude Code on the October 24 table | Shared usage with chat. You still set a tool-call budget |
 | The toggle inventory | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | One row per name in the export. Unknown stays unknown |
 | A diff on a branch you can read | [Cursor](/tools/cursor/) | Plus is $8 a month, or $80 a year | You review it. The model does not merge |

@@ -1,6 +1,6 @@
 ---
 title: "Perplexity vs Gemini for Competitive Intel (2026): A Public Page, or the File You Have"
-description: "Perplexity vs Gemini for competitive intel in 2026. Pro is $17 a month billed annually. Gemini Pro is $19.99. Each row names the page and the date."
+description: "Perplexity vs Gemini for competitive intel in 2026. Pro is $17 a month billed annually. Gemini Pro is {{price:gemini.pro}}. Each row names the page and the date."
 pubDate: "2026-10-24"
 category: "research-search"
 tags: ["perplexity", "gemini", "competitive-intel", "comparison"]
@@ -20,8 +20,8 @@ Perplexity's Pro price is the October 16 directory card, reconfirmed in the Octo
 | The row | Start here | First paid step | The limit |
 |---|---|---|---|
 | A public pricing or feature page, with a URL and the date you opened it | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | No price that was not on that page that day |
-| A win-loss note or export already in Drive | [Gemini](/tools/gemini/) | Google AI Pro is $19.99 a month | The row points at a heading in that file. No quote the file does not contain |
-| The sentence you will reuse inside the company | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The Project holds the sentence. It may not add a weakness |
+| A win-loss note or export already in Drive | [Gemini](/tools/gemini/) | Google AI Pro is {{price:gemini.pro}} a month | The row points at a heading in that file. No quote the file does not contain |
+| The sentence you will reuse inside the company | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The Project holds the sentence. It may not add a weakness |
 | The table the next brief will copy | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid
@@ -45,7 +45,7 @@ The competitor's name, the URL or the file heading, the date, and the sentence y
 
 **Perplexity Pro** is the public-page path. The review is [Perplexity review](/blog/perplexity-review-2026/). The invoice is [Perplexity Pro pricing explained](/blog/perplexity-pro-pricing-explained-2026/).
 
-**Gemini Pro** is the Drive-file path. Free Gemini comes with a Google account. AI Plus is $4.99 a month. Pro is the seat this page quotes when the file is the record. The review is [Gemini review](/blog/gemini-review-2026/).
+**Gemini Pro** is the Drive-file path. Free Gemini comes with a Google account. AI Plus is {{price:gemini.plus}} a month. Pro is the seat this page quotes when the file is the record. The review is [Gemini review](/blog/gemini-review-2026/).
 
 **Claude Pro** holds the sentence the brief will repeat, so a later row does not sharpen it. The review is [Claude review](/blog/claude-review-2026/).
 

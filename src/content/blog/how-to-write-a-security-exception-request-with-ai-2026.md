@@ -38,7 +38,7 @@ The sandbox article is about where a tool may execute. This request is about a c
 
 ## Where the request is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the policy excerpt is long and should sit in a Project. Paste only the excerpt you are allowed to paste. Do not paste a full policy pack into a personal account your company forbids. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the policy excerpt is long and should sit in a Project. Paste only the excerpt you are allowed to paste. Do not paste a full policy pack into a personal account your company forbids. The review is [Claude review](/blog/claude-review-2026/).
 
 **The register.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if exceptions live in a database with an expiry view. The chat is not the register. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

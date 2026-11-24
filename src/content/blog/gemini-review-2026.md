@@ -1,5 +1,5 @@
 ---
-title: "Google Gemini Review (2026): AI Plus at $4.99 and Pro at $19.99"
+title: "Google Gemini Review (2026): AI Plus at {{price:gemini.plus}} and Pro at {{price:gemini.pro}}"
 description: "A 2026 Gemini review of Google AI Plus, Pro, and Ultra in USD, what each tier adds in the Gemini app, and when ChatGPT or Claude is the simpler subscription."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
@@ -9,7 +9,7 @@ sample: false
 draft: false
 ---
 
-**[Gemini](/tools/gemini/) is Google's assistant, in the Gemini app and inside Google products.** The paid plans are Google AI subscriptions. On the United States view of Google's subscriptions page, Plus is $4.99 a month, Pro is $19.99 a month, and Ultra starts at $99.99 a month. You are buying usage, models, Flow credits, and storage together. That bundle is the product.
+**[Gemini](/tools/gemini/) is Google's assistant, in the Gemini app and inside Google products.** The paid plans are Google AI subscriptions. On the United States view of Google's subscriptions page, Plus is {{price:gemini.plus}} a month, Pro is {{price:gemini.pro}} a month, and Ultra starts at {{price:gemini.ultra}} a month. You are buying usage, models, Flow credits, and storage together. That bundle is the product.
 
 Those dollar amounts were read from the United States view of [gemini.google/subscriptions](https://gemini.google/subscriptions/) on October 24, 2026. Google's footnote says Plus, Pro, and Ultra are available in more than 140 countries, and some benefits are limited by country and to ages 18+. A price in another country, or in a mobile app store, can differ. We did not score Gemini against ChatGPT. The comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). Companies buying for a team should read [how Gemini Enterprise is priced](/blog/gemini-enterprise-pricing-explained-2026/), which is not the consumer AI Pro plan.
 
@@ -18,10 +18,10 @@ Those dollar amounts were read from the United States view of [gemini.google/sub
 | Plan | US price on the page | What the page adds over the tier below |
 |---|---|---|
 | Free | $0 | Flash-Lite, image generation and editing, Deep Research, Gemini Live, Canvas, Gems, 15 GB storage |
-| Google AI Plus | $4.99/month | Flash, about 2× Free usage, video generation, 200 Google Flow credits, 400 GB |
-| Google AI Pro | $19.99/month | Gemini 4 Argon and Pro, about 4× Free usage, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
-| Google AI Ultra | $99.99/month | About 5× Pro usage, 10,000 Flow credits, storage starting at 20 TB, YouTube Premium |
-| Google AI Ultra | $199.99/month | About 20× Pro usage, 25,000 Flow credits. Project Genie is listed on Ultra |
+| Google AI Plus | {{price:gemini.plus}}/month | Flash, about 2× Free usage, video generation, 200 Google Flow credits, 400 GB |
+| Google AI Pro | {{price:gemini.pro}}/month | Gemini 4 Argon and Pro, about 4× Free usage, 1,000 Flow credits, Gemini in Gmail and Docs, 5 TB |
+| Google AI Ultra | {{price:gemini.ultra}}/month | About 5× Pro usage, 10,000 Flow credits, storage starting at 20 TB, YouTube Premium |
+| Google AI Ultra | {{price:gemini.ultra_top}}/month | About 20× Pro usage, 25,000 Flow credits. Project Genie is listed on Ultra |
 
 The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 

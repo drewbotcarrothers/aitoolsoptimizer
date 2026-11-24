@@ -47,7 +47,7 @@ A title that matches your question is not support. Support is the sentence, the 
 
 **Files you already have.** [Gemini Notebook](/tools/gemini-notebook/) is free with a Google account on the directory card. Higher limits sit on Google AI plans. The notebook answers from uploads. Groundedness is still "is this sentence in this file?"
 
-**A draft you will edit.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Ask it to list claims that are not in the paste. You still open the source. The model can mark its own sentence as supported. That mark is not the check.
+**A draft you will edit.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Ask it to list claims that are not in the paste. You still open the source. The model can mark its own sentence as supported. That mark is not the check.
 
 ## What to write down before you sample
 

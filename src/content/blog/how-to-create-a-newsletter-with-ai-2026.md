@@ -39,7 +39,7 @@ A summary of an article the model did not see is [a hallucination](/blog/what-is
 
 **A repeating format and images in one seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 and includes custom GPTs and image generation. A custom GPT can hold the section list. Go at $8 is enough for a short edition and may include ads. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). The writing comparison, if the edition is really an essay, is [ChatGPT vs Claude for writing](/blog/chatgpt-vs-claude-for-writing-2026/).
 
-**A long source pack.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the style sheet in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The brainstorm that should happen before the edition, not inside the send, is [ChatGPT vs Claude for brainstorming](/blog/chatgpt-vs-claude-for-brainstorming-2026/).
+**A long source pack.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the style sheet in a Project. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). The brainstorm that should happen before the edition, not inside the send, is [ChatGPT vs Claude for brainstorming](/blog/chatgpt-vs-claude-for-brainstorming-2026/).
 
 **The archive.** [Notion AI](/tools/notion-ai/) Business is $20 a seat if the back issues live in Notion. Plus at $10 is not the full AI tier. The archive is the record of what you sent. The chat is not. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

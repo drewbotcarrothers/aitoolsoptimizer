@@ -40,7 +40,7 @@ A budget you never set is the model's window, and the window is not a policy. Wr
 
 ## Where the cap is written
 
-**The project instructions.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put the cap and the pin list where the session starts. The review is [Claude review](/blog/claude-review-2026/).
+**The project instructions.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put the cap and the pin list where the session starts. The review is [Claude review](/blog/claude-review-2026/).
 
 **A short working session.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. A saved chat is still a session. Do not paste a secret so the model "has context." The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

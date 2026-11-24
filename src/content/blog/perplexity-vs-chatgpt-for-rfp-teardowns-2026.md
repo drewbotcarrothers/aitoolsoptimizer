@@ -19,7 +19,7 @@ Perplexity and Notion prices are from directory pages checked October 16, 2026. 
 |---|---|---|---|
 | A public RFP or a vendor page, with a link you open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | The citation is the check. A snippet is not the section |
 | An RFP file you are allowed to paste | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No requirement that is not in the paste |
-| A standing teardown format | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the headings. It does not bid |
+| A standing teardown format | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the headings. It does not bid |
 | The page the team will mark up | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The chat is not the bid file |
 
 ```mermaid

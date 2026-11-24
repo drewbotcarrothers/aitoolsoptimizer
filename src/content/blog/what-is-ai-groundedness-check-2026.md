@@ -41,7 +41,7 @@ The four outcomes live on the groundedness page. This check only works if the re
 
 **A web claim with a link.** [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually on the directory card. Free includes top models with limited weekly usage. Open the citation. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
 
-**The list of claims.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when you ask for a list of factual sentences in a draft you pasted. You still open the source. The review is [Claude review](/blog/claude-review-2026/).
+**The list of claims.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when you ask for a list of factual sentences in a draft you pasted. You still open the source. The review is [Claude review](/blog/claude-review-2026/).
 
 **A shorter list.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month can number the claims. Discard any claim it adds that was not in the draft. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

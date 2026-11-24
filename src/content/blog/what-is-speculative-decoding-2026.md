@@ -54,7 +54,7 @@ You usually do not buy "speculative decoding" as a seat. It sits inside a vendor
 
 [DeepSeek](/tools/deepseek/) is the API in this directory with a public token card, not a public latency card. Flash input on a cache miss is $0.15 per million tokens off-peak. That price does not tell you whether the serving path drafts tokens ahead. Read [DeepSeek review](/blog/deepseek-review-2026/) for the bill. Time your own call if the wait is the issue.
 
-[ChatGPT](/tools/chatgpt/) Plus at $20 and [Claude](/tools/claude/) Pro at $20, or $17 billed annually, are usage plans. Neither plan page, as recorded here, sells a speculative-decoding toggle. If a reply feels slow, time the first token and the tool calls before you change plans. The trace habit is [what AI observability is](/blog/what-is-ai-observability-2026/).
+[ChatGPT](/tools/chatgpt/) Plus at $20 and [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually, are usage plans. Neither plan page, as recorded here, sells a speculative-decoding toggle. If a reply feels slow, time the first token and the tool calls before you change plans. The trace habit is [what AI observability is](/blog/what-is-ai-observability-2026/).
 
 [GitHub Copilot](/tools/github-copilot/) Free includes 2,000 completions a month. Pro is $10. A completion is a short draft by product design. That product fact is not a statement that the serving stack uses speculative decoding. The seat is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 

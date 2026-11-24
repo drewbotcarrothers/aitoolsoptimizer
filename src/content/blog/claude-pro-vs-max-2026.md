@@ -1,6 +1,6 @@
 ---
 title: "Claude Pro vs Max: Which Plan Do You Need? (Usage Limits Explained Simply)"
-description: "Claude Pro at $20 and Max at $100 or $200, explained with Anthropic's 5-hour and weekly limits, Claude Code, and when the upgrade is worth it in 2026."
+description: "Claude Pro at {{price:claude.pro_monthly}} and Max at $100 or $200, explained with Anthropic's 5-hour and weekly limits, Claude Code, and when the upgrade is worth it in 2026."
 pubDate: "2026-10-24"
 category: "chatbots-assistants"
 tags: ["claude", "claude-pro", "claude-max", "usage-limits"]
@@ -57,7 +57,7 @@ From the feature table on the pricing page:
 - **More models.** Opus is No on Free and Yes on Pro. Fable, the plan's highest-end model row, is usage credits on Pro and 50% of weekly limits on both Max tiers.
 - **Usage credits** so a paid user can continue past the included pool at API rates.
 
-Free already includes chat on every platform, web search, file creation, code execution, memory, connectors, Artifacts, voice, and Claude Design, Slides, and Docs. If your work fits in that list and you rarely see a limit, Pro is optional. The annual price ($200 up front, $17 a month) saves $40 against twelve months at $20. Anthropic says unused time is credited if you switch from monthly to annual. Take the monthly plan for one real month before you prepay.
+Free already includes chat on every platform, web search, file creation, code execution, memory, connectors, Artifacts, voice, and Claude Design, Slides, and Docs. If your work fits in that list and you rarely see a limit, Pro is optional. The annual price ({{price:claude.pro_upfront}} up front, {{price:claude.pro_annual}} a month) saves $40 against twelve months at {{price:claude.pro_monthly}}. Anthropic says unused time is credited if you switch from monthly to annual. Take the monthly plan for one real month before you prepay.
 
 Model training is an opt-out on Free, Pro, and Max. Team and Enterprise do not train on your data by default. Max does not add that enterprise privacy switch. If the reason you want to pay more is SSO, retention controls, or a HIPAA-ready offering, the pricing page puts those on Enterprise, not on Max. Self-serve Enterprise is described as $20 per seat per month plus usage at API rates, billed annually. That is a seat-plus-usage bill, not a flat $20 all-in.
 
@@ -109,7 +109,7 @@ Yes. Claude Code is included on every paid plan, including both Max tiers, and i
 
 ### Is annual billing available on Max?
 
-Anthropic's FAQ says annual subscriptions are available for Pro and Team. The payment table lists Max as monthly. Pro is the plan with the $17 annual price. Max 5× and Max 20× are monthly bills.
+Anthropic's FAQ says annual subscriptions are available for Pro and Team. The payment table lists Max as monthly. Pro is the plan with the {{price:claude.pro_annual}} annual price. Max 5× and Max 20× are monthly bills.
 
 ## Last verified
 

@@ -22,7 +22,7 @@ Prices are US list prices excluding tax. Bolt, Replit, Cursor, and Granola figur
 | The code, once someone will maintain it | [Cursor](/tools/cursor/) | Plus is $8/month or $80/year. Premium is $30 if you need cloud agents | You are still describing an app and nobody will read a diff |
 | Investor and customer calls, no bot | [Granola](/tools/granola/) | Business is $14/user/month for history past 30 days | You need a bot the whole company shares. Look at Fathom |
 | A leave-behind deck | [Gamma](/tools/gamma/) | Plus is $9/seat/month | The firm requires a locked PowerPoint template |
-| The narrative, from notes you paste | [Claude](/tools/claude/) | Pro is $20/month, or $17 billed annually | The facts are not in the notes. The model will fill them |
+| The narrative, from notes you paste | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually | The facts are not in the notes. The model will fill them |
 | A one-page site and a simple brand kit | [Canva](/tools/canva/) | Pro is $18/month or $180/year | The site is the product. Use Lovable or Bolt |
 
 ```mermaid

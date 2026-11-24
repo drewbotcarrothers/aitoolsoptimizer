@@ -40,8 +40,8 @@ The index behind a text corpus is often [embeddings](/blog/what-is-embeddings-in
 
 | The file | Use this | Why it matches | Price to know |
 |---|---|---|---|
-| A folder of PDFs, slides, and notes you trust | [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on your sources | Free with a Google account. Google AI Plus is $4.99/month |
-| One long document you upload | [Claude](/tools/claude/) | File upload and Projects. Recorded context up to 1 million tokens depending on the model | Pro is $20/month, or $17 billed annually. Free includes files, with usage limits |
+| A folder of PDFs, slides, and notes you trust | [Gemini Notebook](/tools/gemini-notebook/) | The notebook stays on your sources | Free with a Google account. Google AI Plus is {{price:gemini.plus}}/month |
+| One long document you upload | [Claude](/tools/claude/) | File upload and Projects. Recorded context up to 1 million tokens depending on the model | Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Free includes files, with usage limits |
 | A chat where the team already works, plus an upload | [ChatGPT](/tools/chatgpt/) | File upload. Plus adds projects. The reasoning window recorded for Plus is 256K, and your file shares it | Plus is $20/month |
 | The public web, as pages | [Perplexity](/tools/perplexity/) | Citations you can open. It is not your private slide folder | Pro is $17/month billed annually |
 | Papers, as rows and columns | [Elicit](/tools/elicit/) | Extracted fields. Figures are only as good as the column you defined | Plus is $11/user/month billed annually on the non-Industry card |

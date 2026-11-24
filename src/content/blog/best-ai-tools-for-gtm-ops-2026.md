@@ -19,7 +19,7 @@ Claude's prices are from claude.com/pricing on October 24, 2026. Notion, HubSpot
 
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
-| The motion note, from numbers you pasted | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No figure that was not in the paste. No "the play worked" |
+| The motion note, from numbers you pasted | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No figure that was not in the paste. No "the play worked" |
 | The playbook and the exception log | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The opportunity amount | [HubSpot](/tools/hubspot/) | Free tools are $0. Starter was $7 or $10 a seat on a limited-time offer | The record wins. A generated sentence does not edit the amount |
 | An agent that drafts from tools you connected | [Relevance AI](/tools/relevance-ai/) | Pro is $19 a month billed annually, or $29 monthly. The free plan is retired | 2,500 Actions a month and $20 of Vendor Credits on that Pro row. The agent does not change a stage |
@@ -37,7 +37,7 @@ RevOps on the other page owns the list, the credits, and the route. Sales ops ow
 
 ## What you are paying for
 
-**Claude Pro** is the weekly note in a Project, so this week's headings match last week's. The annual charge is $200 up front. The review is [Claude review](/blog/claude-review-2026/).
+**Claude Pro** is the weekly note in a Project, so this week's headings match last week's. The annual charge is {{price:claude.pro_upfront}} up front. The review is [Claude review](/blog/claude-review-2026/).
 
 **Notion Business** holds the playbook, the exception log, and the link to the cell. The chat is not the system of record. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

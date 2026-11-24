@@ -63,7 +63,7 @@ Choose Brain when the questions are about work already in ClickUp: what is block
 
 That split matters. A team that asks status questions can stay on Brain². A team that wants the AI to write into fields, run automations, and take meeting notes is on Everything AI at $28, and still needs a ClickUp plan underneath if the pricing page treats AI as an add-on.
 
-ClickUp also sells model switching inside that one subscription. If the reason you are comparing Notion and ClickUp is "we want Claude and GPT without two chat bills," that is a ClickUp feature, not a Notion one. It is still only valuable if the context those models should see is the ClickUp workspace. A general chatbot is cheaper for a person who does not live in either tool. [ChatGPT](/tools/chatgpt/) Plus is $20. [Claude](/tools/claude/) Pro is $20 monthly, or $17 on annual billing. For options beyond these two, see [the best Notion AI alternatives](/blog/notion-ai-alternatives-2026/), sorted by where your docs live.
+ClickUp also sells model switching inside that one subscription. If the reason you are comparing Notion and ClickUp is "we want Claude and GPT without two chat bills," that is a ClickUp feature, not a Notion one. It is still only valuable if the context those models should see is the ClickUp workspace. A general chatbot is cheaper for a person who does not live in either tool. [ChatGPT](/tools/chatgpt/) Plus is $20. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} monthly, or {{price:claude.pro_annual}} on annual billing. For options beyond these two, see [the best Notion AI alternatives](/blog/notion-ai-alternatives-2026/), sorted by where your docs live.
 
 ## When neither is the purchase
 

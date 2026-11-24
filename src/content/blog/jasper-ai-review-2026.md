@@ -47,7 +47,7 @@ Jasper also measures how the brand shows up in AI answer engines and watches cit
 
 | Need | Cheaper documented option | Price |
 |---|---|---|
-| One person drafting in a general assistant | [ChatGPT](/tools/chatgpt/) Plus or [Claude](/tools/claude/) Pro | $20/month. Claude Pro is $17/month if you pay $200 annually |
+| One person drafting in a general assistant | [ChatGPT](/tools/chatgpt/) Plus or [Claude](/tools/claude/) Pro | {{price:claude.pro_monthly}}/month. Claude Pro is {{price:claude.pro_annual}}/month if you pay {{price:claude.pro_upfront}} annually |
 | A company assistant with an admin and a training default | ChatGPT Business | $20/user/month annual, or $25 monthly, 2 or more users |
 | Shared multi-model chat for a small go-to-market team | [Copy.ai](/tools/copy-ai/) Chat | $29/month, or $24/month billed annually, including 5 seats |
 | Automated go-to-market workflows at company scale | Copy.ai workflow plans | Growth is $1,000/month billed annually. That is not the cheap option |

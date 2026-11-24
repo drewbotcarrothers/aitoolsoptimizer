@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Gemini for Flashcards (2026): The Deck Follows Your Notes"
-description: "ChatGPT vs Gemini for flashcards in 2026. Plus is $20. Google AI Pro is $19.99. The facts come from notes you supply. No study scores."
+description: "ChatGPT vs Gemini for flashcards in 2026. Plus is $20. Google AI Pro is {{price:gemini.pro}}. The facts come from notes you supply. No study scores."
 pubDate: "2026-10-24"
 category: "education"
 tags: ["chatgpt", "gemini", "flashcards", "students", "comparison"]
@@ -21,8 +21,8 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | A short paste and a definition list | [ChatGPT](/tools/chatgpt/) Free or [Gemini](/tools/gemini/) Free | You check every back against the source |
 | The same course, week after week, in a saved prompt | ChatGPT Plus at $20 a month | Swap this week's notes. Do not reuse last week's answers |
-| The chapter sits in Google Docs or Drive | Gemini on Google AI Pro at $19.99 a month, which includes Gemini in Docs | The doc is the source. The cards quote it |
-| A lighter Google plan for more usage | Google AI Plus at $4.99 a month | 2x usage versus free, on the directory card. Still check the backs |
+| The chapter sits in Google Docs or Drive | Gemini on Google AI Pro at {{price:gemini.pro}} a month, which includes Gemini in Docs | The doc is the source. The cards quote it |
+| A lighter Google plan for more usage | Google AI Plus at {{price:gemini.plus}} a month | 2x usage versus free, on the directory card. Still check the backs |
 | A dedicated flashcard app | [Quizlet](/tools/quizlet/) has a free tier with flashcards | Price for Plus was not confirmed. Import a deck you already checked |
 | The deck should live next to the class notes | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The page is the record. The chat is the draft |
 
@@ -36,7 +36,7 @@ flowchart TD
   check --> keep["You keep only the cards you can defend"]
 ```
 
-ChatGPT Go is $8 a month and may include ads. Do not treat an ad as a fact on a card. ChatGPT Pro starts at $100. Google AI Ultra starts at $99.99. A deck does not need either. Free is enough for one chapter.
+ChatGPT Go is $8 a month and may include ads. Do not treat an ad as a fact on a card. ChatGPT Pro starts at $100. Google AI Ultra starts at {{price:gemini.ultra}}. A deck does not need either. Free is enough for one chapter.
 
 ## What each card should contain
 

@@ -43,7 +43,7 @@ A prompt that says "sound smart" will be reused badly. A prompt that says "rewri
 
 **Next to the docs the team already trusts.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month and includes Notion Agent. Plus at $10 a seat is not that full AI tier. A library page in Notion works if the owner and the version are visible without asking a bot. The card is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**In a Project, for one assistant.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Free includes Projects, with limits. Put the approved prompts in a Project so a new chat starts from the library, not from memory of last Tuesday. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**In a Project, for one assistant.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Free includes Projects, with limits. Put the approved prompts in a Project so a new chat starts from the library, not from memory of last Tuesday. The container comparison is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
 **In the team's default chat.** [ChatGPT](/tools/chatgpt/) Plus is $20 and includes projects and custom GPTs. A custom GPT that hides the prompt from the people who must maintain it is a worse library than a page they can edit. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

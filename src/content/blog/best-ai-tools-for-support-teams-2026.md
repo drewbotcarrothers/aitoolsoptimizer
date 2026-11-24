@@ -48,7 +48,7 @@ Tidio Starter is the shop that wants chat and a person in the same inbox. Growth
 
 ## The reply a person still sends
 
-Grammarly on the agent's browser catches the awkward sentence. It will not catch a wrong return window. Paste the macro from Notion, then edit. The editing comparison is [Grammarly vs ChatGPT for editing](/blog/grammarly-vs-chatgpt-for-editing-2026/). [Claude](/tools/claude/) Pro at $20, or $17 billed annually, can draft from the article you paste. The article remains the source. Customer-success notes from the call are a different capture: [how to summarize meetings with AI](/blog/how-to-summarize-meetings-with-ai-2026/).
+Grammarly on the agent's browser catches the awkward sentence. It will not catch a wrong return window. Paste the macro from Notion, then edit. The editing comparison is [Grammarly vs ChatGPT for editing](/blog/grammarly-vs-chatgpt-for-editing-2026/). [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually, can draft from the article you paste. The article remains the source. Customer-success notes from the call are a different capture: [how to summarize meetings with AI](/blog/how-to-summarize-meetings-with-ai-2026/).
 
 A small support pod: one desk you already pay for, Chatbase or Lyro only after the top ten articles exist, Grammarly if the writing is the complaint, and a person on anything that moves money. Add Fin when you can define an outcome and you want that meter. The release note that creates tickets should be written before the ticket exists: [how to write release notes with AI](/blog/how-to-write-release-notes-with-ai-2026/).
 

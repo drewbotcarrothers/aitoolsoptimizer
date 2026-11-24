@@ -20,9 +20,9 @@ ChatGPT's Plus price is the October 24, 2026 plan-page figure recorded in [ChatG
 | The job | Start here | First paid step | The limit |
 |---|---|---|---|
 | One public page from approved pairs | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No answer that was not in the paste |
-| The FAQ already lives in a Google Doc | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month. Pro is $19.99 | The Doc's questions stay. A new question needs a person |
+| The FAQ already lives in a Google Doc | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The Doc's questions stay. A new question needs a person |
 | The accepted page, if it does not live in Google | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
-| A long answer that must match a locked help sentence | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | A paraphrase of a locked sentence is a new policy |
+| A long answer that must match a locked help sentence | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | A paraphrase of a locked sentence is a new policy |
 
 ```mermaid
 flowchart TD
@@ -35,7 +35,7 @@ flowchart TD
   added -->|No| owner["The support owner accepts the page"]
 ```
 
-ChatGPT Plus is the right seat when the approved pairs are the whole source and you will read one page. Gemini Plus at $4.99 is the right first paid step when the file is already a Google Doc and you need more room than Free. Pro at $19.99 is the card's higher individual row, with Gemini in Docs on the October 16 record. Buying Pro to get an answer the paste does not contain does not put that answer in the Doc. If a question has no approved answer, the line says Answer not approved.
+ChatGPT Plus is the right seat when the approved pairs are the whole source and you will read one page. Gemini Plus at {{price:gemini.plus}} is the right first paid step when the file is already a Google Doc and you need more room than Free. Pro at $19.99 is the card's higher individual row, with Gemini in Docs on the October 16 record. Buying Pro to get an answer the paste does not contain does not put that answer in the Doc. If a question has no approved answer, the line says Answer not approved.
 
 The wiki comparison is for an internal page. A public FAQ is what a customer will read. Do not paste the wiki into the FAQ and call it support policy. The support owner accepts the page.
 
@@ -45,7 +45,7 @@ The questions you pasted, the answers you pasted, and the owner you named. A ref
 
 **ChatGPT Plus** is the single-page draft. The bill is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). Outside work, the same bring-your-own-facts approach applies to [drafting a trip itinerary with Gemini or ChatGPT](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/).
 
-**Gemini Plus** is the Doc you already have. The ladder, including Pro at $19.99 and the two Ultra prices, is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+**Gemini Plus** is the Doc you already have. The ladder, including Pro at {{price:gemini.pro}} and the two Ultra prices, is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
 
 **Notion Business** is where the accepted page lives when Google is not the system of record. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
@@ -71,7 +71,7 @@ The wiki comparison is an internal page. This FAQ is the public page. A sentence
 
 ### When is Gemini Pro the seat?
 
-When you already need the Pro row the pricing article describes, including Gemini in Docs, and the FAQ lives in that Doc. Plus at $4.99 is the first paid step. Pro does not supply an answer you did not paste.
+When you already need the Pro row the pricing article describes, including Gemini in Docs, and the FAQ lives in that Doc. Plus at {{price:gemini.plus}} is the first paid step. Pro does not supply an answer you did not paste.
 
 ### Who may publish the page?
 

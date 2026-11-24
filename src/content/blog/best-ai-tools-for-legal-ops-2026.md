@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The job | Start here | First paid step | Stop before |
 |---|---|---|---|
 | The playbook of positions counsel approved | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Treating the wiki page as the signed agreement |
-| A summary of one file, with locations counsel can open | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | Asking whether a clause is enforceable |
+| A summary of one file, with locations counsel can open | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | Asking whether a clause is enforceable |
 | A notebook over a packet of files you uploaded | [Gemini Notebook](/tools/gemini-notebook/) | Free with a Google account. Higher limits from $4.99 a month | Uploading a file you are not allowed to place there |
 | Plain language on text counsel already approved | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually | Changing the meaning of an approved sentence |
 | Routing intake to the right person | [Zapier](/tools/zapier/) | Professional is $19.99 a month billed annually for 750 tasks | Letting the route decide the legal answer |
@@ -41,7 +41,7 @@ flowchart TD
 
 **The summary.** Claude Pro holds a long file in a Project. Ask for headings and page or clause markers that exist in the file. If the marker is not there, the draft says so. [ChatGPT](/tools/chatgpt/) Plus at $20 can do a similar pass. Business is $20 a user a month billed annually, for two or more users, and does not train on business data by default. A contract does not belong on a consumer seat you have not reviewed. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
 
-**The packet.** Gemini Notebook is free with a Google account in supported countries and cites the sources you uploaded. Google AI Plus at $4.99 adds more notebooks. Use it to move around a packet. Use counsel to decide. The study-shaped version of the same product is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/).
+**The packet.** Gemini Notebook is free with a Google account in supported countries and cites the sources you uploaded. Google AI Plus at {{price:gemini.plus}} adds more notebooks. Use it to move around a packet. Use counsel to decide. The study-shaped version of the same product is [Gemini Notebook study workflows](/blog/gemini-notebook-study-workflows/).
 
 **The words around the work.** Grammarly Pro edits text counsel has already approved, such as a customer explanation of a process. It is not a substitute for the approval. Free is enough for a spelling pass.
 

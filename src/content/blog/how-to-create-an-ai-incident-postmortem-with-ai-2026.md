@@ -41,7 +41,7 @@ A timeline that is not linked is not in the packet. The model does not reconstru
 
 **The page.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Each field is a property a person can see is empty. Plus at $10 is not the full AI tier. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**A pass that only checks the fields.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. It may say which field is blank. It may not fill the blank. The review is [Claude review](/blog/claude-review-2026/).
+**A pass that only checks the fields.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. It may say which field is blank. It may not fill the blank. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if a log link lives in the repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review a change that deletes an unknown. The individual ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

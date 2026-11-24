@@ -22,7 +22,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Who plays in this market, with links | [Perplexity](/tools/perplexity/) Free, then Pro if the weekly limit stops the brief | Open every citation you will paste into a deck |
 | You need the premium data sources the Pro card names | Perplexity Pro at $17 a month billed annually | The card lists sources such as PitchBook and Statista. Confirm they appear for your query |
 | The source is a PDF, a deck, or a sheet you uploaded | [Gemini Notebook](/tools/gemini-notebook/), free with a Google account | Ask only from those files. Open the passage |
-| The brief should become a Doc the team comments on | [Gemini](/tools/gemini/) on that Google account. Plus is $4.99 a month. Pro is $19.99 | The Doc is the record. The chat is not |
+| The brief should become a Doc the team comments on | [Gemini](/tools/gemini/) on that Google account. Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | The Doc is the record. The chat is not |
 | The question is what papers say, not what a market blog says | [Consensus](/tools/consensus/), not this pairwise | Market blogs and peer-reviewed papers are different corpora |
 
 ```mermaid
@@ -43,7 +43,7 @@ Perplexity Max is $167 a month billed annually. Enterprise Pro is $40 a user a m
 
 **Perplexity Pro at $17 a month billed annually** is the working seat for a brief: higher limits, file uploads, model choice, and the premium sources the card names. Monthly billing costs more than the annual figure. The directory lists only prices confirmed on Perplexity's pages, and so does this article. Free is enough to learn the citation habit on a single question.
 
-**Gemini Free** can draft from a paste. Google AI Plus at $4.99 is the small step. Google AI Pro at $19.99 is the row when you want the higher usage tier and Gemini in Docs. A market memo that the team will edit belongs in a Doc, with the sources pasted under each figure. Ultra at $99.99 or $199.99 is a usage tier for heavy Gemini work. A single brief is not that bill.
+**Gemini Free** can draft from a paste. Google AI Plus at {{price:gemini.plus}} is the small step. Google AI Pro at {{price:gemini.pro}} is the row when you want the higher usage tier and Gemini in Docs. A market memo that the team will edit belongs in a Doc, with the sources pasted under each figure. Ultra at {{price:gemini.ultra}} or {{price:gemini.ultra_top}} is a usage tier for heavy Gemini work. A single brief is not that bill.
 
 **Gemini Notebook** is the right Gemini surface when you refuse to let the model leave the files: a packet of annual reports, a folder of call notes, a competitor's published pricing PDF. It is free with a Google account. Higher limits follow Google AI plans. It will not discover a company that is absent from the upload. That discovery is the Perplexity job.
 
@@ -59,7 +59,7 @@ The person who puts the number on a slide is [what human-in-the-loop AI is](/blo
 
 Do not paste a customer's private pipeline and ask a consumer account to "size the market" from it. Do not treat a vendor's "we are the leader" page as the market share. Do not let a model convert currencies or inflate a 2022 figure to 2026 with a growth rate it chose. If you have an approved growth assumption, paste it and label it as yours.
 
-A long PDF of filings is a file job. The comparison for that reading is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/). Claude Pro is $20 a month, or $17 billed annually, if the team already reviews long documents there. It does not replace the citation step on the open web.
+A long PDF of filings is a file job. The comparison for that reading is [Gemini vs Claude for long PDFs](/blog/gemini-vs-claude-for-long-pdfs-2026/). Claude Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, if the team already reviews long documents there. It does not replace the citation step on the open web.
 
 ## FAQ
 

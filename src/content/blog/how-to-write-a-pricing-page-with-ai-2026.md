@@ -39,7 +39,7 @@ A price the model remembered from another company is [a hallucination](/blog/wha
 
 ## Where the sentences are drafted
 
-**The long draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Keep the approved numbers in a Project so the next edit does not drift. Free can hold a Project, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
+**The long draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Keep the approved numbers in a Project so the next edit does not drift. Free can hold a Project, with usage limits. The review is [Claude review](/blog/claude-review-2026/).
 
 **The default chat, if the brief already lives there.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month and includes projects. Business is $20 a user a month billed annually, minimum two users, when the paste includes an unreleased price. Do not draft a confidential price on a personal free account if policy forbids it. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 

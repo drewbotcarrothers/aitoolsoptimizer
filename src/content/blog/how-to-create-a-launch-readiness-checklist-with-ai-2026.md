@@ -40,7 +40,7 @@ A task checklist can be long and still leave the gate red. Readiness is the shor
 
 **The page the launch owner opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Plus at $10 is not the full AI tier. The page is the record. The chat is not. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**The draft, when the rows must match the last launch.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Put last launch's row names in the Project so this gate uses the same words. The review is [Claude review](/blog/claude-review-2026/).
+**The draft, when the rows must match the last launch.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Put last launch's row names in the Project so this gate uses the same words. The review is [Claude review](/blog/claude-review-2026/).
 
 **One gate, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Free can format a single list. Discard a version that adds a "risks and opportunities" essay. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

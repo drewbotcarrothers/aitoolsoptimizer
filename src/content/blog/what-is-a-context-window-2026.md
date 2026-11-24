@@ -46,7 +46,7 @@ Use these as examples of how vendors publish the limit. They are not a ranking.
 | [DeepSeek](/tools/deepseek/) API notes in the [DeepSeek review](/blog/deepseek-review-2026/) | Flash and Pro list a 1 million token context and a maximum output of 384,000 tokens | The review's pricing read |
 | [ChatGPT](/tools/chatgpt/) and [Gemini](/tools/gemini/) pages in this directory | No single context-window number we are willing to reprint from those pages | Read the current model card in the product |
 
-Claude's "up to 1 million" is a ceiling that depends on the model, not a promise that every Free chat holds a million tokens. Plans change usage limits separately from the window. Pro is $20 a month, or $17 billed annually. Max starts at $100 a month. Max is a usage tier. It is not a larger window you should assume without reading the model card. That distinction is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
+Claude's "up to 1 million" is a ceiling that depends on the model, not a promise that every Free chat holds a million tokens. Plans change usage limits separately from the window. Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Max starts at $100 a month. Max is a usage tier. It is not a larger window you should assume without reading the model card. That distinction is [Claude Pro vs Max](/blog/claude-pro-vs-max-2026/).
 
 DeepSeek's published window is a reason the API shows up in long-document jobs. The bill is per token, with peak and off-peak rates in the review. A 1 million token window you fill on every call is a large invoice even at a low rate. Filling it "because it fits" is the mistake.
 

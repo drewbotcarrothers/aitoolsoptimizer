@@ -41,7 +41,7 @@ A retry storm is a rate-limit failure. If the client retries immediately, you ha
 
 **A chat seat.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is $20 a user a month billed annually for two or more users, or $25 billed monthly. Those plans have product usage limits that can change. They are not a per-minute cap you author in front of your own API key. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A second seat for writing the policy.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Use it to draft the numbers in a sentence finance can read. The gateway enforces the count. The review is [Claude review](/blog/claude-review-2026/).
+**A second seat for writing the policy.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Use it to draft the numbers in a sentence finance can read. The gateway enforces the count. The review is [Claude review](/blog/claude-review-2026/).
 
 **A workflow that can be scheduled.** [Make](/tools/make/) Core is $9 a month billed annually for 10,000 credits. A scenario that calls a model on every new row can blow a vendor limit even when the Make bill looks small. Put a cap in front of the model call. Make's credit plan is a different meter. The invoice is [Make pricing explained](/blog/make-pricing-explained-2026/).
 

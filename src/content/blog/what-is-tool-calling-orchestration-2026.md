@@ -45,7 +45,7 @@ The shape the next step can parse is [what structured output is](/blog/what-is-s
 
 **The assistant that proposes the next call.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month and includes projects and expanded tools on that plan. Business is $20 a user a month billed annually, minimum two users. A Plus seat does not log a company-wide tool sequence. The ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**A second place to draft the allow list.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually. Put the tool list in a Project. The model still does not approve its own new tools. The review is [Claude review](/blog/claude-review-2026/).
+**A second place to draft the allow list.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually. Put the tool list in a Project. The model still does not approve its own new tools. The review is [Claude review](/blog/claude-review-2026/).
 
 **A fixed scenario when the order never changes.** [Make](/tools/make/) Core is $9 a month billed annually for 10,000 credits. Use a scenario when every run is the same steps. Use orchestration when the model is allowed to choose among a short list. The invoice is [Make pricing explained](/blog/make-pricing-explained-2026/).
 

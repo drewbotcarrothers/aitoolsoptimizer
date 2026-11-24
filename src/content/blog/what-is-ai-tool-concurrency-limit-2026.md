@@ -40,7 +40,7 @@ Waiting is not permission. If the permission gate says no, the call does not ent
 
 ## Where the number is kept
 
-**The definition of the classes.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the classes: read, send, charge, delete, and the number on each. The review is [Claude review](/blog/claude-review-2026/).
+**The definition of the classes.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the classes: read, send, charge, delete, and the number on each. The review is [Claude review](/blog/claude-review-2026/).
 
 **The diff, if the limit lives next to the tool.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 help page. You review a diff that moves a send from 1 to 4. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

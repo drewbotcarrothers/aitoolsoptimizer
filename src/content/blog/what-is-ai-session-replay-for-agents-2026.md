@@ -41,7 +41,7 @@ Keep customer payloads out of the tape unless the retention rule already allows 
 
 **In the editor's agent log.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year, on the October 24 X Subscription page. Premium at $30 a month is the tier that includes Grok Bot on that page. The agent still needs a tape of its own steps. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 
-**A long investigation in a Project.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly, on the October 24 pricing page. Paste the rows. Ask which tool ran without an approval line. The review is [Claude review](/blog/claude-review-2026/).
+**A long investigation in a Project.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly, on the October 24 pricing page. Paste the rows. Ask which tool ran without an approval line. The review is [Claude review](/blog/claude-review-2026/).
 
 **One incident, from a paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month on the October 16 card. Ask for the steps in order. Discard a reply that adds a motive the tape does not contain. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

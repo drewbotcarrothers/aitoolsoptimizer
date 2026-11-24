@@ -58,7 +58,7 @@ Max adds early access, more parallel generations, and one-month rollover. Rollov
 ## Cheaper tools people confuse with this bill
 
 - [CapCut](/tools/capcut/) Pro lists at $19.99/month for editing and a different AI-credit system. It does not include 52 seconds of Gen-4.5.
-- [Google Flow](/tools/google-flow/) includes a free daily credit grant, with Google AI Plus at $4.99/month. Different meter, different models.
+- [Google Flow](/tools/google-flow/) includes a free daily credit grant, with Google AI Plus at {{price:gemini.plus}}/month. Different meter, different models.
 - [Pika](/tools/pika/) Starter is $10/month for 900 credits. Do not convert those credits into Runway seconds.
 
 Use Runway when the shot has to be made in Runway's suite. Use an editor when the shot already exists.

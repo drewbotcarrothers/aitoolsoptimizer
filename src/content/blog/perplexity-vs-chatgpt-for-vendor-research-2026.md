@@ -46,7 +46,7 @@ A vendor-research note has the claim, the URL, the date you opened it, and a quo
 
 **Perplexity Pro** is the right paid seat when the job is finding the page. Citations are the product. A citation you did not open is a lead, not evidence. The review is [Perplexity review](/blog/perplexity-review-2026/). The market-research habit is [how to use Perplexity for market research](/blog/how-to-use-perplexity-for-market-research-2026/).
 
-**ChatGPT Plus** is the right paid seat when the evidence is already in a paste and you want a clean table for a meeting. Projects hold the template. The review is [ChatGPT review](/blog/chatgpt-review-2026/). A second pass on a long packet can sit in [Claude](/tools/claude/) Pro at $20 a month, or $17 billed annually, in a Project. Claude does not replace the link.
+**ChatGPT Plus** is the right paid seat when the evidence is already in a paste and you want a clean table for a meeting. Projects hold the template. The review is [ChatGPT review](/blog/chatgpt-review-2026/). A second pass on a long packet can sit in [Claude](/tools/claude/) Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, in a Project. Claude does not replace the link.
 
 A prompt that holds the line:
 

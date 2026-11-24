@@ -39,7 +39,7 @@ A sentence that says "we should be fine" is not a plan. The gap is a subtraction
 
 ## Where the note is written
 
-**The draft.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, when the note is long enough to keep beside last quarter's numbers. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, when the note is long enough to keep beside last quarter's numbers. The review is [Claude review](/blog/claude-review-2026/).
 
 **The record.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month if the page is what the review meeting opens. The database can hold the date. The chat should not be the only copy.
 

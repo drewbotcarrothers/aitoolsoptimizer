@@ -46,7 +46,7 @@ Training versus the reply you get today is [what AI inference versus training is
 | Workspace admin, SSO, and audit | Granola Enterprise, and similar lines on other enterprise cards | The $35 Granola card lists SSO, SCIM, an audit API, and HIPAA-compliant workspaces |
 | Business data excluded from training by default | [ChatGPT](/tools/chatgpt/) Business, as described on the directory page | Business is $20/user/month billed annually, with a two-user minimum, or $25 monthly |
 | A full agent on your own wiki, with Notion's training statement | [Notion AI](/tools/notion-ai/) | Business is $20/seat/month. Notion says customer data is not used to train its AI subprocessors' models |
-| A general assistant with a published plan ladder | [Claude](/tools/claude/) and [Gemini](/tools/gemini/) | Claude Pro is $20/month, or $17 billed annually. Google AI Plus is $4.99/month |
+| A general assistant with a published plan ladder | [Claude](/tools/claude/) and [Gemini](/tools/gemini/) | Claude Pro is {{price:claude.pro_monthly}}/month, or {{price:claude.pro_annual}} billed annually. Google AI Plus is {{price:gemini.plus}}/month |
 
 Granola's cards were read October 24, 2026. The other prices are from directory pages checked October 16, 2026. ChatGPT's ladder is [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/). Notion's seat is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

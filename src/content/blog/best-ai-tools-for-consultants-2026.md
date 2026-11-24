@@ -18,7 +18,7 @@ Prices are US list prices excluding tax. Most come from directory pages checked 
 | Consulting job | Start here | First paid step | Leave it when |
 |---|---|---|---|
 | Public facts with links | [Perplexity](/tools/perplexity/) | Pro $17/month billed annually | The fact is not on a page you opened |
-| The memo, from notes you trust | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro $20/month ($17 annual) or ChatGPT Plus $20 | You needed a citation engine, not a draft |
+| The memo, from notes you trust | [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/) | Claude Pro {{price:claude.pro_monthly}}/month ({{price:claude.pro_annual}} annual) or ChatGPT Plus $20 | You needed a citation engine, not a draft |
 | A deck as a link or a one-pager | [Gamma](/tools/gamma/) | Plus $9/seat/month, 1,000 credits | The client requires a native slide file |
 | A PowerPoint with layout guardrails | [Beautiful.ai](/tools/beautiful-ai/) | Pro $14.50/month annual, or $45 monthly | You must edit inside Google Slides |
 | Slides inside Slides or PowerPoint | [Plus AI](/tools/plus-ai/) | Basic $10/user/month annual | You wanted a published web page, not a PPTX |

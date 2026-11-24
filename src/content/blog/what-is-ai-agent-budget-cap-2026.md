@@ -39,7 +39,7 @@ Which team the dollars belong to, after the fact, is [what AI cost attribution i
 
 ## Where the row is kept
 
-**The definition.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project holds the agent id, the ceiling, and the on-hit action. The review is [Claude review](/blog/claude-review-2026/).
+**The definition.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. The Project holds the agent id, the ceiling, and the on-hit action. The review is [Claude review](/blog/claude-review-2026/).
 
 **The check next to the agent, if it lives in a repo.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff that reads the cap. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

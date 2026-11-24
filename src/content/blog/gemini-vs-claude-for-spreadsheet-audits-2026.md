@@ -17,8 +17,8 @@ Gemini and Julius prices are from directory pages checked October 16, 2026. Clau
 
 | The sheet | Start here | First paid step | The limit |
 |---|---|---|---|
-| A Google Sheet, rules you paste beside it | [Gemini](/tools/gemini/) | Google AI Plus is $4.99 a month. Pro is $19.99 | No number that is not in a cell you named |
-| Rules that must match the last audit | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | The Project holds the rules. It does not own the sheet |
+| A Google Sheet, rules you paste beside it | [Gemini](/tools/gemini/) | Google AI Plus is {{price:gemini.plus}} a month. Pro is {{price:gemini.pro}} | No number that is not in a cell you named |
+| Rules that must match the last audit | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | The Project holds the rules. It does not own the sheet |
 | A chart from a file you uploaded | [Julius AI](/tools/julius-ai/) | Plus is $16 a month billed annually, or $20 monthly | The chart cites the file. It does not replace the cell |
 | A query the cell came from | [Hex](/tools/hex/) | Professional is $36 an editor a month | Paste the result. Do not ask the chat what last quarter "was" |
 
@@ -37,7 +37,7 @@ An audit line that says the revenue "should be" a different number has left the 
 
 ## What you are checking
 
-**Gemini** is the Google Sheet path. Free exists with a Google account, on the October 16 card. Plus at $4.99 is the first paid step on that card. Pro at $19.99 is the higher seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The model still only knows the cells you gave it.
+**Gemini** is the Google Sheet path. Free exists with a Google account, on the October 16 card. Plus at {{price:gemini.plus}} is the first paid step on that card. Pro at {{price:gemini.pro}} is the higher seat. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The model still only knows the cells you gave it.
 
 **Claude Pro** is the standing-rules path. Change the rule in the Project when the definition changes, then rerun. Do not keep a second definition in a chat from March. The review is [Claude review](/blog/claude-review-2026/).
 

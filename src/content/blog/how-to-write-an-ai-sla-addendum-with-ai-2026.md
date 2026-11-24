@@ -36,7 +36,7 @@ A draft that "strengthens" the target has amended the deal. If counsel has not a
 
 ## Where it is drafted
 
-**The draft.** [Claude](/tools/claude/) Pro is $17 a month billed annually, $200 up front, or $20 monthly. Keep the approved numbers in a Project so a later edit does not tighten them. The review is [Claude review](/blog/claude-review-2026/).
+**The draft.** [Claude](/tools/claude/) Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly. Keep the approved numbers in a Project so a later edit does not tighten them. The review is [Claude review](/blog/claude-review-2026/).
 
 **The file the company keeps.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the counsel date. The contract system, if you have one, remains the system of record. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

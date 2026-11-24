@@ -25,7 +25,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | Research, a draft, and a lower yearly entry for one site | [Frase](/tools/frase/) | Starter $39 a month billed yearly, or $49 month to month. One seat, one site, 10 articles and 50 audit pages |
 | Keywords, backlinks, and a site audit | [Semrush](/tools/semrush/) | SEO plan $117.33 a month billed yearly, or $139 monthly. Free is one project and 10 reports a day |
 | Prompt tracking across answer engines, plus AI articles | [Writesonic](/tools/writesonic/) | Starter $79 a month billed annually |
-| A brief from pages you opened, formatted in chat | [Claude](/tools/claude/) | Pro $20 a month, or $17 billed annually |
+| A brief from pages you opened, formatted in chat | [Claude](/tools/claude/) | Pro {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually |
 | On-brand campaign copy with a saved voice | [Jasper](/tools/jasper/) | Pro $59 a seat a month billed yearly, or $69 monthly |
 
 ```mermaid

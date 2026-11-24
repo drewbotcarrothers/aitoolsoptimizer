@@ -54,7 +54,7 @@ The directory does not print a credits-per-question rate. Run one real workbook 
 
 ## When a chat is enough
 
-[ChatGPT](/tools/chatgpt/) Plus is $20 a month if the job is one workbook in a Project and you will recompute the total yourself. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, if you want the long written read of the same file. Neither is a connector plan. The pair is [ChatGPT vs Claude for Excel analysis](/blog/chatgpt-vs-claude-for-excel-analysis-2026/). A SQL draft against a warehouse schema is [ChatGPT vs Claude for SQL](/blog/chatgpt-vs-claude-for-sql-2026/).
+[ChatGPT](/tools/chatgpt/) Plus is $20 a month if the job is one workbook in a Project and you will recompute the total yourself. [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, if you want the long written read of the same file. Neither is a connector plan. The pair is [ChatGPT vs Claude for Excel analysis](/blog/chatgpt-vs-claude-for-excel-analysis-2026/). A SQL draft against a warehouse schema is [ChatGPT vs Claude for SQL](/blog/chatgpt-vs-claude-for-sql-2026/).
 
 A prompt that holds the line:
 

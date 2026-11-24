@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for User Stories (2026): The Acceptance Line You Already Wrote"
-description: "ChatGPT vs Claude for user stories in 2026. Plus and Pro are $20. The story follows criteria you supply. No delivery scores."
+description: "ChatGPT vs Claude for user stories in 2026. Plus and Pro are {{price:claude.pro_monthly}}. The story follows criteria you supply. No delivery scores."
 pubDate: "2026-10-24"
 category: "productivity-notes"
 tags: ["chatgpt", "claude", "user-stories", "product", "comparison"]
@@ -21,7 +21,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 |---|---|---|
 | One card, a few lines | [ChatGPT](/tools/chatgpt/) Free or [Claude](/tools/claude/) Free | You accept or reject each acceptance line |
 | The same template every sprint | ChatGPT Plus at $20 a month | Swap the user and the rule. Keep the template |
-| A long spec the card must not contradict | Claude Pro at $20 a month, or $17 billed annually | The Project holds the spec. The card adds no behavior the spec does not contain |
+| A long spec the card must not contradict | Claude Pro at {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds the spec. The card adds no behavior the spec does not contain |
 | The card lives in the backlog | [Notion AI](/tools/notion-ai/) Business at $20 a seat a month | The database is the record. The chat is the draft |
 | The story quotes code that must match the repo | [Cursor](/tools/cursor/) Plus at $8 a month, or $80 a year | You read the file. The story does not invent an endpoint |
 

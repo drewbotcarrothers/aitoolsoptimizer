@@ -21,7 +21,7 @@ Elicit's prices are from the directory page checked October 16, 2026. Perplexity
 |---|---|---|---|
 | Papers, columns you named | [Elicit](/tools/elicit/) | Plus is $11 a user a month billed annually, $132 a year, and the card lists 5 columns | No finding that is not in the paper |
 | Public web sources you will open | [Perplexity](/tools/perplexity/) | Pro is $17 a month billed annually | A citation is not a cell. Open it |
-| The column definitions | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | The columns are yours. A chat does not add one |
+| The column definitions | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | The columns are yours. A chat does not add one |
 | The table the next reviewer opens | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 
 ```mermaid

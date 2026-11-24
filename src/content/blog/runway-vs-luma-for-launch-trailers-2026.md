@@ -19,7 +19,7 @@ Runway and Luma prices are from directory pages checked October 16, 2026. Claude
 |---|---|---|---|
 | A first test with a one-time grant | [Runway](/tools/runway/) | Standard is $12 a month billed annually, or $15 monthly | Free is 125 credits, once, on the October 16 card |
 | A paid pack and no free tier on the card | [Luma AI](/tools/luma-ai/) | Plus is $30 a month, or $300 a year, with 10,000 credits | The card lists no free plan |
-| The shot list and the claims | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No claim that was not in the notes |
+| The shot list and the claims | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No claim that was not in the notes |
 | The page that records the approved shots | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page is not the film |
 
 ```mermaid

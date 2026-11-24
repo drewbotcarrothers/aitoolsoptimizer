@@ -21,7 +21,7 @@ Prices below are US list prices from those articles, which use the October 16, 2
 |---|---|---|---|
 | A video meeting, and CRM fields must update | [Fathom](/tools/fathom/) | Business is $25 a user a month billed annually, or $34 monthly | Free includes unlimited recordings. It does not include CRM field sync |
 | A dialer, an upload, or search across many calls | [Fireflies](/tools/fireflies-ai/) | Pro is $10 a user a month billed annually, or $18 monthly | Conversation analytics are on Business, at $19 annually or $29 monthly |
-| The follow-up, from words that were actually said | [Claude](/tools/claude/) | Pro is $17 a month billed annually, or $20 monthly | No commitment that was not in the notes |
+| The follow-up, from words that were actually said | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, or {{price:claude.pro_monthly}} monthly | No commitment that was not in the notes |
 | The page that holds the accepted next step | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | The page does not invent the date |
 
 ```mermaid

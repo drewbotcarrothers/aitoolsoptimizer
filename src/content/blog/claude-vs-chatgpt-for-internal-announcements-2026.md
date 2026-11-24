@@ -20,7 +20,7 @@ Claude's prices are the October 24, 2026 read of claude.com/pricing recorded in 
 | The file | Start here | First paid step | The limit |
 |---|---|---|---|
 | One channel, from one date and one fact | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No fact that was not in the paste |
-| The same sentence in Slack, email, and the intranet page | [Claude](/tools/claude/) | Pro is $17 a month billed annually, $200 up front, or $20 monthly | A channel may not reword the shared sentence |
+| The same sentence in Slack, email, and the intranet page | [Claude](/tools/claude/) | Pro is {{price:claude.pro_annual}} a month billed annually, {{price:claude.pro_upfront}} up front, or {{price:claude.pro_monthly}} monthly | A channel may not reword the shared sentence |
 | The page people will open next week | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | A clarity pass that must not move the date | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | Compare the date and the fact before and after |
 

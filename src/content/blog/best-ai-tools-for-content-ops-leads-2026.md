@@ -19,7 +19,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 
 | The decision | Start here | First paid step | The limit |
 |---|---|---|---|
-| An exception to the brief or the style card | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The note may not grant the exception. You do |
+| An exception to the brief or the style card | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The note may not grant the exception. You do |
 | The board the exception has to match | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Use the team's workspace |
 | A weekly note the team will actually read | [Gamma](/tools/gamma/) | Plus is $9 a seat a month | Slides quote the board. They do not add a metric |
 | A cleaner sentence in that note | [Grammarly](/tools/grammarly/) | Pro is $12 a member a month billed annually, or $30 monthly | It edits. It does not choose what to kill |
@@ -38,7 +38,7 @@ The ops page owns the system. Use it when you are designing the board. Use this 
 
 ## What you are paying for
 
-**Claude Pro at $20** holds the style card and the exception request in a Project. The draft should say which rule the request breaks and which owner would have to waive it. The model does not waive it. The review is [Claude review](/blog/claude-review-2026/).
+**Claude Pro at {{price:claude.pro_monthly}}** holds the style card and the exception request in a Project. The draft should say which rule the request breaks and which owner would have to waive it. The model does not waive it. The review is [Claude review](/blog/claude-review-2026/).
 
 **Notion Business** is the board, if that is where dates already live. Do not start a second wiki for the lead's notes. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 

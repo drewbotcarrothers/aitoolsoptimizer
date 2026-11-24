@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT vs Claude for Support Macros (2026): One Reply, or a Library That Must Match"
-description: "ChatGPT vs Claude for support macros in 2026. Plus is $20. Claude Pro is $20, or $17 billed annually. No handle-time scores."
+description: "ChatGPT vs Claude for support macros in 2026. Plus is $20. Claude Pro is {{price:claude.pro_monthly}}, or {{price:claude.pro_annual}} billed annually. No handle-time scores."
 pubDate: "2026-10-24"
 category: "customer-support"
 tags: ["chatgpt", "claude", "support", "macros"]
@@ -18,7 +18,7 @@ Prices are US list prices excluding tax from directory pages checked October 16,
 | The work in front of you | Start here | First paid step | The limit |
 |---|---|---|---|
 | One reply, from a paste of the approved answer | [ChatGPT](/tools/chatgpt/) | Plus is $20 a month | No policy sentence that was not in the paste |
-| A set of macros that must use the same facts | [Claude](/tools/claude/) | Pro is $20 a month, or $17 billed annually | The Project holds your text. It does not approve a macro |
+| A set of macros that must use the same facts | [Claude](/tools/claude/) | Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually | The Project holds your text. It does not approve a macro |
 | The page the team will open next month | [Notion AI](/tools/notion-ai/) | Business is $20 a seat a month | Plus at $10 is not the full AI tier |
 | The desk that actually sends the reply | [Zendesk AI](/tools/zendesk-ai/) | Suite Team is $55 per agent per month paid yearly | A draft macro is off until a person turns it on |
 

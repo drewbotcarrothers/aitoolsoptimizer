@@ -44,7 +44,7 @@ An embedding of a help article is not a feature in this sense. It is a represent
 
 **The query that implements the formula.** [Hex](/tools/hex/) Professional is $36 per editor a month when the warehouse is where the feature is computed. Community is free with an agent trial and small compute. If Hex and the live service disagree, the catalog is wrong or one of them drifted. The invoice is [Hex pricing explained](/blog/hex-pricing-explained-2026/).
 
-**A review of a proposed feature.** [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, can restate a formula in plain language so the owner can see what they are signing. It cannot verify the warehouse. The review is [Claude review](/blog/claude-review-2026/).
+**A review of a proposed feature.** [Claude](/tools/claude/) Pro is {{price:claude.pro_monthly}} a month, or {{price:claude.pro_annual}} billed annually, can restate a formula in plain language so the owner can see what they are signing. It cannot verify the warehouse. The review is [Claude review](/blog/claude-review-2026/).
 
 **A draft row from a messy note.** [ChatGPT](/tools/chatgpt/) Plus at $20 a month can turn a meeting note into a catalog row with Missing where the owner or the freshness was not said. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 
