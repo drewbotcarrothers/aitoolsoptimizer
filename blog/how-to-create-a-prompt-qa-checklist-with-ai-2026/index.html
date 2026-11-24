@@ -64,7 +64,7 @@ article[data-astro-cid-4sn4zg3r].section{padding-left:1.25rem;padding-right:1.25
 <p>A prompt that holds the line:</p>
 <p>“Draft the QA checklist from the version id, the output checks, and the sample I pasted. Leave every result blank. If a check is missing, write Check not set. Do not mark anything passed. Do not add a check.”</p>
 <h2 id="what-not-to-delegate">What not to delegate</h2>
-<p>Do not ask which checks a release “should” include. Do not let the model grade its own output. Do not call a version passed because the review checklist was already yes. The named reviewer looks at the sample. A blank stays a blank.</p>
+<p>Do not ask which checks a release “should” include. Do not let the model grade its own output. Do not call a version passed because the review checklist was already yes. The named reviewer looks at the sample. A blank stays a blank. Output checks still need an owner; <a href="/blog/how-to-create-a-human-in-the-loop-checklist-with-ai-2026/">a checklist for who reads it before it ships</a> assigns one. Rerun these checks whenever the model underneath changes; <a href="/blog/how-to-create-a-model-switch-checklist-with-ai-2026/">how to create a model switch checklist</a> covers that case.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="how-is-this-different-from-a-prompt-review-checklist">How is this different from a prompt review checklist?</h3>
 <p>The review checklist is what a reviewer requires on the prompt before that version may run: the wording, the owner, the items you already listed. This checklist is what you require on the output of a version that is already pinned. A prompt can pass review and fail QA. Use the review page for the wording. Use this page for the answer.</p>

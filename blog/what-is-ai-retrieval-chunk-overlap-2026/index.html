@@ -65,7 +65,7 @@ article[data-astro-cid-4sn4zg3r].section{padding-left:1.25rem;padding-right:1.25
 <p>A prompt that holds the line:</p>
 <p>“Draft the overlap row from the source name, the size, and the unit I pasted. If the size is missing, write Overlap not set. Do not pick a size. Do not change the chunk boundaries.”</p>
 <h2 id="what-not-to-delegate">What not to delegate</h2>
-<p>Do not ask the model for a “standard” overlap. Do not grow the overlap because one question failed. Do not repeat an entire section and call it an edge. The owner of the index sets the size, on a new version. Last month’s retrieval score stays on the old size.</p>
+<p>Do not ask the model for a “standard” overlap. Do not grow the overlap because one question failed. Do not repeat an entire section and call it an edge. The owner of the index sets the size, on a new version. Last month’s retrieval score stays on the old size. Record the overlap per collection in a <a href="/blog/how-to-create-a-retrieval-source-map-with-ai-2026/">retrieval source map</a> so the setting is not lost in code.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="how-is-this-different-from-chunking">How is this different from chunking?</h3>
 <p>Chunking is where you cut. Overlap is the slice you copy onto the next piece after the cut. You can chunk with zero overlap. You should not set an overlap and skip the decision about what must stay whole. A heading with no paragraph is a bad cut. Overlap does not add the missing paragraph.</p>

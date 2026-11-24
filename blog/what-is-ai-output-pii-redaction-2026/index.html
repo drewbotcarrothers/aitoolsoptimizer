@@ -52,7 +52,7 @@ article[data-astro-cid-4sn4zg3r].section{padding-left:1.25rem;padding-right:1.25
   scan -->|Yes| mask["Replace or remove it. Then a person may see the text"]
   scan -->|No| show["The text may proceed. A clear scan is not proof"]
   scan -->|The check errors| hold["Hold the answer unless you wrote otherwise"]</pre>
-<p>The inbound redaction keeps an email out of the prompt. The output step catches an email the model produced anyway, from memory or from a tool result. You want both when the answer can leave the building. A scan that flags the email and still displays it has not redacted anything. Redaction is the change to the text.</p>
+<p>The inbound redaction keeps an email out of the prompt. The output step catches an email the model produced anyway, from memory or from a tool result. You want both when the answer can leave the building. A scan that flags the email and still displays it has not redacted anything. Redaction is the change to the text. Redaction sits next to other output checks, such as <a href="/blog/what-is-ai-output-toxicity-gate-2026/">a toxicity gate that holds an answer</a>.</p>
 <p>A general redaction pass can also mask API keys and internal hostnames. Those may sit on the same pipeline. This page does not call a hostname personal data. If your policy lists it, put it on the list in writing. The model does not promote it.</p>
 <h2 id="where-the-step-runs">Where the step runs</h2>
 <p><strong>The draft a person will read.</strong> <a href="/tools/claude/">Claude</a> Pro is $17 a month billed annually, $200 up front, or $20 monthly. The Project can say: if the answer contains an email, replace it and do not store the original in the chat you will share. The review is <a href="/blog/claude-review-2026/">Claude review</a>.</p>
