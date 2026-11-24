@@ -5,20 +5,39 @@ import { getCollection, render } from 'astro:content';
 import { categories } from '../../data/categories';
 import { url } from '../../data/url';
 import { blogFeaturedImage } from '../../lib/featuredImage';
+import { postModified } from '../../lib/gitDates';
+import { SITE } from '../../data/categories';
 export async function getStaticPaths() { return (await getCollection('blog', (p) => !p.data.draft)).map((p) => ({ params: { slug: p.id }, props: { post: p } })); }
 const { post } = Astro.props; const d = post.data;
 const { Content } = await render(post);
 const tools = (await getCollection('tools')).filter((t) => d.relatedTools.includes(t.id));
 const image = blogFeaturedImage(post.id, d.featuredImage);
+const modified = postModified(post.id, d.pubDate);
+const fmt = (x: Date, tz: string) => x.toLocaleDateString('en-US', { timeZone: tz, year: 'numeric', month: 'long', day: 'numeric' });
+const published = fmt(d.pubDate, 'UTC');
+const updated = fmt(modified, 'America/Toronto');
+const showUpdated = updated !== published && modified > d.pubDate;
+const site = Astro.site!;
+const pageUrl = new URL(url(`/blog/${post.id}/`), site).href;
+const authorUrl = new URL(url('/author/andrew/'), site).href;
+const ld = {
+  '@context': 'https://schema.org', '@type': 'BlogPosting',
+  headline: d.title, description: d.description, url: pageUrl, mainEntityOfPage: pageUrl,
+  ...(image ? { image: new URL(url(image), site).href } : {}),
+  datePublished: d.pubDate.toISOString(), dateModified: modified.toISOString(),
+  author: { '@type': 'Person', name: SITE.author, url: authorUrl },
+  publisher: { '@type': 'Organization', name: SITE.name, url: new URL(url('/'), site).href, logo: { '@type': 'ImageObject', url: new URL(url('/logo-mark.png'), site).href } },
+};
 ---
 <Base title={d.title} description={d.description} image={image}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(ld)} />
   <article class="container section">
     <div class="post-col">
       <a href={url('/blog/')}>← Blog</a>
       <header class="ph">
         {d.category && <a class="pill" href={url(`/tools/category/${d.category}/`)}>{categories[d.category].name}</a>}
         <h1>{d.title}</h1>
-        <p class="muted">By Andrew · {d.pubDate.toLocaleDateString('en-US', { timeZone: 'UTC', year: 'numeric', month: 'long', day: 'numeric' })}</p>
+        <p class="muted">By <a href={url('/author/andrew/')} rel="author">Andrew</a> · <time datetime={d.pubDate.toISOString()}>{published}</time>{showUpdated && <> · Updated <time datetime={modified.toISOString()}>{updated}</time></>} · <a href={url('/methodology/')}>How we research</a></p>
       </header>
       {image && <img class="hero" src={url(image)} alt="" width="1280" height="720" decoding="async" fetchpriority="high" />}
       <div class="prose"><Content /></div>
