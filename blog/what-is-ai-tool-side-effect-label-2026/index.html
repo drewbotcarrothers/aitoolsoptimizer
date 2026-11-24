@@ -56,7 +56,7 @@ article[data-astro-cid-4sn4zg3r].section{padding-left:1.25rem;padding-right:1.25
 <p>A prompt that holds the line:</p>
 <p>“Draft the side-effect label from the tool name, the environment, and the change I pasted. If I did not say what changes, write Side effect not described. Do not mark the tool as read. Do not run the tool.”</p>
 <h2 id="what-not-to-delegate">What not to delegate</h2>
-<p>Do not ask the model which tools are “basically read-only.” Do not drop the label because the call failed and “nothing happened.” A failed send can still have sent. Do not treat a sandbox success as a production label. The owner of the tool sets the label. A generated table is not the label.</p>
+<p>Do not ask the model which tools are “basically read-only.” Do not drop the label because the call failed and “nothing happened.” A failed send can still have sent. Do not treat a sandbox success as a production label. The owner of the tool sets the label. A generated table is not the label. Tools that change something often get a lower <a href="/blog/what-is-ai-tool-concurrency-limit-2026/">concurrency limit</a> than read-only ones.</p>
 <h2 id="faq">FAQ</h2>
 <h3 id="how-is-this-different-from-a-checkpoint">How is this different from a checkpoint?</h3>
 <p>The checkpoint is a save for one run: this step already sent the mail. The label is on the tool, for every run. A checkpoint without a label can still say what happened. A label without a checkpoint does not remember this run. Write both when the tool changes something.</p>
