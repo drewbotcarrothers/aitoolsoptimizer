@@ -132,4 +132,13 @@ Cloudflare charges for input tokens only. It calls its accuracy numbers self-rep
 
 ---
 
+## What this means for you
+
+Gemini 4 Neon fills the gap between Hydrogen and Carbon on price. If Carbon is too expensive for your workload, test Neon first. Citi's position matters: you're responsible for what a third-party agent does in your bank account, so don't give agents banking logins.
+
+- Gemini model prices side by side: [AI model comparison](/models/).
+- ChatGPT's voice and dictation features by plan: [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

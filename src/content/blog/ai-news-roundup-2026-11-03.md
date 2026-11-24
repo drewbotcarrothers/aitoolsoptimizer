@@ -146,6 +146,15 @@ draft: false
 
 ---
 
+## What this means for you
+
+ChatGPT now handles a fifth of Google's search volume. If you use it for search, check its sources, especially for anything time-sensitive: the Election Day study found wrong voting-logistics answers 13.9% of the time. Parents and teachers should note that Google is switching its AI tools off by default for K-12 student accounts.
+
+- AI search tools compared: [Perplexity vs ChatGPT vs Gemini for search](/blog/perplexity-vs-chatgpt-vs-gemini-for-search-2026/).
+- Classroom tools: [best AI tools for teachers](/blog/best-ai-tools-for-teachers-2026/).
+
+---
+
 ## Where can I follow daily AI news?
 
 Every roundup lives on our [AI news page](/ai-news/), with sources for each story. Browse the [AI tools directory](/tools/) to compare the tools mentioned here.

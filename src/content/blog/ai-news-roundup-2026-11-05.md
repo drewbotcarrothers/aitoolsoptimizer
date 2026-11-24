@@ -135,4 +135,13 @@ draft: false
 
 ---
 
+## What this means for you
+
+Claude's Personal Finance feature uses read-only bank links through Plaid. If you try it, keep it read-only and review which accounts are connected. Gemini Omni's 30% price cut makes short AI video clips cheaper. Compare it per second against dedicated video tools before you commit.
+
+- AI video tools by job and price: [best AI video generators](/blog/best-ai-video-generators-2026/).
+- Which Claude plans include new features: [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+
+---
+
 *AI Tools Optimizer is for education only. We summarize public reporting and company announcements; verify primary sources before acting.*

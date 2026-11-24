@@ -128,6 +128,15 @@ It’s available now to all Google Workspace customers, Workspace Individual sub
 
 ---
 
+## What this means for you
+
+Kimi K3.1 Pro shows strong models aren't limited to the big US labs, but a benchmark score isn't your workload. Test with your own tasks. The political-bias study is a good reason not to ask a chatbot who to vote for. If you use Gemini Notebook for research, you can now reach it from the Gemini app.
+
+- Every frontier model's context and price in one place: [AI model comparison](/models/).
+- Why model answers can be confidently wrong: [what AI hallucination is](/blog/what-is-ai-hallucination-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Kimi K3.1 Pro weights:** Moonshot says by **November 4**. Watch whether they land on time and how independent tests compare.

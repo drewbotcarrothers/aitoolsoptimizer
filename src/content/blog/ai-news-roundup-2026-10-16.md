@@ -99,6 +99,16 @@ The 1.0 language release adds custom `@` functions (`defineFunction`), custom ac
 
 ---
 
+## What this means for you
+
+If you pay for an API, today is about price per job, not headlines. Fast mode doubles Claude Opus 5.5's token price for speed, and Gemini 4 Argon's low price is introductory and ends Nov 30. Budget on the price after the intro period, not the launch number. Open weights like Muse Spark Open give you a self-hosted option if your data can't leave your own machines.
+
+- Compare per-token prices side by side on the [AI model comparison](/models/) before you switch.
+- New to tokens? [What AI tokens are](/blog/what-are-ai-tokens-explained-2026/) explains how a bill like "$4 / $20 per MTok" is counted.
+- Weighing open weights against a hosted plan: [what open-source AI is](/blog/what-is-open-source-ai-2026/).
+
+---
+
 ## What should builders watch next?
 
 1. **Price vs speed tradeoffs** — Opus 5.5 fast mode and Argon’s intro window both force explicit latency/budget decisions.

@@ -139,4 +139,13 @@ In the harder two-company “Lighthouse” range, Daybreak completed **27 of 31*
 
 ---
 
+## What this means for you
+
+If you use Claude Code, check that `.claude/settings.local.json` isn't committed to a public repo. Add it to `.gitignore` and rotate any key it held. The Into the Unknown results show agents still fail at open-ended research, so treat their output as a draft that needs checking.
+
+- How Claude Code works and what it costs: [Claude Code review](/blog/claude-code-review-2026/).
+- Why AI output needs verification: [what AI hallucination is](/blog/what-is-ai-hallucination-2026/).
+
+---
+
 *This roundup is for education only and isn’t financial or security advice. IPO figures come from press reports citing unnamed investors; benchmark scores are as reported by their publishers.*

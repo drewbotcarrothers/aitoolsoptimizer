@@ -121,4 +121,14 @@ The report also names Airbnb and DoorDash as users of Chinese models. It recomme
 
 ---
 
+## What this means for you
+
+Inkling 2 Mini is a capable open model that runs on a 32GB Mac. Try it if you want private, offline AI. On Claude Team or Enterprise, computer use is off by default, and only an Owner should turn it on, for specific people and tasks.
+
+- Running models yourself: [what open-source AI is](/blog/what-is-open-source-ai-2026/).
+- Claude's business plans: [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+- If Cursor's model choices matter to you: [Cursor review](/blog/cursor-review-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

@@ -104,4 +104,13 @@ Together says it found no other prompt leakage and is working with a forensic fi
 
 ---
 
+## What this means for you
+
+If you route AI calls through OpenRouter for zero data retention, check that your providers are still on the ZDR list. And keep API keys out of repos, which is what led to the Together AI leak. The Riemann hypothesis result is certified, but most everyday AI use still needs a human check.
+
+- How tools and data reach a model: [what tool use in LLMs is](/blog/what-is-tool-use-in-llms-2026/).
+- Why checks still matter: [what AI hallucination is](/blog/what-is-ai-hallucination-2026/).
+
+---
+
 *Education only. Policies and incident details can change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

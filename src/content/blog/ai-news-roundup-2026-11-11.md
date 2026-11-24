@@ -135,4 +135,13 @@ It’s on GitHub, Hugging Face (with LeRobot support) and vLLM-Omni, and runs on
 
 ---
 
+## What this means for you
+
+If you pay for Claude, Sheets, Whiteboards and Data are now included on every paid plan. Try them before you pay for a separate spreadsheet or whiteboard AI. Qwen4-Max's preview ends after Nov 25, so don't build anything on it yet.
+
+- What each Claude plan includes: [Claude pricing explained](/blog/claude-pricing-explained-2026/).
+- Is Claude the right assistant for you: [Claude review](/blog/claude-review-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

@@ -156,6 +156,15 @@ Group theorists Richard Lyons and Ronald Solomon were consulted, and Axiom plans
 
 ---
 
+## What this means for you
+
+If you're in US government, the GSA deal cuts Claude Enterprise and API prices by 40%. For everyone else, Google's Connected Apps Platform means more of your apps will soon work inside Gemini and Search through MCP. Nvidia's free open-weight transcription model is an option if you transcribe in many languages and want to run it yourself.
+
+- What MCP is and why it matters: [what the Model Context Protocol is](/blog/what-is-model-context-protocol-2026/).
+- Meeting transcription tools compared: [best AI meeting notetakers](/blog/best-ai-meeting-notetakers).
+
+---
+
 ## What should you watch next?
 
 - **Chips:** Whether OpenAI or Google confirms a TPU deal, and what Alphabet says about TPU sales on today’s earnings call.

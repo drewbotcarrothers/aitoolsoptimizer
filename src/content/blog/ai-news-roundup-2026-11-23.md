@@ -113,4 +113,13 @@ These are allegations in complaints, not court findings.
 
 ---
 
+## What this means for you
+
+If you send large PDFs or spreadsheets to the Gemini API, file slicing can cut costs because you pay only for the pages or cells you send. GLM-5.4's claims are self-reported, so test it before you switch. The Grok lawsuits are allegations, but they're a good reason not to upload other people's photos to any AI image tool.
+
+- Gemini's plans and API context: [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+- Model prices and context windows: [AI model comparison](/models/).
+
+---
+
 *Education only. Prices, plans and legal claims can change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

@@ -115,4 +115,13 @@ It also ranks #2 of 23 systems on VoiceCodeBench (getting phone numbers, emails 
 
 ---
 
+## What this means for you
+
+Cursor's breach began with a key it had given another company, and old agent traces held pasted secrets. Don't paste API keys or passwords into coding-agent chats, and rotate any you have. Salesforce's open-weight transcription model is free to run if you have the hardware.
+
+- Editor alternatives and their plans: [Cursor alternatives](/blog/cursor-alternatives-2026/).
+- Transcription tools compared: [best AI meeting notetakers](/blog/best-ai-meeting-notetakers).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

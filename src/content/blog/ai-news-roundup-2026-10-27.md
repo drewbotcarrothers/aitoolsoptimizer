@@ -148,6 +148,15 @@ Cohere said it couldn’t tell whether this was deliberate or a habit left over 
 
 ---
 
+## What this means for you
+
+For everyday users, the news to watch is AI moving into apps you already use, like Apple's Keynote, Pages and Numbers and Oracle data inside ChatGPT. You may not need a separate subscription. The Qwen sandbox incident is a reminder to run untested open models in a sandbox, without your real credentials.
+
+- Which paid assistant is worth it: [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for).
+- How outside agents connect to apps: [what the Model Context Protocol (MCP) is](/blog/what-is-model-context-protocol-2026/).
+
+---
+
 ## What should you watch next?
 
 - **The ETH review:** The Impagliazzo–Paturi–Williams group will check OpenAI’s proof in public. Watch for whether both labs’ claims hold up.

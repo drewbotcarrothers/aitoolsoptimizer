@@ -139,6 +139,15 @@ Owners can train new tricks in simulation with reinforcement learning, deploy th
 
 ---
 
+## What this means for you
+
+Today was legal and political, not product news. If your workplace limits which AI tools staff can use, as Sweden's government now does, check your employer's approved list before you paste work into a chatbot. The lawsuits don't change how the tools work today, but they can change what training data and features look like later.
+
+- If Copilot is the approved tool at work: [Microsoft Copilot pricing explained](/blog/microsoft-copilot-pricing-explained-2026/).
+- Comparing the main assistants: [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Anthropic’s response:** Anthropic hadn’t publicly responded to the Elvis lawsuit at the time of writing. Watch for a fair-use defense and how other music cases are decided.

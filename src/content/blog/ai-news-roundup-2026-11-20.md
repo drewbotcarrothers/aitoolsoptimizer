@@ -136,4 +136,13 @@ The Clay Mathematics Institute offers **$1 million** for each Millennium Prize p
 
 ---
 
+## What this means for you
+
+Gemini can now operate your Mac. Start with low-risk tasks and watch what it does. If you call OpenAI's API in batches that can wait, the new 2-hour and 8-hour windows cut costs by 30–40%. Treat the Riemann hypothesis claim as unverified until checked. (It was certified two days later.)
+
+- What Gemini's plans include: [Gemini pricing explained](/blog/gemini-pricing-explained-2026/).
+- API rates and discounts: [OpenAI API pricing explained](/blog/openai-api-pricing-explained-2026/).
+
+---
+
 *Education only. Prices and features change; verify with the official sources above. Compare current model prices on our [models page](/models/) and browse the [AI tools directory](/tools/).*

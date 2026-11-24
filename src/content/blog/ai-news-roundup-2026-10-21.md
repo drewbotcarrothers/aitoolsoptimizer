@@ -112,6 +112,15 @@ According to the paper, the system discovered and formally verified new rules fo
 
 ---
 
+## What this means for you
+
+Patch PHP if you run a website, even a small WordPress site. That's today's only urgent action. ElevenLabs' realtime voice agents and Gemini on Android Auto show voice becoming the default way to talk to AI. Before you connect an assistant to your email and calendar, check what it can read and what it can do on your behalf.
+
+- Voice agent and text-to-speech costs: [ElevenLabs pricing explained](/blog/elevenlabs-pricing-explained-2026/).
+- What Gemini's plans include: [Gemini review](/blog/gemini-review-2026/).
+
+---
+
 ## What should builders watch next?
 
 1. **PHP patching:** how quickly hosts and WordPress sites update, and whether real exploitation grows now that the fix is public.

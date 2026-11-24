@@ -156,6 +156,16 @@ GitHub also made **Copilot Fusion** generally available. Instead of picking a mo
 
 ---
 
+## What this means for you
+
+Gemini 4 Carbon is Google's strongest model, but access was limited at launch, so most people will use Argon or older models for now. Mistral Large 4's open weights at a low API price are a cheaper option for heavy text workloads. Agents now start a large share of GitHub pull requests, so review AI-written code as carefully as anyone else's.
+
+- Coding assistants by budget: [best AI coding assistants](/blog/best-ai-coding-assistants-2026/).
+- Model prices and context windows: [AI model comparison](/models/).
+- GitHub's own plans: [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
+
+---
+
 ## What should you watch next?
 
 - **Carbon access:** When Google opens Gemini 4 Carbon to developers and consumers, and whether the $2 / $10 introductory price holds.

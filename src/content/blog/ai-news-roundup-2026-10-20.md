@@ -125,6 +125,15 @@ Working mostly autonomously for **64 hours**, from one prompt and four follow-up
 
 ---
 
+## What this means for you
+
+The trend for you: running AI locally and on cheaper hardware is getting real. Perplexity Computer now runs fully on a Mac, and PyTorch code now moves more easily to non-Nvidia chips. If privacy is why you've avoided AI assistants, local options are worth another look. If you transcribe a lot, per-minute speech pricing keeps falling, so check what you pay now.
+
+- Perplexity's paid tiers compared: [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+- Voice and transcription tools by job: [best AI voice generators](/blog/best-ai-voice-generators).
+
+---
+
 ## What should builders watch next?
 
 1. **Chip supply:** whether Nvidia’s RTX PRO 5500 allocations really land at a fraction of China’s orders, and how much demand shifts to Huawei, TPUs and Trainium.
