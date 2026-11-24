@@ -53,7 +53,7 @@ flowchart TD
 
 [GitHub Copilot](/tools/github-copilot/) Free is 2,000 completions a month. Pro at $10 is the seat that is easy to explain. Business at $19 adds pooled credits and IP indemnity. If the only gap is completions inside GitHub, Copilot can be the whole purchase. The card is [GitHub Copilot pricing explained](/blog/github-copilot-pricing-explained-2026/).
 
-Owning ChatGPT Plus and Claude Pro is reasonable when one person truly splits writing and a second coding style. It is waste when the second seat was bought "to compare" and one of them is unopened. Run the same bug through the free or base paid tier you already have before you add the other $20.
+Owning ChatGPT Plus and Claude Pro is reasonable when one person truly splits writing and a second coding style. It is waste when the second seat was bought "to compare" and one of them is unopened. Run the same bug through the free or base paid tier you already have before you add the other $20. For the narrower job of documenting code you already wrote, see [Claude vs ChatGPT for code comments](/blog/claude-vs-chatgpt-for-code-comments-2026/).
 
 ## What neither plan does for you
 

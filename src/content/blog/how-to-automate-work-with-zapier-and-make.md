@@ -62,7 +62,7 @@ The Slack message should ask a person to send the reply, or it should save a dra
 
 A Path or a Filter on Zapier can skip junk without spending a task. Use that for "email is empty" and "label is other." A router on Make can do the same split without a credit for the router itself.
 
-Team features are not required for this build. Zapier Team at $69/month annual is shared folders, roles, and SAML SSO. Make Teams starts at $29/month annual at the 10,000-credit tier. Buy them when a second person must edit the connection, not when the first Zap feels important.
+Team features are not required for this build. Zapier Team at $69/month annual is shared folders, roles, and SAML SSO. Make Teams starts at $29/month annual at the 10,000-credit tier. Buy them when a second person must edit the connection, not when the first Zap feels important. If your company needs Make at scale, start with [how Make Enterprise pricing works](/blog/make-enterprise-pricing-explained-2026/).
 
 ## Where n8n, Lindy, and Manus fit
 

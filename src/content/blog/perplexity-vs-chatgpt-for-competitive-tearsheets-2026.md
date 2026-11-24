@@ -11,7 +11,7 @@ draft: false
 
 **Use Perplexity when the tearsheet needs a public fact with a citation you can open. Use ChatGPT when you are laying out a one-page sheet from facts a person already accepted.** The model may format a row. It may not invent a price, a customer logo, or a feature the source does not state. The longer narrative is [how to write a competitive positioning brief with AI](/blog/how-to-write-a-competitive-positioning-brief-with-ai-2026/). Checking a single claim is [Perplexity vs ChatGPT for fact checks](/blog/perplexity-vs-chatgpt-for-fact-checks-2026/).
 
-Perplexity and ChatGPT prices are from directory pages checked October 16, 2026. perplexity.ai/pro and chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace those cards. Notion's price is from the same October 16 record. Claude's Pro price is from claude.com/pricing on October 24. Published October 24, 2026. We did not score competitive wins.
+Perplexity and ChatGPT prices are from directory pages checked October 16, 2026. perplexity.ai/pro and chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace those cards. Notion's price is from the same October 16 record. Claude's Pro price is from claude.com/pricing on October 24. Published October 24, 2026. We did not score competitive wins. If your team works in Google Workspace, compare [Perplexity and Gemini for competitive intel](/blog/perplexity-vs-gemini-for-competitive-intel-2026/).
 
 ## Which seat matches the sheet
 
@@ -41,7 +41,7 @@ ChatGPT Go is $8 a month and may include ads. Plus is the seat for a saved colum
 
 A fact you can open, the date you checked it, and the source title. If two sources disagree, the cell says Conflict and names both. It does not average them. A logo appears only when you have the right to use it. A "likely" feature is not a feature.
 
-**Perplexity Pro** is the lookup. Ask for the fact and the URL. If the answer has no citation, the cell stays empty. The mode that refuses an uncited sentence is [what AI citation-required mode is](/blog/what-is-ai-citation-required-mode-2026/).
+**Perplexity Pro** is the lookup. Ask for the fact and the URL. If the answer has no citation, the cell stays empty. The mode that refuses an uncited sentence is [what AI citation-required mode is](/blog/what-is-ai-citation-required-mode-2026/). The same split, a cited fact versus a layout, shows up in [travel planning with Perplexity and ChatGPT](/blog/perplexity-vs-chatgpt-for-travel-planning-2026/).
 
 **ChatGPT Plus** is the layout. Paste the accepted rows. Ask for a one-page table. A layout pass that adds a row "for completeness" is the pass you discard.
 

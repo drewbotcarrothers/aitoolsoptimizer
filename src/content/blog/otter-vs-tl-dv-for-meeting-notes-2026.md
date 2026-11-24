@@ -13,7 +13,7 @@ draft: false
 
 The notetaker shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). The Otter invoice is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/). The agenda you should have had first is [how to create meeting agendas with AI](/blog/how-to-create-meeting-agendas-with-ai-2026/).
 
-Prices are from directory pages checked October 16, 2026. Otter's figures are USD. tl;dv's paid figures were shown to the directory in Canadian dollars, and the directory says USD was not confirmed. A live fetch of the tl;dv pricing page returned HTTP 401 on October 24, 2026, so this page does not invent a USD conversion. Published October 24, 2026. We did not score transcription accuracy.
+Prices are from directory pages checked October 16, 2026. Otter's figures are USD. tl;dv's paid figures were shown to the directory in Canadian dollars, and the directory says USD was not confirmed. A live fetch of the tl;dv pricing page returned HTTP 401 on October 24, 2026, so this page does not invent a USD conversion. Published October 24, 2026. We did not score transcription accuracy. For tl;dv's plan prices, listed in euros, see [tl;dv pricing explained](/blog/tl-dv-pricing-explained-2026/).
 
 ## Which seat matches the note
 

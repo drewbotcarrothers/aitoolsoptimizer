@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask for a "complete" AI security questionnaire from a template the model remembers. Do not paste a vendor's marketing page and treat it as their answer. Do not send the form because it looks long. The security owner sends it. An empty answer cell stays empty until the vendor writes in it.
+Do not ask for a "complete" AI security questionnaire from a template the model remembers. Do not paste a vendor's marketing page and treat it as their answer. Do not send the form because it looks long. The security owner sends it. An empty answer cell stays empty until the vendor writes in it. Uptime and response commitments belong in a separate document; see [drafting an AI SLA addendum](/blog/how-to-write-an-ai-sla-addendum-with-ai-2026/).
 
 ## FAQ
 

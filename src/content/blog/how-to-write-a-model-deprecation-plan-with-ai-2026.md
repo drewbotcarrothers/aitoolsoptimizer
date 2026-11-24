@@ -11,7 +11,7 @@ draft: false
 
 **A model deprecation plan written with AI names the model version that will stop, the date, the callers a person already listed, and the fallback version they already chose.** The model may format that plan. It may not discover callers, move the date, or declare the old version unused. The customer-facing note, when customers must act, is [how to write a customer migration notice with AI](/blog/how-to-write-a-customer-migration-notice-with-ai-2026/). A product feature going away is [how to write a feature deprecation note with AI](/blog/how-to-write-a-feature-deprecation-note-with-ai-2026/). This page is the model id.
 
-The cases you re-run on the fallback are [what an AI eval regression suite is](/blog/what-is-ai-eval-regression-suite-2026/). The payload that still names the old model is [what AI prompt compilation is](/blog/what-is-ai-prompt-compilation-2026/).
+The cases you re-run on the fallback are [what an AI eval regression suite is](/blog/what-is-ai-eval-regression-suite-2026/). The payload that still names the old model is [what AI prompt compilation is](/blog/what-is-ai-prompt-compilation-2026/). Before callers move, run a [model switch checklist](/blog/how-to-create-a-model-switch-checklist-with-ai-2026/) of the cases that must still pass.
 
 Claude's prices are from claude.com/pricing on October 24, 2026. Cursor, Notion, and ChatGPT prices are from directory pages checked October 16. The X Subscription page fetched October 24 still lists Plus at $8 a month or $80 a year. chatgpt.com/pricing returned HTTP 403 on October 24. Published October 24, 2026. We did not score model quality.
 

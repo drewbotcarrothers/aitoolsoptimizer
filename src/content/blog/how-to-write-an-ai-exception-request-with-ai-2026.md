@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask how to make the exception "sound safe." Do not paste customer data so the request "shows an example." Do not start the use because the draft is clear. The named approver decides. A missing expiry stays missing.
+Do not ask how to make the exception "sound safe." Do not paste customer data so the request "shows an example." Do not start the use because the draft is clear. The named approver decides. A missing expiry stays missing. Personal data requests follow a different path; see [writing a data access request reply](/blog/how-to-write-a-data-access-request-reply-with-ai-2026/) from your own inventory.
 
 ## FAQ
 

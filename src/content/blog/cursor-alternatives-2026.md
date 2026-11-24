@@ -47,7 +47,7 @@ The three-way among Cursor, Claude Code, and Codex is [Cursor vs Claude Code vs 
 
 **Codex** shares ChatGPT's plan. Plus at $20 covers the web, CLI, and IDE surfaces on the directory page. Pro at $100, $200, or $500 removes the five-hour limit described there, with Ultrafast on the $500 tier. Free is for quick tasks. If you already pay for Plus, try Codex before you add Cursor Premium.
 
-**Devin Desktop** is the former Windsurf editor, now a command center for Devin and other agents. Pro is $20 a month. Teams is $80 a month plus $40 a month per full developer seat. Use it when you are dispatching more than one agent and want a board. A solo autocomplete habit does not need that board. The directory records a vendor note about token efficiency. This page does not repeat it as a measurement. The team-seat choice between Cursor and that desktop is [Cursor vs Windsurf for teams](/blog/cursor-vs-windsurf-for-teams-2026/).
+**Devin Desktop** is the former Windsurf editor, now a command center for Devin and other agents. Pro is $20 a month. Teams is $80 a month plus $40 a month per full developer seat. Use it when you are dispatching more than one agent and want a board. A solo autocomplete habit does not need that board. The directory records a vendor note about token efficiency. This page does not repeat it as a measurement. The team-seat choice between Cursor and that desktop is [Cursor vs Windsurf for teams](/blog/cursor-vs-windsurf-for-teams-2026/). If you are considering Devin, read [how Devin Desktop is priced](/blog/devin-desktop-pricing-explained-2026/), including the per-seat Teams fee.
 
 ## When you did not want an editor
 

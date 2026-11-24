@@ -48,7 +48,7 @@ The page also lists a custom domain add-on, $8 a month per domain paid annually,
 
 ## What not to assume
 
-Do not stack a fictional "Notion AI add-on" on Plus. You change the seat to Business. Do not quote a yearly Business price this fetch did not print. "Up to 20 percent" is the page's words. It is not $16 until checkout says so. Do not buy credits before an agent has a trigger. Do not assume every contractor needs a Business member seat. Check Notion's current guest rules in the product. This article does not restate them, because the pricing page we read did not spell out a guest exception.
+Do not stack a fictional "Notion AI add-on" on Plus. You change the seat to Business. Do not quote a yearly Business price this fetch did not print. "Up to 20 percent" is the page's words. It is not $16 until checkout says so. Do not buy credits before an agent has a trigger. Do not assume every contractor needs a Business member seat. Check Notion's current guest rules in the product. This article does not restate them, because the pricing page we read did not spell out a guest exception. If the $20 seat is hard to justify, [Notion AI alternatives by workspace](/blog/notion-ai-alternatives-2026/) lists other options.
 
 ## FAQ
 

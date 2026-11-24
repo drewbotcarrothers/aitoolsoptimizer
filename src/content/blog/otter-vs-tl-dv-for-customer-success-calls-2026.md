@@ -13,7 +13,7 @@ draft: false
 
 The general note comparison is [Otter vs tl;dv for meeting notes](/blog/otter-vs-tl-dv-for-meeting-notes-2026/). The team shelf is [best AI tools for customer success](/blog/best-ai-tools-for-customer-success-2026/). The Otter invoice is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/).
 
-Otter's prices below are from otter.ai/pricing on October 24, 2026, in USD. A fetch of tldv.io/app/pricing the same day returned structured prices in euros, not USD. The October 16 directory record had shown Canadian dollar figures and said USD was not confirmed. This page does not convert euros or Canadian dollars into USD. Published October 24, 2026. We did not score transcription accuracy or retention.
+Otter's prices below are from otter.ai/pricing on October 24, 2026, in USD. A fetch of tldv.io/app/pricing the same day returned structured prices in euros, not USD. The October 16 directory record had shown Canadian dollar figures and said USD was not confirmed. This page does not convert euros or Canadian dollars into USD. Published October 24, 2026. We did not score transcription accuracy or retention. Before you buy seats for a CS team, check [how tl;dv prices Pro and Business](/blog/tl-dv-pricing-explained-2026/).
 
 ## Which seat matches the call
 

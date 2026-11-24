@@ -79,7 +79,7 @@ The head-to-head for the big three assistants is [ChatGPT vs Gemini vs Claude](/
 
 ### Heavy daily users
 
-Move from $20 to $100–$200 only after you can point to lost work, not curiosity. Claude Max, ChatGPT Pro, Google AI Ultra, the X Subscription Super or Ultra, Perplexity Max, and GitHub Copilot Max are capacity plans. They do not unlock a different job.
+Move from $20 to $100–$200 only after you can point to lost work, not curiosity. Claude Max, ChatGPT Pro, Google AI Ultra, the X Subscription Super or Ultra, Perplexity Max, and GitHub Copilot Max are capacity plans. They do not unlock a different job. If Claude is the seat you are questioning, [the best Claude alternatives](/blog/claude-alternatives-2026/) are sorted by the job, not a benchmark.
 
 ### Teams
 
@@ -97,7 +97,7 @@ This is a buying checklist, scored 0 or 1 by you. It is not our test result.
 | I will cancel a different subscription if I keep this one | No | Yes |
 | I know which cheaper plan I would drop to if limits are fine | No | Yes |
 
-**4–5:** pay. **2–3:** use the monthly plan, not the annual plan, for one cycle. **0–1:** stay free.
+**4–5:** pay. **2–3:** use the monthly plan, not the annual plan, for one cycle. **0–1:** stay free. Before you pay at all, note that some assistants are free; [the Meta AI pricing page](/blog/meta-ai-pricing-explained-2026/) shows where the free tier ends and Muse begins.
 
 ## Bundles that change the math
 

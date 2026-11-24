@@ -47,7 +47,7 @@ Go may include ads, on the October 16 card. The October 24 Codex page's Go line 
 
 **A dot** is not on the Free, Go, or Plus lines of the [Dots](/tools/openai-dots/) page we could read. Eligibility is in the Dots article. Business Premium's dollar price was not on the pages that returned 200 on October 24. The October 16 directory card lists Business Premium at $125 a user a month billed monthly, or $100 annually. Cite that card's date if you put $125 on a purchase order, and re-check before you pay.
 
-**[Gemini](/tools/gemini/)** Google AI Plus is $4.99 a month and Pro is $19.99, on the October 16 card, if you are comparing a Google seat rather than buying ChatGPT. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review of the product, separate from this bill, is [ChatGPT review](/blog/chatgpt-review-2026/).
+**[Gemini](/tools/gemini/)** Google AI Plus is $4.99 a month and Pro is $19.99, on the October 16 card, if you are comparing a Google seat rather than buying ChatGPT. The invoice is [Gemini pricing explained](/blog/gemini-pricing-explained-2026/). The review of the product, separate from this bill, is [ChatGPT review](/blog/chatgpt-review-2026/). If $20 is more than you want to pay, [Mistral Vibe's plans](/blog/mistral-vibe-pricing-explained-2026/) start lower, with a $5.99 student tier.
 
 ## What not to assume
 

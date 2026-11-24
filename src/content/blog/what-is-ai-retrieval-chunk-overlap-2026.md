@@ -56,7 +56,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model for a "standard" overlap. Do not grow the overlap because one question failed. Do not repeat an entire section and call it an edge. The owner of the index sets the size, on a new version. Last month's retrieval score stays on the old size.
+Do not ask the model for a "standard" overlap. Do not grow the overlap because one question failed. Do not repeat an entire section and call it an edge. The owner of the index sets the size, on a new version. Last month's retrieval score stays on the old size. Record the overlap per collection in a [retrieval source map](/blog/how-to-create-a-retrieval-source-map-with-ai-2026/) so the setting is not lost in code.
 
 ## FAQ
 

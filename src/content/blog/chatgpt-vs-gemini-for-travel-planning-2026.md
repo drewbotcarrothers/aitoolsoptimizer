@@ -36,7 +36,7 @@ flowchart TD
   check --> book["You book. The chat does not"]
 ```
 
-ChatGPT Plus is $240 a year at $20. Google AI Pro is $19.99 a month, or $239.88 if you keep it for twelve months. The stickers match. Buy Pro if you wanted Gmail and the storage anyway. Do not buy it because a travel draft felt more official. A free Gemini account can still outline a public-city weekend if you paste the constraints and you check the pages.
+ChatGPT Plus is $240 a year at $20. Google AI Pro is $19.99 a month, or $239.88 if you keep it for twelve months. The stickers match. Buy Pro if you wanted Gmail and the storage anyway. Do not buy it because a travel draft felt more official. A free Gemini account can still outline a public-city weekend if you paste the constraints and you check the pages. If the trip is a week at a rental with a kitchen, [planning meals with ChatGPT or Gemini](/blog/chatgpt-vs-gemini-for-meal-planning-2026/) uses the same paste-the-constraints approach. When the dates are fixed and you only need the day-by-day draft, [Gemini vs ChatGPT for trip itineraries](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/) goes one step further.
 
 ## The tools around the draft
 

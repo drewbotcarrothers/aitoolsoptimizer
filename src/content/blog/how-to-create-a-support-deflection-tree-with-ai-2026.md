@@ -54,7 +54,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask which articles you should write. That decision comes from tickets a person counted. Do not let the tree swallow billing, account access, or anything your escalation matrix marks severe. Do not report a deflection rate the model estimated. A rate is tickets that received an article and did not reopen, divided by tickets you measured. If you have not measured it, you do not have it.
+Do not ask which articles you should write. That decision comes from tickets a person counted. Do not let the tree swallow billing, account access, or anything your escalation matrix marks severe. Do not report a deflection rate the model estimated. A rate is tickets that received an article and did not reopen, divided by tickets you measured. If you have not measured it, you do not have it. To see whether the tree is working, [create a support deflection report](/blog/how-to-create-a-support-deflection-report-with-ai-2026/) from counts you already have.
 
 ## FAQ
 

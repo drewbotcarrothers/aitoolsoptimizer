@@ -39,7 +39,7 @@ Transcription in 25 languages is on every plan, including Free. Creator scales t
 
 ## Media hours are the raw file, not the finished cut
 
-Media hours are the imported or recorded media Descript processes for you each month, per editor. A two-hour raw recording counts as two hours even if the published episode is 30 minutes. Hobbyist's 10 hours is about five of those raw tapes, not ten finished episodes, if you import the whole session.
+Media hours are the imported or recorded media Descript processes for you each month, per editor. A two-hour raw recording counts as two hours even if the published episode is 30 minutes. Hobbyist's 10 hours is about five of those raw tapes, not ten finished episodes, if you import the whole session. Teams that need SSO or a custom MSA are past Business; [Descript Enterprise pricing](/blog/descript-enterprise-pricing-explained-2026/) explains what the custom contract adds.
 
 That is the usual reason a Hobbyist month runs out. The fix is a shorter recording, or Creator's 30 hours, after you have seen a month of real imports. It is not a reason to start on Business.
 

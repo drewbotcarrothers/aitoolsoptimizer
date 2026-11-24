@@ -34,7 +34,7 @@ flowchart TD
   tell --> actions["A person accepts action rows. The summary is not the decision"]
 ```
 
-Otter Basic is 300 minutes a user a month and 30 minutes per conversation. Pro is 1,200 minutes and 90 minutes per conversation, at $8.33 a user a month billed annually or $16.99 monthly. Workspaces are capped at 5 billed users on Pro and 25 on Business, on that card. An all-hands that runs two hours does not fit Pro's 90-minute conversation cap. The invoice is [Otter AI pricing explained](/blog/otter-ai-pricing-explained-2026/).
+Otter Basic is 300 minutes a user a month and 30 minutes per conversation. Pro is 1,200 minutes and 90 minutes per conversation, at $8.33 a user a month billed annually or $16.99 monthly. Workspaces are capped at 5 billed users on Pro and 25 on Business, on that card. An all-hands that runs two hours does not fit Pro's 90-minute conversation cap. The invoice is [Otter AI pricing explained](/blog/otter-ai-pricing-explained-2026/). For one-to-one research calls, see [Otter vs Fireflies for interviews](/blog/otter-vs-fireflies-for-interviews-2026/).
 
 Fireflies Free is $0. Business is $19 a user a month billed annually or $29 monthly. Enterprise is $39 a user a month billed annually on that card. Talk dictation is included on all plans, which is not the same thing as an all-hands transcript. The invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/).
 

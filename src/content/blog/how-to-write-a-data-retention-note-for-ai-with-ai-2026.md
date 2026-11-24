@@ -40,7 +40,7 @@ The customer notice and this note can share a window. They do not share an audie
 
 **The page the team opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. Link the policy version and the date. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**One draft from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is the workspace when the note is company data: $25 a user a month billed monthly, for two or more users, on the October 24 plan page. The annual Business dollar is in [ChatGPT Team pricing explained](/blog/chatgpt-team-pricing-explained-2026/). The review is [ChatGPT review](/blog/chatgpt-review-2026/).
+**One draft from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Business is the workspace when the note is company data: $25 a user a month billed monthly, for two or more users, on the October 24 plan page. The annual Business dollar is in [ChatGPT Team pricing explained](/blog/chatgpt-team-pricing-explained-2026/). The review is [ChatGPT review](/blog/chatgpt-review-2026/). When someone asks what you hold about them, [reply to a data access request with AI](/blog/how-to-write-a-data-access-request-reply-with-ai-2026/) using only the categories a person already confirmed.
 
 **A plain-language pass.** [Grammarly](/tools/grammarly/) Pro is $12 a month billed annually, or $30 monthly, on the October 16 card. It may not change the window while it changes a sentence. The invoice is [Grammarly pricing explained](/blog/grammarly-pricing-explained-2026/).
 

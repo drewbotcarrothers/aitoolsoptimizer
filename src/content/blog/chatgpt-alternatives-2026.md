@@ -50,7 +50,7 @@ flowchart TD
 
 **Grok is the bundle alternative.** Plus at $8 is cheaper than ChatGPT Plus and shares a usage pool with Cursor. Premium at $30 is 4x Plus usage and includes [Grok Bot](/tools/grok-bot/). Buy it when the bundle is real. Skip it when you do not use X or Cursor and you wanted citations. See [Grok review](/blog/grok-review-2026/).
 
-**Gemini and the two free assistants** are distribution, not a second brain. Gemini is the one that belongs next to Google's apps, and Google AI Plus at $4.99 is the cheapest paid step in this table. Microsoft Copilot belongs next to Microsoft 365. Meta AI belongs next to Meta's apps. Use the one that is already in the window where you work. Do not pay for a fourth general chatbot on top of all three.
+**Gemini and the two free assistants** are distribution, not a second brain. Gemini is the one that belongs next to Google's apps, and Google AI Plus at $4.99 is the cheapest paid step in this table. Microsoft Copilot belongs next to Microsoft 365. Meta AI belongs next to Meta's apps. Use the one that is already in the window where you work. Do not pay for a fourth general chatbot on top of all three. Readers comparing the other big seat can use [our Gemini alternatives guide](/blog/gemini-alternatives-2026/), sorted by the job you need done. If you are leaving Claude rather than ChatGPT, see [Claude alternatives by job](/blog/claude-alternatives-2026/), including citation tools and coding agents.
 
 ## A sane stack, not a collection
 

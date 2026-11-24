@@ -41,7 +41,7 @@ The 187-second Pro figure is Standard's published 52 seconds scaled by 2,250 / 6
 
 A credit is not a second, until a model says so. Gen-4.5 is the expensive in-house model in the equivalence above. Gen-4 Turbo is the one Runway prices at roughly twice the seconds for the same 625 credits. Images are a third ratio: about 78 Gen-4 images at 1080p on Standard.
 
-Third-party models on the platform, such as Seedance, Kling, and others Runway listed, spend credits too. Their rates are not the Gen-4.5 rate. Generate one second, read the debit, and multiply by the shot. That is the only budget that survives a model change.
+Third-party models on the platform, such as Seedance, Kling, and others Runway listed, spend credits too. Their rates are not the Gen-4.5 rate. Generate one second, read the debit, and multiply by the shot. That is the only budget that survives a model change. For per-second costs by model, see [Runway Gen-4 pricing](/blog/runway-gen-4-pricing-explained-2026/): Gen-4.5 at 12 credits a second.
 
 Pro is also where the feature list changes, not just the pool: a custom voice clone, Runway MCP, unlimited 4K upscaling, and 100 GB of storage, against Standard's smaller pool. If you needed the upscale and not the seconds, Pro can still be the right plan on a short film that uses little generation. Read the feature row before you buy Max for a checkbox that was already on Pro.
 

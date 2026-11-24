@@ -35,7 +35,7 @@ flowchart TD
   gra --> score
 ```
 
-Otter Pro is $16.99 a user a month, or $8.33 billed annually, with 1,200 minutes and 90 minutes per conversation. Business is $30 a user a month, or $19.99 billed annually, with unlimited meetings and 4-hour conversations. A one-hour interview does not fit the free 30-minute conversation cap. Do not plan a loop on Basic and discover the cutoff mid-answer.
+Otter Pro is $16.99 a user a month, or $8.33 billed annually, with 1,200 minutes and 90 minutes per conversation. Business is $30 a user a month, or $19.99 billed annually, with unlimited meetings and 4-hour conversations. A one-hour interview does not fit the free 30-minute conversation cap. Do not plan a loop on Basic and discover the cutoff mid-answer. If you need an archive of research calls you can search, compare [Otter and Fireflies for interviews](/blog/otter-vs-fireflies-for-interviews-2026/).
 
 Granola Business is $14 a user a month, with unlimited history. Enterprise starts at $35 a user a month. Billing is per workspace. Mobile apps are free to use on the card. Free is genuinely usable for a week of interviews and a poor archive for a search that runs six weeks, because the history line is 30 days.
 

@@ -49,7 +49,7 @@ Usage limits apply on every plan. The page says the context window is up to 1M t
 
 ## What not to assume
 
-Do not quote Max 20x at $200 as the seat price from this article. Quote "from $100," then read checkout. Do not ignore the $200 up-front charge on annual Pro and describe it as "$17 today." Do not assume mobile prices match the web. The October 16 card says mobile pricing may differ. Do not treat the Team premium seat as required for Claude Code. The page lists Claude Code on the Team feature set generally. Confirm the seat you were sold.
+Do not quote Max 20x at $200 as the seat price from this article. Quote "from $100," then read checkout. Do not ignore the $200 up-front charge on annual Pro and describe it as "$17 today." Do not assume mobile prices match the web. The October 16 card says mobile pricing may differ. Do not treat the Team premium seat as required for Claude Code. The page lists Claude Code on the Team feature set generally. Confirm the seat you were sold. For a cheaper European alternative, see [Mistral Vibe pricing](/blog/mistral-vibe-pricing-explained-2026/): Pro at $14.99 and Team at $24.99.
 
 ## FAQ
 

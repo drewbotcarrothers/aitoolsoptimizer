@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model which tools are "basically read-only." Do not drop the label because the call failed and "nothing happened." A failed send can still have sent. Do not treat a sandbox success as a production label. The owner of the tool sets the label. A generated table is not the label.
+Do not ask the model which tools are "basically read-only." Do not drop the label because the call failed and "nothing happened." A failed send can still have sent. Do not treat a sandbox success as a production label. The owner of the tool sets the label. A generated table is not the label. Tools that change something often get a lower [concurrency limit](/blog/what-is-ai-tool-concurrency-limit-2026/) than read-only ones.
 
 ## FAQ
 

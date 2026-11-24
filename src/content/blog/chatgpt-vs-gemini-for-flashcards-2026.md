@@ -42,7 +42,7 @@ ChatGPT Go is $8 a month and may include ads. Do not treat an ad as a fact on a 
 
 A card has a prompt, an answer that appears in your notes, and a source line you can reopen. It does not have a mnemonic the model invented from a fact you did not supply. If the notes do not state it, the back says Missing.
 
-**Gemini** is the right paid seat when you refuse to re-paste a Doc you already wrote. Pro is the plan that lists Gemini in Gmail and Docs. Free can draft from a paste. The review is [Gemini review](/blog/gemini-review-2026/).
+**Gemini** is the right paid seat when you refuse to re-paste a Doc you already wrote. Pro is the plan that lists Gemini in Gmail and Docs. Free can draft from a paste. The review is [Gemini review](/blog/gemini-review-2026/). Study-abroad trips are a good example: [an itinerary built from your own dates](/blog/gemini-vs-chatgpt-for-trip-itineraries-2026/) compares the two assistants on that job.
 
 **ChatGPT Plus** is the right paid seat when the deck template lives in a project and the notes are a file you drop in each week. Projects are on Plus. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

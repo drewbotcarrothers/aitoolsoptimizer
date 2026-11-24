@@ -44,11 +44,11 @@ The three-way among the large assistants is [ChatGPT vs Gemini vs Claude](/blog/
 
 **Perplexity is the research switch.** Answers are supposed to ship with sources. Open them. Pro adds higher limits, model choice, and Computer. Max at $167 a month billed annually is a heavy-research plan. The ladder is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). If your complaint was a made-up citation, start on Free before you buy Max. That failure mode is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
 
-**Gemini is the Google-suite switch.** The free plan includes the assistant with a Google account. Plus at $4.99 adds usage and video generation. Pro at $19.99 is the step when Plus limits block a workday. It is a different draft voice. Try one real memo before you cancel Claude.
+**Gemini is the Google-suite switch.** The free plan includes the assistant with a Google account. Plus at $4.99 adds usage and video generation. Pro at $19.99 is the step when Plus limits block a workday. It is a different draft voice. Try one real memo before you cancel Claude. If Google's assistant is the one you are leaving, the matching list is [the best Gemini alternatives](/blog/gemini-alternatives-2026/).
 
 **ChatGPT is the default other seat, not a discount.** Plus is the same $20 monthly number as Claude Pro. Go at $8 is the cheaper ChatGPT step, with the directory note that it may include ads. Move if you need a ChatGPT-specific surface, such as a particular project setup your team already uses. The plan names are [ChatGPT Go vs Plus vs Pro](/blog/chatgpt-go-vs-plus-vs-pro-2026/).
 
-**Mistral Vibe is the lower published seat.** Pro at $14.99 is under Claude's monthly Pro price. The directory records a free plan with limited access. Confirm the current checkout. A lower price is not a measurement of draft quality.
+**Mistral Vibe is the lower published seat.** Pro at $14.99 is under Claude's monthly Pro price. The directory records a free plan with limited access. Confirm the current checkout. A lower price is not a measurement of draft quality. If Mistral is on your shortlist, [Mistral Vibe pricing explained](/blog/mistral-vibe-pricing-explained-2026/) lists the Free, Pro, student, and Team plans.
 
 **Copilot is the Microsoft switch.** If the draft has to land in Word or Outlook and the company already pays for Microsoft 365, price Personal at $9.99 or the business Copilot SKU your admin lists before you buy a second assistant. The business line on the directory page starts from $18 per user per month on a promotional yearly figure.
 

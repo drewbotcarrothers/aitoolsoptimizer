@@ -11,7 +11,7 @@ draft: false
 
 **Use HeyGen when the policy training piece is a short clip a person watches, and the script is a policy page you already published. Use Synthesia when the same policy has to be a lesson with a quiz, a survey, or a SCORM file for a learning system.** The model may speak the policy. It may not add an exception, a deadline, or a penalty the page does not contain. A help-center how-to is [HeyGen vs Synthesia for support videos](/blog/heygen-vs-synthesia-for-support-videos-2026/). The quiz after the lesson is [how to create training quizzes with AI](/blog/how-to-create-training-quizzes-with-ai-2026/).
 
-Prices below are from the HeyGen and Synthesia pricing pages fetched October 24, 2026. Notion and Grammarly prices are from directory pages checked October 16, 2026. Published October 24, 2026. We did not score completion, lip sync, or whether anyone followed the policy.
+Prices below are from the HeyGen and Synthesia pricing pages fetched October 24, 2026. Notion and Grammarly prices are from directory pages checked October 16, 2026. Published October 24, 2026. We did not score completion, lip sync, or whether anyone followed the policy. If the policy only needs an announcement, not a lesson, read [the internal comms version of this comparison](/blog/heygen-vs-synthesia-for-internal-comms-2026/).
 
 ## Which policy video you are making
 

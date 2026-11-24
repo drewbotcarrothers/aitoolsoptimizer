@@ -41,7 +41,7 @@ The $4.99 line is an entry price, not a full rate card. It does not say how many
 
 Add-on points at $30 per million are the one unit price we can quote. They are for subscribers. They are not a substitute for knowing the subscription grant. Pre-purchased points expire after one year, so a large top-up for a project you might delay is a dated coupon.
 
-Unused subscription points do not roll over unless the plan says otherwise, on the Terms of Sale note in the directory. Daily free points also do not roll. A quiet Tuesday does not fund a busy Friday. That is the opposite of a credit that lasts the month.
+Unused subscription points do not roll over unless the plan says otherwise, on the Terms of Sale note in the directory. Daily free points also do not roll. A quiet Tuesday does not fund a busy Friday. That is the opposite of a credit that lasts the month. For another assistant that is free to start, see [Meta AI pricing and the Muse plans](/blog/meta-ai-pricing-explained-2026/).
 
 Shared subscriptions let the subscriber invite a limited number of group members to use their points, subject to Poe's terms. The directory does not print the seat count. Read the current limit before you treat $4.99 as a team plan. It is a poor default for a company. [ChatGPT](/tools/chatgpt/) Business is $20 per user a month billed annually, with a two-user minimum, when you need an org plan with a published seat price. [Claude](/tools/claude/) Pro is $20 a month, or $17 billed annually, for one person's writing seat. [Gemini](/tools/gemini/) on Google AI Pro is $19.99 a month. [Perplexity](/tools/perplexity/) Pro is $17 a month billed annually when you need citations. Those are different products. Poe's case is many models on one point balance.
 

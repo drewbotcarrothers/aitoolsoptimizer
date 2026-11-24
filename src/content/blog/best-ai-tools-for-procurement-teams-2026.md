@@ -38,7 +38,7 @@ flowchart TD
 
 **The official page.** Perplexity Pro is the cited lookup. Free is enough for a first pass if you are inside the weekly limit on the card. Premium data sources on Pro matter more for company research than for a SaaS sticker, and they are still not a negotiated price. The review is [Perplexity review](/blog/perplexity-review-2026/). The habit of opening the cart page, when the "vendor" is a product you might buy yourself, is [Perplexity vs ChatGPT for shopping research](/blog/perplexity-vs-chatgpt-for-shopping-research-2026/).
 
-**The memo.** Claude Pro, with the RFP and the excerpts in a Project. Ask for columns: requirement, vendor claim, URL, date, gap. ChatGPT Business is the alternative when procurement wants admin controls and no training on business data by default. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/).
+**The memo.** Claude Pro, with the RFP and the excerpts in a Project. Ask for columns: requirement, vendor claim, URL, date, gap. ChatGPT Business is the alternative when procurement wants admin controls and no training on business data by default. The container is [Claude Projects vs ChatGPT Projects](/blog/claude-projects-vs-chatgpt-projects-2026/). Procurement also owns the way out; [drafting a vendor exit plan with AI](/blog/how-to-write-a-vendor-exit-plan-with-ai-2026/) keeps it to data, dates, and named owners.
 
 **The file that outlives the chat.** Notion Business. Name the approver. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/). That habit is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 

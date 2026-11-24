@@ -33,7 +33,7 @@ flowchart TD
   added -->|No| owner["The owner accepts the plan before any notice is sent"]
 ```
 
-The plan is not the notice to the vendor. Counsel or the owner sends that, from the contract. The plan is also not a reason to scrape, export, or retain data the contract forbids. If the contract is silent, the row says Unconfirmed. A model that says "you can export everything" has guessed.
+The plan is not the notice to the vendor. Counsel or the owner sends that, from the contract. The plan is also not a reason to scrape, export, or retain data the contract forbids. If the contract is silent, the row says Unconfirmed. A model that says "you can export everything" has guessed. For non-AI suppliers, the general version is [how to write a vendor exit plan with AI](/blog/how-to-write-a-vendor-exit-plan-with-ai-2026/): the data, the date, and the owner.
 
 If customers see the vendor's name in your product, the customer line has to match this plan's date. If they do not, keep the plan internal.
 

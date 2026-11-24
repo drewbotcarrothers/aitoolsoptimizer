@@ -34,7 +34,7 @@ flowchart TD
   entry --> watch["You watch the render and cut any line the changelog does not contain"]
 ```
 
-Synthesia Pro is $89 a month billed monthly, with 6,000 credits, and higher credit tiers exist up to $676 a month on the card. A two-minute update does not need that tier until the credit receipt says Starter is short. HeyGen's free plan is a test, not a customer channel. Synthesia Basic is watermarked. The customer clip starts on the first paid plan that removes the mark.
+Synthesia Pro is $89 a month billed monthly, with 6,000 credits, and higher credit tiers exist up to $676 a month on the card. A two-minute update does not need that tier until the credit receipt says Starter is short. HeyGen's free plan is a test, not a customer channel. Synthesia Basic is watermarked. The customer clip starts on the first paid plan that removes the mark. If SSO is required, see [Synthesia's Enterprise pricing](/blog/synthesia-enterprise-pricing-explained-2026/) before you compare seat prices.
 
 ## What the script may say
 
@@ -54,7 +54,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not let the avatar announce a feature that is behind a flag you have not turned on. Do not translate the clip into a language you will not have a person review. Synthesia's one-click translation into 140+ languages is an Enterprise line on the card. A translation nobody checked is a second product update you did not mean to ship. Do not send the clip instead of the changelog. The clip points at the changelog. The changelog remains the record.
+Do not let the avatar announce a feature that is behind a flag you have not turned on. Do not translate the clip into a language you will not have a person review. Synthesia's one-click translation into 140+ languages is an Enterprise line on the card. A translation nobody checked is a second product update you did not mean to ship. Do not send the clip instead of the changelog. The clip points at the changelog. The changelog remains the record. A changelog clip is short; a full tour of the flow is [HeyGen vs Synthesia for product walkthroughs](/blog/heygen-vs-synthesia-for-product-walkthroughs-2026/).
 
 ## FAQ
 

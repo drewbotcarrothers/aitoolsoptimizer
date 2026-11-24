@@ -38,7 +38,7 @@ Grammarly's support note says Grammarly is now part of Superhuman, a suite that 
 - Admin features, unlimited prompts, and data-loss prevention are the Enterprise conversation, not a box you tick on the $12 plan.
 - [Fathom](/tools/fathom/), the meeting notetaker, is also part of Superhuman. A Grammarly subscription does not include Fathom's paid tiers. Meeting notes are a separate product, compared in [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/).
 
-If a sales page bundles Go, Mail, and Grammarly, price the bundle against the tools you will open. The $12 figure is the writing product on annual billing, not a promise that the whole suite costs $12.
+If a sales page bundles Go, Mail, and Grammarly, price the bundle against the tools you will open. The $12 figure is the writing product on annual billing, not a promise that the whole suite costs $12. Before you decide, see [the QuillBot pricing breakdown](/blog/quillbot-pricing-explained-2026/), its closest lower-cost rival for rewrites.
 
 ## When the $12 is worth it
 

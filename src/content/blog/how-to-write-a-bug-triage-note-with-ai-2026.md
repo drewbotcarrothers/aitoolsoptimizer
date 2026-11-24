@@ -58,7 +58,7 @@ The person who sets severity is [what human-in-the-loop AI is](/blog/what-is-hum
 
 Write the scale where the team can see it: what "high" means in your product, in one sentence each. The model may format examples you provide. It may not decide that a typo is high because the prose sounds urgent, or that a data loss is low because the ticket is short.
 
-If you did not reproduce the bug, say what you tried and what you need from the reporter. Do not let the draft imply you saw it. Duplicate tickets should point at the original note, not grow a second theory.
+If you did not reproduce the bug, say what you tried and what you need from the reporter. Do not let the draft imply you saw it. Duplicate tickets should point at the original note, not grow a second theory. When triage follows a bug bash, a [summary of themes from the filed bugs](/blog/how-to-create-a-bug-bash-summary-with-ai-2026/) gives the room one page to start from.
 
 Customer impact stays numeric only when you counted it. "Some users" is honest. "40 percent" is a measurement. The log that would support a count is [what structured logging for AI is](/blog/what-is-structured-logging-for-ai-2026/), when the bug is in a model path. A model bug and a button bug can share this note shape. They should not share a guessed cause.
 

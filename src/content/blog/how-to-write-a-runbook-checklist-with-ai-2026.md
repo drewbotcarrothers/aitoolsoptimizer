@@ -52,7 +52,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model what the severity is. Do not publish a checklist you have not rehearsed at least once on a safe system. Do not let the checklist and the migration runbook disagree about who can abort. One of them is wrong until a person picks.
+Do not ask the model what the severity is. Do not publish a checklist you have not rehearsed at least once on a safe system. Do not let the checklist and the migration runbook disagree about who can abort. One of them is wrong until a person picks. Testing an AI feature calls for a different list with scope and a stop condition, covered in [the AI red team checklist](/blog/how-to-create-an-ai-red-team-checklist-with-ai-2026/).
 
 ## FAQ
 

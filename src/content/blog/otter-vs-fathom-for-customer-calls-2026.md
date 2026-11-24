@@ -11,7 +11,7 @@ draft: false
 
 **Use Otter Business when a support or success call can run long and you need the 4-hour conversation cap and unlimited meetings. Use Fathom when the team needs recordings and transcripts on the free plan, and move to a paid Fathom seat only for the summary or CRM field you actually use.** These are customer calls: a ticket, a renewal conversation, a bug report. A sales discovery call is a different page. Both products can put a bot on the call. If the customer will not accept a bot, pick a notetaker that stays off the meeting.
 
-The sales-call decision between this pair is [Otter vs Fathom for sales calls](/blog/otter-vs-fathom-for-sales-calls-2026/). The three-way with Fireflies is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). The no-bot option is [Granola vs Fathom](/blog/granola-vs-fathom-2026/).
+The sales-call decision between this pair is [Otter vs Fathom for sales calls](/blog/otter-vs-fathom-for-sales-calls-2026/). The three-way with Fireflies is [Otter vs Fireflies vs Fathom](/blog/otter-vs-fireflies-vs-fathom-2026/). The no-bot option is [Granola vs Fathom](/blog/granola-vs-fathom-2026/). The same recorders show up in a founder's month-end routine; see [Otter or Fathom for the call behind an investor update](/blog/otter-vs-fathom-for-investor-updates-2026/).
 
 Prices are US list prices excluding tax from directory pages checked October 16, 2026. Otter's card also showed promotions that can disappear. Published October 24, 2026. We did not score transcript accuracy. Recording may require consent where you and the customer are. This page is not legal advice.
 

@@ -11,7 +11,7 @@ draft: false
 
 **Use ChatGPT if you want one assistant that also creates images, talks, and codes. Use Claude if the job is writing and long documents. Use Gemini if your work already lives in Gmail, Docs, and Drive.** Most people only need one paid plan in the $20 range. Add [Perplexity](/tools/perplexity/) when every answer must show its sources.
 
-This comparison covers [ChatGPT](/tools/chatgpt/) (OpenAI), [Google Gemini](/tools/gemini/) (Google), and [Claude](/tools/claude/) (Anthropic). Prices are US list prices from each company’s public pricing pages, last verified October 16, 2026. We did not run a scored lab test. The fit labels below describe documented product scope, not a measured quality score.
+This comparison covers [ChatGPT](/tools/chatgpt/) (OpenAI), [Google Gemini](/tools/gemini/) (Google), and [Claude](/tools/claude/) (Anthropic). Prices are US list prices from each company’s public pricing pages, last verified October 16, 2026. We did not run a scored lab test. The fit labels below describe documented product scope, not a measured quality score. For an everyday example of the two consumer plans side by side, see [ChatGPT vs Gemini for a weekly meal plan](/blog/chatgpt-vs-gemini-for-meal-planning-2026/). For a product-team example of Claude and Gemini on the same job, see [which one to use for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/).
 
 ## The short answer
 

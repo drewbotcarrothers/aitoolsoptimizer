@@ -49,7 +49,7 @@ Search across Slack, GitHub, and the other connected apps is the same Business b
 
 ## A 10-person bill
 
-Ten people on Plus, at the monthly list, is $100. That does not buy the agent. Ten people on Business is $200. The jump is $100 a month for the team, or $10 more per seat, which is the entire AI decision. It is still cheaper than ten ChatGPT Business seats if the only reason for the chatbot was to ask questions about docs that already live in Notion. [ChatGPT](/tools/chatgpt/) Business is $20 per user on annual billing, or $25 monthly, and it does not edit your Notion databases.
+Ten people on Plus, at the monthly list, is $100. That does not buy the agent. Ten people on Business is $200. The jump is $100 a month for the team, or $10 more per seat, which is the entire AI decision. It is still cheaper than ten ChatGPT Business seats if the only reason for the chatbot was to ask questions about docs that already live in Notion. [ChatGPT](/tools/chatgpt/) Business is $20 per user on annual billing, or $25 monthly, and it does not edit your Notion databases. If your docs already live in ClickUp, Google, or Microsoft, compare [Notion AI alternatives](/blog/notion-ai-alternatives-2026/) before adding a seat.
 
 Custom Agents are the part that can outrun the seat. One credit price is public: $10 per 1,000. The page we checked does not say how many credits one Slack answer costs. Run one real agent for a week on the trial, read the debit, and then decide. Anyone who tells you a credit equals one message is guessing, unless they measured that agent.
 

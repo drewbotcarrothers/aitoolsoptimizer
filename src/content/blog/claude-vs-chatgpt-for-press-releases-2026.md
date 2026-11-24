@@ -36,7 +36,7 @@ flowchart TD
   extra -->|No| human["A person who can speak for the company sends it"]
 ```
 
-Claude Max starts at $100. ChatGPT Pro starts at $100. One release from a sheet you already approved does not need either. ChatGPT Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly, when the sheet is the company's and a personal account is against policy. Go at $8 may include ads. A release is a poor place for an ad.
+Claude Max starts at $100. ChatGPT Pro starts at $100. One release from a sheet you already approved does not need either. ChatGPT Business is $20 a user a month billed annually, with a two-user minimum, or $25 monthly, when the sheet is the company's and a personal account is against policy. Go at $8 may include ads. A release is a poor place for an ad. Once the release is approved, the boilerplate and fact sheet that travel with it are a separate job, covered in [ChatGPT vs Claude for press kits](/blog/chatgpt-vs-claude-for-press-kits-2026/).
 
 ## What the release may say
 

@@ -40,7 +40,7 @@ flowchart TD
 
 ## What this looks like on a support bot
 
-[Chatbase](/tools/chatbase/) bills message credits. Hobby is $32 a month billed yearly for 700 credits, or $40 month to month. A credit is a response, not a proof that the response was right. The human loop is the escalation path and the person who reads the bad ones. The card is [Chatbase pricing explained](/blog/chatbase-pricing-explained-2026/).
+[Chatbase](/tools/chatbase/) bills message credits. Hobby is $32 a month billed yearly for 700 credits, or $40 month to month. A credit is a response, not a proof that the response was right. The human loop is the escalation path and the person who reads the bad ones. The card is [Chatbase pricing explained](/blog/chatbase-pricing-explained-2026/). To put this into practice, [create a human-in-the-loop checklist with AI](/blog/how-to-create-a-human-in-the-loop-checklist-with-ai-2026/) that names the reviewer and the ship rule.
 
 [Intercom Fin](/tools/intercom-fin/) bills outcomes. The base plan is $49 a month including 50 outcomes, then $0.99 each. An outcome is a resolution or a procedure handoff, on the directory page. A handoff to a person is part of the product, not a failure of the idea. The comparison of the two meters is [Chatbase vs Intercom Fin pricing](/blog/chatbase-vs-intercom-fin-pricing-2026/). The product page is [Intercom Fin review](/blog/intercom-fin-review-2026/).
 

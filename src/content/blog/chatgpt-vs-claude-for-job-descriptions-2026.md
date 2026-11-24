@@ -59,7 +59,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask which requirements will "attract better candidates." Do not paste resumes so the posting matches the last person who held the job. Do not publish it because the intro sounds friendly. The hiring manager accepts it. A formatted page is not a signed list.
+Do not ask which requirements will "attract better candidates." Do not paste resumes so the posting matches the last person who held the job. Do not publish it because the intro sounds friendly. The hiring manager accepts it. A formatted page is not a signed list. If you are writing a single posting where the must-have requirements cannot move, read the companion piece, [Claude vs ChatGPT for job descriptions](/blog/claude-vs-chatgpt-for-job-descriptions-2026/).
 
 ## FAQ
 

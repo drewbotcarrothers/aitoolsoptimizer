@@ -34,7 +34,7 @@ flowchart TD
   support --> send["A person sends each message"]
 ```
 
-Support should not learn the workaround from a customer who read it first. The plan names that sequence. If you do not have a workaround, the macro says so. A fluent workaround the model composed is how a second incident starts.
+Support should not learn the workaround from a customer who read it first. The plan names that sequence. If you do not have a workaround, the macro says so. A fluent workaround the model composed is how a second incident starts. Once the fix is out, the questions keep coming; [write a post-incident FAQ](/blog/how-to-write-a-post-incident-faq-with-ai-2026/) from the timeline you already accepted.
 
 ## Where the plan is written
 

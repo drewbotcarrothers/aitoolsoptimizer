@@ -35,7 +35,7 @@ flowchart TD
   added -->|No| owner["The person who owns the workstream accepts the report"]
 ```
 
-Google AI Pro at $19.99 is the card that lists Gemini in Gmail and Docs, plus 5 TB of storage, on the October 16 record. Plus at $4.99 is the 2x-usage row. Ultra at $99.99 or $199.99 is a larger usage multiple. You do not need Ultra to format a status sentence. You need the file, and the sentence a person already accepted. If the Doc is empty of facts, Gemini will still write. That paragraph is not a status.
+Google AI Pro at $19.99 is the card that lists Gemini in Gmail and Docs, plus 5 TB of storage, on the October 16 record. Plus at $4.99 is the 2x-usage row. Ultra at $99.99 or $199.99 is a larger usage multiple. You do not need Ultra to format a status sentence. You need the file, and the sentence a person already accepted. If the Doc is empty of facts, Gemini will still write. That paragraph is not a status. Status reports look back; for the forward-looking note where a date must not appear unless you locked it, see [Claude vs Gemini for roadmap notes](/blog/claude-vs-gemini-for-roadmap-notes-2026/). For a brief that rests on sources rather than project status, see [our research brief comparison](/blog/gemini-vs-claude-for-research-briefs-2026/).
 
 Claude is the seat when last week's sentence said "blocked on the vendor" and this week's report is not allowed to say "moving ahead" unless you pasted that change. Put the locked sentence in a Project. If the new fact is missing, the line says Status not set.
 

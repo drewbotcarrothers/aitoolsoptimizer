@@ -11,7 +11,7 @@ draft: false
 
 **A prompt review checklist written with AI is the list of checks a reviewer already requires before a prompt version may be marked allowed.** The model may turn those checks into a list with a yes, a no, or a blank. It may not add a check, soften a no, or mark the prompt allowed. One automated rule, which is a different object, is [what an AI prompt lint rule is](/blog/what-is-ai-prompt-lint-rule-2026/). The note of what changed is [how to create a prompt library changelog with AI](/blog/how-to-create-a-prompt-library-changelog-with-ai-2026/).
 
-The small live trial after the checklist passes is [what an AI prompt canary is](/blog/what-is-ai-prompt-canary-2026/). The permission row is [what an AI prompt registry is](/blog/what-is-ai-prompt-registry-2026/). The checklist is not the registry. It is what the reviewer completes before the row changes.
+The small live trial after the checklist passes is [what an AI prompt canary is](/blog/what-is-ai-prompt-canary-2026/). The permission row is [what an AI prompt registry is](/blog/what-is-ai-prompt-registry-2026/). The checklist is not the registry. It is what the reviewer completes before the row changes. Review before a prompt changes is one gate; review before output ships is another, covered in [the human-in-the-loop checklist](/blog/how-to-create-a-human-in-the-loop-checklist-with-ai-2026/).
 
 Claude's prices are from claude.com/pricing on October 24, 2026. Notion and Cursor prices are from directory pages checked October 16, 2026. ChatGPT's Plus price is from learn.chatgpt.com/docs/pricing on October 24. Published October 24, 2026. We did not score prompts.
 
@@ -43,7 +43,7 @@ A checklist the model completes by itself is a story about the prompt. The revie
 
 **The page the reviewer opens.** [Notion AI](/tools/notion-ai/) Business is $20 a seat a month. One checklist per version. The invoice is [Notion AI pricing explained](/blog/notion-ai-pricing-explained-2026/).
 
-**One list from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds "check for brand voice" if you did not require it. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/).
+**One list from a short paste.** [ChatGPT](/tools/chatgpt/) Plus is $20 a month. Discard a version that adds "check for brand voice" if you did not require it. The ladder is [ChatGPT pricing explained](/blog/chatgpt-pricing-explained-2026/). Each approved review becomes an entry in [the AI prompt changelog](/blog/how-to-create-an-ai-prompt-changelog-with-ai-2026/): the version, the date, and the line that changed.
 
 **A test that encodes one item, if the check is mechanical.** [Cursor](/tools/cursor/) Plus is $8 a month, or $80 a year. You review the diff. The checklist does not merge it. The ladder is [Cursor pricing explained](/blog/cursor-pricing-explained-2026/).
 

@@ -49,7 +49,7 @@ A record the interviewer can check while they fill a scorecard they already wrot
 
 **Otter** is the path when the minute cap is the number you need in writing. The review is [Otter.ai review](/blog/otter-ai-review-2026/).
 
-**Fireflies** is the path when the archive and the seat price are the decision, and you have read that the page does not give you Otter's per-call cap. The product page is [Fireflies.ai review](/blog/fireflies-ai-review-2026/).
+**Fireflies** is the path when the archive and the seat price are the decision, and you have read that the page does not give you Otter's per-call cap. The product page is [Fireflies.ai review](/blog/fireflies-ai-review-2026/). Research interviews are a different job; [Otter vs Fireflies for user research interviews](/blog/otter-vs-fireflies-for-interviews-2026/) covers the 90-minute cap and a searchable archive.
 
 **Fathom** is the other bot if you want the free unlimited-recording claim on that directory card. Premium is $16 a month billed annually. The invoice is [Fathom pricing explained](/blog/fathom-pricing-explained-2026/). The no-bot split is [Granola vs Fathom](/blog/granola-vs-fathom-2026/).
 

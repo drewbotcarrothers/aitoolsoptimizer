@@ -59,7 +59,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not buy Fathom Business because the all-hands is important. Do not run a two-hour all-hands on Otter Pro and expect the 90-minute cap to blink. Do not publish a summary that adds a number from a slide you did not paste. The host accepts the note.
+Do not buy Fathom Business because the all-hands is important. Do not run a two-hour all-hands on Otter Pro and expect the 90-minute cap to blink. Do not publish a summary that adds a number from a slide you did not paste. The host accepts the note. Founders who record the board or investor call can read [Otter vs Fathom for investor updates](/blog/otter-vs-fathom-for-investor-updates-2026/), where the letter stays in a person's words.
 
 ## FAQ
 

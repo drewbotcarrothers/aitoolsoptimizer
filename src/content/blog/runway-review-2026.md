@@ -27,7 +27,7 @@ The wider set is [best AI video generators](/blog/best-ai-video-generators-2026/
 
 The credit math is [Runway pricing explained](/blog/runway-pricing-explained-2026/).
 
-A "52 second" plan can be one shot or several shorter ones. It is not a finished commercial. Retakes spend the same rate again. Third-party models inside Runway, including models Runway has listed such as Seedance, Kling, Nano Banana Pro, and Wan, can spend credits at their own rates. The Gen-4.5 equivalence is the planning number for Gen-4.5, not a promise about every model in the picker.
+A "52 second" plan can be one shot or several shorter ones. It is not a finished commercial. Retakes spend the same rate again. Third-party models inside Runway, including models Runway has listed such as Seedance, Kling, Nano Banana Pro, and Wan, can spend credits at their own rates. The Gen-4.5 equivalence is the planning number for Gen-4.5, not a promise about every model in the picker. The [Gen-4 credit rates](/blog/runway-gen-4-pricing-explained-2026/) show how Standard's 625 credits come to about 52 seconds.
 
 ```mermaid
 flowchart TD

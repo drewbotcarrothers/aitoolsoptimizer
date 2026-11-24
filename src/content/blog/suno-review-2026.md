@@ -53,7 +53,7 @@ A YouTube bed and a song you will release on a streaming store are both "commerc
 
 ## Udio, when you want to edit the song instead of reroll it
 
-[Udio](/tools/udio/) is the other music generator in the directory. Free is 100 credits a month, capped at 10 a day, with up to three 130-second songs a day and 2 simultaneous generations. Standard is $10/month or $8/month billed annually ($96/year) for 2,400 credits, and it unlocks Voices, audio uploads, premium Artist Styles, and editing. Pro is $30/month or $24/month annually ($288/year) for 6,000 credits. Extra credits are 100 for $3 or 1,000 for $25. Student pricing exists. Prices can display in USD, GBP, or EUR.
+[Udio](/tools/udio/) is the other music generator in the directory. Free is 100 credits a month, capped at 10 a day, with up to three 130-second songs a day and 2 simultaneous generations. Standard is $10/month or $8/month billed annually ($96/year) for 2,400 credits, and it unlocks Voices, audio uploads, premium Artist Styles, and editing. Pro is $30/month or $24/month annually ($288/year) for 6,000 credits. Extra credits are 100 for $3 or 1,000 for $25. Student pricing exists. Prices can display in USD, GBP, or EUR. If you are comparing Suno with Udio, [Udio pricing explained](/blog/udio-pricing-explained-2026/) lists the Free, Standard, and Pro tiers.
 
 Udio's strength in our directory notes is section-level control: extend, remix, and edit lyrics and music. **We did not confirm a commercial-rights sentence as clear as Suno's Pro line.** Check Udio's terms before you publish. Do not assume Standard's $10 includes the same rights Suno prints on Pro.
 

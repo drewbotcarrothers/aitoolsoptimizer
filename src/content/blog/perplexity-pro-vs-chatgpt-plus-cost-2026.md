@@ -50,7 +50,7 @@ Plus can search and draft. The research comparison linked above is where to deci
 
 ## When both bills are rational
 
-Pay both when you can name the hour. A founder who checks a market in Perplexity and drafts the memo in ChatGPT is using $204 + $240 = $444 a year at these rates. A founder who only drafts can stay on Plus. A founder who only checks sources can stay on Perplexity Free until the weekly cap hurts, then Pro.
+Pay both when you can name the hour. A founder who checks a market in Perplexity and drafts the memo in ChatGPT is using $204 + $240 = $444 a year at these rates. A founder who only drafts can stay on Plus. A founder who only checks sources can stay on Perplexity Free until the weekly cap hurts, then Pro. For a practical test of the two plans, see [Perplexity vs ChatGPT for travel planning](/blog/perplexity-vs-chatgpt-for-travel-planning-2026/): a citation first, then the day plan.
 
 The market-research workflow is [how to use Perplexity for market research](/blog/how-to-use-perplexity-for-market-research-2026/). The claim check on the memo is [how to fact-check AI writing](/blog/how-to-fact-check-ai-writing-2026/).
 

@@ -48,7 +48,7 @@ Put the file in a Project with instructions: the questions you always ask, and a
 
 A text layer and a photograph of a page are different problems. If the number exists only in a chart, ask for that number and the page. If the answer misses it, you uploaded words, not the figure. That case is [what multimodal RAG is](/blog/what-is-multimodal-rag-2026/).
 
-A spreadsheet total is the same test. The tools aimed at the grid are [best AI for Excel and Google Sheets](/blog/best-ai-for-excel-and-google-sheets-2026/). Claude can outline a CSV you trust. It should not be the system of record for the model.
+A spreadsheet total is the same test. The tools aimed at the grid are [best AI for Excel and Google Sheets](/blog/best-ai-for-excel-and-google-sheets-2026/). Claude can outline a CSV you trust. It should not be the system of record for the model. A roadmap kept in a Google Doc is a common long-document case, and [roadmap notes in Claude or Gemini](/blog/claude-vs-gemini-for-roadmap-notes-2026/) walks through it. When the long file becomes a two-page summary for someone else, see [writing a research brief with Gemini or Claude](/blog/gemini-vs-claude-for-research-briefs-2026/).
 
 For a public web page, neither Claude nor a private notebook is the citation product. [Perplexity](/tools/perplexity/) Pro at $17 a month billed annually ships links. Mixing a private contract into a web search is the mistake. Keep the contract in the Project or the notebook.
 

@@ -11,7 +11,7 @@ draft: false
 
 **[Gemini](/tools/gemini/) is Google's assistant, in the Gemini app and inside Google products.** The paid plans are Google AI subscriptions. On the United States view of Google's subscriptions page, Plus is $4.99 a month, Pro is $19.99 a month, and Ultra starts at $99.99 a month. You are buying usage, models, Flow credits, and storage together. That bundle is the product.
 
-Those dollar amounts were read from the United States view of [gemini.google/subscriptions](https://gemini.google/subscriptions/) on October 24, 2026. Google's footnote says Plus, Pro, and Ultra are available in more than 140 countries, and some benefits are limited by country and to ages 18+. A price in another country, or in a mobile app store, can differ. We did not score Gemini against ChatGPT. The comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/).
+Those dollar amounts were read from the United States view of [gemini.google/subscriptions](https://gemini.google/subscriptions/) on October 24, 2026. Google's footnote says Plus, Pro, and Ultra are available in more than 140 countries, and some benefits are limited by country and to ages 18+. A price in another country, or in a mobile app store, can differ. We did not score Gemini against ChatGPT. The comparison is [ChatGPT vs Gemini vs Claude](/blog/chatgpt-vs-gemini-vs-claude-2026/). Companies buying for a team should read [how Gemini Enterprise is priced](/blog/gemini-enterprise-pricing-explained-2026/), which is not the consumer AI Pro plan.
 
 ## What each US plan lists
 
@@ -48,7 +48,7 @@ Ultra is a capacity and creator plan. The May 19, 2026 Google blog introduced th
 
 ## Who should pay
 
-**Stay on Free** if you have a Google account and the caps are rare. **Pay for Plus** if you want video and more room and you do not need the Pro model row. **Pay for Pro** if Gmail, Docs, and storage are part of the decision. **Pay for Ultra** only after Pro is the blocker, and check which Ultra features are offered in your country. **Skip Gemini** if you do not use Google and you wanted a writing assistant. That is [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/), compared in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/).
+**Stay on Free** if you have a Google account and the caps are rare. **Pay for Plus** if you want video and more room and you do not need the Pro model row. **Pay for Pro** if Gmail, Docs, and storage are part of the decision. **Pay for Ultra** only after Pro is the blocker, and check which Ultra features are offered in your country. **Skip Gemini** if you do not use Google and you wanted a writing assistant. That is [Claude](/tools/claude/) or [ChatGPT](/tools/chatgpt/), compared in [which AI subscription is worth paying for](/blog/which-ai-subscription-is-worth-paying-for/). If you need citations, Microsoft 365, or a plan outside a Google account, see [Gemini alternatives by job](/blog/gemini-alternatives-2026/).
 
 Students choosing a study stack, rather than a storage bundle, should read [best AI tools for students](/blog/best-ai-tools-for-students-2026/).
 

@@ -49,7 +49,7 @@ Spoken narration is [ElevenLabs](/tools/elevenlabs/). Starter is $6 a month and 
 
 ## Udio, if the edit matters more than the rights line
 
-[Udio](/tools/udio/) is the other music generator in the directory. Free is 100 credits a month, capped at 10 a day. Standard is $10 a month, or $8 billed annually ($96 a year), for 2,400 credits. Pro is $30, or $24 annually ($288), for 6,000 credits. Add-on credits are 100 for $3 or 1,000 for $25. Prices can display in USD, GBP, or EUR.
+[Udio](/tools/udio/) is the other music generator in the directory. Free is 100 credits a month, capped at 10 a day. Standard is $10 a month, or $8 billed annually ($96 a year), for 2,400 credits. Pro is $30, or $24 annually ($288), for 6,000 credits. Add-on credits are 100 for $3 or 1,000 for $25. Prices can display in USD, GBP, or EUR. For Suno's closest rival, see [Udio pricing](/blog/udio-pricing-explained-2026/): Standard at $10, or $8 a month billed annually.
 
 Udio's directory note is section-level editing. **A commercial-rights sentence as clear as Suno's Pro line was not confirmed on that check.** Read Udio's terms before you publish. Do not assume Standard's $10 includes the same rights Suno prints on Pro. The voice shelf around both is [best AI voice generators](/blog/best-ai-voice-generators/).
 

@@ -40,7 +40,7 @@ One year of Core at the $9 floor is 12 × $9 = $108. Pro at $16 is 12 × $16 = $
 
 Most module actions use 1 credit. Some AI features use more. Routers and error handlers do not consume credits, on the directory card. A scenario with five billable modules, run 100 times, is 500 credits if each of those modules costs one. Free, at 1,000 credits, covers that twice. The same scenario run 2,000 times is 10,000 credits, which is the Core floor and the entire Free plan ten times over. Filter early so later modules do not run. The directory also records, per 10,000 credits, 5 GB of data transfer, 10 MB of data storage, and a 667-item webhook queue.
 
-Extra credits can be bought in bundles of 1,000 or 10,000. Core, Pro, and Teams can turn on auto-purchasing. Scenarios pause when the pool is empty. Make notifies you at 75% and 90%, on the recorded FAQ. A paused webhook is an incident, not a rounding error.
+Extra credits can be bought in bundles of 1,000 or 10,000. Core, Pro, and Teams can turn on auto-purchasing. Scenarios pause when the pool is empty. Make notifies you at 75% and 90%, on the recorded FAQ. A paused webhook is an incident, not a rounding error. Above Teams, [Make's Enterprise plan](/blog/make-enterprise-pricing-explained-2026/) is quoted, not listed; do not copy the Teams dollar onto it.
 
 The notes also say startups under 20 employees may qualify for 50% off a Business tier. The public ladder recorded here is Free, Core, Pro, Teams, and Enterprise. Confirm which plan that discount applies to before you put 50% in a budget.
 

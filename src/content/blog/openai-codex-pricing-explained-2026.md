@@ -38,7 +38,7 @@ flowchart TD
 
 The docs say ChatGPT Work and Codex share usage. They also say the estimates of local messages per five hours are not fixed limits and depend on model and task size. Check the usage dashboard or `/status` in the CLI. This page does not repeat those ranges as promises.
 
-Fast mode uses included subscription usage at 2.5 times the Standard rate, on the same page. Ultrafast is 8 times for the models the table lists, and Ultrafast access is tied to Pro $500 and eligible Enterprise or Edu plans. Voice in Desktop uses the Codex usage budget at $0.05 a minute, on that page. That is a meter on top of the seat, not a cheaper Codex.
+Fast mode uses included subscription usage at 2.5 times the Standard rate, on the same page. Ultrafast is 8 times for the models the table lists, and Ultrafast access is tied to Pro $500 and eligible Enterprise or Edu plans. Voice in Desktop uses the Codex usage budget at $0.05 a minute, on that page. That is a meter on top of the seat, not a cheaper Codex. For another agent with a $20 and a $200 tier, compare [Devin Desktop's plans](/blog/devin-desktop-pricing-explained-2026/).
 
 The docs page still describes GPT-5.5 retiring from Codex with ChatGPT sign-in on October 14, 2026, at noon PDT. API-key sessions were not affected, in that note. If your account already moved models, the models list in the docs wins over this sentence.
 

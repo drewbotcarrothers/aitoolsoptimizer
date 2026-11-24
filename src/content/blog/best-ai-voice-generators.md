@@ -86,7 +86,7 @@ Annual billing saves up to 35% versus monthly at these published rates. Hobbyist
 
 ## Speechify, for ears rather than microphones
 
-[Speechify](/tools/speechify/) Premium is $29/month on monthly billing, with 1,000+ natural voices and 60+ languages. Free is 10 voices at up to 1.5× speed and text-to-speech only. The company says yearly billing saves 60% versus monthly. Until you see the annual charge, budget the $29 figure or read the checkout total. Speechify is for students and anyone who would rather hear a document. It is not the commercial voiceover stack.
+[Speechify](/tools/speechify/) Premium is $29/month on monthly billing, with 1,000+ natural voices and 60+ languages. Free is 10 voices at up to 1.5× speed and text-to-speech only. The company says yearly billing saves 60% versus monthly. Until you see the annual charge, budget the $29 figure or read the checkout total. Speechify is for students and anyone who would rather hear a document. It is not the commercial voiceover stack. Some of these tools can also change a recorded voice; [speech-to-speech AI, explained](/blog/what-is-speech-to-speech-ai-2026/) covers that audio-in, audio-out workflow.
 
 ## A fit table you can audit
 

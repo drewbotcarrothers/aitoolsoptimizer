@@ -48,7 +48,7 @@ The place a fact is allowed to live after you agree it is [what a system of reco
 
 Keep four columns: date, feature id, the promise, and whether the month passed. Review it when you close the month, next to the cost ledger. A cheaper model that blows the latency promise is not a savings until both numbers are on the same row. That quality check is [what AI eval testing is](/blog/what-is-ai-eval-testing-2026/).
 
-Publish a customer-facing SLA only when a person can explain the measurement. An internal error budget is enough for most teams. This page is not a contract template, and it is not legal advice.
+Publish a customer-facing SLA only when a person can explain the measurement. An internal error budget is enough for most teams. This page is not a contract template, and it is not legal advice. The metric you monitor should match the one in the contract, drafted with [an AI SLA addendum](/blog/how-to-write-an-ai-sla-addendum-with-ai-2026/).
 
 ## FAQ
 

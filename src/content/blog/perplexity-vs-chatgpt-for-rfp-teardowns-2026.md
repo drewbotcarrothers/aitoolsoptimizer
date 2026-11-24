@@ -39,7 +39,7 @@ A teardown that says "we fully comply" has skipped the bid. Compliance is a pers
 
 The requirement id or the heading from the source, the sentence you quoted, and a status you defined: in the paste, not in the paste, or unclear. A status of "easy win" is not a status. Delete it.
 
-**Perplexity Pro** is the public-source path. Free exists with limited weekly usage of top models, on the October 16 card. Open the link and write the date you opened it. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/).
+**Perplexity Pro** is the public-source path. Free exists with limited weekly usage of top models, on the October 16 card. Open the link and write the date you opened it. The invoice is [Perplexity pricing explained](/blog/perplexity-pricing-explained-2026/). Claude is the other common choice for answering from a long RFP; see [Perplexity vs Claude for RFP research](/blog/perplexity-vs-claude-for-rfp-research-2026/).
 
 **ChatGPT Plus** is the closed-document path. Do not turn on a browse that fetches a different RFP and mixes the requirements. Go at $8 a month is on the October 24 plan page. Plus is the seat for a long paste. The review is [ChatGPT review](/blog/chatgpt-review-2026/).
 

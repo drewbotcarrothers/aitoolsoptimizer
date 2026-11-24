@@ -48,7 +48,7 @@ A student who needs a tutor that explains a worked solution, rather than a card 
 
 ## What not to assume
 
-Do not tell a student Plus is "about" any number. Do not assume the teacher plan is monthly. The article says it is annual. Do not assume a Family Plan has a trial. The article says it does not. Do not assume a group purchase renews. The article says it does not.
+Do not tell a student Plus is "about" any number. Do not assume the teacher plan is monthly. The article says it is annual. Do not assume a Family Plan has a trial. The article says it does not. Do not assume a group purchase renews. The article says it does not. Do not assume a language app prints its price either; [Speak pricing explained](/blog/speak-pricing-explained-2026/) shows the dollar only appears in the app.
 
 ## FAQ
 

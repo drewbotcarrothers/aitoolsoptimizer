@@ -46,7 +46,7 @@ flowchart TD
 
 ## What the product is doing
 
-Otter's agent joins the call, or you record in person from the app. You get a live transcript with speakers, highlights, and comments, then a summary and action items. Otter AI Chat answers questions about meetings, inside the monthly query caps above.
+Otter's agent joins the call, or you record in person from the app. You get a live transcript with speakers, highlights, and comments, then a summary and action items. Otter AI Chat answers questions about meetings, inside the monthly query caps above. Teams that outgrow Business can compare [team-friendly Otter alternatives](/blog/otter-alternatives-for-teams-2026/) with a shared library.
 
 Imports are a second meter. Basic allows 3 lifetime imports per user. Pro allows 10 a month. Business includes up to 6,000 imported minutes per user each month. A backlog of old recordings is a Business problem, or a different tool, even if live meetings fit on Pro.
 

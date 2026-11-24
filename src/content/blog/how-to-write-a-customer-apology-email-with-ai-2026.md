@@ -53,7 +53,7 @@ A prompt that holds the line:
 
 ## What not to delegate
 
-Do not ask the model why the incident happened. Do not let it offer a credit "to be safe." Do not send a note to every customer because the draft said "we value all of our users." The segment is a field you fill. A security questionnaire that asks what you told customers is a later file, answered from the sent note, not from the model's first draft. That workflow is [how to write a security questionnaire response with AI](/blog/how-to-write-a-security-questionnaire-response-with-ai-2026/).
+Do not ask the model why the incident happened. Do not let it offer a credit "to be safe." Do not send a note to every customer because the draft said "we value all of our users." The segment is a field you fill. A security questionnaire that asks what you told customers is a later file, answered from the sent note, not from the model's first draft. That workflow is [how to write a security questionnaire response with AI](/blog/how-to-write-a-security-questionnaire-response-with-ai-2026/). Customers who want more detail than an apology can get it from [a post-incident FAQ](/blog/how-to-write-a-post-incident-faq-with-ai-2026/) that adds no invented causes.
 
 ## FAQ
 
