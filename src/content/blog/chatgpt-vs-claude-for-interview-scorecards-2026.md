@@ -9,11 +9,11 @@ sample: false
 draft: false
 ---
 
-**Use Claude when the scorecard has to follow a rubric that already lives in a Project. Use ChatGPT when you are filling one candidate's form from notes you paste.** The model may format the rows. It may not invent a score, a competency, or a reason the notes do not contain. A blank cell stays blank. This page is not hiring advice, and it does not rank candidates.
+**Use Claude when the scorecard has to follow a rubric that already lives in a Project. Use ChatGPT when you are filling one candidate's form from notes you paste.** The model may format the rows. It may not invent a score, a competency, or a reason the notes do not contain. A blank cell stays blank. This page is not hiring advice, and it does not rank candidates. The scorecard should test the same requirements the posting named, so draft that first with [Claude or ChatGPT for the job description](/blog/claude-vs-chatgpt-for-job-descriptions-2026/).
 
 The short bullets on a resume, which are a different document, are [ChatGPT vs Gemini for resume bullets](/blog/chatgpt-vs-gemini-for-resume-bullets-2026/). The place the accepted form lives is [what a system of record for AI is](/blog/what-is-a-system-of-record-for-ai-2026/).
 
-Claude's prices are from claude.com/pricing on October 24, 2026. ChatGPT, Notion, and Grammarly prices are from directory pages checked October 16, 2026. chatgpt.com/pricing returned HTTP 403 on October 24. Published October 24, 2026. We did not score interview writeups. The scorecard should test the same requirements the posting named, so draft that first with [Claude or ChatGPT for the job description](/blog/claude-vs-chatgpt-for-job-descriptions-2026/).
+Claude's prices are from claude.com/pricing on October 24, 2026. ChatGPT, Notion, and Grammarly prices are from directory pages checked October 16, 2026. chatgpt.com/pricing returned HTTP 403 on October 24. Published October 24, 2026. We did not score interview writeups.
 
 ## Which seat matches the form
 

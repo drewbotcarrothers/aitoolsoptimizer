@@ -9,9 +9,9 @@ sample: false
 draft: false
 ---
 
-**Use Perplexity when the tearsheet needs a public fact with a citation you can open. Use ChatGPT when you are laying out a one-page sheet from facts a person already accepted.** The model may format a row. It may not invent a price, a customer logo, or a feature the source does not state. The longer narrative is [how to write a competitive positioning brief with AI](/blog/how-to-write-a-competitive-positioning-brief-with-ai-2026/). Checking a single claim is [Perplexity vs ChatGPT for fact checks](/blog/perplexity-vs-chatgpt-for-fact-checks-2026/).
+**Use Perplexity when the tearsheet needs a public fact with a citation you can open. Use ChatGPT when you are laying out a one-page sheet from facts a person already accepted.** The model may format a row. It may not invent a price, a customer logo, or a feature the source does not state. The longer narrative is [how to write a competitive positioning brief with AI](/blog/how-to-write-a-competitive-positioning-brief-with-ai-2026/). Checking a single claim is [Perplexity vs ChatGPT for fact checks](/blog/perplexity-vs-chatgpt-for-fact-checks-2026/). If your team works in Google Workspace, compare [Perplexity and Gemini for competitive intel](/blog/perplexity-vs-gemini-for-competitive-intel-2026/).
 
-Perplexity and ChatGPT prices are from directory pages checked October 16, 2026. perplexity.ai/pro and chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace those cards. Notion's price is from the same October 16 record. Claude's Pro price is from claude.com/pricing on October 24. Published October 24, 2026. We did not score competitive wins. If your team works in Google Workspace, compare [Perplexity and Gemini for competitive intel](/blog/perplexity-vs-gemini-for-competitive-intel-2026/).
+Perplexity and ChatGPT prices are from directory pages checked October 16, 2026. perplexity.ai/pro and chatgpt.com/pricing returned HTTP 403 on October 24, so this page does not replace those cards. Notion's price is from the same October 16 record. Claude's Pro price is from claude.com/pricing on October 24. Published October 24, 2026. We did not score competitive wins.
 
 ## Which seat matches the sheet
 

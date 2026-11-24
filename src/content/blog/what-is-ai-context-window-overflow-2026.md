@@ -11,9 +11,9 @@ draft: false
 
 **AI context window overflow is what you get when the prompt, the files attached to it, and the reply the model still has to write no longer fit in one request.** The product then drops text, summarizes it, or errors. If you did not choose which of those happens, the model will choose by omission, and the answer will ignore the page you needed.
 
-The limit itself is [what a context window is](/blog/what-is-a-context-window-2026/). The pattern that fetches a few passages instead of pasting the corpus is [what RAG is](/blog/what-is-rag-explained-2026/). The cut of a long file before it is stored for that search is [what vector chunking is](/blog/what-is-vector-chunking-2026/). A wrong answer that sounds specific, which overflow can cause and other bugs can cause too, is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/).
+The limit itself is [what a context window is](/blog/what-is-a-context-window-2026/). The pattern that fetches a few passages instead of pasting the corpus is [what RAG is](/blog/what-is-rag-explained-2026/). The cut of a long file before it is stored for that search is [what vector chunking is](/blog/what-is-vector-chunking-2026/). A wrong answer that sounds specific, which overflow can cause and other bugs can cause too, is [what an AI hallucination is](/blog/what-is-ai-hallucination-2026/). One way to prevent overflow is [reserving tokens for the reply](/blog/what-is-ai-context-window-reservation-2026/) before you pack the prompt.
 
-Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not invent a token count. Where this site has recorded a figure, it lives on the context-window explainer. We did not measure how each product truncates. One way to prevent overflow is [reserving tokens for the reply](/blog/what-is-ai-context-window-reservation-2026/) before you pack the prompt.
+Prices are US list prices excluding tax from directory pages checked October 16, 2026. Published October 24, 2026. This page does not invent a token count. Where this site has recorded a figure, it lives on the context-window explainer. We did not measure how each product truncates.
 
 ## What overflow looks like in the product
 

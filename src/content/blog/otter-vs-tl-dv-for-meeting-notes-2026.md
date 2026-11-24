@@ -13,7 +13,7 @@ draft: false
 
 The notetaker shelf is [best AI meeting notetakers](/blog/best-ai-meeting-notetakers/). The Otter invoice is [Otter.ai pricing explained](/blog/otter-ai-pricing-explained-2026/). The agenda you should have had first is [how to create meeting agendas with AI](/blog/how-to-create-meeting-agendas-with-ai-2026/).
 
-Prices are from directory pages checked October 16, 2026. Otter's figures are USD. tl;dv's paid figures were shown to the directory in Canadian dollars, and the directory says USD was not confirmed. A live fetch of the tl;dv pricing page returned HTTP 401 on October 24, 2026, so this page does not invent a USD conversion. Published October 24, 2026. We did not score transcription accuracy. For tl;dv's plan prices, listed in euros, see [tl;dv pricing explained](/blog/tl-dv-pricing-explained-2026/).
+Prices are from directory pages checked October 16, 2026. Otter's figures are USD. tl;dv's paid figures were shown to the directory in Canadian dollars, and the directory says USD was not confirmed. A live fetch of the tl;dv pricing page returned HTTP 401 on October 24, 2026, so this page does not invent a USD conversion. Published October 24, 2026. We did not score transcription accuracy.
 
 ## Which seat matches the note
 
@@ -46,7 +46,7 @@ Words from the transcript, a decision you can timestamp, and an owner who was in
 
 **Otter Pro** is the paid path when the annual USD math is the reason you can approve the seat. The review is [Otter.ai review](/blog/otter-ai-review-2026/).
 
-**tl;dv Free** is the path when you need the recording more than the AI note, and ten AI notes are enough to test. Paid tl;dv is a checkout decision in the currency the page shows you. The directory could not confirm USD.
+**tl;dv Free** is the path when you need the recording more than the AI note, and ten AI notes are enough to test. Paid tl;dv is a checkout decision in the currency the page shows you. The directory could not confirm USD. For tl;dv's plan prices, listed in euros, see [tl;dv pricing explained](/blog/tl-dv-pricing-explained-2026/).
 
 **[Fireflies](/tools/fireflies-ai/)** Pro is $10 a user a month billed annually, or $18 monthly, when that product is the one already in the room. The invoice is [Fireflies pricing explained](/blog/fireflies-pricing-explained-2026/). It is not required to choose between Otter and tl;dv.
 
