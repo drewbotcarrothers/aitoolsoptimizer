@@ -21,6 +21,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/SQyZMoHGRkQ" title="Google Just Changed How AI Agents Reach Gmail" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Why is Google making AI agents use MCP to reach Gmail and Drive?
 
 **Short answer:** Google wants every AI agent that touches Workspace data to come through its own governed door. On Nov 24, Google made **Workspace MCP servers** and the official **Workspace CLI** generally available. The Google-hosted MCP servers give cloud and web-based agents ready-made tools for **Gmail, Drive, Docs, Sheets, Slides, Calendar, Chat and Tasks** (Keep is coming soon). The CLI does the same for terminal-based agents in developer terminals, VMs and sandboxes.
