@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 25, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-25/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-25/</guid>
+      <pubDate>Wed, 25 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Google will make AI agents use MCP for Gmail, Drive and Workspace data from Feb 1; OpenAI’s GPT-6 designs proteins that bound in the lab; Claude artifacts install as desktop apps; Skills over MCP; OpenAI tests Private Inference; Midjourney Niji 8.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 24, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-24/</link>
