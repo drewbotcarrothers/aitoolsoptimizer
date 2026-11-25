@@ -22,6 +22,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/yqkSLTWsYKw" title="GPT-6.2 Is Now in ChatGPT Chat: What Changed" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## What changed in ChatGPT’s Chat tab with GPT-6.2?
 
 **Short answer:** Your everyday chats on a paid plan now use a chat-tuned version of GPT-6.2 Sol. On Nov 23, OpenAI started rolling it out globally in the **Chat tab** for **Plus, Pro, Business and Enterprise**. A week earlier, GPT-6.2 had launched only in ChatGPT Work, Codex and the API ([our Nov 17 roundup](/blog/ai-news-roundup-2026-11-17/)). OpenAI says it is better at detailed instructions and web research, such as weighing hotels by price and location, and at knowing when to follow up, like offering to tell you when a price drops.
@@ -36,7 +40,7 @@ draft: false
 
 Enterprise access depends on admin settings, and the models in Work and Codex aren’t changing. MacRumors notes GPT-6.2 isn’t available on the Free and Go plans. 9to5Mac reports that OpenAI will retire **GPT-5.6 Sol** from Chat, Work and Codex on **Dec 23**, and **GPT-5.6 Terra** from Work and Codex the same day. On Nov 24, OpenAI also pointed the API’s `chat-latest` snapshot at the newest ChatGPT model, while recommending the GPT-6.2 family for production apps.
 
-**Why it matters to you:** If you pay for [ChatGPT](/tools/chatgpt/), your default chats got the newer model without any switching, and the biggest jump is in reading photos (labels, signs, screenshots). The scores are OpenAI’s internal tests, so check them on your own tasks. If a workflow depends on GPT-5.6 Sol, you have until Dec 23. Developers pay **$2 / $10** per million tokens for GPT-6.2 Sol in the API (see our [models page](/models/)).
+**Why it matters to you:** If you pay for [ChatGPT](/tools/chatgpt/), your default chats got the newer model without any switching, and the biggest jump is in reading photos (text on a label, symbols on a sign). The scores are OpenAI’s internal tests, so check them on your own tasks. If a workflow depends on GPT-5.6 Sol, you have until Dec 23. Developers pay **$2 / $10** per million tokens for GPT-6.2 Sol in the API (see our [models page](/models/)).
 
 **Sources:** [OpenAI Help Center: ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [9to5Mac](https://9to5mac.com/2026/11/23/chatgpt-expands-gpt-6-2-sol-as-openai-sets-retirement-date-for-two-models/) · [MacRumors](https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/) · [OpenAI API changelog](https://developers.openai.com/api/docs/changelog)
 
