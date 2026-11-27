@@ -22,6 +22,10 @@ draft: false
 
 ---
 
+<div class="video-embed" style="position:relative;width:100%;max-width:960px;aspect-ratio:16/9;margin:1.5rem 0;border-radius:12px;overflow:hidden;background:#000;">
+  <iframe src="https://www.youtube-nocookie.com/embed/zWOmHJ1_BkY" title="ChatGPT Limits Now Run Out 40% Faster" style="position:absolute;inset:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Why will ChatGPT users hit GPT-6.2 limits sooner?
 
 **Short answer:** OpenAI says it undercharged by mistake, and has now fixed it. Late on Nov 25 (US time), OpenAI’s head of Codex, Thibault Sottiaux, said on X that a billing mistake at the GPT-6.2 launch “incorrectly discounted GPT-6.2 Astra and Sol usage for most users.” With the fix, “the same work will use more of your plan’s usage allowance.”
