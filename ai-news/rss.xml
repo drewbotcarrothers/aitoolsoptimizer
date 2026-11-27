@@ -6,7 +6,14 @@
     <atom:link href="https://aitoolsoptimizer.com/ai-news/rss.xml" rel="self" type="application/rss+xml" />
     <description>Daily AI news roundups from AI Tools Optimizer.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:30:00 GMT</lastBuildDate>
+    <item>
+      <title>AI News Roundup – November 27, 2026</title>
+      <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-27/</link>
+      <guid isPermaLink="true">https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-27/</guid>
+      <pubDate>Fri, 27 Nov 2026 20:30:00 GMT</pubDate>
+      <description>Today’s AI news: Reuters says chip curbs and a distillation crackdown are delaying Z.ai’s GLM-5.5 and Moonshot’s Kimi K4; Nvidia reportedly halts server shipments to four Southeast Asian countries; Microsoft on the ARTEX AI attack framework; Tencent’s open DFly2; Kimi for Science credits; Huawei’s HBM design.</description>
+    </item>
     <item>
       <title>AI News Roundup – November 26, 2026</title>
       <link>https://aitoolsoptimizer.com/blog/ai-news-roundup-2026-11-26/</link>
